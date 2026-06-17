@@ -1,0 +1,12 @@
+col_0,col_1,N,(%),Valid (%)
+Valid,01: People/protestors,234,57.2,85.7
+,02: Civil Society,10,2.3,3.5
+,03: Students,1,.4,.5
+,04: Protests by political parties (generally),7,1.8,2.7
+,06: Congress/Congress leaders,7,1.6,2.4
+,08: BJP,4,.9,1.4
+,25: Others,3,.7,1.0
+,98: No response,7,1.8,2.7
+,Total,273,66.7,100.0
+Missing,99: NA,136,33.3,
+Total,,409,100.0,

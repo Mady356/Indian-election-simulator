@@ -1,0 +1,13 @@
+strategy,hr_key_column,ge_key_column,hr_unique_count,ge_unique_count,matched_clusters,match_rate_pct,hr_key_min,hr_key_max,ge_key_min,ge_key_max,hr_key_sample,ge_key_sample,notes
+state_prefix_hv024_x1000_plus_hv001,hv024+hv001,DHSCLUST,3850,30197,1629,42.31,2001,66214,101,93242,"[2001, 2002, 2003, 2004, 2005]","[101, 102, 103, 104, 105]",Composite HR key = hv024 * 1000 + hv001
+raw,hv001,DHSCLUST,3850,30197,1613,41.9,1001,33214,101,93242,"[1001, 1002, 1003, 1004, 1005]","[101.0, 102.0, 103.0, 104.0, 105.0]",Use HR key unchanged
+hr_as_string,hv001,DHSCLUST,3850,30197,1613,41.9,,,,,"['10001', '10002', '10003', '10004', '10005']","['10001', '10002', '10003', '10004', '10005']",HR key cast to string
+ge_floor_div_10,hv001,DHSCLUST,3850,30197,1613,41.9,1001,33214,101,93242,"[1001, 1002, 1003, 1004, 1005]","[101.0, 102.0, 103.0, 104.0, 105.0]",Match GE floor(key/10) to HR (transform applied on GE side)
+ge_floor_div_10,hv001,DHSCLUST,3850,3535,446,11.58,1001,33214,101,93242,"[1001, 1002, 1003, 1004, 1005]","[10, 11, 12, 13, 14]",Transform GE DHSCLUST with floor(key/10) before joining to HR
+ge_remove_trailing_digit,hv001,DHSCLUST,3850,3535,446,11.58,1001,33214,101,93242,"[1001, 1002, 1003, 1004, 1005]","[10, 11, 12, 13, 14]",Remove trailing digit from GE key (integer division by 10)
+hr_times_10_plus_1,hv001,DHSCLUST,3850,30197,443,11.51,10011,332141,101,93242,"[10011, 10021, 10031, 10041, 10051]","[101.0, 102.0, 103.0, 104.0, 105.0]",HR key * 10 + 1 (GE often ends in 1)
+hr_times_10,hv001,DHSCLUST,3850,30197,357,9.27,10010,332140,101,93242,"[10010, 10020, 10030, 10040, 10050]","[101.0, 102.0, 103.0, 104.0, 105.0]",HR key * 10 (pad cluster to GE width)
+hr_times_10_vs_raw_ge,hv001,DHSCLUST,3850,30197,357,9.27,10010,332140,101,93242,"[10010, 10020, 10030, 10040, 10050]","[101.0, 102.0, 103.0, 104.0, 105.0]",HR hv001 * 10 joined to raw GE DHSCLUST
+state_prefix_hv024_x10000_plus_hv001,hv024+hv001,DHSCLUST,3850,30197,228,5.92,11001,363214,101,93242,"[11001, 11002, 11003, 11004, 11005]","[101, 102, 103, 104, 105]",Composite HR key = hv024 * 10000 + hv001
+hv021_raw,hv021,DHSCLUST,0,30197,0,0.0,,,101,93242,[],"[101.0, 102.0, 103.0, 104.0, 105.0]",Alternate PSU/cluster column hv021
+state_prefix_hv024_x100000_plus_hv001,hv024+hv001,DHSCLUST,3850,30197,0,0.0,101001,3333214,101,93242,"[101001, 101002, 101003, 101004, 101005]","[101, 102, 103, 104, 105]",Composite HR key = hv024 * 100000 + hv001

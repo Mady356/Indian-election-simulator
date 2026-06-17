@@ -1,0 +1,31 @@
+year,geography_level,state,voter_group_type,voter_group,party_or_alliance,pre_rows_available,post_rows_available,matched_status,notes
+2019,national,,age,,INC,0,1,pre_missing,no pre-poll row for join key
+2019,national,,age,,INDIA,1,0,post_missing,no post-poll row for join key
+2019,national,,age,,NDA,0,1,pre_missing,no pre-poll row for join key
+2019,national,,age,,Regional,0,1,pre_missing,no pre-poll row for join key
+2019,national,,age,,UPA,0,1,pre_missing,no pre-poll row for join key
+2019,national,,caste,,Regional,1,0,post_missing,no post-poll row for join key
+2019,national,,caste,Valid,Regional,0,1,pre_missing,no pre-poll row for join key
+2019,national,,gender,,BJP,1,0,post_missing,no post-poll row for join key
+2019,national,,gender,,INC,0,1,pre_missing,no pre-poll row for join key
+2019,national,,gender,,INDIA,1,1,clean_one_to_one,
+2019,national,,gender,,NDA,1,0,post_missing,no post-poll row for join key
+2019,national,,gender,,UPA,1,0,post_missing,no post-poll row for join key
+2019,national,,other,Valid,Others,0,1,pre_missing,no pre-poll row for join key
+2019,national,,religion,,NDA,1,1,clean_one_to_one,
+2019,national,,religion,,Regional,1,0,post_missing,no post-poll row for join key
+2019,national,,religion,Valid,INDIA,0,1,pre_missing,no pre-poll row for join key
+2024,national,,age,,BJP,1,0,post_missing,no post-poll row for join key
+2024,national,,age,,NDA,0,1,pre_missing,no pre-poll row for join key
+2024,national,,age,,Others,1,0,post_missing,no post-poll row for join key
+2024,national,,caste,,BJP,1,0,post_missing,no post-poll row for join key
+2024,national,,caste,,INC,0,1,pre_missing,no pre-poll row for join key
+2024,national,,caste,,NDA,1,0,post_missing,no post-poll row for join key
+2024,national,,gender,,INC,1,0,post_missing,no post-poll row for join key
+2024,national,,gender,,NDA,1,1,clean_one_to_one,
+2024,national,,gender,Valid,INDIA,1,0,post_missing,no post-poll row for join key
+2024,national,,other,Valid,Others,1,0,post_missing,no post-poll row for join key
+2024,national,,region,,Others,1,0,post_missing,no post-poll row for join key
+2024,national,,religion,,INC,1,0,post_missing,no post-poll row for join key
+2024,national,,religion,,INDIA,1,0,post_missing,no post-poll row for join key
+2024,national,,religion,,Regional,0,1,pre_missing,no pre-poll row for join key

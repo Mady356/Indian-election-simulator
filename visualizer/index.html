@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>India Election + Demographics Visualizer</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="app-header">
+      <div>
+        <h1>India Election + Demographics Visualizer</h1>
+        <p>State-first election analysis with district Census drilldowns.</p>
+      </div>
+      <div class="header-actions">
+        <label for="stateSelect">State</label>
+        <select id="stateSelect"></select>
+      </div>
+    </header>
+
+    <main class="app-shell">
+      <aside class="sidebar">
+        <section class="panel">
+          <h2>Layer</h2>
+          <div class="control-group">
+            <label for="metricSelect">Metric</label>
+            <select id="metricSelect"></select>
+          </div>
+          <div class="legend" id="legend"></div>
+        </section>
+
+        <section class="panel">
+          <h2>DHS Clusters</h2>
+          <div class="control-group">
+            <label class="checkbox-row">
+              <input id="showDhsClusters" type="checkbox">
+              Show DHS clusters
+            </label>
+            <label for="dhsColorMode">Color by</label>
+            <select id="dhsColorMode">
+              <option value="urban_rural">Urban / rural</option>
+              <option value="survey">Survey round</option>
+            </select>
+          </div>
+          <p class="dhs-note">GPS points are displaced and not exact household locations.</p>
+          <div id="dhsMap" class="dhs-map hidden" aria-label="DHS cluster map"></div>
+          <div id="dhsLegend" class="dhs-legend hidden"></div>
+        </section>
+
+        <section class="panel">
+          <h2>Coverage</h2>
+          <div id="coverageList" class="coverage-list"></div>
+        </section>
+      </aside>
+
+      <section class="workspace">
+        <section class="map-section">
+          <div class="section-title">
+            <div>
+              <h2>State View</h2>
+              <p>Grid cartogram. Add GeoJSON later for true boundaries.</p>
+            </div>
+            <div class="segmented" role="tablist" aria-label="View mode">
+              <button id="gridMode" class="active" type="button">Grid</button>
+              <button id="tableMode" type="button">Table</button>
+            </div>
+          </div>
+          <div id="mapGrid" class="map-grid" aria-label="State metric grid"></div>
+          <div id="stateTableWrap" class="table-wrap hidden"></div>
+        </section>
+
+        <section class="detail-grid">
+          <article class="panel state-panel">
+            <h2 id="selectedStateName">State</h2>
+            <div id="stateSummary" class="summary-grid"></div>
+          </article>
+
+          <article class="panel">
+            <h2>Election Signals</h2>
+            <div id="electionSignals" class="signal-list"></div>
+          </article>
+        </section>
+
+        <section class="detail-grid">
+          <article class="panel">
+            <div class="section-title compact">
+              <div>
+                <h2>Districts</h2>
+                <p>District-level Census 2011 PCA metrics.</p>
+              </div>
+              <label class="inline-control">
+                Sort
+                <select id="districtSort"></select>
+              </label>
+            </div>
+            <div id="districtTable" class="table-wrap"></div>
+          </article>
+
+          <article class="panel">
+            <div class="section-title compact">
+              <div>
+                <h2>Party Swings</h2>
+                <p>State-party average swings from 2019 to 2024.</p>
+              </div>
+              <label class="inline-control">
+                Min seats
+                <input id="minSeats" type="number" min="0" step="1" value="0">
+              </label>
+            </div>
+            <div id="partyTable" class="table-wrap"></div>
+          </article>
+        </section>
+
+        <section class="panel">
+          <div class="section-title compact">
+            <div>
+              <h2>Constituency Analysis</h2>
+              <p>2019-2024 winner comparison and volatility.</p>
+            </div>
+            <label class="inline-control">
+              Show
+              <select id="constituencyFilter">
+                <option value="all">All seats</option>
+                <option value="flipped">Flipped seats</option>
+                <option value="close">Close seats (&le; 5%)</option>
+              </select>
+            </label>
+          </div>
+          <div id="constituencyTable" class="table-wrap"></div>
+        </section>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

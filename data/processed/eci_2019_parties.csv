@@ -1,0 +1,678 @@
+srno,party_type,abbreviation,party_symbol,party_name,year
+1,N,AITC,Flowers and Grass,All India Trinamool Congress,2019
+2,N,BJP,Lotus,Bharatiya Janata Party,2019
+3,N,BSP,Elephant,Bahujan Samaj Party,2019
+4,N,CPI,Ears of Corn And Sickle,Communist Party of India,2019
+5,N,CPIM,"Hammer, Sickle and Star",Communist Party of India  (Marxist),2019
+6,N,INC,Hand,Indian National Congress,2019
+7,N,NCP,Clock,Nationalist Congress Party,2019
+8,S,AAAP,Broom,Aam Aadmi Party,2019
+9,S,ADMK,Two Leaves,All India Anna Dravida Munnetra Kazhagam,2019
+10,S,AGP,Elephant,Asom Gana Parishad,2019
+11,S,AIFB,Lion,All India Forward Bloc,2019
+12,S,AIMIM,Kite,All India Majlis-E-Ittehadul Muslimeen,2019
+13,S,AINRC,Jug,All India N.R. Congress,2019
+14,S,AIUDF,Lock and Key,All India United Democratic Front,2019
+15,S,AJSUP,Banana,AJSU Party,2019
+16,S,BJD,Conch,Biju Janata Dal,2019
+17,S,BLSP,Ceiling Fan,Rashtriya Lok Samta Party,2019
+18,S,BOPF,Nangol,Bodoland Peoples Front,2019
+19,S,DMDK,Nagara,Desiya Murpokku Dravida Kazhagam,2019
+20,S,DMK,Rising Sun,Dravida Munnetra Kazhagam,2019
+21,S,INLD,Spectacles,Indian National Lok Dal,2019
+22,S,IPFT,Dao,Indigenous People's Front of Tripura,2019
+23,S,IUML,"Ladder,Auto- Rickshaw,Gas Cylinder",Indian Union Muslim League,2019
+24,S,JD(S),A lady farmer carrying paddy on her head,Janata Dal  (Secular),2019
+25,S,JD(U),"Air Conditioner,Arrow",Janata Dal  (United),2019
+26,S,JKN,Plough,Jammu & Kashmir National Conference,2019
+27,S,JKNPP,"Bicycle,Cot",Jammu & Kashmir National Panthers Party,2019
+28,S,JKPDP,Ink Pot & Pen,Jammu & Kashmir Peoples Democratic Party,2019
+29,S,JMM,"Almirah,Lady Purse,Bow & Arrow,FLUTE,Football,Auto- Rickshaw,Throwing a Javelin",Jharkhand Mukti Morcha,2019
+30,S,JVM,Comb,Jharkhand Vikas Morcha (Prajatantrik),2019
+31,S,KEC(M),Two Leaves,Kerala Congress  (M),2019
+32,S,LJP,Bungalow,Lok Jan Shakti Party,2019
+33,S,MNF,Star,Mizo National Front,2019
+34,S,NDPP,Globe,Nationalist Democratic Progressive Party,2019
+35,S,NPEP,Book,National People's Party,2019
+36,S,NPF,Cock,Naga Peoples Front,2019
+37,S,PMK,Mango,Pattali Makkal Katchi,2019
+38,S,PPA,Maize,People's Party of Arunachal,2019
+39,S,RJD,Hurricane Lamp,Rashtriya Janata Dal,2019
+40,S,RLD,Hand Pump,Rashtriya Lok Dal,2019
+41,S,RSP,Spade & Stoker,Revolutionary Socialist Party,2019
+42,S,SAD,Scales,Shiromani Akali Dal,2019
+43,S,SDF,Umbrella,Sikkim Democratic Front,2019
+44,S,SHS,"Bow & Arrow,Bow and Arrow,Bead Necklace,Air Conditioner,Sewing Machine,Throwing a Javelin,Key,Ganna Kisan,Cauliflower,Bricks,Basket containing Fruits,FLUTE,Cup & Saucer",Shivsena,2019
+45,S,SKM,Table Lamp,Sikkim Krantikari Morcha,2019
+46,S,SP,"Bicycle,Tractor Chalata Kisan,Helicopter,Air Conditioner",Samajwadi Party,2019
+47,S,TDP,Bicycle,Telugu Desam,2019
+48,S,TRS,Car,Telangana Rashtra Samithi,2019
+49,S,UDP,Drum,United Democratic Party,2019
+50,S,YSRCP,Ceiling Fan,Yuvajana Sramika Rythu Congress Party,2019
+51,U,AABHAP,Balloon,Aajad Bharat Party (Democratic),2019
+52,U,AACP,Batsman,Adarshwaadi Congress Party,2019
+53,U,AAHPty,Apple,Aap Aur Hum Party,2019
+54,U,AAM,CHAPATI ROLLER,Aam Adhikar Morcha,2019
+55,U,AAPP,Battery torch,Aapki Apni Party (Peoples),2019
+56,U,ABD,Neck Tie,Adim Bhartiya Dal,2019
+57,U,ABEP,Man Blowing Turha,Akhil Bhartiya Ekata Party,2019
+58,U,ABGP,"Battery torch,Saw",Akhil Bhartiya Gondwana Party,2019
+59,U,ABHM,"DIAMOND,Auto- Rickshaw,Plate Containing Food",Akhil Bharat Hindu Mahasabha,2019
+60,U,ABHP,Ear Rings,Adhunik Bharat Party,2019
+61,U,ABHS,Gas Cylinder,Akhil Bharatiya Sena,2019
+62,U,ABJS,"Battery torch,Tractor Chalata Kisan,Key,Helicopter,Ganna Kisan",Akhil Bharatiya Jan Sangh,2019
+63,U,ABLP,Pot,Akhil Bhartiya Lok Dal,2019
+64,U,ABML(S),"Tractor Chalata Kisan,Bat",Akhil Bharatiya Muslim League (Secular),2019
+65,U,ABMP,"Pen Nib with Seven Rays,Kettle",Akhil Bharatiya Manavata Paksha,2019
+66,U,ABNNP,Tea Filter,Akhil Bhartiya Navnirman Party,2019
+67,U,ABSKP,Plastering Trowel,Akhil Bharat Samagra Kranti Party,2019
+68,U,ABSSP,Bat,Akhil Bhartiya Sarvadharma Samaj Party,2019
+69,U,ACDP,Jackfruit,Anti Corruption Dynamic Party,2019
+70,U,ACP,Tooth Brush,Andhra Chaitanya Party,2019
+71,U,ADAL,Cup & Saucer,Apna Dal (Soneylal),2019
+72,U,ADPT,"Pressure Cooker,Balloon",Apna Desh Party,2019
+73,U,ADRP,Auto- Rickshaw,Assam Dristi Party,2019
+74,U,ADRSP,Walking Stick,Adarsh Samaj Party,2019
+75,U,ADUP,Tractor Chalata Kisan,Apna Dal United Party,2019
+76,U,AgIMK,BUCKET,Agila India Makkal Kazhagam,2019
+77,U,AHFBK,CHESS BOARD,Akhil Hind Forward Bloc (Krantikari),2019
+78,U,AHIMSASP,HOCKEY & BALL,Ahimsa Socialist Party,2019
+79,U,AHNP,CHAPATI ROLLER,Aihra National Party,2019
+80,U,aicp,"CCTV Camera,Auto- Rickshaw",New All India Congress Party,2019
+81,U,AIDMMK,Balloon,Ahila India Dhayaga Makkal Munnetra Katchi,2019
+82,U,AIJAP,Matchbox,All India Jana Andolan Party,2019
+83,U,AIMAK,Auto- Rickshaw,Anaithu Makkal Katchi,2019
+84,U,AIMF,"DIAMOND,Ganna Kisan,Air Conditioner",All India Minorities Front,2019
+85,U,AINHCP,"Tractor Chalata Kisan,Telephone",All India Hindustan Congress Party,2019
+86,U,AINPP,Boat with Man and Sail,All India Praja Party,2019
+87,U,AIP,T.V. Remote,All Indians Party,2019
+88,U,AIPF,Cot,All India Peoples' Front (Radical),2019
+89,U,AIPTMMK,Capsicum,All  India Puratchi Thalaivar Makkal Munnettra Kazhagam,2019
+90,U,AIRCP,Television,All Indian Rajiv Congress Party,2019
+91,U,AIUC,Pen Nib with Seven Rays,All India Ulama Congress,2019
+92,U,AIUUK,COCONUT FARM,All India Uzhavargal Uzhaippalargal Katchi,2019
+93,U,AIVP,Key,Akila India Vallalar Peravai,2019
+94,U,AJM,Cup & Saucer,Asom Jana Morcha,2019
+95,U,AJNSP,Tractor Chalata Kisan,Aadarsh Janata Sewa Party,2019
+96,U,AJPI,Helicopter,Aam Janta Party (India),2019
+97,U,AJPR,"Camera,Helicopter",Aam Janta Party Rashtriya,2019
+98,U,AKBHAD,"Cup & Saucer,Scissors",Akhil Bhartiya Apna Dal,2019
+99,U,AKBJHP,Football,Akhil Bhartiya Jharkhand Party,2019
+100,U,AKBMP,DIAMOND,Akhil Bhartiya Mithila Party,2019
+101,U,AKHP,Helicopter,Akhand Hind Party,2019
+102,U,AKSP,Pants,Akhand Samaj Party,2019
+103,U,ALHP,Green Chilli,Al-Hind Party,2019
+104,U,ALINLBP,Glass Tumbler,All India Labour Party,2019
+105,U,ALoP,"Apple,Battery Torch",Aasra Lokmanch Party,2019
+106,U,AlPP,Cot,All Peoples Party,2019
+107,U,AMB,"Camera,Battery torch,COMPUTER,Boat with Man and Sail,BUCKET",Amra Bangalee,2019
+108,U,AMiP,"Helicopter,T.V. Remote",Aadarsh Mithila Party,2019
+109,U,AMKP,Telephone,Azad Mazdoor Kissan Party,2019
+110,U,AMPK,Mike,Anaithu Makkal Puratchi Katchi,2019
+111,U,AnAP,Cup & Saucer,Anjaan Aadmi Party,2019
+112,U,ANC,"Gramophone,Almirah",Ambedkar National Congress,2019
+113,U,ANIJP,Glass Tumbler,Andaman & Nicobar Janta Party,2019
+114,U,ANNADATA,Tractor Chalata Kisan,Annadata Party,2019
+115,U,ANRP,Stool,Adarsh Nyay Rakshak Party,2019
+116,U,ANSP,Cake,Ahinsa Samaj Party,2019
+117,U,APEP,Hat,All Pensioner’s Party,2019
+118,U,APKSP,Cot,Apna Kisan Party,2019
+119,U,APoI,Coat,Ambedkarite Party of India,2019
+120,U,ARK,"Bricks,Brick",Akhand Rashtrawadi Party,2019
+121,U,ARP,"Gas Cylinder,Cup & Saucer",Ambedkarist Republican Party,2019
+122,U,ARPS,Mixee,Andhra Rastra Praja Samithi,2019
+123,U,ASaP,"Tractor Chalata Kisan,Auto- Rickshaw",Awami Samta Party,2019
+124,U,ASDC,Table,Autonomous State Demand Committee,2019
+125,U,ASDHP,Bottle,Asli Deshi Party,2019
+126,U,ASGP,Pen Nib with Seven Rays,Aadarsh Sangram Party,2019
+127,U,ASJP,Road Roller,Apna Samaj Party,2019
+128,U,ASP,"Glass Tumbler,Helicopter,Ganna Kisan,Battery Torch",Ambedkar Samaj Party,2019
+129,U,ATBP,"Batsman,Bat",Atulya Bharat Party,2019
+130,U,AVIRP,"Bat,Trumpet,Electric Pole",AARAKSHAN VIRODHI PARTY,2019
+131,U,AVVP,Refrigerator,Adhikar Vikas Party,2019
+132,U,AYP,Bread,Ambedkar Yug Party,2019
+133,U,AYSRCP,Football Player,Anna YSR Congress Party,2019
+134,U,BAAP,"COMPUTER,Fountain",Bharat Jan Aadhar Party,2019
+135,U,BAEP,Scissors,Bharatiya Aavaam Ekta Party,2019
+136,U,BaHaP,Auto- Rickshaw,Bhartiya Harit Party,2019
+137,U,BAHUMP,"Television,Whistle",Bahujan Maha Party,2019
+138,U,BaJD,Air Conditioner,Bhartiya Janta Dal,2019
+139,U,BALP,Plate Containing Food,Baliraja Party,2019
+140,U,BARESP,Air Conditioner,Bahujan Republican  Socialist Party,2019
+141,U,BARP,"Road Roller,Crane",Bhartiya Anarakshit Party,2019
+142,U,BaSaPa,"Air Conditioner,Battery Torch",Bhartiya Sarvodaya Party,2019
+143,U,BaVaP,CHAIN,Bhartiya Vanchitsamaj Party,2019
+144,U,BAWPA,Tooth Brush,Bahujan Awam Party,2019
+145,U,BBC,Bead Necklace,Bharatiya Bahujan Congress,2019
+146,U,BBKD,"Television,COCONUT FARM",BhartiyaBahujanKranti Dal,2019
+147,U,BBM,"COCONUT FARM,Gas Cylinder",Bharipa Bahujan Mahasangh,2019
+148,U,BBMP,Envelope,Bharat Bhrashtachar Mitao Party,2019
+149,U,BBPP,Green Chilli,Bharatiya Bahujan Parivartan  Party,2019
+150,U,BCUF,Television,B. C. United Front,2019
+151,U,BDJS,Pot,Bharath Dharma Jana Sena,2019
+152,U,BDlP,"Shoe,Air Conditioner",Bhartiya Dalit Party,2019
+153,U,BDPty,Ganna Kisan,Bharatrashtra Democratic Party,2019
+154,U,BEPP,Road Roller,Bhapase Party,2019
+155,U,BGanP,Pot,Bharatiya Gana Parishad,2019
+156,U,BHABHAPA,Stethoscope,Bhartiya Bhaichara Party,2019
+157,U,BHAIP,"Auto- Rickshaw,DIAMOND",Bhartiya Insan Party,2019
+158,U,BhAmAP,Capsicum,Bharatiya Aam Awam Party,2019
+159,U,BHAPRAP,Ludo,Bharat Prabhat Party,2019
+160,U,BhaRP,Helicopter,Bhartiya Rashtrawadi Party,2019
+161,U,BHAZS,Football,Bhartiya Azad Sena,2019
+162,U,BHBHP,"Tooth Brush,Glass Tumbler",Bharat Bhoomi Party,2019
+163,U,BHBP,Sewing Machine,Bharatiya Bahujan Party,2019
+164,U,BhBSP,Kettle,Bharatiya Bahujan Samta Party,2019
+165,U,BHHF,HOCKEY & BALL,Bhartiya Hind Fauj,2019
+166,U,BHJMP,Almirah,Bharatiya Jan Morcha Party,2019
+167,U,BHMP,Slate,Bharateeya Manavadhikar party,2019
+168,U,BhNP,T.V. Remote,Bharat Nirman Party,2019
+169,U,BHPP,COCONUT FARM,Bharatiya Peoples Party,2019
+170,U,BHTJP,Almirah,Bhartiya Janraj Party,2019
+171,U,BIP,Balloon,Bharatiya Inqalab Party,2019
+172,U,BJAZP,"Cup & Saucer,Slate",Bahujan Azad Party,2019
+173,U,bjdi,Hat,Bhartiya Janta Dal (Integrated),2019
+174,U,BJKD,"Hat,Water Melon",Bharatiya Jan Kranti Dal (Democratic),2019
+175,U,BJKVP,Grapes,Bajjikanchal Vikas Party,2019
+176,U,BJNP,Extension Board,Bhartiya Jan Nayak Party,2019
+177,U,BJSAP,Bat,Bhartiya Jan Samman Party,2019
+178,U,BJSPP,Cauliflower,Bhartiya Jan Sampark Party,2019
+179,U,BJSTP,Room Cooler,Bhartiya Jan Satta Party,2019
+180,U,BKNP,"Cot,Tractor Chalata Kisan,Auto- Rickshaw,Walking Stick,DIAMOND",Bhartiya Kisan Party,2019
+181,U,BKPP,Cauliflower,Bharatiya Kisan Parivartan Party,2019
+182,U,BKrD,Stumps,Bhartiya Krishak Dal,2019
+183,U,BKVP,Ganna Kisan,Bhartiya Kranti Vir Party,2019
+184,U,BLND,BOX,Bihar Lok Nirman Dal,2019
+185,U,BLokSP,"Electric Pole,Lunch Box",Bharat Lok Sewak Party,2019
+186,U,BLRP,"Gas Cylinder,Tractor Chalata Kisan,BUCKET",Bhartiya Lokmat Rashtrwadi Party,2019
+187,U,BLSD,"Telephone,Head Phone,Tractor Chalata Kisan",Bhartiya Lok Seva Dal,2019
+188,U,bmd,Wheel Barrow,Dr. Bhimrao Ambedkar Dal,2019
+189,U,BMF,Glass Tumbler,Bharatiya Momin Front,2019
+190,U,BMFP,BISCUIT,Bhartiya Manavadhikaar Federal Party,2019
+191,U,BMJP,Tractor Chalata Kisan,Bharatiya Majdoor Janta Party,2019
+192,U,BMSM,"HOCKEY & BALL,Gas Cylinder",Bharatiya Minorities Suraksha Mahasangh,2019
+193,U,BMtrP,Plate Containing Food,Bhartiya Mitra Party,2019
+194,U,BMUP,"Cot,Key,Table,Whistle,DIAMOND,Coat",Bahujan Mukti Party,2019
+195,U,BMVSP,Boat with Man and Sail,Bhartiya Manav Samaj Party,2019
+196,U,BNARP,Ganna Kisan,Bharatiya Nyay-Adhikar Raksha Party,2019
+197,U,BNavP,Almirah,Bhartiya Navodaya Party,2019
+198,U,BND,Kitchen Sink,Bhartiya Nojawan Dal,2019
+199,U,BNDl,Ganna Kisan,Bahujan Nyay Dal,2019
+200,U,BNIP,Tractor Chalata Kisan,Bhartiya Naujawan Inklav Party,2019
+201,U,BNJD,COCONUT FARM,Bharatiya National Janta Dal,2019
+202,U,bns,Dish Antenna,Bhartiya Navjawan Sena (Paksha),2019
+203,U,BNSKP,Pan,Bhartiya New Sanskar Krantikari Party,2019
+204,U,BPC,SHIP,Bhartiya Pragatisheel Congress,2019
+205,U,BPKP,Crane,Bharatiya Prajagala Kalyana Paksha,2019
+206,U,BPSJP,"COCONUT FARM,Gas Cylinder,Whistle",Bharatiya Praja Surajya Paksha,2019
+207,U,BRKP(D),Bat,Bharat Rakshak Party (Democratic),2019
+208,U,BRM,"Wool and Needle,BENCH",Bharatiya Rashtriya Morcha,2019
+209,U,BRP,Triangle,Bharatiya Rashtravadi Paksha,2019
+210,U,BRPI,Glass Tumbler,Bhartiya Republican Party (Insan),2019
+211,U,BRPPA,Slate,Bahujana Raajyam Party (Phule Ambedkar),2019
+212,U,BRSP,Basket containing Fruits,Bharatiya Rashtravadi Samanta Party,2019
+213,U,BSCP,"FLUTE,Key",Bhartiya Shakti Chetna Party,2019
+214,U,BSDL,Stethoscope,Bahujan Suraksha Dal,2019
+215,U,BSHSP,Ganna Kisan,Bhartiya Sarvjan Hitey Samaj Party,2019
+216,U,BSKP,Sewing Machine,Bharatiya Sarvodaya Kranti Party,2019
+217,U,BSKRP,Helicopter,Bharatiya Sampuran Krantikari Party,2019
+218,U,BSP(A),Television,Bahujan Samaj Party  (Ambedkar),2019
+219,U,BSPM,Cot,Bahujan Samyak Party (Mission),2019
+220,U,BSSPA,"Batsman,Almirah,Air Conditioner",Bharatiya Samta Samaj Party,2019
+221,U,BSUSP,Truck,Bhartiya Kisan Union Samaj Party,2019
+222,U,BTARP,Crane,Bhartiya Amrit Party,2019
+223,U,BTP,Auto- Rickshaw,Bhartiya Tribal Party,2019
+224,U,BUNKD,Bottle,Bundelkhand Kranti Dal,2019
+225,U,BVA,Auto- Rickshaw,Bahujan Vikas Aaghadi,2019
+226,U,BYPP,Letter Box,Bhartiya Panchyat Party,2019
+227,U,CDF,Helicopter,Christian Democratic Front,2019
+228,U,CHALP,Tyres,Challengers Party,2019
+229,U,CHKAP,Hat,Chandigarh Ki Aawaz Party,2019
+230,U,CoAP,Stumps,Corruption Abolition Party,2019
+231,U,CPI(ML)(L),Flag with Three Stars,Communist Party of India  (Marxist-Leninist)  (Liberation),2019
+232,U,CPIM,"Tractor Chalata Kisan,Saw,Auto- Rickshaw,Scissors",Communist Party of India (Marxist-Leninist) Red Star,2019
+233,U,CSM,"Glass Tumbler,Air Conditioner",Chhattisgarh Swabhiman Manch,2019
+234,U,cvgrp,"Helmet,Diesel Pump",Chhattisgarh Vikas Ganga Rashtriya Party,2019
+235,U,DABAP,Cup & Saucer,Dalita Bahujana Party,2019
+236,U,DAMK,Water Melon,Dhesiya Makkal Kazhagam,2019
+237,U,DCLF,Whistle,Democratic Corruption Liberation Front,2019
+238,U,DJHP,Ludo,Desh Janhit Party,2019
+239,U,DKSP,CHESS BOARD,Daksha Party,2019
+240,U,DMSK,"Ring,Football",Desiya Makkal Sakthi Katchi,2019
+241,U,DPI,Punching Machine,Democratic Party of India,2019
+242,U,DPIN,Punching Machine,Democratic Party of India (Ambedkar),2019
+243,U,DPPS,Tractor Chalata Kisan,Democratic Prajakranthi Party Secularist,2019
+244,U,DSPVAD,Harmonium,Dalit Soshit Pichhara Varg  Adhikar Dal,2019
+245,U,DSSP,Tractor Chalata Kisan,"Dogra Swabhiman Sangathan Party,",2019
+246,U,DUUK,Lunch Box,Desiya Uzhavar Uzhaipalar Kazhagam,2019
+247,U,EP,Tractor Chalata Kisan,Engineers Party,2019
+248,U,ESP,Ganna Kisan,Ekta Samaj Party,2019
+249,U,ETMK,Whistle,Ezhuchi Tamilargal Munnetra Kazhagam,2019
+250,U,FDLP,DIAMOND,Forward Democratic Labour Party,2019
+251,U,FIP,Helmet,The Future India Party,2019
+252,U,FJP,CHAPATI ROLLER,Fauji Janta Party,2019
+253,U,FPI,"Hat,Apple",Freethought Party of India,2019
+254,U,GaAP,Air Conditioner,Gareeb Aadmi Party,2019
+255,U,GAGUP,"Tractor Chalata Kisan,Kettle,Sewing Machine",Garvi Gujarat Party,2019
+256,U,GGP,"Saw,COCONUT FARM,Apple",Gondvana Gantantra Party,2019
+257,U,GJNP,Gift Pack,Garib Janshakti Party,2019
+258,U,GJPP,Pen Stand,Gujarat Janta Panchayat Party,2019
+259,U,GPI,Lady Finger,Ganasangam Party of India,2019
+260,U,grac,DIAMOND,Gorkha Rashtriya Congress,2019
+261,U,HAMS,Telephone,Hindustani Awam Morcha (Secular),2019
+262,U,HAPa,Ring,Hamari Apni Party,2019
+263,U,HBP,"Ganna Kisan,Boat with Man and Sail",Hum Bhartiya Party,2019
+264,U,HCP,"Tractor Chalata Kisan,Chakki",Hind Congress Party,2019
+265,U,HIMJKP,Apple,Himachal Jan Kranti Party,2019
+266,U,HiPPa,Brief Case,Hindusthan Praja Paksha,2019
+267,U,HJP,"Cauliflower,Television,Camera,Battery Torch,Tractor Chalata Kisan,Whistle",Hindustan Janta Party,2019
+268,U,HMRD,Gift Pack,Hardam Manavtawadi Rashtriya Dal,2019
+269,U,HMSKP,Whistle,Hamro Sikkim Party,2019
+270,U,HND,Water Tank,Hindusthan Nirman Dal,2019
+271,U,HSP,Tractor Chalata Kisan,Hindu Samaj Party,2019
+272,U,HSS,"DIAMOND,Plate Containing Food",Hindustan Shakti Sena,2019
+273,U,HuSP,Bread,Hum Sabki Party,2019
+274,U,ICF,Grapes,Indian Christian Front,2019
+275,U,IDRP,Battery Torch,Indian Democratic Republican Front,2019
+276,U,igp,"Football,Air Conditioner",Indian Gandhiyan Party,2019
+277,U,IICR,Telephone,Indian Indira Congress (R),2019
+278,U,ILP(AP),BUCKET,Indian Labour Party (Ambedkar Phule),2019
+279,U,IMK,Football,Ilantamilar Munnani Kazhagam,2019
+280,U,INCP,Ganna Kisan,Indian New Congress Party,2019
+281,U,INDPP,Helicopter,Independent People’s Party,2019
+282,U,INL,Iron,Indian National League,2019
+283,U,IPBP,"Binoculars,Trumpet",India Praja Bandhu Party,2019
+284,U,IPGP,Pot,Indian Peoples Green Party,2019
+285,U,IRNP,Winnower,Indian Rakshaka Nayakudu Party,2019
+286,U,IUC,SHIP,Indian Unity Centre,2019
+287,U,IVD,Walking Stick,Inqalab Vikas Dal,2019
+288,U,JAAP,Tractor Chalata Kisan,Jan Adesh Akshuni Sena,2019
+289,U,JAC,Ganna Kisan,Janata Congress,2019
+290,U,JAJGP,Mike,Jana Jagruti Party,2019
+291,U,JANADIP,"Dolli,Brick,Green Chilli,Ganna Kisan,Whistle,Helicopter",Jan Adhikar Party,2019
+292,U,JANKRPR,Bat,Janta Kranti Party (Rashtravadi),2019
+293,U,JANSAPP,"COMPUTER,Violin",Jan Satya Path Party,2019
+294,U,JanSP,"Ganna Kisan,Air Conditioner,Football,Helicopter",Janral Samaj Party,2019
+295,U,JAPL,HOCKEY & BALL,Jan Adhikar Party (Loktantrik),2019
+296,U,JaSD,"Tractor Chalata Kisan,Tractor",Jan Shakti Dal,2019
+297,U,JASP,Dish Antenna,Jan Sangh Party,2019
+298,U,JaSSP,CARPET,Jan Seva Sahayak Party,2019
+299,U,JASWP,Walking Stick,Jai Swaraj Party,2019
+300,U,JD,Cot,Jwala Dal,2019
+301,U,JDL,Football Player,Jansatta Dal Loktantrik,2019
+302,U,JDR,Dolli,Janta Dal Rashtravadi,2019
+303,U,JeSM,"Football,Stumps",Jamat-E-Seratul Mustakim,2019
+304,U,JGHTP,Mike,Jago Hindustan Party,2019
+305,U,JHAP,Basket containing Fruits,Jharkhand Anushilan Party,2019
+306,U,JHBHP,Pen Stand,Janhit Bharat Party,2019
+307,U,JHP,Scissors,Jai Hind Party,2019
+308,U,jhspt,Boat with Man and Sail,Jai Hind Samaj Party,2019
+309,U,JJJKP,Shoe,Jai Jawan Jai Kisan Party,2019
+310,U,JKiP,Tractor Chalata Kisan,Janhit Kisan Party,2019
+311,U,JKP,"CUBE,Basket containing Fruits",Jharkhand Party,2019
+312,U,JKP(N),"Basket containing Fruits,Football",Jharkhand Party  (Naren),2019
+313,U,JKPP,Pot,Jharkhand People's Party,2019
+314,U,JKPPAP,Battery Torch,Jammu & Kashmir Pir Panjal Awami Party,2019
+315,U,JKPS,Tractor Chalata Kisan,"Jharkhand Party (Secular),",2019
+316,U,JLokP,Apple,Jai Lok Party,2019
+317,U,JMBP,"Pen Nib with Seven Rays,Helicopter",Jai Maha Bharath Party,2019
+318,U,JMM(U),Bottle,Jharkhand Mukti Morcha  (Ulgulan),2019
+319,U,JNJP,Chappals,Jannayak Janta Party,2019
+320,U,JnP,Glass Tumbler,Janasena Party,2019
+321,U,JNSMP,Neck Tie,Jan Samman party,2019
+322,U,JP,"Pressure Cooker,Tractor Chalata Kisan,Air Conditioner,Auto- Rickshaw",Janata Party,2019
+323,U,JPC,Apple,Jammu & Kashmir People Conference,2019
+324,U,JPD,Toffees,Janapaalana Party (Democratic),2019
+325,U,JPJD,Diesel Pump,Jai Prakash Janata Dal,2019
+326,U,JPS,"Saw,Bead Necklace",Janvadi Party(Socialist),2019
+327,U,JRPa,Scissors,Janta Raj Party,2019
+328,U,JRVP,Walking Stick,Janta Raj Vikas Party,2019
+329,U,JSEP,Letter Box,Jan Shakti Ekta Party,2019
+330,U,JSP,"Pressure Cooker,Sewing Machine",Jansatta Party,2019
+331,U,JSVP,"Auto- Rickshaw,Key",Jan Sangharsh Virat Party,2019
+332,U,JTVP,Sewing Machine,Jantantrik Vikas Party,2019
+333,U,JVBP,Pineapple,Jai Vijaya Bharathi Party,2019
+334,U,kajp,School Bag,Kalyankari Jantantrik Party,2019
+335,U,KARASP,Mike,Kartavya Rashtriya Party,2019
+336,U,KBD,Plastering Trowel,Kanshiram Bahujan Dal,2019
+337,U,KCVP,Chappals,Kannada Chalavali Vatal Paksha,2019
+338,U,KEC,Television,Kerala Congress,2019
+339,U,KHSNP,Shoe,Khusro Sena Party,2019
+340,U,KJP,COCONUT FARM,Karnataka Jantha Paksha,2019
+341,U,KKJHS,"Helicopter,Tiller",Kranti Kari Jai Hind Sena,2019
+342,U,KKMP,Bread Toaster,Karnataka Karmikara Paksha,2019
+343,U,KMBS,Cup & Saucer,Kisan Majdoor Berojgar Sangh,2019
+344,U,KMSP,"Nail Cutter,Bricks",Kisan Mazdoor Sangharsh Party,2019
+345,U,KPJP,Tractor Chalata Kisan,Karnataka Pragnyavantha Janatha Party,2019
+346,U,KPOI,Iron,Kisan Party of India,2019
+347,U,KPPR,Sewing Machine,Karnataka Praja Party (RaithaParva),2019
+348,U,KPPU,"Boat with Man and Sail,Saw",Kamatapur People’s Party (United),2019
+349,U,KRUP,Chappals,Krupaa Party,2019
+350,U,KS,Bat,Kalinga Sena,2019
+351,U,KSRP,Chappals,"Kisan Raj Party,",2019
+352,U,KSRSP,Ganna Kisan,"Kisan Raksha Party,",2019
+353,U,LAJSP,Carrom Board,Loktantrik Jan Swaraj Party,2019
+354,U,LCD,Tyres,Lok  Chetna  Dal,2019
+355,U,LD,"Tractor Chalata Kisan,Air Conditioner",Lok Dal,2019
+356,U,LIP,Letter Box,Lok Insaaf Party,2019
+357,U,LJGP,Mike,Lokjagar Party,2019
+358,U,LJSPty,Clip,Lok Jan Sangharsh Party,2019
+359,U,LJVM,"Cake,Cup & Saucer",Lok Jan Vikas Morcha,2019
+360,U,LKSGM,Balloon,Loksangram,2019
+361,U,LOGAP,Matchbox,Lok Gathbandhan Party,2019
+362,U,LOKJANP,Whistle,Loktantrik Janshakti Party,2019
+363,U,LoRP,Tractor Chalata Kisan,Loktantrik Rashrtavadi Party,2019
+364,U,LPSP,Gas Cylinder,Lokpriya Samaj Party,2019
+365,U,LSD,Helmet,Lok Sewa Dal,2019
+366,U,LTSP,Auto- Rickshaw,Loktanter Suraksha Party,2019
+367,U,MADP,Auto- Rickshaw,Moulik Adhikar Party,2019
+368,U,MAHKRS,DIAMOND,Maharashtra Kranti Sena,2019
+369,U,ManJP,Bead Necklace,Maanavvaadi Janta Party,2019
+370,U,ManKP,Soap Dish,Manav Kranti Party,2019
+371,U,MaNPa,Tooth Brush,Manvadhikar National Party,2019
+372,U,MARD,Boat with Man and Sail,Mera Adhikaar Rashtriya Dal,2019
+373,U,MCPI,COMPUTER,Marxist Communist Party of India (United),2019
+374,U,MDKMGPH,Bangles,Mazdoor Dalit Kisaan Mahila Gareeb Party (Hindustani),2019
+375,U,MDPF,Battery Torch,Manipur Democratic Peoples's Front,2019
+376,U,MHD,Dolli,Mahamukti Dal,2019
+377,U,mimm,Gas Cylinder,Mithilanchal Mukti Morcha,2019
+378,U,MKat,Telephone,Makkalatchi Katchi,2019
+379,U,MKDVP,Gas Cylinder,Mazdoor Kirayedar Vikas Party,2019
+380,U,MKUP,Helicopter,Majdoor Kisan Union Party,2019
+381,U,MLJK,Laptop,Marumalarchi Janatha Katchi,2019
+382,U,MLPOIRF,"Cup & Saucer,Whistle,Tractor Chalata Kisan",Marxist Leninist Party of India (Red Flag),2019
+383,U,MMKA,Air Conditioner,Tamizhaga Murpokku Makkal Katchi,2019
+384,U,MNDP,Crane,Minorities Democratic Party,2019
+385,U,MNM,Battery Torch,Makkal Needhi Maiam,2019
+386,U,MNVP,Cup & Saucer,Manuvadi Party,2019
+387,U,MOSP,"Walking Stick,HOCKEY & BALL",Moolniwasi Samaj Party,2019
+388,U,MPEP,Bicycle,Manipur People’s Party,2019
+389,U,MPJVP,Pressure Cooker,Madhya Pradesh Jan Vikas Party,2019
+390,U,MPOI,Whistle,Mulnibasi Party of India,2019
+391,U,MPP,Telephone,Mundadugu Praja Party,2019
+392,U,MSHP,Refrigerator,"Maharashtra Swabhimaan Paksh,",2019
+393,U,MSJP,Stool,Mahasankalp Janta Party,2019
+394,U,MSKK,Balloon,"Makkal Sananayaga Kudiyarasu Katchi,",2019
+395,U,MwSP,"Whistle,Tyres",Manavtawadi Samaj Party,2019
+396,U,MYSP,Bottle,Mahila & Yuva Shakti Party,2019
+397,U,NABMUP,Gift Pack,National Bhrashtachar Mukt Party,2019
+398,U,NALAP,Glass Tumbler,National Labour Party,2019
+399,U,NaLP,Scissors,National Lokmat Party,2019
+400,U,NAP,"Frying Pan,HOCKEY & BALL,Cup & Saucer,Auto- Rickshaw,Whistle",Naitik Party,2019
+401,U,NAPt,BELT,National Apni Party,2019
+402,U,NATJUP,"SHIP,Tractor Chalata Kisan,BUCKET",Nationalist Justice Party,2019
+403,U,NATWOMP,Gas Stove,National Women's Party,2019
+404,U,NavaP,Stethoscope,Navataram Party,2019
+405,U,NAWPP,Mike,Nawan Punjab Party,2019
+406,U,NDDHP,Battery Torch,National Dalitha Dhal Party,2019
+407,U,NDEP,Electric Pole,National Development Party,2019
+408,U,NDPOI,"Apple,Pen Stand",New Democratic Party of India,2019
+409,U,NED,Bat,Navbharat Ekta Dal,2019
+410,U,NEINDP,Walking Stick,North East India Development Party,2019
+411,U,NEP,Television,Nagrik Ekta Party,2019
+412,U,NFFF,CUTTING PLIERS,National Fifty Fifty Front,2019
+413,U,NIDP,"Tractor Chalata Kisan,Auto- Rickshaw",Naam Indiar Party,2019
+414,U,NIP,Wallet,New India Party,2019
+415,U,NIRBHP,Pencil Box,Nirbhay Bharteey Party,2019
+416,U,NJANP,Drill Machine,Nationalist Janshakti Party,2019
+417,U,NJP,Hour Glass,National Jagaran Party,2019
+418,U,NNKP,Plastering Trowel,National Nava Kranthi Party,2019
+419,U,NNMP,Ganna Kisan,Navnirman Party,2019
+420,U,NNP,Auto- Rickshaw,Navbharat Nirman Party,2019
+421,U,NPRP,Tractor Chalata Kisan,Nava Praja Rajyam Party,2019
+422,U,NPSF,Petrol Pump,Nationalist People's Front,2019
+423,U,NPT,Bat,Navodayam Party,2019
+424,U,NRCong,Boat with Man and Sail,National Republican Congress,2019
+425,U,NRCP,"Scissors,Cup & Saucer",Navarang Congress Party,2019
+426,U,NSBHP,Ganna Kisan,Navsarjan Bharat Party,2019
+427,U,NSCBRAP,Auto- Rickshaw,Netaji Subhash Chander Bose Rashtriya Azad Party,2019
+428,U,NTK,Ganna Kisan,Naam Tamilar Katchi,2019
+429,U,NVSP,Gas Cylinder,Nava Samaj Party,2019
+430,U,NYP,"Tractor Chalata Kisan,Air Conditioner",National Youth Party,2019
+431,U,OPD,Boat with Man and Sail,Odisha Pragati Dal,2019
+432,U,PAP,DIAMOND,Prajatantra Aadhar Party,2019
+433,U,PBI,"FLUTE,Gas Cylinder,SHIP","Proutist Bloc, India",2019
+434,U,PDP,"Cup & Saucer,Ink Pot & Pen,Pot",Peoples Democratic Party,2019
+435,U,PDS,Football,Party for Democratic Socialism,2019
+436,U,PECP,"Glass Tumbler,Air Conditioner",Peace Party,2019
+437,U,PGSP,Helmet,Pragatisheel Samaj Party,2019
+438,U,PHJSP,Whistle,Prahar Janshakti Party,2019
+439,U,PHRC,"Gas Cylinder,Auto- Rickshaw",Poorvanchal Rashtriya Congress,2019
+440,U,PHSP,Ganna Kisan,Pichhra Samaj Party,2019
+441,U,pjdl,Ring,Prem Janata Dal,2019
+442,U,PJSP,Road Roller,Prajaa Swaraaj Party,2019
+443,U,PLM,Man Blowing Turha,Pragatisheel Lok Manch,2019
+444,U,PLP,Air Conditioner,Punjab Labour Party,2019
+445,U,PMP,Batsman,Public Mission Party,2019
+446,U,PMPT,"Batsman,Almirah",Purvanchal Mahapanchayat,2019
+447,U,PMSP,Tractor Chalata Kisan,Pragatisheel Manav Samaj Party,2019
+448,U,PNP,COCONUT FARM,Pravasi Nivasi Party,2019
+449,U,PPID,"Basket containing Fruits,Black Board,Table,BASKET CONTAINING VEGETABLES,Carrom Board,Air Conditioner,Apple,Kettle",Peoples Party of India (Democratic),2019
+450,U,PPIS,Bread,People's Party of India(secular),2019
+451,U,PPOI,"FLUTE,Pineapple",Pyramid Party of India,2019
+452,U,PRCP,"Cup & Saucer,Truck,Bat,Auto- Rickshaw",Prabuddha Republican Party,2019
+453,U,PRISM,Triangle,Prism,2019
+454,U,PRISMP,DIAMOND,Peoples Representation for Identity and Status of Mizoram (PRISM) Party,2019
+455,U,PRJP,Ring,Prithviraj Janshakti Party,2019
+456,U,PRSHP,Helicopter,Praja Shanthi Party,2019
+457,U,PRSP,Slate,Prajatantrik Samadhan Party,2019
+458,U,PrStP,Syringe,Praja Satta Party,2019
+459,U,PSJP,Auto- Rickshaw,Parivartan Samaj Party,2019
+460,U,PSPL,"Key,FLUTE",Pragatishil Samajwadi Party (Lohia),2019
+461,U,PSPU,"Whistle,Balloon",Pichhara Samaj Party United,2019
+462,U,PSS,"Pot,Battery Torch,Balloon,Plastering Trowel,Pressure Cooker,Tractor Chalata Kisan",Proutist Sarva Samaj,2019
+463,U,PUDEP,Tractor Chalata Kisan,Puducherry Development  Party,2019
+464,U,PUJP,Violin,Purvanchal Janta Party (Secular),2019
+465,U,PUNEKP,Key,Punjab Ekta Party,2019
+466,U,PUNP,Helmet,People’s Union Party,2019
+467,U,RaAD,Cup & Saucer,Rashtriya Ambedkar Dal,2019
+468,U,RABSP,Telephone,Rashtriya Bhagidari Samaj Party,2019
+469,U,RACHEP,Diesel Pump,Rashtrawadi Chetna Party,2019
+470,U,RADM,Cot,Rashtriya Azad Manch,2019
+471,U,RAHIS,"Helicopter,Tractor Chalata Kisan",Rashtriya Hind Sena,2019
+472,U,RAHM,Ganna Kisan,Rashtriya Ahinsa Manch,2019
+473,U,RAIM,Whistle,Rashtriya Indepndent Morcha,2019
+474,U,RaIP,Auto- Rickshaw,Rastriya Insaaf Party,2019
+475,U,RAJADP,"Cup & Saucer,Tractor Chalata Kisan",Rashtriya Jan  Adhikar Party,2019
+476,U,RaJPa,"Battery Torch,Helmet,School Bag",Rashtriya Jankranti Party,2019
+477,U,rajpt,Basket containing Fruits,Rashtriya Janmat Party,2019
+478,U,RaJSP,"Tractor Chalata Kisan,SHIP",Rashtriya Janadhikar Suraksha Party,2019
+479,U,RAJSPty,Telephone,Rastriya Aam Jan Seva Party,2019
+480,U,RAJUP,Walking Stick,Rashtriya Janutthan Party,2019
+481,U,RAKRD,Door Bell,Rashtravadi Kranti Dal,2019
+482,U,RaNP,"Pot,Walking Stick",Rashtra Nirman Party,2019
+483,U,RAPI,Helicopter,"Rashtrawadi Party of India,",2019
+484,U,RAPty,Shoe,Rashtriya Aamjan Party,2019
+485,U,RASAP,Cup & Saucer,Rashtriya Sahara Party,2019
+486,U,RASHLSP,DIAMOND,Rashtriya Lok Sarvadhikar  Party,2019
+487,U,RASJGP,CHESS BOARD,Rashtriya Jan Gaurav Party,2019
+488,U,RasLP,COCONUT FARM,Rashtriya Lokswaraj Party,2019
+489,U,RASMARP,"Battery Torch,Bat,Tractor Chalata Kisan",Rashtriya Maratha Party,2019
+490,U,ravp,Scissors,Rajnaitik Vikalp Party,2019
+491,U,RBCP,Battery Torch,Rashtriya Bahujan Congress Party,2019
+492,U,RBJJP,Colour Tray & Brush,Rashtriya Bharatiya Jan Jan Party,2019
+493,U,RBP,Ganna Kisan,Rashtriya Backward Party,2019
+494,U,RBS,Tractor Chalata Kisan,Republican Bahujan Sena,2019
+495,U,RD,Latch,Radical Democrats,2019
+496,U,RDHP,Air Conditioner,Rajyadhikara Party,2019
+497,U,RDU,Matchbox,Rashtriya Dal United,2019
+498,U,REALDP,Pen Nib with Seven Rays,Real Democracy Party,2019
+499,U,RGD,Batsman,Rashtriya Garib Dal,2019
+500,U,RGOP,Tractor Chalata Kisan,Rashtriya Gondvana Party,2019
+501,U,RHSP,Laptop,Rashtriya Samrasta Party,2019
+502,U,RJanPty,"Slate,Cup & Saucer",Rashtriya Jansurajya Party,2019
+503,U,RJANSWP,Pineapple,Rashtriya Jansangharsh Swaraj Party,2019
+504,U,RJAPU,Gas Stove,Rashtriya Jan Adhikar Party (United),2019
+505,U,RJAVP,Electric Pole,Rashtriya Jatigat Aarakshan Virodhi Party,2019
+506,U,RJBP,Cauliflower,Rashtriya Jansambhavna Party,2019
+507,U,RJBVP,Helicopter,Rashtriya Jantantrik Bharat Vikas Party,2019
+508,U,RJNP,HOCKEY & BALL,Rashtriya Janasachetan Party (R.J.P.),2019
+509,U,RJnPty,Sewing Machine,Rashtriya Jansena Party,2019
+510,U,RJPD,FLUTE,Rashtriya Janvikas Party (Democratic),2019
+511,U,RJsbhP,COCONUT FARM,Rashtriya Jansabha Party,2019
+512,U,RJSNP,Coat,Rashtriya Janhit Sangharsh Party,2019
+513,U,RJSPS,"Violin,Tractor Chalata Kisan,COCONUT FARM",Rashtriya Janshakti Party (Secular),2019
+514,U,RKSP,"Road Roller,Telephone",Rashtriya Krantikari Samajwadi Party,2019
+515,U,RLTP,Tyres,Rashtriya Loktantrik Party,2019
+516,U,RMEP,"Auto- Rickshaw,Tractor Chalata Kisan",Rashtriya Mazdoor Ekta Party,2019
+517,U,RMGLMP,BUCKET,Rashtriya Mangalam Party,2019
+518,U,RMGP,Boat with Man and Sail,Rashtriya mahan Gantantra Party,2019
+519,U,RMMP,Matchbox,Rashtriya Matadata Party,2019
+520,U,RMPOI,Pot,Revolutionary Marxist Party of India,2019
+521,U,RND,Road Roller,Rashtriya Naujawan Dal,2019
+522,U,RNNBP,Tennis Racket & Ball ,Rashtriya Nav Nirman Bharat Party,2019
+523,U,RP(K),Pen Nib with Seven Rays,Republican Paksha (Khoripa),2019
+524,U,RPB,BOX,Rashtravadi Party (Bharat),2019
+525,U,RPC(S),Ring,Rashtriya Praja Congress  (Secular),2019
+526,U,RPI,"Iron,Sewing Machine,Mike,Helicopter,Apple",Republican Party of India,2019
+527,U,RPI(A),"Pen Nib with Seven Rays,Sewing Machine,Ring,Water Melon,Gas Cylinder,Auto- Rickshaw,Baby Walker,Television,Apple,Cauliflower,Almirah,Gas Stove,Key,Laptop,Carrom Board,Helicopter",Republican Party of India (A),2019
+528,U,RPI(KH),"Helicopter,Gas Cylinder",Republican Party of India (Khobragade),2019
+529,U,RPI(KM),Camera,Republican Party of India  (Kamble),2019
+530,U,RPIE,Chimney,Republican Party of India Ektavadi,2019
+531,U,RPIK,Cup & Saucer,Republican Party of India (Karnataka),2019
+532,U,RPIR,"Helicopter,Tractor Chalata Kisan",Republican Party of India (Reformist),2019
+533,U,RPP,Air Conditioner,Rashtriya Pragati Party,2019
+534,U,rpsn,"DIAMOND,Sewing Machine",Republican Sena,2019
+535,U,RPWP,"Cup & Saucer,Bottle",Rashtriya Power Party,2019
+536,U,RRP,"Almirah,Tractor Chalata Kisan,CCTV Camera,Air Conditioner,Football,Gas Cylinder",Rashtriya Rashtrawadi Party,2019
+537,U,RRS,Gas Cylinder,Rayalaseema Rashtra Samithi,2019
+538,U,RsAD,Walking Stick,Rashtriya Apna Dal,2019
+539,U,RSDal,Sewing Machine,Rashtrawadi Shramjeevi Dal,2019
+540,U,RSJVP,Balloon,Rashtriya Sarvjan Vikas Party,2019
+541,U,RSMD,"Coat,Cot",Rashtriya Samanta Dal,2019
+542,U,RSOSP,Glass Tumbler,Rashtriya Shoshit Samaj Party,2019
+543,U,RSP(S),Battery Torch,Rashtriya Samajwadi Party  (Secular),2019
+544,U,RSPS,"Cup & Saucer,Tractor Chalata Kisan,Whistle",Rashtriya Samaj Paksha,2019
+545,U,RSPSR,Truck,Rashtriya Samta Party (Secular),2019
+546,U,RSTSAHP,Helmet,Rashtriya Sahyog Party,2019
+547,U,RSVP,Trumpet,Rashtriya Samta Vikas Party,2019
+548,U,RSWD,Winnower,Rashtra Sewa Dal,2019
+549,U,RTAMP,Electric Pole,Rashtriya Aadarsh Member Party,2019
+550,U,RTBHP,Tiller,Raita Bharat Party,2019
+551,U,RTJPS,Saw,Rashtriya Janwadi Party (Socialist),2019
+552,U,RTKP,Stethoscope,Rashtriya Kranti Party,2019
+553,U,RTORP,"Tractor Chalata Kisan,Battery Torch,Pressure Cooker,Auto- Rickshaw",Right to Recall Party,2019
+554,U,RtrJP,Scissors,Rashtriya Janta Party,2019
+555,U,RTSGP,Envelope,Rashtriya Sangail Party,2019
+556,U,RUC,"Kettle,Mixee",Rashtriya Ulama Council,2019
+557,U,RVLP,Coat,RASHTRIYA VIKLANG PARTY,2019
+558,U,RVNP,Tractor Chalata Kisan,Rashtravadi Janata Party,2019
+559,U,RVP,Ganna Kisan,Rashtriya Vikas Party,2019
+560,U,RVyP,Peas,Rashtriya Vyapari Party,2019
+561,U,RVZP,CHESS BOARD,Rashtra Vikas Zumbes Party,2019
+562,U,SAAFP,Brush,Sathi Aur Aapka Faisala Party,2019
+563,U,SABHP,Camera,Sarvodaya Bharat Party,2019
+564,U,SABJANP,Electric Pole,Sabhi Jan Party,2019
+565,U,SaBP,Cup & Saucer,Sankhyanupati Bhagidari Party,2019
+566,U,SACP,Room Cooler,Sabse Achchhi Party,2019
+567,U,SAD(M),Truck,Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann),2019
+568,U,SaDa,Pan,Sarvshreshth Dal,2019
+569,U,SADSP,Auto- Rickshaw,Saman Aadmi Saman Party,2019
+570,U,SADT,Farmer Ploughing Within Square,Shiromani Akali Dal (Taksali),2019
+571,U,SAJP,Hat,Samajwadi Janata Party(Karnataka),2019
+572,U,SAKAP,"Balloon,Tractor Chalata Kisan",Samaj Adhikar Kalyan Party,2019
+573,U,SAKSP,Saw,Samrat Ashok Sena Party,2019
+574,U,SamSP,Electric Pole,Samata Samadhan Party,2019
+575,U,SanS,Auto- Rickshaw,Sangharsh Sena,2019
+576,U,SANVP,"Refrigerator,Telephone,Harmonium,Pineapple",Sanyukt Vikas Party,2019
+577,U,SAPRP,Electric Pole,Samaanya Praja Party,2019
+578,U,SaRaPa,Sewing Machine,Sanman Rajkiya Paksha,2019
+579,U,SaSaP,BENCH,Samajwadi Samaj Party,2019
+580,U,SatBP,Black Board,Satya Bahumat Party,2019
+581,U,SATKP,Pan,Satya Kranti Party,2019
+582,U,SAVIPA,Cot,SARVA VIKAS PARTY,2019
+583,U,SaVP,Balloon,Samta Vikas Party,2019
+584,U,SBM,Television,Samaj Bhalai Morcha,2019
+585,U,SBSP,"Walking Stick,Air Conditioner",Suheldev Bharatiya Samaj Party,2019
+586,U,SBSPSP,Robot,Subhashwadi Bhartiya Samajwadi Party (Subhas Party),2019
+587,U,SDC,"Well,Battery Torch,Hat",Secular Democratic Congress,2019
+588,U,SDP(MP),"Punching Machine,Iron",Sarvadharam Party (Madhya Pradesh),2019
+589,U,SDPI,"Auto- Rickshaw,Cup & Saucer,Stumps,Gift Pack,Sewing Machine,Gas Cylinder",SOCIAL DEMOCRATIC PARTY OF INDIA,2019
+590,U,SDSP,Ganna Kisan,Samdarshi Samaj Party,2019
+591,U,SDU,Wall Hook,Sabka Dal United,2019
+592,U,SFP,Hat,Saaf Party,2019
+593,U,SGUP,COMPUTER,Samagra Utthan Party,2019
+594,U,SHF,Latch,Shane Hind Fourm,2019
+595,U,SJDD,Ganna Kisan,Samajwadi Janata Dal Democratic,2019
+596,U,SJPA,"Batsman,BUCKET,DIAMOND",Sarva Janata Party,2019
+597,U,SJPI,Tiller,Social Justice Party of India,2019
+598,U,SJPT,Pan,Shri Janta Party,2019
+599,U,SJSMP,Laptop,Sajag Samaj Party,2019
+600,U,SJVP,Apple,Sanjhi Virasat Party,2019
+601,U,skd,Scissors,Samata Kranti Dal,2019
+602,U,SKPP,FLUTE,Sikkim Republican Party,2019
+603,U,SLDP,Batsman,Shiromani Lok Dal Party,2019
+604,U,SMARTIP,DIAMOND,Smart Indians Party,2019
+605,U,SMFB,"Crane,Pressure Cooker",Samajwadi Forward Bloc,2019
+606,U,SNP,Glass Tumbler,Samajik Nyaya Party,2019
+607,U,SoJP,Pressure Cooker,Socialist Janata Party,2019
+608,U,SP(I),"Auto- Rickshaw,Ganna Kisan",Socialist Party (India),2019
+609,U,SPAKP,Swing,Sapaks Party,2019
+610,U,SPL,Tractor Chalata Kisan,Swaraj Party (Loktantrik),2019
+611,U,SPRP,Bat,Sarvodaya Prabhat Party,2019
+612,U,SSBD,Key,Shakti Sena (Bharat Desh),2019
+613,U,SSD,"Saw,Almirah",Shoshit Samaj Dal,2019
+614,U,ssrd,Grapes,Sanatan Sanskriti Raksha Dal,2019
+615,U,STBP,"Cup & Saucer,Pressure Cooker",Swatantra Bharat Paksha,2019
+616,U,STBSP,"Ganna Kisan,Hat",Svatantra Bharat Satyagrah Party,2019
+617,U,STPI,COCONUT FARM,Samajtantric Party of India,2019
+618,U,SUCI(C),"Battery torch,Saw,Cup & Saucer,Glass Tumbler,Scissors,Gas Cylinder,Tractor Chalata Kisan,Bat,BOX,Pot,Television",SOCIALIST UNITY CENTRE OF INDIA (COMMUNIST),2019
+619,U,SUSP,Glass Tumbler,Sunder Samaj Party,2019
+620,U,SUTF,Telephone,Sikkim United Front,2019
+621,U,svjn,"Tractor Chalata Kisan,Auto- Rickshaw",Sarvjan Lok Shakti Party,2019
+622,U,SVJSP,Bicycle Pump,Sarvjan Sewa Party,2019
+623,U,SVPP,"Battery Torch,Whistle",Sardar Vallabhbhai Patel Party,2019
+624,U,SwaBP,"Pen Nib with Seven Rays,Neck Tie,Telephone",Swarna Bharat Party,2019
+625,U,SWAJANPA,Swing,Swatantra Jantaraj Party,2019
+626,U,SWAP,"Telephone,Almirah",Swabhiman Party,2019
+627,U,swbi,Whistle,Swarnim Bharat Inquilab,2019
+628,U,SWJP,Table,Samajwadi Jan Parishad,2019
+629,U,SWP,Bat,Swabhimani Paksha,2019
+630,U,SWSP,Pressure Cooker,Swatantra Samaj Party,2019
+631,U,TECPI,Tractor Chalata Kisan,Telangana Communist Party of India,2019
+632,U,TELYS,Pot,Telangana Yuva Shakti,2019
+633,U,TGPJP,Telephone,Telangana Prajala Party,2019
+634,U,TJS,BOX,Telangana Jana Samithi,2019
+635,U,TMC(M),Auto- Rickshaw,Tamil Maanila Congress  (Moopanar),2019
+636,U,TNLK,"Ring,Bicycle Pump",Tamil Nadu Ilangyar Katchi,2019
+637,U,TNRMPI,Gas Stove,The National Road Map Party of India,2019
+638,U,ToP,Stumps,Tola Party,2019
+639,U,TRIPP,Battery torch,Tripura Peoples Party,2019
+640,U,TSP,Mike,Telangana Sakalajanula Party,2019
+641,U,TTNP,Tractor Chalata Kisan,Tamil Telugu National Party,2019
+642,U,UBM,FLUTE,Universal Brotherhood Movement,2019
+643,U,UDFS,Frying Pan,United Democratic Front Secular,2019
+644,U,UKDD,Electric Pole,Uttarakhand Kranti Dal (Democratic),2019
+645,U,UKKD,Chair,Uttarakhand Kranti Dal,2019
+646,U,UMK,"Hat,Bricks,Pressure Cooker",Ulzaipali Makkal Katchy,2019
+647,U,UPJP,Auto- Rickshaw,Uttama Prajaakeeya Party,2019
+648,U,UPNSE,Gas Cylinder,Uttar Pradesh Navnirman Sena,2019
+649,U,UPP,Scissors,UTTARAKHAND PARIVARTAN PARTY,2019
+650,U,UPPL,Tractor Chalata Kisan,"United People’s Party, Liberal",2019
+651,U,USIP,Tiller,United States of India Party,2019
+652,U,UtPP,Television,Uttarakhand Pragatisheel Party,2019
+653,U,UTSAP,Boat with Man and Sail,United Socialist Party,2019
+654,U,VBA,"Cup & Saucer,Whistle,Key",Vanchit Bahujan Aaghadi,2019
+655,U,VCK,"Stool,Pot,COCONUT FARM",Viduthalai Chiruthaigal Katchi,2019
+656,U,VCSMP,Tiller,Vanchit Samaj Party,2019
+657,U,VIP,"Glass Tumbler,Chappals",VANCHITSAMAJ INSAAF PARTY,2019
+658,U,VIPty,Air Conditioner,Vikas Insaf Party,2019
+659,U,VJNP,Ring,Vishwa Jana Party,2019
+660,U,VMMKT,Key,Vivasayigal Makkal Munnetra Katchi,2019
+661,U,VMSKP,Skipping Rope,"Vishwa Manav Samaj Kalyan Parishad,",2019
+662,U,VoP,"Hat,Key",Voters Party,2019
+663,U,VPI,"Gas Cylinder,Road Roller",Voters Party  International,2019
+664,U,VPP,Phone Charger,Vyavastha Parivartan Party,2019
+665,U,VSIP,Boat with Man and Sail,Vikassheel Insaan Party,2019
+666,U,VSP,"Auto- Rickshaw,Scissors",Vishva SHakti Party,2019
+667,U,WAP,Boat with Man and Sail,Wazib Adhikar Party,2019
+668,U,WPOI,"Battery Torch,COMPUTER",Welfare Party Of India,2019
+669,U,YJJP,"Pendulum,Cup & Saucer,Bat",Yuva Jan Jagriti Party,2019
+670,U,YKP,Water Melon,Yuva Krantikari Party,2019
+671,U,YSRPP,Ring,Yekikrutha Sankshema Rashtriya Praja Party,2019
+672,U,YuS,Bat,Yuva Sarkar,2019
+673,U,YVP,Tractor Chalata Kisan,Yuva Vikas Party,2019
+674,Z,IND,"Truck,Scissors,Key,Gas Cylinder,Bat,BUCKET,Spanner,DIAMOND,Mike,Stool,Almirah,Football,Pineapple,Nail Cutter,Peas,Tractor Chalata Kisan,Road Roller,Battery Torch,Television,Helicopter,Balloon,Apple,Laptop,Air Conditioner,Cup & Saucer,Basket containing Fruits,Pressure Cooker,Trumpet,COCONUT FARM,Matchbox,Gas Stove,Tube light,Cot,Cauliflower,Pen Nib with Seven Rays,Pan,Table,Whistle,SHIP,Pot,Bangles,Harmonium,Coconut,Baby Walker,Glass Tumbler,CALCULATOR,Brief Case,Electric Pole,Dish Antenna,Green Chilli,Telephone,Bead Necklace,Auto- Rickshaw,BENCH,Hat,Bottle,Bricks,Sewing Machine,Batsman,Binoculars,Tiller,Tyres,Hand Cart,CCTV Camera,BOX,T.V. Remote,Black Board,Gift Pack,Slate,Ganna Kisan,Camera,Helmet,Ring,Frock,Stethoscope,Stumps,Kettle,Pen Stand,Pestle and Mortar,Window,Peanuts,Syringe,CARPET,Brush,Room Cooler,Shoe,Crane,CHESS BOARD,Hour Glass,School Bag,Fountain,Walking Stick,COMPUTER,HOCKEY & BALL,Coat,Plate Stand,FLUTE,Chappals,Plastering Trowel,Ludo,Chimney,CHAIN,Room Heater,Man Blowing Turha,Pen Drive,Diesel Pump,Capsicum,Violin,Tray,Well,Boat with Man and Sail,Rubber Stamp,Head Phone,Computer Mouse,Ear Rings,Lady Finger,Throwing a Javelin,Latch,CUBE,Carrom Board,Swing,Bread,Letter Box,Water Melon,Saw,Tent,BELT,Bicycle Pump,Cake,Grapes,Typewriter,Drill Machine,Chakki,Shutter,Lighter,Sofa,Tongs,Petrol Pump,Winnower,Extension Board,Tooth Brush,Iron,Pants,Neck Tie,Robot,Colour Tray & Brush,Football Player,Frying Pan,Skipping Rope,Socks,Toffees,Jackfruit,Switchboard,Ginger,BISCUIT,Sitar,Immersion Rod,Mixee,Pears,Noodles Bowl,Envelope,Plate Containing Food,Razor,Ice Cream,Brick,Phone Charger,Bread Toaster,Clip,Water Tank,Punching Machine,Wallet,Door Bell,Tennis Racket & Ball ,Funnel,Dolli,PILLOW,Lady Purse,Tooth Paste,CUTTING PLIERS,Farmer Ploughing Within Square,CHAPATI ROLLER,Refrigerator,Dumbbells,Gramophone,Flag with Three Stars,Pencil Box,Soap Dish,Triangle,Wheel Barrow,Lunch Box,Toffee,CAN,PENCIL SHARPNER,Door Handle,Pendulum,Stapler,Wool and Needle,Safety Pin,Car,Kitchen Sink,Tea Filter",Independent,2019
+675,Z1,NOTA,NOTA,None of the Above,2019
+Disclaimer,,,,,2019
+"This report is based on Index Cards data made available by concerned Returning Officers on the basis of Statutory data maintained in the forms. In case of any dispute, the data maintained in the Statutory Forms by the concerned Returning Officers shall prevail.",,,,,2019

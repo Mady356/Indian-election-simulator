@@ -1,0 +1,36 @@
+State gap audit summary
+=======================
+
+Priority states audited: West Bengal, Tamil Nadu, Assam, Uttarakhand
+
+Biggest missing state problems
+------------------------------
+- West Bengal: 0/42 constituencies with NFHS-5 values; top break = low_coverage_share (34 constituencies)
+  Problem type: data problem (NFHS district features missing or empty)
+- Tamil Nadu: 0/39 constituencies with NFHS-5 values; top break = delimitation_summary_missing (37 constituencies)
+  Problem type: mapping problem (delimitation reference missing)
+- Assam: 0/14 constituencies with NFHS-5 values; top break = low_coverage_share (14 constituencies)
+  Problem type: data problem (NFHS district features missing or empty)
+- Uttarakhand: 0/5 constituencies with NFHS-5 values; top break = missing_nfhs_district_features (5 constituencies)
+  Problem type: data problem (NFHS district features missing or empty)
+
+Recommended fix order
+---------------------
+1. Tamil Nadu — parse/add Schedule XXVI delimitation district summary (blocks entire state).
+2. Uttarakhand — extract NFHS district features (no Uttarakhand rows in nfhs_district_panel).
+3. West Bengal — fix district alias application for Medinipur/Bardhaman splits and panel aggregation.
+4. Assam — complete district alias coverage and NFHS district feature joins.
+
+Whether issues are data vs mapping
+----------------------------------
+- West Bengal: data problem (NFHS district features missing or empty)
+- Tamil Nadu: mapping problem (delimitation reference missing)
+- Assam: data problem (NFHS district features missing or empty)
+- Uttarakhand: data problem (NFHS district features missing or empty)
+
+Notes
+-----
+- This audit is diagnostics only; source files were not modified.
+- West Bengal has NFHS district rows for 19 districts but constituency panel coverage_share is 0 for all seats.
+- Tamil Nadu has NFHS district data but no delimitation constituency-district summary in the reference tables.
+- Uttarakhand has delimitation and alias mappings but zero Uttarakhand rows in nfhs_district_panel.csv.

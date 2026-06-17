@@ -1,0 +1,13 @@
+pandas
+numpy
+openpyxl
+xlrd
+python-calamine
+pyarrow
+scikit-learn
+jupyter
+ipykernel
+pyreadstat
+pyshp
+pdfplumber
+PyYAML

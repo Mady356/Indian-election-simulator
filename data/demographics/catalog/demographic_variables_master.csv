@@ -1,0 +1,28 @@
+variable_id,variable_name,category,source,source_year,geography_level,priority,description,raw_file_expected,processed_column,status
+POP_TOTAL,Total population,Population,CENSUS_2011,2011,state,high,Total population by state,India State Population,population_total,planned
+POP_DENSITY,Population density,Population,CENSUS_2011,2011,state,high,Persons per sq km,India State Population,population_density,planned
+URBAN_PCT,Urban population share,Population,CENSUS_2011,2011,state,high,Urban population as % of total,India State Population,urban_pct,planned
+RURAL_PCT,Rural population share,Population,CENSUS_2011,2011,state,high,Rural population as % of total,India State Population,rural_pct,planned
+HINDU_PCT,Hindu population share,Religion,CENSUS_2011,2011,state,high,Hindu % of population,DDW00C,hindu_pct,planned
+MUSLIM_PCT,Muslim population share,Religion,CENSUS_2011,2011,state,high,Muslim % of population,DDW00C,muslim_pct,planned
+CHRISTIAN_PCT,Christian population share,Religion,CENSUS_2011,2011,state,high,Christian % of population,DDW00C,christian_pct,planned
+SIKH_PCT,Sikh population share,Religion,CENSUS_2011,2011,state,medium,Sikh % of population,DDW00C,sikh_pct,planned
+BUDDHIST_PCT,Buddhist population share,Religion,CENSUS_2011,2011,state,medium,Buddhist % of population,DDW00C,buddhist_pct,planned
+JAIN_PCT,Jain population share,Religion,CENSUS_2011,2011,state,medium,Jain % of population,DDW00C,jain_pct,planned
+SC_PCT,Scheduled caste share,Social,CENSUS_2011,2011,state,high,SC population as % of total,PCA,sc_pct,planned
+ST_PCT,Scheduled tribe share,Social,CENSUS_2011,2011,state,high,ST population as % of total,PCA,st_pct,planned
+SEX_RATIO,Sex ratio,Social,CENSUS_2011,2011,state,high,Females per 1000 males,India State Population,sex_ratio,planned
+LITERACY_RATE,Literacy rate,Education,CENSUS_2011,2011,state,high,Overall literacy %,literacy,literacy_rate,planned
+MALE_LITERACY,Male literacy,Education,CENSUS_2011,2011,state,medium,Male literacy %,literacy,male_literacy,planned
+FEMALE_LITERACY,Female literacy,Education,CENSUS_2011,2011,state,medium,Female literacy %,literacy,female_literacy,planned
+YOUTH_PCT,Youth share,Age,CENSUS_2011,2011,state,medium,Share of population in youth age bands,PCA_AY,youth_pct,planned
+WORKING_AGE_PCT,Working-age share,Age,CENSUS_2011,2011,state,medium,Share in working-age bands,PCA_AY,working_age_pct,planned
+ELDERLY_PCT,Elderly share,Age,CENSUS_2011,2011,state,medium,Share in elderly age bands,PCA_AY,elderly_pct,planned
+INTERNET_PCT,Internet access,NFHS,NFHS_5,2021,state,high,Households with internet,internet,internet_pct,planned
+BANK_ACCOUNT_PCT,Bank account access,NFHS,NFHS_5,2021,state,high,Households with bank account,bank,bank_account_pct,planned
+MOBILE_PHONE_PCT,Mobile phone access,NFHS,NFHS_5,2021,state,medium,Households with mobile phone,mobile,mobile_phone_pct,planned
+WOMEN_SECONDARY_EDU_PCT,Women with secondary education,NFHS,NFHS_5,2021,state,high,Women age 15-49 with secondary+ education,education,women_secondary_edu_pct,planned
+FERTILITY_RATE,Total fertility rate,NFHS,NFHS_5,2021,state,high,Total fertility rate (TFR),fertility,fertility_rate,planned
+ELECTRICITY_PCT,Electricity access,NFHS,NFHS_5,2021,state,high,Households with electricity,electricity,electricity_pct,planned
+LPG_PCT,LPG/clean fuel access,NFHS,NFHS_5,2021,state,medium,Households using LPG/clean cooking fuel,lpg,lpg_pct,planned
+IMPROVED_SANITATION_PCT,Improved sanitation,NFHS,NFHS_5,2021,state,high,Households with improved sanitation facility,sanitation,improved_sanitation_pct,planned

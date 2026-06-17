@@ -1,0 +1,600 @@
+{
+  "nodes": [
+    {
+      "id": "file:src/analysis/constituency_similarity.py",
+      "type": "file",
+      "name": "constituency_similarity.py",
+      "filePath": "src/analysis/constituency_similarity.py",
+      "summary": "Nearest-neighbour analysis over constituency feature vectors using sklearn to find the k most similar constituencies by winner vote share, top-2 margin, effective number of parties, and margin votes.",
+      "tags": ["analysis", "entry-point", "machine-learning", "similarity"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/analysis/constituency_similarity.py:build_similarity",
+      "type": "function",
+      "name": "build_similarity",
+      "filePath": "src/analysis/constituency_similarity.py",
+      "lineRange": [45, 74],
+      "summary": "Standardises four constituency feature columns, fits a NearestNeighbors index, and returns a table of each constituency's k closest neighbours with distances.",
+      "tags": ["analysis", "similarity", "feature-engineering"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/analysis/constituency_similarity.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/analysis/constituency_similarity.py",
+      "lineRange": [77, 100],
+      "summary": "Loads constituency features, builds the neighbour table, saves it to CSV, and prints example neighbours for sanity-checking.",
+      "tags": ["entry-point", "analysis", "cli"],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/analysis/vote_seat_distortion.py",
+      "type": "file",
+      "name": "vote_seat_distortion.py",
+      "filePath": "src/analysis/vote_seat_distortion.py",
+      "summary": "Compares each party's national vote share against its seat share under FPTP and reports the representation gap (over- or under-representation).",
+      "tags": ["analysis", "entry-point", "election-metrics", "fptp"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/analysis/vote_seat_distortion.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/analysis/vote_seat_distortion.py",
+      "lineRange": [29, 56],
+      "summary": "Loads candidate results and winners, computes vote-seat distortion metrics, saves the output, and prints top over- and under-represented parties.",
+      "tags": ["entry-point", "analysis", "cli"],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/features/build_constituency_features.py",
+      "type": "file",
+      "name": "build_constituency_features.py",
+      "filePath": "src/features/build_constituency_features.py",
+      "summary": "Builds the per-constituency feature table by joining winner metadata with effective number of parties and top-2 margin metrics for downstream analysis and ML.",
+      "tags": ["feature-engineering", "entry-point", "data-pipeline"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/features/build_constituency_features.py:build_features",
+      "type": "function",
+      "name": "build_features",
+      "filePath": "src/features/build_constituency_features.py",
+      "lineRange": [38, 80],
+      "summary": "Aggregates ENP and top-2 margins from candidate results, merges them with winner-side fields, renames columns, and writes the constituency features CSV.",
+      "tags": ["feature-engineering", "data-pipeline", "aggregation"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:src/features/build_constituency_top2.py",
+      "type": "file",
+      "name": "build_constituency_top2.py",
+      "filePath": "src/features/build_constituency_top2.py",
+      "summary": "Filters candidate results to the top-two ranked candidates per constituency for margin and two-horse-race analyses.",
+      "tags": ["feature-engineering", "entry-point", "data-pipeline"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/features/build_constituency_top2.py:build_top2",
+      "type": "function",
+      "name": "build_top2",
+      "filePath": "src/features/build_constituency_top2.py",
+      "lineRange": [25, 40],
+      "summary": "Sorts results by rank within each constituency, keeps the top two rows per group, and saves the filtered table.",
+      "tags": ["feature-engineering", "filtering", "data-pipeline"],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/features/build_winners_table.py",
+      "type": "file",
+      "name": "build_winners_table.py",
+      "filePath": "src/features/build_winners_table.py",
+      "summary": "Builds the foundational one-row-per-constituency winners lookup enriched with party metadata (alliance, ideology, region) for analysis and simulation layers.",
+      "tags": ["feature-engineering", "entry-point", "data-pipeline"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/features/build_winners_table.py:build_winners",
+      "type": "function",
+      "name": "build_winners",
+      "filePath": "src/features/build_winners_table.py",
+      "lineRange": [36, 68],
+      "summary": "Filters winning candidates, joins party metadata, validates winner counts and uniqueness, saves the winners table, and prints seat summaries.",
+      "tags": ["feature-engineering", "validation", "data-pipeline"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:src/utils/election_metrics.py",
+      "type": "file",
+      "name": "election_metrics.py",
+      "filePath": "src/utils/election_metrics.py",
+      "summary": "Centralises reusable election formulas (ENP, vote share, top-2 margin, seat counts, vote-seat distortion) so all project layers compute identical metrics.",
+      "tags": ["utility", "election-metrics", "shared-library"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/utils/election_metrics.py:effective_number_of_parties",
+      "type": "function",
+      "name": "effective_number_of_parties",
+      "filePath": "src/utils/election_metrics.py",
+      "lineRange": [15, 25],
+      "summary": "Computes the Laakso-Taagepera effective number of parties (ENP = 1 / sum(p_i^2)) from percentage-form vote shares.",
+      "tags": ["utility", "election-metrics", "aggregation"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/utils/election_metrics.py:calculate_vote_share",
+      "type": "function",
+      "name": "calculate_vote_share",
+      "filePath": "src/utils/election_metrics.py",
+      "lineRange": [28, 37],
+      "summary": "Adds a vote_share column as each row's vote count divided by the group total, expressed as a percentage.",
+      "tags": ["utility", "election-metrics", "aggregation"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/utils/election_metrics.py:calculate_top2_margin",
+      "type": "function",
+      "name": "calculate_top2_margin",
+      "filePath": "src/utils/election_metrics.py",
+      "lineRange": [40, 64],
+      "summary": "For each constituency group, returns the vote-share gap between the first- and second-ranked candidates as top2_margin_pct.",
+      "tags": ["utility", "election-metrics", "aggregation"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/utils/election_metrics.py:calculate_seat_counts",
+      "type": "function",
+      "name": "calculate_seat_counts",
+      "filePath": "src/utils/election_metrics.py",
+      "lineRange": [67, 75],
+      "summary": "Counts seats per party or alliance from a winners table and returns a sorted seat-count DataFrame.",
+      "tags": ["utility", "election-metrics", "aggregation"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/utils/election_metrics.py:calculate_vote_seat_distortion",
+      "type": "function",
+      "name": "calculate_vote_seat_distortion",
+      "filePath": "src/utils/election_metrics.py",
+      "lineRange": [78, 107],
+      "summary": "Merges national vote share and seat share per party and computes representation_gap (seat_share minus vote_share) to measure FPTP distortion.",
+      "tags": ["utility", "election-metrics", "fptp"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:src/utils/validation.py",
+      "type": "file",
+      "name": "validation.py",
+      "filePath": "src/utils/validation.py",
+      "summary": "Lightweight sanity checks for intermediate election tables — missing columns, duplicate winners, expected seat counts, and vote-share bounds.",
+      "tags": ["utility", "validation", "data-quality"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/utils/validation.py:check_expected_winners",
+      "type": "function",
+      "name": "check_expected_winners",
+      "filePath": "src/utils/validation.py",
+      "lineRange": [18, 26],
+      "summary": "Verifies the winners table contains exactly 543 Lok Sabha constituencies and prints an OK or WARN status line.",
+      "tags": ["utility", "validation", "data-quality"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/utils/validation.py:check_required_columns",
+      "type": "function",
+      "name": "check_required_columns",
+      "filePath": "src/utils/validation.py",
+      "lineRange": [29, 37],
+      "summary": "Raises KeyError if any required column is missing from a DataFrame, preventing confusing downstream KeyErrors.",
+      "tags": ["utility", "validation", "data-quality"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/utils/validation.py:check_no_duplicate_winners",
+      "type": "function",
+      "name": "check_no_duplicate_winners",
+      "filePath": "src/utils/validation.py",
+      "lineRange": [40, 46],
+      "summary": "Checks that each (state, constituency) pair maps to exactly one winning row and reports duplicate counts.",
+      "tags": ["utility", "validation", "data-quality"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/utils/validation.py:check_vote_share_bounds",
+      "type": "function",
+      "name": "check_vote_share_bounds",
+      "filePath": "src/utils/validation.py",
+      "lineRange": [49, 55],
+      "summary": "Asserts vote_share values stay within the 0–100 range to catch sign or normalisation bugs.",
+      "tags": ["utility", "validation", "data-quality"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/utils/validation.py:print_basic_dataset_summary",
+      "type": "function",
+      "name": "print_basic_dataset_summary",
+      "filePath": "src/utils/validation.py",
+      "lineRange": [58, 64],
+      "summary": "Prints a one-shot human-readable summary of a DataFrame's shape, columns, and null counts for notebook debugging.",
+      "tags": ["utility", "debugging", "data-quality"],
+      "complexity": "simple"
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:src/analysis/constituency_similarity.py",
+      "target": "file:src/data_io.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/analysis/constituency_similarity.py",
+      "target": "file:src/utils/validation.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/analysis/vote_seat_distortion.py",
+      "target": "file:src/data_io.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/analysis/vote_seat_distortion.py",
+      "target": "file:src/utils/election_metrics.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/features/build_constituency_features.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/features/build_constituency_features.py",
+      "target": "file:src/data_io.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/features/build_constituency_features.py",
+      "target": "file:src/utils/election_metrics.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/features/build_constituency_features.py",
+      "target": "file:src/utils/validation.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/features/build_constituency_top2.py",
+      "target": "file:src/data_io.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/features/build_constituency_top2.py",
+      "target": "file:src/utils/validation.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/features/build_winners_table.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/features/build_winners_table.py",
+      "target": "file:src/data_io.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/features/build_winners_table.py",
+      "target": "file:src/utils/validation.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/analysis/constituency_similarity.py",
+      "target": "function:src/analysis/constituency_similarity.py:build_similarity",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/constituency_similarity.py",
+      "target": "function:src/analysis/constituency_similarity.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/vote_seat_distortion.py",
+      "target": "function:src/analysis/vote_seat_distortion.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/features/build_constituency_features.py",
+      "target": "function:src/features/build_constituency_features.py:build_features",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/features/build_constituency_top2.py",
+      "target": "function:src/features/build_constituency_top2.py:build_top2",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/features/build_winners_table.py",
+      "target": "function:src/features/build_winners_table.py:build_winners",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/utils/election_metrics.py",
+      "target": "function:src/utils/election_metrics.py:effective_number_of_parties",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/utils/election_metrics.py",
+      "target": "function:src/utils/election_metrics.py:calculate_vote_share",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/utils/election_metrics.py",
+      "target": "function:src/utils/election_metrics.py:calculate_top2_margin",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/utils/election_metrics.py",
+      "target": "function:src/utils/election_metrics.py:calculate_seat_counts",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/utils/election_metrics.py",
+      "target": "function:src/utils/election_metrics.py:calculate_vote_seat_distortion",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/utils/validation.py",
+      "target": "function:src/utils/validation.py:check_expected_winners",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/utils/validation.py",
+      "target": "function:src/utils/validation.py:check_required_columns",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/utils/validation.py",
+      "target": "function:src/utils/validation.py:check_no_duplicate_winners",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/utils/validation.py",
+      "target": "function:src/utils/validation.py:check_vote_share_bounds",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/utils/validation.py",
+      "target": "function:src/utils/validation.py:print_basic_dataset_summary",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "function:src/analysis/constituency_similarity.py:build_similarity",
+      "target": "function:src/utils/validation.py:check_required_columns",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/constituency_similarity.py:main",
+      "target": "function:src/data_io.py:load_constituency_features",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/constituency_similarity.py:main",
+      "target": "function:src/analysis/constituency_similarity.py:build_similarity",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/constituency_similarity.py:main",
+      "target": "function:src/data_io.py:save_csv",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/vote_seat_distortion.py:main",
+      "target": "function:src/data_io.py:load_candidate_results",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/vote_seat_distortion.py:main",
+      "target": "function:src/data_io.py:load_winners",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/vote_seat_distortion.py:main",
+      "target": "function:src/utils/election_metrics.py:calculate_vote_seat_distortion",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/vote_seat_distortion.py:main",
+      "target": "function:src/data_io.py:save_csv",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/features/build_constituency_features.py:build_features",
+      "target": "function:src/data_io.py:load_candidate_results",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/features/build_constituency_features.py:build_features",
+      "target": "function:src/data_io.py:load_winners",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/features/build_constituency_features.py:build_features",
+      "target": "function:src/utils/validation.py:check_required_columns",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/features/build_constituency_features.py:build_features",
+      "target": "function:src/utils/election_metrics.py:effective_number_of_parties",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/features/build_constituency_features.py:build_features",
+      "target": "function:src/utils/election_metrics.py:calculate_top2_margin",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/features/build_constituency_features.py:build_features",
+      "target": "function:src/data_io.py:save_csv",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/features/build_constituency_top2.py:build_top2",
+      "target": "function:src/data_io.py:load_candidate_results",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/features/build_constituency_top2.py:build_top2",
+      "target": "function:src/utils/validation.py:check_required_columns",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/features/build_constituency_top2.py:build_top2",
+      "target": "function:src/data_io.py:save_csv",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/features/build_winners_table.py:build_winners",
+      "target": "function:src/data_io.py:load_candidate_results",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/features/build_winners_table.py:build_winners",
+      "target": "function:src/data_io.py:load_party_metadata",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/features/build_winners_table.py:build_winners",
+      "target": "function:src/utils/validation.py:check_required_columns",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/features/build_winners_table.py:build_winners",
+      "target": "function:src/utils/validation.py:check_expected_winners",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/features/build_winners_table.py:build_winners",
+      "target": "function:src/utils/validation.py:check_no_duplicate_winners",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/features/build_winners_table.py:build_winners",
+      "target": "function:src/data_io.py:save_csv",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/utils/election_metrics.py:calculate_vote_seat_distortion",
+      "target": "function:src/utils/election_metrics.py:calculate_seat_counts",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    }
+  ]
+}

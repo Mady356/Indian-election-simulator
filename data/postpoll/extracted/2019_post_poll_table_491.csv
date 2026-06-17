@@ -1,0 +1,28 @@
+col_0,col_1,N,(%)
+,001: INC,199,12.0
+,002: BJP,139,8.3
+,003: BSP,12,.7
+,004: CPI(M),226,13.6
+,005: CPI,3,.2
+,006: NCP,1,.1
+,007: AITC,2,.1
+,008: JD-U,2,.1
+,011: CPI(ML)(L),4,.3
+,012: AAP,1,.0
+,016: IUML,3,.2
+,020: RSP,1,.0
+,031: VIP,2,.1
+,040: PDP,4,.2
+,042: People’s Conference,0,.0
+,045: UDF,287,17.2
+,046: LDF,228,13.7
+,048: SDPI,0,.0
+,061: NPP,1,.1
+,062: MNDF,1,.1
+,131: UDF supported Independent,18,1.1
+,132: LDF supported Independent,16,1.0
+,600: NDA,1,.0
+,903: Not a supporter of any particular party,1,.0
+,996: Can't say,442,26.5
+,998: No response,73,4.4
+,Total,1667,100.0

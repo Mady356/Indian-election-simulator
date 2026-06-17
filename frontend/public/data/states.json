@@ -1,0 +1,1041 @@
+[
+  {
+    "state": "Andaman & Nicobar Islands",
+    "state_key": "ANDAMAN & NICOBAR ISLANDS",
+    "total_constituencies": 1,
+    "constituencies_with_demographics": 0,
+    "demographic_coverage_pct": 0.0,
+    "bjp_seats_2019": 0,
+    "bjp_seats_2024": 1,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 0,
+    "winner_changes": 1,
+    "average_bjp_swing": 5.28,
+    "average_inc_swing": -7.44,
+    "average_turnout_change": 2.51,
+    "top_bjp_gain": {
+      "constituency": "Andaman & Nicobar Islands",
+      "constituency_key": "ANDAMAN NICOBAR ISLANDS",
+      "swing": 5.28,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "Andaman & Nicobar Islands",
+      "constituency_key": "ANDAMAN NICOBAR ISLANDS",
+      "swing": -7.44,
+      "party": "BJP"
+    },
+    "mean_nfhs5_coverage_share": 0.0,
+    "data_quality_label": "election_only"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "state_key": "ANDHRA PRADESH",
+    "total_constituencies": 25,
+    "constituencies_with_demographics": 19,
+    "demographic_coverage_pct": 76.0,
+    "bjp_seats_2019": 0,
+    "bjp_seats_2024": 3,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 0,
+    "winner_changes": 18,
+    "average_bjp_swing": 10.78,
+    "average_inc_swing": 1.41,
+    "average_turnout_change": 6.17,
+    "top_bjp_gain": {
+      "constituency": "Anakapalle",
+      "constituency_key": "ANAKAPALLE",
+      "swing": 56.43,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "Kadapa",
+      "constituency_key": "KADAPA",
+      "swing": 9.99,
+      "party": "YSRCP"
+    },
+    "mean_nfhs5_coverage_share": 0.93,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "state_key": "ARUNACHAL PRADESH",
+    "total_constituencies": 2,
+    "constituencies_with_demographics": 1,
+    "demographic_coverage_pct": 50.0,
+    "bjp_seats_2019": 2,
+    "bjp_seats_2024": 2,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 0,
+    "winner_changes": 0,
+    "average_bjp_swing": -9.51,
+    "average_inc_swing": 9.5,
+    "average_turnout_change": -8.0,
+    "top_bjp_gain": {
+      "constituency": "Arunachal East",
+      "constituency_key": "ARUNACHAL EAST",
+      "swing": -7.37,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "Arunachal West",
+      "constituency_key": "ARUNACHAL WEST",
+      "swing": 11.96,
+      "party": "BJP"
+    },
+    "mean_nfhs5_coverage_share": 0.97,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Assam",
+    "state_key": "ASSAM",
+    "total_constituencies": 14,
+    "constituencies_with_demographics": 8,
+    "demographic_coverage_pct": 57.14,
+    "bjp_seats_2019": 9,
+    "bjp_seats_2024": 9,
+    "inc_seats_2019": 3,
+    "inc_seats_2024": 3,
+    "winner_changes": 5,
+    "average_bjp_swing": 1.62,
+    "average_inc_swing": 0.37,
+    "average_turnout_change": 3.47,
+    "top_bjp_gain": {
+      "constituency": "Kaziranga",
+      "constituency_key": "KAZIRANGA",
+      "swing": 55.04,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "Karimganj",
+      "constituency_key": "KARIMGANJ",
+      "swing": 34.56,
+      "party": "BJP"
+    },
+    "mean_nfhs5_coverage_share": 1.0,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Bihar",
+    "state_key": "BIHAR",
+    "total_constituencies": 40,
+    "constituencies_with_demographics": 37,
+    "demographic_coverage_pct": 92.5,
+    "bjp_seats_2019": 17,
+    "bjp_seats_2024": 12,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 3,
+    "winner_changes": 17,
+    "average_bjp_swing": -6.55,
+    "average_inc_swing": 5.27,
+    "average_turnout_change": -3.32,
+    "top_bjp_gain": {
+      "constituency": "Nawada",
+      "constituency_key": "NAWADA",
+      "swing": 47.2,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "Maharajganj",
+      "constituency_key": "MAHARAJGANJ",
+      "swing": 42.09,
+      "party": "BJP"
+    },
+    "mean_nfhs5_coverage_share": 1.0,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Chandigarh",
+    "state_key": "CHANDIGARH",
+    "total_constituencies": 1,
+    "constituencies_with_demographics": 0,
+    "demographic_coverage_pct": 0.0,
+    "bjp_seats_2019": 1,
+    "bjp_seats_2024": 0,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 1,
+    "winner_changes": 1,
+    "average_bjp_swing": -2.97,
+    "average_inc_swing": 7.88,
+    "average_turnout_change": -2.95,
+    "top_bjp_gain": {
+      "constituency": "Chandigarh",
+      "constituency_key": "CHANDIGARH",
+      "swing": -2.97,
+      "party": "INC"
+    },
+    "top_inc_gain": {
+      "constituency": "Chandigarh",
+      "constituency_key": "CHANDIGARH",
+      "swing": 7.88,
+      "party": "INC"
+    },
+    "mean_nfhs5_coverage_share": 0.0,
+    "data_quality_label": "election_only"
+  },
+  {
+    "state": "Chhattisgarh",
+    "state_key": "CHHATTISGARH",
+    "total_constituencies": 11,
+    "constituencies_with_demographics": 10,
+    "demographic_coverage_pct": 90.91,
+    "bjp_seats_2019": 9,
+    "bjp_seats_2024": 10,
+    "inc_seats_2019": 2,
+    "inc_seats_2024": 1,
+    "winner_changes": 1,
+    "average_bjp_swing": 1.92,
+    "average_inc_swing": 0.14,
+    "average_turnout_change": 2.1,
+    "top_bjp_gain": {
+      "constituency": "RAIGARH",
+      "constituency_key": "RAIGARH",
+      "swing": 6.87,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "JANJGIR-CHAMPA",
+      "constituency_key": "JANJGIR CHAMPA",
+      "swing": 5.17,
+      "party": "BJP"
+    },
+    "mean_nfhs5_coverage_share": 0.92,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Dadra & Nagar Haveli and Daman & Diu",
+    "state_key": "DADRA & NAGAR HAVELI & DAMAN & DIU",
+    "total_constituencies": 2,
+    "constituencies_with_demographics": 0,
+    "demographic_coverage_pct": 0.0,
+    "bjp_seats_2019": 1,
+    "bjp_seats_2024": 1,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 0,
+    "winner_changes": 2,
+    "average_bjp_swing": 7.13,
+    "average_inc_swing": 3.56,
+    "average_turnout_change": null,
+    "top_bjp_gain": {
+      "constituency": "Dadar & Nagar Haveli",
+      "constituency_key": "DADAR NAGAR HAVELI",
+      "swing": 17.97,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "Dadar & Nagar Haveli",
+      "constituency_key": "DADAR NAGAR HAVELI",
+      "swing": 26.56,
+      "party": "BJP"
+    },
+    "mean_nfhs5_coverage_share": 0.0,
+    "data_quality_label": "election_only"
+  },
+  {
+    "state": "Goa",
+    "state_key": "GOA",
+    "total_constituencies": 2,
+    "constituencies_with_demographics": 2,
+    "demographic_coverage_pct": 100.0,
+    "bjp_seats_2019": 1,
+    "bjp_seats_2024": 1,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 1,
+    "winner_changes": 0,
+    "average_bjp_swing": -0.26,
+    "average_inc_swing": -3.27,
+    "average_turnout_change": 1.0,
+    "top_bjp_gain": {
+      "constituency": "South Goa",
+      "constituency_key": "SOUTH GOA",
+      "swing": 0.17,
+      "party": "INC"
+    },
+    "top_inc_gain": {
+      "constituency": "South Goa",
+      "constituency_key": "SOUTH GOA",
+      "swing": 0.88,
+      "party": "INC"
+    },
+    "mean_nfhs5_coverage_share": 1.0,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Gujarat",
+    "state_key": "GUJARAT",
+    "total_constituencies": 25,
+    "constituencies_with_demographics": 21,
+    "demographic_coverage_pct": 84.0,
+    "bjp_seats_2019": 25,
+    "bjp_seats_2024": 24,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 1,
+    "winner_changes": 1,
+    "average_bjp_swing": 0.36,
+    "average_inc_swing": -1.54,
+    "average_turnout_change": -2.24,
+    "top_bjp_gain": {
+      "constituency": "Porbandar",
+      "constituency_key": "PORBANDAR",
+      "swing": 8.79,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "Banaskantha",
+      "constituency_key": "BANASKANTHA",
+      "swing": 20.63,
+      "party": "INC"
+    },
+    "mean_nfhs5_coverage_share": 0.91,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Haryana",
+    "state_key": "HARYANA",
+    "total_constituencies": 10,
+    "constituencies_with_demographics": 8,
+    "demographic_coverage_pct": 80.0,
+    "bjp_seats_2019": 10,
+    "bjp_seats_2024": 5,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 5,
+    "winner_changes": 5,
+    "average_bjp_swing": -11.94,
+    "average_inc_swing": 15.1,
+    "average_turnout_change": -7.02,
+    "top_bjp_gain": {
+      "constituency": "SONIPAT",
+      "constituency_key": "SONIPAT",
+      "swing": -5.15,
+      "party": "INC"
+    },
+    "top_inc_gain": {
+      "constituency": "HISAR",
+      "constituency_key": "HISAR",
+      "swing": 32.96,
+      "party": "INC"
+    },
+    "mean_nfhs5_coverage_share": 0.88,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "state_key": "HIMACHAL PRADESH",
+    "total_constituencies": 4,
+    "constituencies_with_demographics": 3,
+    "demographic_coverage_pct": 75.0,
+    "bjp_seats_2019": 4,
+    "bjp_seats_2024": 4,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 0,
+    "winner_changes": 0,
+    "average_bjp_swing": -12.68,
+    "average_inc_swing": 14.39,
+    "average_turnout_change": -9.75,
+    "top_bjp_gain": {
+      "constituency": "KANGRA",
+      "constituency_key": "KANGRA",
+      "swing": -10.99,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "MANDI",
+      "constituency_key": "MANDI",
+      "swing": 19.83,
+      "party": "BJP"
+    },
+    "mean_nfhs5_coverage_share": 1.0,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "state_key": "JAMMU & KASHMIR",
+    "total_constituencies": 5,
+    "constituencies_with_demographics": 0,
+    "demographic_coverage_pct": 0.0,
+    "bjp_seats_2019": 2,
+    "bjp_seats_2024": 2,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 0,
+    "winner_changes": 1,
+    "average_bjp_swing": -5.54,
+    "average_inc_swing": -5.14,
+    "average_turnout_change": 4.21,
+    "top_bjp_gain": {
+      "constituency": "BARAMULLA",
+      "constituency_key": "BARAMULLA",
+      "swing": -1.73,
+      "party": "IND"
+    },
+    "top_inc_gain": {
+      "constituency": "UDHAMPUR",
+      "constituency_key": "UDHAMPUR",
+      "swing": 9.01,
+      "party": "BJP"
+    },
+    "mean_nfhs5_coverage_share": 0.0,
+    "data_quality_label": "election_only"
+  },
+  {
+    "state": "Jharkhand",
+    "state_key": "JHARKHAND",
+    "total_constituencies": 14,
+    "constituencies_with_demographics": 11,
+    "demographic_coverage_pct": 78.57,
+    "bjp_seats_2019": 11,
+    "bjp_seats_2024": 8,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 2,
+    "winner_changes": 4,
+    "average_bjp_swing": -6.86,
+    "average_inc_swing": 4.88,
+    "average_turnout_change": -2.9,
+    "top_bjp_gain": {
+      "constituency": "Jamshedpur",
+      "constituency_key": "JAMSHEDPUR",
+      "swing": -2.56,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "Godda",
+      "constituency_key": "GODDA",
+      "swing": 42.29,
+      "party": "BJP"
+    },
+    "mean_nfhs5_coverage_share": 0.8,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Karnataka",
+    "state_key": "KARNATAKA",
+    "total_constituencies": 28,
+    "constituencies_with_demographics": 24,
+    "demographic_coverage_pct": 85.71,
+    "bjp_seats_2019": 25,
+    "bjp_seats_2024": 17,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 9,
+    "winner_changes": 12,
+    "average_bjp_swing": -5.99,
+    "average_inc_swing": 13.95,
+    "average_turnout_change": 0.55,
+    "top_bjp_gain": {
+      "constituency": "Bangalore Rural",
+      "constituency_key": "BANGALORE RURAL",
+      "swing": 14.82,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "Hassan",
+      "constituency_key": "HASSAN",
+      "swing": 49.67,
+      "party": "INC"
+    },
+    "mean_nfhs5_coverage_share": 1.0,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Kerala",
+    "state_key": "KERALA",
+    "total_constituencies": 20,
+    "constituencies_with_demographics": 17,
+    "demographic_coverage_pct": 85.0,
+    "bjp_seats_2019": 0,
+    "bjp_seats_2024": 1,
+    "inc_seats_2019": 15,
+    "inc_seats_2024": 14,
+    "winner_changes": 4,
+    "average_bjp_swing": 4.14,
+    "average_inc_swing": -2.74,
+    "average_turnout_change": -4.12,
+    "top_bjp_gain": {
+      "constituency": "Alathur",
+      "constituency_key": "ALATHUR",
+      "swing": 18.97,
+      "party": "CPIM"
+    },
+    "top_inc_gain": {
+      "constituency": "Pathanamthitta",
+      "constituency_key": "PATHANAMTHITTA",
+      "swing": 2.87,
+      "party": "INC"
+    },
+    "mean_nfhs5_coverage_share": 1.0,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Ladakh",
+    "state_key": "LADAKH",
+    "total_constituencies": 1,
+    "constituencies_with_demographics": 0,
+    "demographic_coverage_pct": 0.0,
+    "bjp_seats_2019": 1,
+    "bjp_seats_2024": 0,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 0,
+    "winner_changes": 1,
+    "average_bjp_swing": -10.36,
+    "average_inc_swing": 10.79,
+    "average_turnout_change": null,
+    "top_bjp_gain": {
+      "constituency": "Ladakh",
+      "constituency_key": "LADAKH",
+      "swing": -10.36,
+      "party": "IND"
+    },
+    "top_inc_gain": {
+      "constituency": "Ladakh",
+      "constituency_key": "LADAKH",
+      "swing": 10.79,
+      "party": "IND"
+    },
+    "mean_nfhs5_coverage_share": 0.0,
+    "data_quality_label": "election_only"
+  },
+  {
+    "state": "Lakshadweep",
+    "state_key": "LAKSHADWEEP",
+    "total_constituencies": 1,
+    "constituencies_with_demographics": 0,
+    "demographic_coverage_pct": 0.0,
+    "bjp_seats_2019": 0,
+    "bjp_seats_2024": 0,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 1,
+    "winner_changes": 1,
+    "average_bjp_swing": -0.27,
+    "average_inc_swing": 5.43,
+    "average_turnout_change": 2.99,
+    "top_bjp_gain": {
+      "constituency": "Lakshadweep",
+      "constituency_key": "LAKSHADWEEP",
+      "swing": -0.27,
+      "party": "INC"
+    },
+    "top_inc_gain": {
+      "constituency": "Lakshadweep",
+      "constituency_key": "LAKSHADWEEP",
+      "swing": 5.43,
+      "party": "INC"
+    },
+    "mean_nfhs5_coverage_share": 0.0,
+    "data_quality_label": "election_only"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "state_key": "MADHYA PRADESH",
+    "total_constituencies": 29,
+    "constituencies_with_demographics": 27,
+    "demographic_coverage_pct": 93.1,
+    "bjp_seats_2019": 28,
+    "bjp_seats_2024": 29,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 0,
+    "winner_changes": 1,
+    "average_bjp_swing": 1.11,
+    "average_inc_swing": -2.03,
+    "average_turnout_change": -1.74,
+    "top_bjp_gain": {
+      "constituency": "GUNA",
+      "constituency_key": "GUNA",
+      "swing": 15.1,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "RAJGARH",
+      "constituency_key": "RAJGARH",
+      "swing": 11.71,
+      "party": "BJP"
+    },
+    "mean_nfhs5_coverage_share": 1.0,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Maharashtra",
+    "state_key": "MAHARASHTRA",
+    "total_constituencies": 48,
+    "constituencies_with_demographics": 14,
+    "demographic_coverage_pct": 29.17,
+    "bjp_seats_2019": 23,
+    "bjp_seats_2024": 9,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 13,
+    "winner_changes": 34,
+    "average_bjp_swing": -2.07,
+    "average_inc_swing": -0.45,
+    "average_turnout_change": -1.37,
+    "top_bjp_gain": {
+      "constituency": "Ratnagiri- Sindhudurg",
+      "constituency_key": "RATNAGIRI SINDHUDURG",
+      "swing": 49.07,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "Kolhapur",
+      "constituency_key": "KOLHAPUR",
+      "swing": 54.15,
+      "party": "INC"
+    },
+    "mean_nfhs5_coverage_share": 1.0,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Manipur",
+    "state_key": "MANIPUR",
+    "total_constituencies": 2,
+    "constituencies_with_demographics": 0,
+    "demographic_coverage_pct": 0.0,
+    "bjp_seats_2019": 1,
+    "bjp_seats_2024": 0,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 2,
+    "winner_changes": 2,
+    "average_bjp_swing": -17.67,
+    "average_inc_swing": 22.55,
+    "average_turnout_change": 5.16,
+    "top_bjp_gain": {
+      "constituency": "Inner Manipur",
+      "constituency_key": "INNER MANIPUR",
+      "swing": -1.56,
+      "party": "INC"
+    },
+    "top_inc_gain": {
+      "constituency": "Outer Manipur",
+      "constituency_key": "OUTER MANIPUR",
+      "swing": 30.54,
+      "party": "INC"
+    },
+    "mean_nfhs5_coverage_share": 0.0,
+    "data_quality_label": "election_only"
+  },
+  {
+    "state": "Meghalaya",
+    "state_key": "MEGHALAYA",
+    "total_constituencies": 2,
+    "constituencies_with_demographics": 2,
+    "demographic_coverage_pct": 100.0,
+    "bjp_seats_2019": 0,
+    "bjp_seats_2024": 0,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 1,
+    "winner_changes": 2,
+    "average_bjp_swing": -7.61,
+    "average_inc_swing": -9.3,
+    "average_turnout_change": 4.8,
+    "top_bjp_gain": {
+      "constituency": "Tura",
+      "constituency_key": "TURA",
+      "swing": -5.44,
+      "party": "INC"
+    },
+    "top_inc_gain": {
+      "constituency": "Tura",
+      "constituency_key": "TURA",
+      "swing": 15.72,
+      "party": "INC"
+    },
+    "mean_nfhs5_coverage_share": 0.98,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Mizoram",
+    "state_key": "MIZORAM",
+    "total_constituencies": 1,
+    "constituencies_with_demographics": 0,
+    "demographic_coverage_pct": 0.0,
+    "bjp_seats_2019": 0,
+    "bjp_seats_2024": 0,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 0,
+    "winner_changes": 1,
+    "average_bjp_swing": 1.08,
+    "average_inc_swing": 20.07,
+    "average_turnout_change": -4.09,
+    "top_bjp_gain": {
+      "constituency": "MIZORAM",
+      "constituency_key": "MIZORAM",
+      "swing": 1.08,
+      "party": "ZPM"
+    },
+    "top_inc_gain": {
+      "constituency": "MIZORAM",
+      "constituency_key": "MIZORAM",
+      "swing": 20.07,
+      "party": "ZPM"
+    },
+    "mean_nfhs5_coverage_share": 0.0,
+    "data_quality_label": "election_only"
+  },
+  {
+    "state": "NCT OF Delhi",
+    "state_key": "NCT OF DELHI",
+    "total_constituencies": 7,
+    "constituencies_with_demographics": 0,
+    "demographic_coverage_pct": 0.0,
+    "bjp_seats_2019": 7,
+    "bjp_seats_2024": 7,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 0,
+    "winner_changes": 0,
+    "average_bjp_swing": -2.07,
+    "average_inc_swing": -4.71,
+    "average_turnout_change": -2.29,
+    "top_bjp_gain": {
+      "constituency": "Chandni Chowk",
+      "constituency_key": "CHANDNI CHOWK",
+      "swing": 0.52,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "North-West Delhi",
+      "constituency_key": "NORTH WEST DELHI",
+      "swing": 21.82,
+      "party": "BJP"
+    },
+    "mean_nfhs5_coverage_share": 0.0,
+    "data_quality_label": "election_only"
+  },
+  {
+    "state": "Nagaland",
+    "state_key": "NAGALAND",
+    "total_constituencies": 1,
+    "constituencies_with_demographics": 0,
+    "demographic_coverage_pct": 0.0,
+    "bjp_seats_2019": 0,
+    "bjp_seats_2024": 0,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 1,
+    "winner_changes": 1,
+    "average_bjp_swing": null,
+    "average_inc_swing": 4.72,
+    "average_turnout_change": -10.91,
+    "top_bjp_gain": null,
+    "top_inc_gain": {
+      "constituency": "Nagaland",
+      "constituency_key": "NAGALAND",
+      "swing": 4.72,
+      "party": "INC"
+    },
+    "mean_nfhs5_coverage_share": 0.0,
+    "data_quality_label": "election_only"
+  },
+  {
+    "state": "Odisha",
+    "state_key": "ODISHA",
+    "total_constituencies": 21,
+    "constituencies_with_demographics": 0,
+    "demographic_coverage_pct": 0.0,
+    "bjp_seats_2019": 8,
+    "bjp_seats_2024": 20,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 1,
+    "winner_changes": 12,
+    "average_bjp_swing": 7.06,
+    "average_inc_swing": -1.25,
+    "average_turnout_change": 1.98,
+    "top_bjp_gain": {
+      "constituency": "Jagatsinghpur",
+      "constituency_key": "JAGATSINGHPUR",
+      "swing": 17.46,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "Aska",
+      "constituency_key": "ASKA",
+      "swing": 7.39,
+      "party": "BJP"
+    },
+    "mean_nfhs5_coverage_share": 0.0,
+    "data_quality_label": "election_only"
+  },
+  {
+    "state": "Puducherry",
+    "state_key": "PUDUCHERRY",
+    "total_constituencies": 1,
+    "constituencies_with_demographics": 0,
+    "demographic_coverage_pct": 0.0,
+    "bjp_seats_2019": 0,
+    "bjp_seats_2024": 0,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 1,
+    "winner_changes": 0,
+    "average_bjp_swing": 35.83,
+    "average_inc_swing": -3.55,
+    "average_turnout_change": -4.11,
+    "top_bjp_gain": {
+      "constituency": "PUDUCHERRY",
+      "constituency_key": "PUDUCHERRY",
+      "swing": 35.83,
+      "party": "INC"
+    },
+    "top_inc_gain": {
+      "constituency": "PUDUCHERRY",
+      "constituency_key": "PUDUCHERRY",
+      "swing": -3.55,
+      "party": "INC"
+    },
+    "mean_nfhs5_coverage_share": 0.0,
+    "data_quality_label": "election_only"
+  },
+  {
+    "state": "Punjab",
+    "state_key": "PUNJAB",
+    "total_constituencies": 13,
+    "constituencies_with_demographics": 11,
+    "demographic_coverage_pct": 84.62,
+    "bjp_seats_2019": 2,
+    "bjp_seats_2024": 0,
+    "inc_seats_2019": 8,
+    "inc_seats_2024": 7,
+    "winner_changes": 6,
+    "average_bjp_swing": 8.29,
+    "average_inc_swing": -13.88,
+    "average_turnout_change": -8.69,
+    "top_bjp_gain": {
+      "constituency": "Ludhiana",
+      "constituency_key": "LUDHIANA",
+      "swing": 28.45,
+      "party": "INC"
+    },
+    "top_inc_gain": {
+      "constituency": "Jalandhar",
+      "constituency_key": "JALANDHAR",
+      "swing": 1.58,
+      "party": "INC"
+    },
+    "mean_nfhs5_coverage_share": 0.87,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Rajasthan",
+    "state_key": "RAJASTHAN",
+    "total_constituencies": 25,
+    "constituencies_with_demographics": 11,
+    "demographic_coverage_pct": 44.0,
+    "bjp_seats_2019": 24,
+    "bjp_seats_2024": 14,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 8,
+    "winner_changes": 10,
+    "average_bjp_swing": -8.68,
+    "average_inc_swing": 4.08,
+    "average_turnout_change": -6.86,
+    "top_bjp_gain": {
+      "constituency": "NAGAUR",
+      "constituency_key": "NAGAUR",
+      "swing": 44.79,
+      "party": "RLTP"
+    },
+    "top_inc_gain": {
+      "constituency": "GANGANAGAR",
+      "constituency_key": "GANGANAGAR",
+      "swing": 17.63,
+      "party": "INC"
+    },
+    "mean_nfhs5_coverage_share": 1.0,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Sikkim",
+    "state_key": "SIKKIM",
+    "total_constituencies": 1,
+    "constituencies_with_demographics": 0,
+    "demographic_coverage_pct": 0.0,
+    "bjp_seats_2019": 0,
+    "bjp_seats_2024": 0,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 0,
+    "winner_changes": 0,
+    "average_bjp_swing": 0.23,
+    "average_inc_swing": -0.55,
+    "average_turnout_change": -3.22,
+    "top_bjp_gain": {
+      "constituency": "Sikkim",
+      "constituency_key": "SIKKIM",
+      "swing": 0.23,
+      "party": "SKM"
+    },
+    "top_inc_gain": {
+      "constituency": "Sikkim",
+      "constituency_key": "SIKKIM",
+      "swing": -0.55,
+      "party": "SKM"
+    },
+    "mean_nfhs5_coverage_share": 0.0,
+    "data_quality_label": "election_only"
+  },
+  {
+    "state": "Tamil Nadu",
+    "state_key": "TAMIL NADU",
+    "total_constituencies": 39,
+    "constituencies_with_demographics": 28,
+    "demographic_coverage_pct": 71.79,
+    "bjp_seats_2019": 0,
+    "bjp_seats_2024": 0,
+    "inc_seats_2019": 8,
+    "inc_seats_2024": 9,
+    "winner_changes": 9,
+    "average_bjp_swing": 12.36,
+    "average_inc_swing": -5.1,
+    "average_turnout_change": -5.56,
+    "top_bjp_gain": {
+      "constituency": "TIRUNELVELI",
+      "constituency_key": "TIRUNELVELI",
+      "swing": 31.54,
+      "party": "INC"
+    },
+    "top_inc_gain": {
+      "constituency": "MAYILADUTHURAI",
+      "constituency_key": "MAYILADUTHURAI",
+      "swing": 47.67,
+      "party": "INC"
+    },
+    "mean_nfhs5_coverage_share": 0.93,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Telangana",
+    "state_key": "TELANGANA",
+    "total_constituencies": 17,
+    "constituencies_with_demographics": 17,
+    "demographic_coverage_pct": 100.0,
+    "bjp_seats_2019": 4,
+    "bjp_seats_2024": 8,
+    "inc_seats_2019": 3,
+    "inc_seats_2024": 8,
+    "winner_changes": 10,
+    "average_bjp_swing": 14.51,
+    "average_inc_swing": 11.66,
+    "average_turnout_change": 3.0,
+    "top_bjp_gain": {
+      "constituency": "Chevella",
+      "constituency_key": "CHEVELLA",
+      "swing": 32.81,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "Nizamabad",
+      "constituency_key": "NIZAMABAD",
+      "swing": 32.65,
+      "party": "BJP"
+    },
+    "mean_nfhs5_coverage_share": 1.0,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Tripura",
+    "state_key": "TRIPURA",
+    "total_constituencies": 2,
+    "constituencies_with_demographics": 2,
+    "demographic_coverage_pct": 100.0,
+    "bjp_seats_2019": 2,
+    "bjp_seats_2024": 2,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 0,
+    "winner_changes": 0,
+    "average_bjp_swing": 21.75,
+    "average_inc_swing": -14.23,
+    "average_turnout_change": 17.42,
+    "top_bjp_gain": {
+      "constituency": "Tripura East",
+      "constituency_key": "TRIPURA EAST",
+      "swing": 22.42,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "Tripura West",
+      "constituency_key": "TRIPURA WEST",
+      "swing": -1.88,
+      "party": "BJP"
+    },
+    "mean_nfhs5_coverage_share": 1.0,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "state_key": "UTTAR PRADESH",
+    "total_constituencies": 80,
+    "constituencies_with_demographics": 51,
+    "demographic_coverage_pct": 63.75,
+    "bjp_seats_2019": 62,
+    "bjp_seats_2024": 33,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 6,
+    "winner_changes": 41,
+    "average_bjp_swing": -8.51,
+    "average_inc_swing": 3.46,
+    "average_turnout_change": -3.82,
+    "top_bjp_gain": {
+      "constituency": "Kaushambi",
+      "constituency_key": "KAUSHAMBI",
+      "swing": 0.9,
+      "party": "SP"
+    },
+    "top_inc_gain": {
+      "constituency": "Allahabad",
+      "constituency_key": "ALLAHABAD",
+      "swing": 45.21,
+      "party": "INC"
+    },
+    "mean_nfhs5_coverage_share": 0.97,
+    "data_quality_label": "high"
+  },
+  {
+    "state": "Uttarakhand",
+    "state_key": "UTTARAKHAND",
+    "total_constituencies": 5,
+    "constituencies_with_demographics": 0,
+    "demographic_coverage_pct": 0.0,
+    "bjp_seats_2019": 5,
+    "bjp_seats_2024": 5,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 0,
+    "winner_changes": 0,
+    "average_bjp_swing": -4.57,
+    "average_inc_swing": 1.05,
+    "average_turnout_change": -5.34,
+    "top_bjp_gain": {
+      "constituency": "Almora",
+      "constituency_key": "ALMORA",
+      "swing": 0.17,
+      "party": "BJP"
+    },
+    "top_inc_gain": {
+      "constituency": "Garhwal",
+      "constituency_key": "GARHWAL",
+      "swing": 8.93,
+      "party": "BJP"
+    },
+    "mean_nfhs5_coverage_share": 0.0,
+    "data_quality_label": "election_only"
+  },
+  {
+    "state": "West Bengal",
+    "state_key": "WEST BENGAL",
+    "total_constituencies": 42,
+    "constituencies_with_demographics": 27,
+    "demographic_coverage_pct": 64.29,
+    "bjp_seats_2019": 18,
+    "bjp_seats_2024": 12,
+    "inc_seats_2019": 2,
+    "inc_seats_2024": 1,
+    "winner_changes": 11,
+    "average_bjp_swing": -1.48,
+    "average_inc_swing": -0.85,
+    "average_turnout_change": -1.11,
+    "top_bjp_gain": {
+      "constituency": "Baharampur",
+      "constituency_key": "BAHARAMPUR",
+      "swing": 15.85,
+      "party": "AITC"
+    },
+    "top_inc_gain": {
+      "constituency": "Raiganj",
+      "constituency_key": "RAIGANJ",
+      "swing": 12.69,
+      "party": "BJP"
+    },
+    "mean_nfhs5_coverage_share": 0.99,
+    "data_quality_label": "high"
+  }
+]

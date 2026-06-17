@@ -1,0 +1,11 @@
+col_0,col_1,N,(%),Valid (%)
+Valid,1: On the day of voting,3439,14.2,15.4
+,2: A day or two before voting,3192,13.2,14.3
+,"3: Earlier, during the campaign",3969,16.4,17.7
+,4: Even before the campaign started,7988,33.0,35.7
+,5: After candidates were declared,2602,10.7,11.6
+,7: Can't say,610,2.5,2.7
+,8: No response,580,2.4,2.6
+,Total,22381,92.3,100.0
+Missing,9: N.A.,1855,7.7,
+Total,,24235,100.0,

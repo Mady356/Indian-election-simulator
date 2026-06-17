@@ -1,0 +1,346 @@
+state,constituency,state_key,constituency_key,in_election_master,in_demographic_panel,in_delimitation_reference,normalized_key_match,coverage_share_present,districts_missing_present,nfhs5_coverage_share,districts_missing,suspected_reason,notes
+Assam,Barpeta,ASSAM,BARPETA,True,True,True,True,True,True,0.0,DIBRUGARH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Assam,Dhubri,ASSAM,DHUBRI,True,True,True,True,True,True,0.0,DIBRUGARH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Assam,Dibrugarh,ASSAM,DIBRUGARH,True,True,True,True,True,True,0.0,DIBRUGARH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Assam,Jorhat,ASSAM,JORHAT,True,True,True,True,True,True,0.0,DIBRUGARH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Assam,Karimganj,ASSAM,KARIMGANJ,True,True,True,True,True,True,0.0,DIBRUGARH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Assam,Kokrajhar,ASSAM,KOKRAJHAR,True,True,True,True,True,True,0.0,DIBRUGARH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Assam,Lakhimpur,ASSAM,LAKHIMPUR,True,True,True,True,True,True,0.0,DIBRUGARH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Assam,Silchar,ASSAM,SILCHAR,True,True,True,True,True,True,0.0,DIBRUGARH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Arrah,BIHAR,ARRAH,True,True,True,True,True,True,0.0,BHOJPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Aurangabad,BIHAR,AURANGABAD,True,True,True,True,True,True,0.0,AURANGABAD; GAYA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Begusarai,BIHAR,BEGUSARAI,True,True,True,True,True,True,0.0,BEGUSARAI,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Buxar,BIHAR,BUXAR,True,True,True,True,True,True,0.0,BUXAR; KAIMUR (BHABUA); ROHTAS,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Darbhanga,BIHAR,DARBHANGA,True,True,True,True,True,True,0.0,DARBHANGA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Gaya,BIHAR,GAYA,True,True,True,True,True,True,0.0,GAYA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Hajipur,BIHAR,HAJIPUR,True,True,True,True,True,True,0.0,VAISHALI,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Jahanabad,BIHAR,JAHANABAD,True,True,True,True,True,True,0.0,JAHANABAD; ARWAL; GAYA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Jamui,BIHAR,JAMUI,True,True,True,True,True,True,0.0,NAWADA; MUNGER,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Karakat,BIHAR,KARAKAT,True,True,True,True,True,True,0.0,AURANGABAD; ROHTAS,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Munger,BIHAR,MUNGER,True,True,True,True,True,True,0.0,MUNGER; PATNA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Muzaffarpur,BIHAR,MUZAFFARPUR,True,True,True,True,True,True,0.0,MUZAFFARPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Nalanda,BIHAR,NALANDA,True,True,True,True,True,True,0.0,NALANDA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Nawada,BIHAR,NAWADA,True,True,True,True,True,True,0.0,NAWADA; SHEIKHPURA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Patna Sahib,BIHAR,PATNA SAHIB,True,True,True,True,True,True,0.0,PATNA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Saran,BIHAR,SARAN,True,True,True,True,True,True,0.0,SARAN,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Sasaram,BIHAR,SASARAM,True,True,True,True,True,True,0.0,KAIMUR (BHABUA); ROHTAS,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Bihar,Vaishali,BIHAR,VAISHALI,True,True,True,True,True,True,0.0,MUZAFFARPUR; VAISHALI,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Gujarat,Amreli,GUJARAT,AMRELI,True,True,True,True,True,True,0.0,AMRELI; BHAVNAGAR; SURAT,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Gujarat,Anand,GUJARAT,ANAND,True,True,True,True,True,True,0.0,ANAND,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Gujarat,Bardoli,GUJARAT,BARDOLI,True,True,True,True,True,True,0.0,SURAT,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Gujarat,Bharuch,GUJARAT,BHARUCH,True,True,True,True,True,True,0.0,BHARUCH; NARMADA; VADODARA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Gujarat,Bhavnagar,GUJARAT,BHAVNAGAR,True,True,True,True,True,True,0.0,BHAVNAGAR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Gujarat,Dahod,GUJARAT,DAHOD,True,True,True,True,True,True,0.0,DAHOD; PANCHMAHALS,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Gujarat,Jamnagar,GUJARAT,JAMNAGAR,True,True,True,True,True,True,0.0,JAMNAGAR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Gujarat,Junagadh,GUJARAT,JUNAGADH,True,True,True,True,True,True,0.0,JUNAGADH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Gujarat,Navsari,GUJARAT,NAVSARI,True,True,True,True,True,True,0.0,SURAT; NAVSARI,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Gujarat,Panchmahal,GUJARAT,PANCHMAHAL,True,True,True,True,True,True,0.0,PANCHMAHALS; KHEDA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Gujarat,Valsad,GUJARAT,VALSAD,True,True,True,True,True,True,0.0,VALSAD; DANGS; NAVSARI,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Haryana,FARIDABAD,HARYANA,FARIDABAD,True,True,True,True,True,True,0.0,FARIDABAD; MAHENDRAGARH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Haryana,GURGAON,HARYANA,GURGAON,True,True,True,True,True,True,0.0,GURGAON; REWARI,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Haryana,HISAR,HARYANA,HISAR,True,True,True,True,True,True,0.0,HISAR; JIND,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Haryana,ROHTAK,HARYANA,ROHTAK,True,True,True,True,True,True,0.0,JHAJJAR; ROHTAK; REWARI,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Haryana,SIRSA,HARYANA,SIRSA,True,True,True,True,True,True,0.0,SIRSA; FATEHABAD; JIND,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Jharkhand,Hazaribagh,JHARKHAND,HAZARIBAGH,True,True,True,True,True,True,0.0,HAZARIBAGH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Karnataka,Bellary,KARNATAKA,BELLARY,True,True,True,True,True,True,0.0,BELLARY,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Karnataka,Davanagere,KARNATAKA,DAVANAGERE,True,True,True,True,True,True,0.0,DAVANAGERE,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Madhya Pradesh,CHHINDWARA,MADHYA PRADESH,CHHINDWARA,True,True,True,True,True,True,0.0,CHHINDWARA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Punjab,Amritsar,PUNJAB,AMRITSAR,True,True,True,True,True,True,0.0,AMRITSAR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Punjab,Bathinda,PUNJAB,BATHINDA,True,True,True,True,True,True,0.0,BATHINDA; MANSA; MUKTSAR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Punjab,Firozpur,PUNJAB,FIROZPUR,True,True,True,True,True,True,0.0,FIROZPUR; MUKTSAR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Punjab,Ludhiana,PUNJAB,LUDHIANA,True,True,True,True,True,True,0.0,LUDHIANA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Punjab,Patiala,PUNJAB,PATIALA,True,True,True,True,True,True,0.0,PATIALA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Agra,UTTAR PRADESH,AGRA,True,True,True,True,True,True,0.0,AZAMGARH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Amroha,UTTAR PRADESH,AMROHA,True,True,True,True,True,True,0.0,SITAPUR; SONBHADRA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Ballia,UTTAR PRADESH,BALLIA,True,True,True,True,True,True,0.0,BALLIA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Banda,UTTAR PRADESH,BANDA,True,True,True,True,True,True,0.0,GHAZIPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Chandauli,UTTAR PRADESH,CHANDAULI,True,True,True,True,True,True,0.0,GHAZIPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Deoria,UTTAR PRADESH,DEORIA,True,True,True,True,True,True,0.0,DEORIA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Domariyaganj,UTTAR PRADESH,DOMARIYAGANJ,True,True,True,True,True,True,0.0,SIDDHARTHNAGAR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Etah,UTTAR PRADESH,ETAH,True,True,True,True,True,True,0.0,BALRAMPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Fatehpur,UTTAR PRADESH,FATEHPUR,True,True,True,True,True,True,0.0,FATEHPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Fatehpur Sikri,UTTAR PRADESH,FATEHPUR SIKRI,True,True,True,True,True,True,0.0,BAHRAICH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Gonda,UTTAR PRADESH,GONDA,True,True,True,True,True,True,0.0,GONDA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Hamirpur,UTTAR PRADESH,HAMIRPUR,True,True,True,True,True,True,0.0,MAHOBA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Hardoi,UTTAR PRADESH,HARDOI,True,True,True,True,True,True,0.0,BALLIA; HARDOI,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Jhansi,UTTAR PRADESH,JHANSI,True,True,True,True,True,True,0.0,LALITPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Kaiserganj,UTTAR PRADESH,KAISERGANJ,True,True,True,True,True,True,0.0,BAHRAICH; GONDA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Kaushambi,UTTAR PRADESH,KAUSHAMBI,True,True,True,True,True,True,0.0,PRATAPGARH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Kheri,UTTAR PRADESH,KHERI,True,True,True,True,True,True,0.0,HARDOI; KUSHI NAGAR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Lucknow,UTTAR PRADESH,LUCKNOW,True,True,True,True,True,True,0.0,DEORIA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Machhlishahr,UTTAR PRADESH,MACHHLISHAHR,True,True,True,True,True,True,0.0,VARANASI,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Mirzapur,UTTAR PRADESH,MIRZAPUR,True,True,True,True,True,True,0.0,AZAMGARH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Misrikh,UTTAR PRADESH,MISRIKH,True,True,True,True,True,True,0.0,BAHRAICH; HARDOI,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Pilibhit,UTTAR PRADESH,PILIBHIT,True,True,True,True,True,True,0.0,KUSHI NAGAR; PILIBHIT,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Pratapgarh,UTTAR PRADESH,PRATAPGARH,True,True,True,True,True,True,0.0,PRATAPGARH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Robertsganj,UTTAR PRADESH,ROBERTSGANJ,True,True,True,True,True,True,0.0,SONBHADRA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Saharanpur,UTTAR PRADESH,SAHARANPUR,True,True,True,True,True,True,0.0,BALLIA; PRATAPGARH; SONBHADRA; VARANASI,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Salempur,UTTAR PRADESH,SALEMPUR,True,True,True,True,True,True,0.0,GHAZIPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Shahjahanpur,UTTAR PRADESH,SHAHJAHANPUR,True,True,True,True,True,True,0.0,BALLIA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Shrawasti,UTTAR PRADESH,SHRAWASTI,True,True,True,True,True,True,0.0,BALRAMPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttar Pradesh,Sitapur,UTTAR PRADESH,SITAPUR,True,True,True,True,True,True,0.0,SITAPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttarakhand,Almora,UTTARAKHAND,ALMORA,True,True,True,True,True,True,0.0,TEHRI GARHWAL; UTTARKASHI; ALMORA; BAGESHWAR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttarakhand,Garhwal,UTTARAKHAND,GARHWAL,True,True,True,True,True,True,0.0,DEHRADUN; GARHWAL; UTTARKASHI; ALMORA; HARDWAR; NAINITAL; PITHORAGARH; UDHAMSINGH NAGAR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+Uttarakhand,Tehri Garhwal,UTTARAKHAND,TEHRI GARHWAL,True,True,True,True,True,True,0.0,UDHAMSINGH NAGAR; ALMORA; BAGESHWAR; HARDWAR; PITHORAGARH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Arambag,WEST BENGAL,ARAMBAG,True,True,True,True,True,True,0.0,HOOGHLY,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Asansol,WEST BENGAL,ASANSOL,True,True,True,True,True,True,0.0,BARDHAMAN,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Baharampur,WEST BENGAL,BAHARAMPUR,True,True,True,True,True,True,0.0,MURSHIDABAD,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Balurghat,WEST BENGAL,BALURGHAT,True,True,True,True,True,True,0.0,DAKSHIN DINAJPUR; UTTAR DINAJPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Bangaon,WEST BENGAL,BANGAON,True,True,True,True,True,True,0.0,NORTH 24 PARGANAS; NADIA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Bankura,WEST BENGAL,BANKURA,True,True,True,True,True,True,0.0,BANKURA; PURULIA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Barasat,WEST BENGAL,BARASAT,True,True,True,True,True,True,0.0,NORTH 24 PARGANAS,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Barrackpur,WEST BENGAL,BARRACKPUR,True,True,True,True,True,True,0.0,NORTH 24 PARGANAS,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Basirhat,WEST BENGAL,BASIRHAT,True,True,True,True,True,True,0.0,NORTH 24 PARGANAS,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Birbhum,WEST BENGAL,BIRBHUM,True,True,True,True,True,True,0.0,BIRBHUM,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Bolpur,WEST BENGAL,BOLPUR,True,True,True,True,True,True,0.0,BIRBHUM; BARDHAMAN,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Coochbehar,WEST BENGAL,COOCHBEHAR,True,True,True,True,True,True,0.0,COOCHBEHAR; BANKURA; BARDHAMAN; NORTH 24 PARGANAS,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Darjeeling,WEST BENGAL,DARJEELING,True,True,True,True,True,True,0.0,DARJEELING; UTTAR DINAJPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Dum dum,WEST BENGAL,DUM DUM,True,True,True,True,True,True,0.0,NORTH 24 PARGANAS,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Ghatal,WEST BENGAL,GHATAL,True,True,True,True,True,True,0.0,PASCHIM MEDINIPUR; PURBO MEDINIPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Hooghly,WEST BENGAL,HOOGHLY,True,True,True,True,True,True,0.0,HOOGHLY,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Howrah,WEST BENGAL,HOWRAH,True,True,True,True,True,True,0.0,HOWRAH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Jadavpur,WEST BENGAL,JADAVPUR,True,True,True,True,True,True,0.0,SOUTH 24 PARGANAS,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Jalpaiguri,WEST BENGAL,JALPAIGURI,True,True,True,True,True,True,0.0,JALPAIGURI; COOCHBEHAR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Jangipur,WEST BENGAL,JANGIPUR,True,True,True,True,True,True,0.0,MURSHIDABAD,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Jaynagar,WEST BENGAL,JAYNAGAR,True,True,True,True,True,True,0.0,SOUTH 24 PARGANAS,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Jhargram,WEST BENGAL,JHARGRAM,True,True,True,True,True,True,0.0,PASCHIM MEDINIPUR; PURBO MEDINIPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Kanthi,WEST BENGAL,KANTHI,True,True,True,True,True,True,0.0,PURBO MEDINIPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Mathurapur,WEST BENGAL,MATHURAPUR,True,True,True,True,True,True,0.0,SOUTH 24 PARGANAS,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Murshidabad,WEST BENGAL,MURSHIDABAD,True,True,True,True,True,True,0.0,MURSHIDABAD; NADIA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Purulia,WEST BENGAL,PURULIA,True,True,True,True,True,True,0.0,PURULIA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Raiganj,WEST BENGAL,RAIGANJ,True,True,True,True,True,True,0.0,UTTAR DINAJPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Ranaghat,WEST BENGAL,RANAGHAT,True,True,True,True,True,True,0.0,NADIA,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Sreerampur,WEST BENGAL,SREERAMPUR,True,True,True,True,True,True,0.0,HOOGHLY; HOWRAH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Tamluk,WEST BENGAL,TAMLUK,True,True,True,True,True,True,0.0,PURBO MEDINIPUR,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+West Bengal,Uluberia,WEST BENGAL,ULUBERIA,True,True,True,True,True,True,0.0,HOWRAH,low_coverage_share,Demographic panel row exists but coverage_share is below 0.5.
+NCT OF Delhi,Chandni Chowk,NCT OF DELHI,CHANDNI CHOWK,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+NCT OF Delhi,East Delhi,NCT OF DELHI,EAST DELHI,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+NCT OF Delhi,New Delhi,NCT OF DELHI,NEW DELHI,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+NCT OF Delhi,North-East Delhi,NCT OF DELHI,NORTH EAST DELHI,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+NCT OF Delhi,South Delhi,NCT OF DELHI,SOUTH DELHI,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+NCT OF Delhi,West Delhi,NCT OF DELHI,WEST DELHI,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Aska,ODISHA,ASKA,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Balasore,ODISHA,BALASORE,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Bargarh,ODISHA,BARGARH,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Berhampur,ODISHA,BERHAMPUR,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Bhadrak,ODISHA,BHADRAK,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Bhubaneswar,ODISHA,BHUBANESWAR,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Bolangir,ODISHA,BOLANGIR,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Cuttack,ODISHA,CUTTACK,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Dhenkanal,ODISHA,DHENKANAL,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Jagatsinghpur,ODISHA,JAGATSINGHPUR,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Jajpur,ODISHA,JAJPUR,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Kalahandi,ODISHA,KALAHANDI,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Kandhamal,ODISHA,KANDHAMAL,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Kendrapara,ODISHA,KENDRAPARA,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Keonjhar,ODISHA,KEONJHAR,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Koraput,ODISHA,KORAPUT,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Mayurbhanj,ODISHA,MAYURBHANJ,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Puri,ODISHA,PURI,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Sambalpur,ODISHA,SAMBALPUR,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Odisha,Sundargarh,ODISHA,SUNDARGARH,True,True,True,False,False,False,,,name_normalization_mismatch,Constituency appears in the demographic panel under a different state naming convention.
+Andaman & Nicobar Islands,Andaman & Nicobar Islands,ANDAMAN & NICOBAR ISLANDS,ANDAMAN NICOBAR ISLANDS,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Amalapuram,ANDHRA PRADESH,AMALAPURAM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Anakapalle,ANDHRA PRADESH,ANAKAPALLE,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Ananthapur,ANDHRA PRADESH,ANANTHAPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Araku,ANDHRA PRADESH,ARAKU,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Bapatla,ANDHRA PRADESH,BAPATLA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Chittoor,ANDHRA PRADESH,CHITTOOR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Eluru,ANDHRA PRADESH,ELURU,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Guntur,ANDHRA PRADESH,GUNTUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Hindupur,ANDHRA PRADESH,HINDUPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Kadapa,ANDHRA PRADESH,KADAPA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Kakinada,ANDHRA PRADESH,KAKINADA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Kurnoolu,ANDHRA PRADESH,KURNOOLU,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Machilipatnam,ANDHRA PRADESH,MACHILIPATNAM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Nandyal,ANDHRA PRADESH,NANDYAL,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Narsapuram,ANDHRA PRADESH,NARSAPURAM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Narsaraopet,ANDHRA PRADESH,NARSARAOPET,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Ongole,ANDHRA PRADESH,ONGOLE,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Rajahmundry,ANDHRA PRADESH,RAJAHMUNDRY,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Rajampet,ANDHRA PRADESH,RAJAMPET,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Srikakulam,ANDHRA PRADESH,SRIKAKULAM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Thirupathi,ANDHRA PRADESH,THIRUPATHI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Vijayawada,ANDHRA PRADESH,VIJAYAWADA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Visakhapatnam,ANDHRA PRADESH,VISAKHAPATNAM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Andhra Pradesh,Vizianagaram,ANDHRA PRADESH,VIZIANAGARAM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Arunachal Pradesh,Arunachal East,ARUNACHAL PRADESH,ARUNACHAL EAST,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Assam,Darrang-Udalguri,ASSAM,DARRANG UDALGURI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Assam,Diphu,ASSAM,DIPHU,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Assam,Guwahati,ASSAM,GUWAHATI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Assam,Kaziranga,ASSAM,KAZIRANGA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Assam,Nagaon,ASSAM,NAGAON,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Assam,Sonitpur,ASSAM,SONITPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Bihar,Gopalganj,BIHAR,GOPALGANJ,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Bihar,Patliputra,BIHAR,PATLIPUTRA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Bihar,Samastipur,BIHAR,SAMASTIPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Chandigarh,Chandigarh,CHANDIGARH,CHANDIGARH,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Chhattisgarh,JANJGIR-CHAMPA,CHHATTISGARH,JANJGIR CHAMPA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Dadra & Nagar Haveli and Daman & Diu,Dadar & Nagar Haveli,DADRA & NAGAR HAVELI & DAMAN & DIU,DADAR NAGAR HAVELI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Dadra & Nagar Haveli and Daman & Diu,Daman & Diu,DADRA & NAGAR HAVELI & DAMAN & DIU,DAMAN DIU,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Gujarat,Ahmedabad West,GUJARAT,AHMEDABAD WEST,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Gujarat,Chhota Udaipur,GUJARAT,CHHOTA UDAIPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Haryana,BHIWANI-MAHENDRAGARH,HARYANA,BHIWANI MAHENDRAGARH,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Himachal Pradesh,HAMIRPUR,HIMACHAL PRADESH,HAMIRPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Himachal Pradesh,KANGRA,HIMACHAL PRADESH,KANGRA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Himachal Pradesh,MANDI,HIMACHAL PRADESH,MANDI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Himachal Pradesh,SHIMLA,HIMACHAL PRADESH,SHIMLA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Jammu and Kashmir,ANANTNAG-RAJOURI,JAMMU & KASHMIR,ANANTNAG RAJOURI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Jammu and Kashmir,BARAMULLA,JAMMU & KASHMIR,BARAMULLA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Jammu and Kashmir,JAMMU,JAMMU & KASHMIR,JAMMU,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Jammu and Kashmir,SRINAGAR,JAMMU & KASHMIR,SRINAGAR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Jammu and Kashmir,UDHAMPUR,JAMMU & KASHMIR,UDHAMPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Jharkhand,Lohardaga,JHARKHAND,LOHARDAGA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Jharkhand,Singhbhum,JHARKHAND,SINGHBHUM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Karnataka,Bangalore South,KARNATAKA,BANGALORE SOUTH,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Karnataka,Bangalore central,KARNATAKA,BANGALORE CENTRAL,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Karnataka,Chamarajanagar,KARNATAKA,CHAMARAJANAGAR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Karnataka,Dakshina Kannada,KARNATAKA,DAKSHINA KANNADA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Karnataka,Udupi Chikmagalur,KARNATAKA,UDUPI CHIKMAGALUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Kerala,Kannur,KERALA,KANNUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Kerala,Thiruvananthapuram,KERALA,THIRUVANANTHAPURAM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Kerala,Wayanad,KERALA,WAYANAD,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Ladakh,Ladakh,LADAKH,LADAKH,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Lakshadweep,Lakshadweep,LAKSHADWEEP,LAKSHADWEEP,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Madhya Pradesh,DHAR,MADHYA PRADESH,DHAR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Madhya Pradesh,HOSHANGABAD,MADHYA PRADESH,HOSHANGABAD,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Madhya Pradesh,KHARGONE,MADHYA PRADESH,KHARGONE,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Madhya Pradesh,UJJAIN,MADHYA PRADESH,UJJAIN,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Ahmednagar,MAHARASHTRA,AHMEDNAGAR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Akola,MAHARASHTRA,AKOLA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Amravati,MAHARASHTRA,AMRAVATI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Aurangabad,MAHARASHTRA,AURANGABAD,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Baramati,MAHARASHTRA,BARAMATI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Bhandara Gondiya,MAHARASHTRA,BHANDARA GONDIYA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Bhiwandi,MAHARASHTRA,BHIWANDI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Dhule,MAHARASHTRA,DHULE,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Dindori,MAHARASHTRA,DINDORI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Gadchiroli - Chimur,MAHARASHTRA,GADCHIROLI CHIMUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Hatkanangale,MAHARASHTRA,HATKANANGALE,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Jalgaon,MAHARASHTRA,JALGAON,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Jalna,MAHARASHTRA,JALNA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Kalyan,MAHARASHTRA,KALYAN,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Kolhapur,MAHARASHTRA,KOLHAPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Madha,MAHARASHTRA,MADHA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Maval,MAHARASHTRA,MAVAL,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Mumbai North,MAHARASHTRA,MUMBAI NORTH,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Mumbai North Central,MAHARASHTRA,MUMBAI NORTH CENTRAL,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Mumbai North East,MAHARASHTRA,MUMBAI NORTH EAST,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Nagpur,MAHARASHTRA,NAGPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Nandurbar,MAHARASHTRA,NANDURBAR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Nashik,MAHARASHTRA,NASHIK,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Osmanabad,MAHARASHTRA,OSMANABAD,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Pune,MAHARASHTRA,PUNE,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Raigad,MAHARASHTRA,RAIGAD,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Ramtek,MAHARASHTRA,RAMTEK,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Ratnagiri- Sindhudurg,MAHARASHTRA,RATNAGIRI SINDHUDURG,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Raver,MAHARASHTRA,RAVER,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Sangli,MAHARASHTRA,SANGLI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Shirdi,MAHARASHTRA,SHIRDI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Shirur,MAHARASHTRA,SHIRUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Solapur,MAHARASHTRA,SOLAPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Wardha,MAHARASHTRA,WARDHA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Maharashtra,Yavatmal- Washim,MAHARASHTRA,YAVATMAL WASHIM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Manipur,Inner Manipur,MANIPUR,INNER MANIPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Manipur,Outer Manipur,MANIPUR,OUTER MANIPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Mizoram,MIZORAM,MIZORAM,MIZORAM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+NCT OF Delhi,North-West Delhi,NCT OF DELHI,NORTH WEST DELHI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Nagaland,Nagaland,NAGALAND,NAGALAND,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Odisha,Nabarangpur,ODISHA,NABARANGPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Puducherry,PUDUCHERRY,PUDUCHERRY,PUDUCHERRY,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Rajasthan,AJMER,RAJASTHAN,AJMER,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Rajasthan,BARMER,RAJASTHAN,BARMER,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Rajasthan,BHARATPUR,RAJASTHAN,BHARATPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Rajasthan,DAUSA,RAJASTHAN,DAUSA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Rajasthan,JAIPUR,RAJASTHAN,JAIPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Rajasthan,JAIPUR RURAL,RAJASTHAN,JAIPUR RURAL,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Rajasthan,JALORE,RAJASTHAN,JALORE,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Rajasthan,JHALAWAR-BARAN,RAJASTHAN,JHALAWAR BARAN,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Rajasthan,JHUNJHUNU,RAJASTHAN,JHUNJHUNU,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Rajasthan,JODHPUR,RAJASTHAN,JODHPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Rajasthan,KARAULI-DHOLPUR,RAJASTHAN,KARAULI DHOLPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Rajasthan,NAGAUR,RAJASTHAN,NAGAUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Rajasthan,TONK-SAWAI MADHOPUR,RAJASTHAN,TONK SAWAI MADHOPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Rajasthan,UDAIPUR,RAJASTHAN,UDAIPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Sikkim,Sikkim,SIKKIM,SIKKIM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,ARAKKONAM,TAMIL NADU,ARAKKONAM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,ARANI,TAMIL NADU,ARANI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,CHENNAI CENTRAL,TAMIL NADU,CHENNAI CENTRAL,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,CHENNAI NORTH,TAMIL NADU,CHENNAI NORTH,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,CHENNAI SOUTH,TAMIL NADU,CHENNAI SOUTH,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,CHIDAMBARAM,TAMIL NADU,CHIDAMBARAM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,COIMBATORE,TAMIL NADU,COIMBATORE,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,CUDDALORE,TAMIL NADU,CUDDALORE,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,DHARMAPURI,TAMIL NADU,DHARMAPURI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,DINDIGUL,TAMIL NADU,DINDIGUL,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,ERODE,TAMIL NADU,ERODE,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,KALLAKURICHI,TAMIL NADU,KALLAKURICHI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,KANCHEEPURAM,TAMIL NADU,KANCHEEPURAM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,KANNIYAKUMARI,TAMIL NADU,KANNIYAKUMARI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,KARUR,TAMIL NADU,KARUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,KRISHNAGIRI,TAMIL NADU,KRISHNAGIRI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,MADURAI,TAMIL NADU,MADURAI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,MAYILADUTHURAI,TAMIL NADU,MAYILADUTHURAI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,NAGAPATTINAM,TAMIL NADU,NAGAPATTINAM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,NAMAKKAL,TAMIL NADU,NAMAKKAL,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,NILGIRIS,TAMIL NADU,NILGIRIS,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,PERAMBALUR,TAMIL NADU,PERAMBALUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,POLLACHI,TAMIL NADU,POLLACHI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,RAMANATHAPURAM,TAMIL NADU,RAMANATHAPURAM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,SALEM,TAMIL NADU,SALEM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,SIVAGANGA,TAMIL NADU,SIVAGANGA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,SRIPERUMBUDUR,TAMIL NADU,SRIPERUMBUDUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,TENKASI,TAMIL NADU,TENKASI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,THANJAVUR,TAMIL NADU,THANJAVUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,THENI,TAMIL NADU,THENI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,THOOTHUKKUDI,TAMIL NADU,THOOTHUKKUDI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,TIRUCHIRAPPALLI,TAMIL NADU,TIRUCHIRAPPALLI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,TIRUNELVELI,TAMIL NADU,TIRUNELVELI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,TIRUPPUR,TAMIL NADU,TIRUPPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,TIRUVALLUR,TAMIL NADU,TIRUVALLUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,TIRUVANNAMALAI,TAMIL NADU,TIRUVANNAMALAI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,VELLORE,TAMIL NADU,VELLORE,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,VILUPPURAM,TAMIL NADU,VILUPPURAM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Tamil Nadu,VIRUDHUNAGAR,TAMIL NADU,VIRUDHUNAGAR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Telangana,Khammam,TELANGANA,KHAMMAM,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Telangana,Nalgonda,TELANGANA,NALGONDA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Telangana,Warangal,TELANGANA,WARANGAL,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Akbarpur,UTTAR PRADESH,AKBARPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Ambedkar Nagar,UTTAR PRADESH,AMBEDKAR NAGAR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Aonla,UTTAR PRADESH,AONLA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Azamgarh,UTTAR PRADESH,AZAMGARH,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Baghpat,UTTAR PRADESH,BAGHPAT,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Baharaich,UTTAR PRADESH,BAHARAICH,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Bansgaon,UTTAR PRADESH,BANSGAON,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Barabanki,UTTAR PRADESH,BARABANKI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Basti,UTTAR PRADESH,BASTI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Bhadohi,UTTAR PRADESH,BHADOHI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Faizabad,UTTAR PRADESH,FAIZABAD,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Gautam Buddha Nagar,UTTAR PRADESH,GAUTAM BUDDHA NAGAR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Gorakhpur,UTTAR PRADESH,GORAKHPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Jalaun,UTTAR PRADESH,JALAUN,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Jaunpur,UTTAR PRADESH,JAUNPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Kannauj,UTTAR PRADESH,KANNAUJ,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Kanpur,UTTAR PRADESH,KANPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Kushi Nagar,UTTAR PRADESH,KUSHI NAGAR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Lalganj,UTTAR PRADESH,LALGANJ,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Maharajganj,UTTAR PRADESH,MAHARAJGANJ,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Mainpuri,UTTAR PRADESH,MAINPURI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Mohanlalganj,UTTAR PRADESH,MOHANLALGANJ,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Phulpur,UTTAR PRADESH,PHULPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Rae Bareli,UTTAR PRADESH,RAE BARELI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Sant Kabir Nagar,UTTAR PRADESH,SANT KABIR NAGAR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttar Pradesh,Varanasi,UTTAR PRADESH,VARANASI,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttarakhand,Haridwar,UTTARAKHAND,HARIDWAR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+Uttarakhand,Nainital-Udhamsingh Nagar,UTTARAKHAND,NAINITAL UDHAMSINGH NAGAR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+West Bengal,Alipurduars,WEST BENGAL,ALIPURDUARS,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+West Bengal,Bardhaman Purba,WEST BENGAL,BARDHAMAN PURBA,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+West Bengal,Bardhaman-Durgapur,WEST BENGAL,BARDHAMAN DURGAPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+West Bengal,Bishnupur,WEST BENGAL,BISHNUPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+West Bengal,Diamond harbour,WEST BENGAL,DIAMOND HARBOUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+West Bengal,Kolkata Dakshin,WEST BENGAL,KOLKATA DAKSHIN,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+West Bengal,Kolkata Uttar,WEST BENGAL,KOLKATA UTTAR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+West Bengal,Krishnanagar,WEST BENGAL,KRISHNANAGAR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+West Bengal,Maldaha Dakshin,WEST BENGAL,MALDAHA DAKSHIN,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+West Bengal,Maldaha Uttar,WEST BENGAL,MALDAHA UTTAR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.
+West Bengal,Medinipur,WEST BENGAL,MEDINIPUR,True,False,False,False,False,False,,,no_delimitation_district_mapping,Constituency is not in the delimitation district reference used by the demographic pipeline.

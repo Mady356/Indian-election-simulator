@@ -1,0 +1,158 @@
+{
+  "bjp_swing_positive": [
+    {
+      "feature": "wealth_index_mean_nfhs5",
+      "correlation": 0.1675,
+      "n_observations": 202,
+      "direction": "positive",
+      "interpretation": "Higher wealth_index_mean_nfhs5 is associated with higher BJP swing. This is correlation, not causation."
+    },
+    {
+      "feature": "mobile_phone_pct_nfhs5",
+      "correlation": 0.1214,
+      "n_observations": 301,
+      "direction": "positive",
+      "interpretation": "Higher mobile_phone_pct_nfhs5 is associated with higher BJP swing. This is correlation, not causation."
+    },
+    {
+      "feature": "mobile_phone_pct_change",
+      "correlation": 0.1184,
+      "n_observations": 274,
+      "direction": "positive",
+      "interpretation": "Higher mobile_phone_pct_change is associated with higher BJP swing. This is correlation, not causation."
+    },
+    {
+      "feature": "electricity_pct_nfhs5",
+      "correlation": 0.1138,
+      "n_observations": 301,
+      "direction": "positive",
+      "interpretation": "Higher electricity_pct_nfhs5 is associated with higher BJP swing. This is correlation, not causation."
+    },
+    {
+      "feature": "bank_account_pct_nfhs5",
+      "correlation": 0.0959,
+      "n_observations": 202,
+      "direction": "positive",
+      "interpretation": "Higher bank_account_pct_nfhs5 is associated with higher BJP swing. This is correlation, not causation."
+    },
+    {
+      "feature": "lpg_pct_nfhs5",
+      "correlation": 0.0781,
+      "n_observations": 301,
+      "direction": "positive",
+      "interpretation": "Higher lpg_pct_nfhs5 is associated with higher BJP swing. This is correlation, not causation."
+    },
+    {
+      "feature": "improved_sanitation_pct_nfhs5",
+      "correlation": 0.0757,
+      "n_observations": 301,
+      "direction": "positive",
+      "interpretation": "Higher improved_sanitation_pct_nfhs5 is associated with higher BJP swing. This is correlation, not causation."
+    },
+    {
+      "feature": "improved_sanitation_pct_change",
+      "correlation": 0.067,
+      "n_observations": 274,
+      "direction": "positive",
+      "interpretation": "Higher improved_sanitation_pct_change is associated with higher BJP swing. This is correlation, not causation."
+    }
+  ],
+  "bjp_swing_negative": [
+    {
+      "feature": "electricity_pct_change",
+      "correlation": -0.1385,
+      "n_observations": 274,
+      "direction": "negative",
+      "interpretation": "Higher electricity_pct_change is associated with lower BJP swing. This is correlation, not causation."
+    },
+    {
+      "feature": "urban_pct_change",
+      "correlation": -0.0401,
+      "n_observations": 274,
+      "direction": "near_zero",
+      "interpretation": "Higher urban_pct_change shows little linear association with BJP swing. This is correlation, not causation."
+    }
+  ],
+  "inc_swing_positive": [
+    {
+      "feature": "improved_sanitation_pct_change",
+      "correlation": 0.0797,
+      "n_observations": 260,
+      "direction": "positive",
+      "interpretation": "Higher improved_sanitation_pct_change is associated with higher INC swing. This is correlation, not causation."
+    },
+    {
+      "feature": "electricity_pct_change",
+      "correlation": 0.0537,
+      "n_observations": 260,
+      "direction": "positive",
+      "interpretation": "Higher electricity_pct_change is associated with higher INC swing. This is correlation, not causation."
+    },
+    {
+      "feature": "electricity_pct_nfhs5",
+      "correlation": 0.0483,
+      "n_observations": 281,
+      "direction": "near_zero",
+      "interpretation": "Higher electricity_pct_nfhs5 shows little linear association with INC swing. This is correlation, not causation."
+    },
+    {
+      "feature": "lpg_pct_change",
+      "correlation": 0.0333,
+      "n_observations": 260,
+      "direction": "near_zero",
+      "interpretation": "Higher lpg_pct_change shows little linear association with INC swing. This is correlation, not causation."
+    },
+    {
+      "feature": "urban_pct_nfhs5",
+      "correlation": 0.0299,
+      "n_observations": 281,
+      "direction": "near_zero",
+      "interpretation": "Higher urban_pct_nfhs5 shows little linear association with INC swing. This is correlation, not causation."
+    },
+    {
+      "feature": "mobile_phone_pct_change",
+      "correlation": 0.0267,
+      "n_observations": 260,
+      "direction": "near_zero",
+      "interpretation": "Higher mobile_phone_pct_change shows little linear association with INC swing. This is correlation, not causation."
+    },
+    {
+      "feature": "lpg_pct_nfhs5",
+      "correlation": 0.0172,
+      "n_observations": 281,
+      "direction": "near_zero",
+      "interpretation": "Higher lpg_pct_nfhs5 shows little linear association with INC swing. This is correlation, not causation."
+    },
+    {
+      "feature": "improved_sanitation_pct_nfhs5",
+      "correlation": 0.015,
+      "n_observations": 281,
+      "direction": "near_zero",
+      "interpretation": "Higher improved_sanitation_pct_nfhs5 shows little linear association with INC swing. This is correlation, not causation."
+    }
+  ],
+  "inc_swing_negative": [
+    {
+      "feature": "wealth_index_mean_nfhs5",
+      "correlation": -0.0305,
+      "n_observations": 193,
+      "direction": "near_zero",
+      "interpretation": "Higher wealth_index_mean_nfhs5 shows little linear association with INC swing. This is correlation, not causation."
+    },
+    {
+      "feature": "bank_account_pct_nfhs5",
+      "correlation": -0.0038,
+      "n_observations": 193,
+      "direction": "near_zero",
+      "interpretation": "Higher bank_account_pct_nfhs5 shows little linear association with INC swing. This is correlation, not causation."
+    },
+    {
+      "feature": "mobile_phone_pct_nfhs5",
+      "correlation": -0.003,
+      "n_observations": 281,
+      "direction": "near_zero",
+      "interpretation": "Higher mobile_phone_pct_nfhs5 shows little linear association with INC swing. This is correlation, not causation."
+    }
+  ],
+  "disclaimer": "Correlations are constituency-level exploratory relationships between demographic indicators and vote swings. They are not causal claims."
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "variable": "improved_sanitation_pct_nfhs5",
+    "non_null_count": 197,
+    "non_null_pct": 36.35,
+    "states_available": 18,
+    "constituencies_available": 197,
+    "correlation_ready_count": 194
+  },
+  {
+    "variable": "lpg_pct_nfhs5",
+    "non_null_count": 197,
+    "non_null_pct": 36.35,
+    "states_available": 18,
+    "constituencies_available": 197,
+    "correlation_ready_count": 194
+  },
+  {
+    "variable": "mobile_phone_pct_nfhs5",
+    "non_null_count": 197,
+    "non_null_pct": 36.35,
+    "states_available": 18,
+    "constituencies_available": 197,
+    "correlation_ready_count": 194
+  },
+  {
+    "variable": "urban_pct_nfhs5",
+    "non_null_count": 197,
+    "non_null_pct": 36.35,
+    "states_available": 18,
+    "constituencies_available": 197,
+    "correlation_ready_count": 194
+  },
+  {
+    "variable": "electricity_pct_nfhs5",
+    "non_null_count": 197,
+    "non_null_pct": 36.35,
+    "states_available": 18,
+    "constituencies_available": 197,
+    "correlation_ready_count": 194
+  },
+  {
+    "variable": "bank_account_pct_nfhs5",
+    "non_null_count": 188,
+    "non_null_pct": 34.69,
+    "states_available": 18,
+    "constituencies_available": 188,
+    "correlation_ready_count": 186
+  },
+  {
+    "variable": "wealth_index_mean_nfhs5",
+    "non_null_count": 188,
+    "non_null_pct": 34.69,
+    "states_available": 18,
+    "constituencies_available": 188,
+    "correlation_ready_count": 186
+  },
+  {
+    "variable": "urban_pct_change",
+    "non_null_count": 169,
+    "non_null_pct": 31.18,
+    "states_available": 16,
+    "constituencies_available": 169,
+    "correlation_ready_count": 168
+  },
+  {
+    "variable": "electricity_pct_change",
+    "non_null_count": 169,
+    "non_null_pct": 31.18,
+    "states_available": 16,
+    "constituencies_available": 169,
+    "correlation_ready_count": 168
+  },
+  {
+    "variable": "improved_sanitation_pct_change",
+    "non_null_count": 169,
+    "non_null_pct": 31.18,
+    "states_available": 16,
+    "constituencies_available": 169,
+    "correlation_ready_count": 168
+  },
+  {
+    "variable": "lpg_pct_change",
+    "non_null_count": 169,
+    "non_null_pct": 31.18,
+    "states_available": 16,
+    "constituencies_available": 169,
+    "correlation_ready_count": 168
+  },
+  {
+    "variable": "mobile_phone_pct_change",
+    "non_null_count": 169,
+    "non_null_pct": 31.18,
+    "states_available": 16,
+    "constituencies_available": 169,
+    "correlation_ready_count": 168
+  },
+  {
+    "variable": "women_secondary_edu_pct_change",
+    "non_null_count": 0,
+    "non_null_pct": 0.0,
+    "states_available": 0,
+    "constituencies_available": 0,
+    "correlation_ready_count": 0
+  },
+  {
+    "variable": "wealth_index_mean_change",
+    "non_null_count": 0,
+    "non_null_pct": 0.0,
+    "states_available": 0,
+    "constituencies_available": 0,
+    "correlation_ready_count": 0
+  },
+  {
+    "variable": "male_literacy_pct_change",
+    "non_null_count": 0,
+    "non_null_pct": 0.0,
+    "states_available": 0,
+    "constituencies_available": 0,
+    "correlation_ready_count": 0
+  },
+  {
+    "variable": "female_literacy_pct_change",
+    "non_null_count": 0,
+    "non_null_pct": 0.0,
+    "states_available": 0,
+    "constituencies_available": 0,
+    "correlation_ready_count": 0
+  },
+  {
+    "variable": "fertility_rate_nfhs5",
+    "non_null_count": 0,
+    "non_null_pct": 0.0,
+    "states_available": 0,
+    "constituencies_available": 0,
+    "correlation_ready_count": 0
+  },
+  {
+    "variable": "bank_account_pct_change",
+    "non_null_count": 0,
+    "non_null_pct": 0.0,
+    "states_available": 0,
+    "constituencies_available": 0,
+    "correlation_ready_count": 0
+  },
+  {
+    "variable": "male_literacy_pct_nfhs5",
+    "non_null_count": 0,
+    "non_null_pct": 0.0,
+    "states_available": 0,
+    "constituencies_available": 0,
+    "correlation_ready_count": 0
+  },
+  {
+    "variable": "female_literacy_pct_nfhs5",
+    "non_null_count": 0,
+    "non_null_pct": 0.0,
+    "states_available": 0,
+    "constituencies_available": 0,
+    "correlation_ready_count": 0
+  },
+  {
+    "variable": "women_secondary_edu_pct_nfhs5",
+    "non_null_count": 0,
+    "non_null_pct": 0.0,
+    "states_available": 0,
+    "constituencies_available": 0,
+    "correlation_ready_count": 0
+  },
+  {
+    "variable": "fertility_rate_change",
+    "non_null_count": 0,
+    "non_null_pct": 0.0,
+    "states_available": 0,
+    "constituencies_available": 0,
+    "correlation_ready_count": 0
+  }
+]

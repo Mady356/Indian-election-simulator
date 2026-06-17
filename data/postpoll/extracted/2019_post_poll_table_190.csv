@@ -1,0 +1,33 @@
+col_0,col_1,N,(%),Valid (%)
+,"64: Furniture, basket, mat makers",19,.1,.1
+,65: Rickshaw-pullers,64,.3,.5
+,66: Unskilled labourers,209,.9,1.6
+,69: Other semi-skilled and unskilled workers,1032,4.3,7.8
+,70: Owner-cultivators 20 + Acres,78,.3,.6
+,71: Owner-cultivators 10-20 Acres,120,.5,.9
+,72: Owner-cultivators 5-10 Acres,431,1.8,3.2
+,73: Owner-cultivators 1-5 Acres,1426,5.9,10.7
+,74: Owner-cultivators 0-1 Acre,525,2.2,3.9
+,75: Tenant-cultivators 5+ Acres,114,.5,.9
+,76: Tenant-cultivators 0-5 Acres,474,2.0,3.6
+,77: Plantation workers,58,.2,.4
+,78: Agricultural labourers rearers,1581,6.5,11.9
+,79: Other agriculture workers,301,1.2,2.3
+,80: Live-stock farming,27,.1,.2
+,81: Dairy farming,60,.2,.4
+,82: Poultry farming,13,.1,.1
+,83: Shepherds,11,.0,.1
+,84: Forest produce gatherer,5,.0,.0
+,85: Hunters and trappers,0,.0,.0
+,86: Fishermen,31,.1,.2
+,89: Other breeders and cattle,19,.1,.1
+,90: House-wife/husband,43,.2,.3
+,91: Students not seeking employment,9,.0,.1
+,92: Employment seekers,8,.0,.1
+,"93: Unemployed workers, non-workers",49,.2,.4
+,95: Any other occupation,51,.2,.4
+,"96: Political activists, missionaries",5,.0,.0
+,98: Unidentifiable or unclassifiable,1466,6.0,11.0
+,Total,13306,54.9,100.0
+Missing,99: Not ascertained,10929,45.1,
+Total,,24235,100.0,

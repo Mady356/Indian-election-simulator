@@ -1,0 +1,103 @@
+state,lok_sabha_no,lok_sabha_constituency,reservation_status,assembly_no,assembly_constituency,source_page,raw_text,parse_confidence
+Andhra Pradesh,14,BHONGIR,,,,31,,low
+Andhra Pradesh,27,ELURU,,,,32,,low
+Andhra Pradesh,41,RAJAMPET,,,,33,,low
+Andhra Pradesh,42,CHITTOOR,SC,,,34,,low
+Arunachal Pradesh,2,ARUNAHCAL EAST,,,,43,,low
+Assam,11,Kaliabor,,,,74,,low
+Assam,14,Lakhimpur,,,,75,,low
+Bihar,14,Darbhanga,,,,96,,low
+Bihar,31,Pataliputra,,,,97,,low
+Bihar,40,Jamui,SC,,,98,,low
+Chhattisgarh,10,Bastar,ST,,,110,,low
+Chhattisgarh,11,Kanker,ST,,,111,,low
+Goa,2,South Goa,,,,116,,low
+Gujarat,14,Amreli,,,,148,,low
+Gujarat,26,Valsad,ST,,,149,,low
+Haryana,10,Faridabad,,,,159,,low
+Himachal Pradesh,3,Hamirpur,,,,166,,low
+Jharkhand,14,Hazaribagh,,,,176,,low
+Karnataka,11,Dharwad,,,,208,,low
+Karnataka,24,Bangalore North,,,,209,,low
+Karnataka,28,Kolar,SC,,,210,,low
+Kerala,12,Ernakulam,,,,225,,low
+Kerala,20,"Thiruvanantha puram                    -puram, 135- Nemom, 137- Parassala, 139- Kovalam and Particulars of Panchayats which are spread over in more than one district.",,,,227,,low
+Madhya Pradesh,11,SIDHI,,,,252,,low
+Madhya Pradesh,22,"UJJAIN (SC) 212 Nagada-Khachrod, 213 Mahidpur, 214 Tarana (SC)",,,,252,"215 Ghatiya (SC),      216 Ujjain Uttar,     217 Ujjain Dakshin,
+218 Badnagar and 223 Alot (SC).",low
+Madhya Pradesh,23,MANDSOUR,,,,253,,low
+Madhya Pradesh,25,"DHAR (ST) 196 Sardarpur (ST), 197 Gandhwani (ST), 198 Kukshi (ST)",,,,253,"199 Manawar (ST),       200 Dharampuri    (ST), 201 Dhar,
+202 Badnawar and 209 Dr.Ambedkarnagar-Mhow.",low
+Madhya Pradesh,29,BETUL,ST,,,254,,low
+Maharashtra,14,Yavatmal,,,,278,,low
+Maharashtra,28,"Mumbai North- 155 Mulund, 156. Vikhroli, 157. Bhandup West, 169. Ghatkopar East             West, 170. Ghatkopar East and 171 Mankhurd Shivaji Nagar.",,,,278,,low
+Maharashtra,30,Mumbai South Central,,,,279,,low
+Maharashtra,46,Ratnagiri – Sindhudurg,,,,280,,low
+Maharashtra,48,Hatkanangle,,,,281,,low
+Meghalaya,2,TURA,ST,,,303,,low
+Orissa,12,"NABARANGPUR (ST) 73. Umarkote (ST), 74. Jharigam (ST), 75. Nabarangpur (ST)",,,,336,,low
+Orissa,21,KORAPUT,ST,,,337,,low
+Punjab,11,Bathinda,,,,350,,low
+Punjab,13,Patiala,,,,351,,low
+Rajasthan,15,Pali,,,,367,,low
+Rajasthan,25,Jhalawar,,,,368,,low
+Tamil Nadu,1,"TIRUVALLUR (SC) 1 Gummidipoondi, 2 Ponneri (SC), 4 Tiruvallur",,,,448,"5 Poonamallee (SC), 6 Avadi and 9 Madavaram.",low
+Tamil Nadu,2,"CHENNAI NORTH 10 Tiruvottiyur, 11 Dr.Radhakrishnan Nagar, 12 Perambur",,,,448,"13 Kolathur, 15 Thiru-Vi-Ka-Nagar (SC) and 17 Royapuram.",low
+Tamil Nadu,5,"SRIPERUMBUDUR 7 Maduravoyal, 8 Ambattur, 28 Alandur, 29 Sriperumbudur",,,,448,"(SC),            30 Pallavaram and 31 Tambaram.",low
+Tamil Nadu,6,"KANCHEEPURAM (SC) 32 Chengalpattu, 33 Thiruporur, 34 Cheyyur (SC)",,,,448,"35 Madurantakam (SC), 36                   Uthiramerur and
+37 Kancheepuram.",low
+Tamil Nadu,7,"ARAKKONAM 3 Tiruttani, 38 Arakkonam (SC), 39 Sholingur, 40 Katpadi",,,,448,41 Ranipet and 42 Arcot.,low
+Tamil Nadu,8,"VELLORE 43 Vellore, 44 Anaikattu, 45 Kilvaithinankuppam (SC)",,,,448,"46 Gudiyattam (SC), 47 Vaniyambadi and 48 Ambur.",low
+Tamil Nadu,9,"KRISHNAGIRI 51 Uthangarai (SC), 52 Bargur, 53 Krishnagiri",,,,448,"54 Veppanahalli, 55 Hosur and 56 Thalli.",low
+Tamil Nadu,10,"DHARMAPURI 57 Palacodu, 58 Pennagaram, 59 Dharmapuri",,,,448,"60 Pappireddippatti,          61 Harur (SC) and 85 Mettur.",low
+Tamil Nadu,11,"TIRUVANNAMALAI 49 Jolarpet, 50 Tiruppattur, 62 Chengam (SC)",,,,448,"63 Tiruvannamalai, 64 Kilpennathur and 65 Kalasapakkam.",low
+Tamil Nadu,12,"ARANI 66 Polur, 67 Arani, 68 Cheyyar, 69 Vandavasi (SC)",,,,448,70 Gingee and 71 Mailam.,low
+Tamil Nadu,13,"VILUPPURAM (SC) 72 Tindivanam (SC), 73 Vanur (SC), 74 Viluppuram",,,,448,"75 Vikravandi, 76 Tirukkoyilur and 77 Ulundurpettai.",low
+Tamil Nadu,14,"KALLAKURICHI 78 Rishivandiyam, 79 Sankarapuram, 80 Kallakurichi (SC)",,,,449,,low
+Tamil Nadu,15,"SALEM 84 Omalur, 86 Edappadi, 88 Salem (West), 89 Salem",,,,449,"(North), 90 Salem (South) and    91 Veerapandi.",low
+Tamil Nadu,16,"NAMAKKAL 87 Sankari, 92 Rasipuram (SC), 93 Senthamangalam (ST)",,,,449,"94 Namakkal, 95 Paramathi-Velur and 96 Tiruchengodu.",low
+Tamil Nadu,17,"ERODE 97 Kumarapalayam, 98 Erode (East), 99 Erode (West)",,,,449,"100 Modakkurichi, 101 Dharapuram (SC) and102 Kangayam.",low
+Tamil Nadu,18,"TIRUPPUR 103 Perundurai, 104 Bhavani, 105 Anthiyur",,,,449,"106 Gobichettipalayam, 113 Tiruppur (North) and
+114 Tiruppur (South).",low
+Tamil Nadu,19,"NILGIRIS (SC) 107 Bhavanisagar (SC), 108 Udhagamandalam, 109 Gudalur",,,,449,"(SC), 110 Coonoor, 111 Mettuppalayam and 112 Avanashi
+(SC).",low
+Tamil Nadu,20,"COIMBATORE 115 Palladam, 116 Sulur, 117 Kavundampalayam",,,,449,"118 Coimbatore (North), 120 Coimbatore (South) and
+121 Singanallur.",low
+Tamil Nadu,21,"POLLACHI 119 Thondamuthur, 122 Kinathukadavu, 123 Pollachi",,,,449,"124    Valparai   (SC),       125    Udumalaipettai  and
+126 Madathukulam.",low
+Tamil Nadu,22,"DINDIGUL 127 Palani, 128 Oddanchatram, 129 Attur, 130 Nilakkottai",,,,449,"(SC), 131 Natham and 132 Dindigul.",low
+Tamil Nadu,23,"KARUR 133 Vedasandur, 134 Aravakurichi, 135 Karur",,,,449,"136 Krishnarayapuram (SC), 138 Manapparai and
+179 Viralimalai.",low
+Tamil Nadu,24,"TIRUCHIRAPPALLI 139 Srirangam, 140 Tiruchirappalli (West), 141 Tiruchirappalli",,,,449,"(East), 142 Thiruverumbur, 178 Gandarvakottai (SC), and
+180 Pudukkottai.",low
+Tamil Nadu,25,"PERAMBALUR 137 Kulithalai, 143 Lalgudi, 144 Manachanallur 145 Musiri",,,,449,146 Thuraiyur (SC) and 147 Perambalur (SC).,low
+Tamil Nadu,26,"CUDDALORE 151 Tittakudi (SC), 152 Vriddhachalam, 153 Neyveli, 154",,,,449,"Panruti, 155 Cuddalore and 156 Kurinjipadi.",low
+Tamil Nadu,27,"CHIDAMBARAM (SC) 148 Kunnam, 149 Ariyalur, 150 Jayankondam, 157",,,,449,"Bhuvanagiri, 158 Chidambaram and 159 Kattumannarkoil
+(SC).",low
+Tamil Nadu,28,"MAYILADUTHURAI 160 Sirkazhi (SC), 161 Mayiladuthurai, 162 Poompuhar",,,,450,,low
+Tamil Nadu,29,"NAGAPATTINAM (SC) 163 Nagapattinam, 164 Kilvelur (SC), 165 Vedaranyam",,,,450,"166 Thiruthuraipoondi    (SC), 168 Thiruvarur and
+169 Nannilam.",low
+Tamil Nadu,30,"THANJAVUR 167 Mannargudi, 173 Thiruvaiyaru, 174 Thanjavur",,,,450,"175 Orathanadu, 176 Pattukkottai and 177 Peravurani.",low
+Tamil Nadu,31,"SIVAGANGA 181 Thirumayam, 182 Alangudi, 184 Karaikudi",,,,450,"185 Tiruppattur, 186 Sivaganga and 187 Manamadurai (SC).",low
+Tamil Nadu,32,"MADURAI 188 Melur, 189 Madurai East, 191 Madurai North, 192",,,,450,"Madurai South, 193 Madurai Central and 194 Madurai West.",low
+Tamil Nadu,33,"THENI 190 Sholavandan (SC), 197 Usilampatti, 198 Andipatti",,,,450,"199 Periyakulam (SC),     200 Bodinayakanur and
+201 Cumbum.",low
+Tamil Nadu,34,"VIRUDHUNAGAR 195 Thiruparankundram, 196 Tirumangalam, 204 Sattur",,,,450,"205 Sivakasi, \206 Virudhunagar and 207 Aruppukkottai.",low
+Tamil Nadu,35,"RAMANATHAPURAM 183 Aranthangi , 208 Tiruchuli, 209 Paramakudi (SC), 210",,,,450,"Tiruvadanai, 211 Ramanathapuram and 212 Mudhukulathur.",low
+Tamil Nadu,36,"THOOTHUKKUDI 213 Vilathikulam, 214 Thoothukkudi, 215 Tiruchendur",,,,450,"216 Srivaikuntam, 217 Ottapidaram (SC) and 218 Kovilpatti.",low
+Tamil Nadu,37,"TENKASI (SC) 202 Rajapalayam, 203 Srivilliputhur (SC), 219 Sankarankovil",,,,450,"(SC), 220 Vasudevanallur (SC), 221 Kadayanallur and 222
+Tenkasi.",low
+Tamil Nadu,38,"TIRUNELVELI 223 Alangulam, 224 Tirunelveli, 225 Ambasamudram",,,,450,"226 Palayamkottai, 227 Nanguneri and 228 Radhapuram.",low
+Tamil Nadu,39,"KANNIYAKUMARI 229 Kanniyakumari, 230 Nagercoil, 231 Colachel",,,,451,,low
+Tripura,2,Tripura East,ST,,,459,,low
+Uttar Pradesh,15,Aligarh,,,,503,,low
+Uttar Pradesh,32,Misrikh,SC,,,504,,low
+Uttar Pradesh,49,Fatehpur,,,,505,,low
+Uttar Pradesh,66,Deoria,,,,506,,low
+Uttar Pradesh,80,Robertsganj,SC,,,507,,low
+Uttarakhand,5,Hardwar,,,,517,,low
+West Bengal,10,BAHARAMPUR,,,,541,,low
+West Bengal,22,JADAVPUR,,,,542,,low
+West Bengal,34,MEDINIPUR KHARAGPUR SADAR,,,,543,,low
+West Bengal,42,BIRBHUM,,,,544,,low
+Delhi,7,South Delhi,,,,558,,low

@@ -1,0 +1,4 @@
+year,geography_level,state,voter_group_type,voter_group,party_or_alliance,pre_poll_vote_share,post_poll_vote_share,pre_to_post_shift,absolute_shift,shift_direction,pre_source_table,post_source_table,confidence,notes
+2019,national,,gender,,INDIA,4.3,8.0,3.7,3.7,increased_post_poll,2019_pre_poll_table_084.csv,2019_post_poll_table_033.csv,medium,
+2019,national,,religion,,NDA,6.0,84.0,78.0,78.0,increased_post_poll,2019_pre_poll_table_106.csv,2019_post_poll_table_194.csv,medium,
+2024,national,,gender,,NDA,6.0,12.8,6.8,6.8,increased_post_poll,2024_pre_poll_table_014.csv,2024_post_poll_table_068.csv,medium,

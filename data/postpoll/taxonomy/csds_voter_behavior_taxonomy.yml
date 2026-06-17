@@ -1,0 +1,430 @@
+# CSDS-Lokniti voter-behavior taxonomy
+# Edit this file to tune keyword search and canonical group labels.
+
+poll_types:
+  - pre_poll
+  - post_poll
+
+geography_levels:
+  - national
+  - state
+  - region
+
+voter_group_types:
+  gender:
+    groups:
+      - men
+      - women
+    aliases:
+      women:
+        - women
+        - woman
+        - female
+        - females
+      men:
+        - men
+        - man
+        - male
+        - males
+    keywords:
+      - women
+      - woman
+      - female
+      - men
+      - male
+      - gender
+
+  age:
+    groups:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56_plus
+      - youth
+      - elderly
+    keywords:
+      - age
+      - youth
+      - young
+      - elderly
+
+  religion:
+    groups:
+      - Hindu
+      - Muslim
+      - Christian
+      - Sikh
+      - Other religion
+    aliases:
+      Hindu:
+        - hindu
+        - hindus
+      Muslim:
+        - muslim
+        - muslims
+      Christian:
+        - christian
+        - christians
+      Sikh:
+        - sikh
+        - sikhs
+    keywords:
+      - religion
+      - religious
+      - hindu
+      - muslim
+      - christian
+      - sikh
+
+  caste:
+    groups:
+      - SC
+      - ST
+      - OBC
+      - Upper caste
+      - Dalit
+      - Adivasi
+    aliases:
+      SC:
+        - sc
+        - scheduled caste
+        - scheduled castes
+        - dalit
+        - dalits
+      ST:
+        - st
+        - scheduled tribe
+        - scheduled tribes
+        - adivasi
+        - adivasis
+      OBC:
+        - obc
+        - other backward classes
+        - backward caste
+        - backward castes
+      Upper caste:
+        - upper caste
+        - upper castes
+      Dalit:
+        - dalit
+        - dalits
+      Adivasi:
+        - adivasi
+        - adivasis
+    keywords:
+      - caste
+      - community
+      - sc
+      - st
+      - obc
+      - dalit
+      - adivasi
+      - upper caste
+
+  class:
+    groups:
+      - poor
+      - lower class
+      - middle class
+      - upper class
+      - rich
+    keywords:
+      - class
+      - income
+      - poor
+      - rich
+      - economic status
+
+  education:
+    groups:
+      - no education
+      - primary
+      - secondary
+      - college
+      - graduate
+    aliases:
+      no education:
+        - no education
+        - illiterate
+        - no schooling
+      primary:
+        - primary
+        - primary school
+      secondary:
+        - secondary
+        - high school
+      college:
+        - college
+        - undergraduate
+      graduate:
+        - graduate
+        - post graduate
+        - postgraduate
+    keywords:
+      - education
+      - educated
+      - literacy
+      - graduate
+      - school
+      - college
+
+  rural_urban:
+    groups:
+      - rural
+      - urban
+    aliases:
+      rural:
+        - rural
+        - village
+        - villages
+      urban:
+        - urban
+        - town
+        - towns
+        - city
+        - cities
+    keywords:
+      - rural
+      - urban
+      - village
+      - town
+      - city
+
+  welfare_beneficiary:
+    groups:
+      - beneficiary
+      - non_beneficiary
+      - received welfare
+      - did not receive welfare
+    keywords:
+      - welfare
+      - beneficiary
+      - scheme
+      - ration
+      - gas
+      - toilet
+      - housing
+      - cash transfer
+      - government scheme
+
+  issue_preference:
+    groups:
+      - unemployment
+      - inflation
+      - corruption
+      - welfare
+      - leadership
+      - development
+      - caste
+      - religion
+      - nationalism
+    keywords:
+      - unemployment
+      - inflation
+      - corruption
+      - welfare
+      - leadership
+      - development
+      - nationalism
+      - issue
+
+  electorate:
+    groups:
+      - all voters
+      - all respondents
+    keywords:
+      - all india
+      - all respondents
+      - total sample
+      - national sample
+
+party_or_alliance:
+  canonical:
+    - BJP
+    - INC
+    - NDA
+    - INDIA
+    - UPA
+    - Others
+    - Regional
+    - BSP
+    - SP
+    - AAP
+    - TMC
+    - DMK
+    - AIADMK
+    - BJD
+  aliases:
+    BJP:
+      - bjp
+      - bharatiya janata party
+      - b.j.p.
+      - bharatiya janta party
+    INC:
+      - inc
+      - congress
+      - indian national congress
+      - cong.
+      - cong
+    NDA:
+      - nda
+      - national democratic alliance
+    INDIA:
+      - india alliance
+      - india bloc
+      - indian national developmental inclusive alliance
+    UPA:
+      - upa
+      - united progressive alliance
+    Others:
+      - others
+      - other
+      - independents
+      - other parties
+      - nota
+      - can't say
+      - cant say
+      - no response
+    Regional:
+      - regional
+      - regional parties
+    BSP:
+      - bsp
+      - bahujan samaj party
+    SP:
+      - sp
+      - samajwadi party
+    AAP:
+      - aap
+      - aam aadmi party
+      - aam admi party
+    TMC:
+      - tmc
+      - aitc
+      - trinamool
+      - all india trinamool congress
+    DMK:
+      - dmk
+      - dravida munnetra kazhagam
+    AIADMK:
+      - aiadmk
+      - all india anna dravida munnetra kazhagam
+    BJD:
+      - bjd
+      - biju janata dal
+  keywords:
+    - bjp
+    - congress
+    - inc
+    - nda
+    - india
+    - upa
+    - others
+    - party
+    - vote
+    - voted
+    - voting preference
+    - vote choice
+
+table_type_keywords:
+  voter_group_party_table:
+    - vote share
+    - vote choice
+    - voting preference
+    - party
+    - bjp
+    - congress
+    - men
+    - women
+    - hindu
+    - muslim
+    - caste
+    - rural
+    - urban
+  pre_poll_vote_intention_table:
+    - vote intention
+    - likely to vote
+    - pre-poll
+    - if election
+    - if lok sabha elections are held
+    - which party will you vote
+    - preference
+  post_poll_vote_choice_table:
+    - whom did you vote
+    - who did you vote
+    - voted for
+    - which party did you vote
+    - post-poll
+    - actual vote
+  issue_preference_table:
+    - important issue
+    - main issue
+    - issue preference
+    - unemployment
+    - inflation
+  methodology_table:
+    - methodology
+    - sample size
+    - fieldwork
+    - weighting
+    - margin of error
+  questionnaire_table:
+    - questionnaire
+    - codebook
+    - q.
+    - item number
+    - response code
+    - interview schedule
+    - coding sheet
+    - media code
+    - newspaper code
+
+vote_context_positive:
+  - voted for
+  - vote choice
+  - voting preference
+  - party preference
+  - support for
+  - which party did you vote
+  - who did you vote
+  - whom did you vote
+  - which party will you vote
+  - if election
+  - if lok sabha
+  - if assembly elections
+
+vote_context_negative:
+  - questionnaire
+  - interview schedule
+  - coding sheet
+  - media code
+  - newspaper code
+  - sample details
+  - fieldwork
+  - methodology
+  - contacted by the following parties
+  - come to your house
+  - phone call
+  - whatsapp
+
+skip_labels:
+  - total
+  - all
+  - all voters
+  - respondents
+  - sample
+  - n
+  - n=
+  - dk
+  - don't know
+  - refused
+  - nota
+  - valid
+  - missing
+  - valid (%)
+  - "1: no"
+  - "2: yes"
+  - "97: don't know"
+  - "98: did not respond"
+  - "98: no response"

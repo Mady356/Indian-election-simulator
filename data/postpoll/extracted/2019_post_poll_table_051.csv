@@ -1,0 +1,34 @@
+col_0,col_1,N,(%)
+,054: BBM,15,.1
+,056: SWP,2,.0
+,060: NPF,15,.1
+,061: NPP,7,.0
+,062: MNDF,0,.0
+,064: UDP,2,.0
+,065: HSPDP,0,.0
+,070: BJD,315,1.3
+,071: SAD,89,.4
+,074: SAD-T,2,.0
+,075: SAD(Amritsar),2,.0
+,078: BVP,9,.0
+,080: SKM,1,.0
+,082: TRS,240,1.0
+,083: AIADMK,415,1.7
+,084: AMMK,12,.1
+,085: DMK,301,1.2
+,086: DMDK,2,.0
+,087: PMK,79,.3
+,089: MDMK,14,.1
+,101: RLD,37,.2
+,109: Left Front,2,.0
+,110: SUCI,1,.0
+,120: NDPP,3,.0
+,121: BLF,1,.0
+,124: NTK,11,.0
+,126: VBA,27,.1
+,131: UDF supported Independent,7,.0
+,132: LDF supported Independent,8,.0
+,139: JMBP,4,.0
+,900: Independent,13,.1
+,901: No party,4,.0
+,902: NOTA,10,.0

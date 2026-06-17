@@ -1,0 +1,26 @@
+# Exclude virtualenv, large data, and generated artifacts
+venv/
+.venv/
+__pycache__/
+data/raw/
+data/database/
+data/processed/
+data/demographics/
+data/outputs/
+data/scenarios/
+visualizer/data/
+*.zip
+*.xls
+*.xlsx
+*.parquet
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.sav
+*.dta
+*.ipynb
+*.csv
+.DS_Store
+.understand-anything/

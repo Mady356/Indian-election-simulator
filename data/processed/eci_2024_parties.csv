@@ -1,0 +1,753 @@
+sr_no,party_type,abbreviation,party_symbol,party_name,year
+1,N,AAAP,Broom,Aam Aadmi Party,2024
+2,N,BJP,Lotus,Bharatiya Janata Party,2024
+3,N,BSP,Elephant,Bahujan Samaj Party,2024
+4,N,CPI(M),"Hammer, Sickle and Star",Communist Party of India (Marxist),2024
+5,N,INC,Hand,Indian National Congress,2024
+6,N,NPEP,Book,National People's Party,2024
+7,S,ADAL,Cup & saucer,Apna Dal (Soneylal),2024
+8,S,ADMK,Two leaves,All India Anna Dravida Munnetra Kazhagam,2024
+9,S,AGP,Elephant,Asom Gana Parishad,2024
+10,S,AIFB,Lion,All India Forward Bloc,2024
+11,S,AIMIM,Kite,All India Majlis-E-Ittehadul Muslimeen,2024
+12,S,AITC,Flowers and Grass,All India Trinamool Congress,2024
+13,S,AIUDF,Lock and key,All India United Democratic Front,2024
+14,S,AJSUP,Banana,AJSU Party,2024
+15,S,BHRS,Car,Bharat Rashtra Samithi,2024
+16,S,BJD,Conch,Biju Janata Dal,2024
+17,S,BOPF,Nangol,Bodoland Peoples Front,2024
+18,S,CPI,Ears of corn and sickle,Communist Party of India,2024
+19,S,CPI(ML)(L),Flag with three stars,Communist Party of India (Marxist-Leninist) (Liberation),2024
+20,S,DMDK,Nagara,Desiya Murpokku Dravida Kazhagam,2024
+21,S,DMK,Rising sun,Dravida Munnetra Kazhagam,2024
+22,S,INLD,Spectacles,Indian National Lok Dal,2024
+23,S,IUML,Ladder,Indian Union Muslim League,2024
+24,S,JD(S),A lady farmer carrying paddy on her head,Janata Dal (Secular),2024
+25,S,JD(U),Arrow,Janata Dal (United),2024
+26,S,JKN,Plough,Jammu & Kashmir National Conference,2024
+27,S,JKNPPB,Table,Jammu & Kashmir National Panthers Party (Bhim),2024
+28,S,JKPDP,Ink pot & pen,Jammu & Kashmir Peoples Democratic Party,2024
+29,S,JMM,Bow & arrow,Jharkhand Mukti Morcha,2024
+30,S,JNJP,Key,Jannayak Janta Party,2024
+31,S,KEC(M),Two leaves,Kerala Congress (M),2024
+32,S,LJPRV,Helicopter,Lok Janshakti Party(Ram Vilas),2024
+33,S,MNF,Star,Mizo National Front,2024
+34,S,NCP,Clock,Nationalist Congress Party,2024
+35,S,NCPSP,Man blowing turha,Nationalist Congress Party – Sharadchandra Pawar,2024
+36,S,NDPP,Globe,Nationalist Democratic Progressive Party,2024
+37,S,NPF,Cock,Naga Peoples Front,2024
+38,S,RJD,Hurricane lamp,Rashtriya Janata Dal,2024
+39,S,RLTP,Bottle,Rashtriya Loktantrik Party,2024
+40,S,RSP,"Electric pole,Spade & stoker",Revolutionary Socialist Party,2024
+41,S,RVLTGONP,Football,Revolutionary Goans Party,2024
+42,S,SAD,Scales,Shiromani Akali Dal,2024
+43,S,SDF,Umbrella,Sikkim Democratic Front,2024
+44,S,SHS,Bow and arrow,Shiv Sena,2024
+45,S,SHSUBT,Flaming torch,Shiv Sena (Uddhav Balasaheb Thackrey),2024
+46,S,SKM,Table lamp,Sikkim Krantikari Morcha,2024
+47,S,SP,"Bicycle,Bicycle pump",Samajwadi Party,2024
+48,S,TDP,Bicycle,Telugu Desam,2024
+49,S,UDP,Drum,United Democratic Party,2024
+50,S,UPPL,Tractor chalata kisan,"United People’s Party, Liberal",2024
+51,S,VOTPP,Winnower,Voice of the People Party,2024
+52,S,YSRCP,Ceiling fan,Yuvajana Sramika Rythu Congress Party,2024
+53,S,ZPM,Hat,Zoram People’s Movement,2024
+54,U,AACP,Batsman,Adarshwaadi Congress Party,2024
+55,U,AADMPRVTNP,"Auto- rickshaw,Ship",Aam Aadmi Parivartan Party,2024
+56,U,AADP,Cauliflower,Azad Party,2024
+57,U,AAPP,"Battery Torch,Nagrik",Aapki Apni Party (Peoples),2024
+58,U,AAS,"Almirah,Auto- rickshaw,Ship,Throwing a javelin",Azad Adhikar Sena,2024
+59,U,AaSamP,Bucket,Aadim Samaj Party,2024
+60,U,AaSaP,Battery Torch,Aman Samaj Party,2024
+61,U,AASPP,Pen nib with seven rays,Aap Sabki Apni Party,2024
+62,U,ABASP,Road roller,Akhil Bhartiya Aarakshit Samaj Party,2024
+63,U,ABCD(A),Pressure cooker,Akhil Bharatiya Congress Dal (Ambedkar),2024
+64,U,ABD,Telephone,Adim Bhartiya Dal,2024
+65,U,ABHASP,Auto- rickshaw,Abhay Samaj Party,2024
+66,U,ABHKP,Football player,Akhil Bharatiya Hind Kranti Party,2024
+67,U,ABHM,"Almirah,Road roller",Akhil Bharat Hindu Mahasabha,2024
+68,U,ABHRTJNSVP,Whistle,Abhinav Bharat Janseva Paksh,2024
+69,U,ABHSP,Cot,Akhil Bhartiya Hamara Samaj Party,2024
+70,U,ABKMP,Whistle,Akhil Bhartiya Kisan Majdoor Party,2024
+71,U,ABML(S),Battery Torch,Akhil Bharatiya Muslim League (Secular),2024
+72,U,ABMP,Pen nib with seven rays,Akhil Bharatiya Manavata Paksha,2024
+73,U,ABMVMP,Chakki,Akhil Bhartiya Manavadhikar Vichar Manch Party,2024
+74,U,ABSHP,Auto- rickshaw,Akhil Bhartiya Sarvjan Hit Party,2024
+75,U,ABSPARTY,Pen stand,Akhil Bhartiya Sudhar Party,2024
+76,U,ABSTP,Ganna kisan,Akhand Bharat Swatantra Party,2024
+77,U,ABTP,Spanner,Aadi Bharat Party,2024
+78,U,ABUAJP,Diamond,Abua Jharkhand Party,2024
+79,U,ACDP,Jackfruit,Anti Corruption Dynamic Party,2024
+80,U,ADJP,Iron,"Adarsh Janta Party,",2024
+81,U,ADPT,Pressure cooker,Apna Desh Party,2024
+82,U,ADRSP,Walking stick,Adarsh Samaj Party,2024
+83,U,AHFBK,"Air conditioner,Chess board",Akhil Hind Forward Bloc (Krantikari),2024
+84,U,AHIMSASP,Whistle,Ahimsa Socialist Party,2024
+85,U,AHNP,"Chapati roller,Sofa",Aihra National Party,2024
+86,U,AIAM,Pen nib with seven rays,All India Arya Mahasabha,2024
+87,U,AIBPSP,Ring,All India Backward People Sunami Party,2024
+88,U,AIJYMKG,Mixee,All India Jananayaka Makkal Kazhagam,2024
+89,U,AIMEIEM,"Apple,Ship",All India Majlis-E-Inquilab-E-Millat,2024
+90,U,AIMEP,Diamond,All India Mahila Empowerment Party,2024
+91,U,AIMK,Boat with man and sail,Anaithu India Makkal Katchi,2024
+92,U,AimPP,Battery Torch,Aim Political Party,2024
+93,U,aimpr,School bag,All India Mazdoor Party (Rangreta),2024
+94,U,AINDKSJNTP,Air conditioner,All India Kisan Janatha party,2024
+95,U,AINRS,Ring,All India National Raksha Sena,2024
+96,U,AIPDP,Ship,All India People Development Party,2024
+97,U,AISF,Envelope,All India Secular Front,2024
+98,U,AIUC,Ganna kisan,All India Ulama Congress,2024
+99,U,AIUUK,Gas cylinder,All India Uzhavargal Uzhaippalargal Katchi,2024
+100,U,AIYDPMP,"Peas,Water tank",All India Youth Development Party,2024
+101,U,AJD,Telephone,Adarsh Jankalyan Dal,2024
+102,U,AJM,Coconut farm,Asom Jana Morcha,2024
+103,U,AJP,Ganna kisan,Azad Janata Party,2024
+104,U,AJPI,"Auto- rickshaw,Diamond,Hand cart,Kettle,Road roller",Aam Janta Party (India),2024
+105,U,AJPK,Auto- rickshaw,Aanaithinthiya Jananayaka Pathukappu Kazhagam,2024
+106,U,AJPR,Chappals,Aam Janta Party Rashtriya,2024
+107,U,AJPty,Battery Torch,Aam Janshakti Party,2024
+108,U,AKBAP,Balloon,Akhil Bhartiya Aamjan Party,2024
+109,U,AKBHAD,Scissors,Akhil Bhartiya Apna Dal,2024
+110,U,AKBRPRVP,"Kettle,Phone charger,Ship",Akhil Bhartiya Parivar Party,2024
+111,U,AKLVJYP,Carpet,Akhila Vijaya Party,2024
+112,U,AKNDBHRJNP,Scissors,Akhand Bharat Janpriya Party,2024
+113,U,AKNDBRTSMR,Ganna kisan,Akhand Bharat Samrajya Party,2024
+114,U,ALHP,Green chilli,Al-Hind Party,2024
+115,U,AllJP,Gas cylinder,All India Jaihind Party,2024
+116,U,AlPP,"Cot,Table",All Peoples Party,2024
+117,U,ALPU,Letter box,Aam Lok Party United,2024
+118,U,AMB,Battery Torch,Amra Bangalee,2024
+119,U,AMGRDMK,Pan,Anna MGR Dravida Makkal Kalgam,2024
+120,U,AMiP,"Gas Stove,Letter box",Aadarsh Mithila Party,2024
+121,U,AMJNMTP,Basket containing Fruits,"Aam Janmat Party,",2024
+122,U,AMM,Jackfruit,Anna Makkal Katchi,2024
+123,U,AMMKMNKZ,Pressure cooker,Amma Makkal Munnettra Kazagam,2024
+124,U,AnAP,Battery Torch,Anjaan Aadmi Party,2024
+125,U,ANC,Balloon,Ambedkar National Congress,2024
+126,U,ANCHDMCP,Diamond,Arunachal Democratic Party,2024
+127,U,ANDC,Coconut farm,Andaman Nicobar Democratic Congress,2024
+128,U,ANRP,Stool,Adarsh Nyay Rakshak Party,2024
+129,U,ANSP,Battery Torch,Ahinsa Samaj Party,2024
+130,U,AODRP,Chapati roller,Alliance of Democratic Reforms Party,2024
+131,U,APKAWZP,Mike,Aapki Awaaz Party,2024
+132,U,APKGNTRP,Sewing machine,Aapka Gantantra Party,2024
+133,U,APKSP,Plate containing food,Apna Kisan Party,2024
+134,U,APNDLK,Envelope,Apna Dal (Kamerawadi),2024
+135,U,APNEP,Green chilli,Apni Ekta Party,2024
+136,U,APNHQP,Auto- rickshaw,Apna Haq Party,2024
+137,U,apnipp,"CCTV Camera,Whistle",Apni Prajahit Party,2024
+138,U,APNJBP,CCTV Camera,Aas Punjab Party,2024
+139,U,APoI,Coat,Ambedkarite Party of India,2024
+140,U,APRS,Gas cylinder,Andhra Pradesh Rashtra Samithi,2024
+141,U,APTADMK,"Helmet,Jackfruit",Anna Puratchi Thalaivar Amma Dravida Munnetra Kazhagam,2024
+142,U,ARJP,Bat,Abhinav Rajasthan Party,2024
+143,U,ARP,"Bat,Truck",Ambedkarist Republican Party,2024
+144,U,ARPS,"Glass tumbler,Mixee",Andhra Rastra Praja Samithi,2024
+145,U,ASaP,Ganna kisan,Awami Samta Party,2024
+146,U,ASDC,Nagrik,Autonomous State Demand Committee,2024
+147,U,ASGP,Bat,Aadarsh Sangram Party,2024
+148,U,ASJP,Road roller,Apna Samaj Party,2024
+149,U,ASMJTYP,Ship,Assam Jatiya Parishad,2024
+150,U,ASPKR,"Air conditioner,Kettle,Pen nib with seven rays",Aazad Samaj Party (Kanshi Ram),2024
+151,U,ASSP,Auto- rickshaw,Asankhya Samaj Party,2024
+152,U,ATBP,Batsman,Atulya Bharat Party,2024
+153,U,AVIRP,Bat,AARAKSHAN VIRODHI PARTY,2024
+154,U,AVRMK,Diamond,Aravor Munnetra Kazhagam,2024
+155,U,AWMIPCHDAP,Air conditioner,Aawami Pichhada Party,2024
+156,U,AYSRCP,"Carrom board,Diamond,Road roller,Whistle",Anna YSR Congress Party,2024
+157,U,AZSP,"Gas cylinder,Kettle",Azad Samaj Party,2024
+158,U,BAAP,Fountain,Bharat Jan Aadhar Party,2024
+159,U,BAHUMP,"Bat,Computer,Envelope,Ganna kisan,Petrol pump,Scissors,Television,Trumpet,Whistle",Bahujan Maha Party,2024
+160,U,BALP,Ganna kisan,Baliraja Party,2024
+161,U,BAP(R),Auto- rickshaw,Bhartiya Awam Party (Rastriya),2024
+162,U,BARESP,"Almirah,Auto- rickshaw,Ganna kisan,Nagrik,Ring,Whistle",Bahujan Republican Socialist Party,2024
+163,U,BAWPA,Tooth brush,Bahujan Awam Party,2024
+164,U,BBC,Auto- rickshaw,Bharatiya Bahujan Congress,2024
+165,U,BBKD,Television,BhartiyaBahujanKranti Dal,2024
+166,U,BCYP,Ganna kisan,Bharatha Chaitanya Yuvajana Party,2024
+167,U,BDJS,Pot,Bharath Dharma Jana Sena,2024
+168,U,BDlP,Shoe,Bhartiya Dalit Party,2024
+169,U,BDPty,Bucket,Bharatrashtra Democratic Party,2024
+170,U,BED,Battery Torch,Bharatiya Ekta Dal,2024
+171,U,BGanP,Pot,Bharatiya Gana Parishad,2024
+172,U,BGDRPP,"Air conditioner,Almirah,Auto- rickshaw,Cot,Football player,Kettle,Pot,Walking stick",Bhagidari Party(P),2024
+173,U,BGVKP,Road roller,Bhartiya Garib Vikas Kalyan Party,2024
+174,U,BHAGP,Walking stick,Bhartiya Gandhiwadi Party,2024
+175,U,BHAJASP,Ganna kisan,Bhartiya Janta Secular Party,2024
+176,U,BhAmAP,Capsicum,Bharatiya Aam Awam Party,2024
+177,U,BHAZS,"Flute,Scissors",Bhartiya Azad Sena,2024
+178,U,BhBSP,Gas cylinder,Bharatiya Bahujan Samta Party,2024
+179,U,BHJJP,Air conditioner,Bharat Jago Janta Party,2024
+180,U,BHJMP,Almirah,Bharatiya Jan Morcha Party,2024
+181,U,BHLBP,"Auto- rickshaw,Stethoscope",Bharatiya Liberal Party,2024
+182,U,bhmm,Tyres,Bhrashtachar Mukti Morcha,2024
+183,U,BHMPP,"Diamond,Road roller",Bharat Mahaparivar Party,2024
+184,U,BHMS,"Auto- rickshaw,Bat,Flute,Gas cylinder,Plate containing food",Bhim Sena,2024
+185,U,BhNP,Bucket,Bharat Nirman Party,2024
+186,U,bhp,Nagrik,Bhartiya Party,2024
+187,U,BHRASP,Auto- rickshaw,Bhartiya Asmita Party,2024
+188,U,BHRBKP,Auto- rickshaw,Bharatiya Bikash Parishad,2024
+189,U,BHRJAP,Ganna kisan,Bhartiya Jan Adhikar Party,2024
+190,U,BHRJWNKP,"Diamond,Gas cylinder,Gift pack",Bharatheeya Jawan Kisan Party,2024
+191,U,BHRLVP,Almirah,Bharatiya Lokvikas Party,2024
+192,U,BHRTADVSIP,Hockey and ball,Bharat Adivasi Party,2024
+193,U,BHRTASP,"Auto- rickshaw,Truck",Bharatiya Asha Party,2024
+194,U,BHRTJDOP,"Diamond,Electric pole",Bharat Jodo Party,2024
+195,U,BHRTJNTM,Gas cylinder,Bhartiya Jantantra Morcha,2024
+196,U,BHRTLKCHTP,"Chimney,Coconut farm,Cot",Bhartiya Lok Chetna Party,2024
+197,U,BHRTPNCLP,Battery Torch,Bhartiya Panchsheel Party,2024
+198,U,BHRTPRJAIK,Ganna kisan,Bharatiya Praja Aikyata Party,2024
+199,U,BHRTSP,Boat with man and sail,Bhartiya Sarthak Party,2024
+200,U,BHRTSRVDHN,Auto- rickshaw,Bhartiya Sarvdharm Party,2024
+201,U,BHRTYLKVNP,Computer,Bhartiya Lokvani Party,2024
+202,U,BHUDRP,"Diamond,Ganna kisan,Pen nib with seven rays",Bahujan Dravida Party,2024
+203,U,BHUNP,Bat,Bhartiya Uday Nirman Party,2024
+204,U,BHYUJEP,"Battery Torch,Diamond,Ganna kisan,Pen nib with seven rays",Bharatiya Yuva Jan Ekta Party,2024
+205,U,BIP,Balloon,Bharatiya Inqalab Party,2024
+206,U,BJJP,Gas cylinder,Bharatiya Jan Jagriti Party,2024
+207,U,BJKD,"Bead necklace,Camera",Bharatiya Jan Kranti Dal (Democratic),2024
+208,U,BJKVP,Grapes,Bajjikanchal Vikas Party,2024
+209,U,BJNJGD,Bench,Bharat Jan Jagran Dal,2024
+210,U,BJNP,Auto- rickshaw,Bhartiya Jan Nayak Party,2024
+211,U,BJSAP,Telephone,Bhartiya Jan Samman Party,2024
+212,U,BJVA,Coat,Bhartiya Jan Vikas Aaghadi,2024
+213,U,BKLJP,Glass tumbler,Bharat Ki Lok Jimmedar Party,2024
+214,U,BKP,Electric pole,Bahujan Kranti Party (Marxwad-Ambedkarwad),2024
+215,U,BKPP,Kettle,Bharatiya Kisan Parivartan Party,2024
+216,U,BKrD,"Cot,Ganna kisan",Bhartiya Krishak Dal,2024
+217,U,BKVP,Ganna kisan,Bhartiya Kranti Vir Party,2024
+218,U,BLFP,Scissors,Bahujana Left Party,2024
+219,U,BLIP,Mixee,Blue India Party,2024
+220,U,BLKSKTIP,Tiller,Bharatiya Lokshakti Party,2024
+221,U,BLNDBHRTP,Gas cylinder,Buland Bharat Party,2024
+222,U,BLokSP,Electric pole,Bharat Lok Sewak Party,2024
+223,U,BLRP,"Bead necklace,Ganna kisan",Bhartiya Lokmat Rashtrwadi Party,2024
+224,U,BMAP,Pot,Bharatiya Mulnivasi Aazad Party,2024
+225,U,bmd,Computer,Dr. Bhimrao Ambedkar Dal,2024
+226,U,BMF,Slate,Bharatiya Momin Front,2024
+227,U,BMJP,Ganna kisan,Bharatiya Majdoor Janta Party,2024
+228,U,BMUP,Cot,Bahujan Mukti Party,2024
+229,U,BNARP,"CCTV Camera,Ganna kisan",Bharatiya Nyay-Adhikar Raksha Party,2024
+230,U,BNGLRNNP,Spanner,Bengaluru Nava Nirmana Party,2024
+231,U,BNGNBNRMS,Boat with man and sail,Bangali Nabanirman Sena,2024
+232,U,BNJD,Coconut farm,Bharatiya National Janata Dal,2024
+233,U,BNPA,Kettle,Bahujan National Party (Ambedkar),2024
+234,U,BNRP,Glass tumbler,Bharatiya Nagrik Party,2024
+235,U,bns,"Dish antenna,Ganna kisan",Bhartiya Navjawan Sena (Paksha),2024
+236,U,BPKP,"Bat,Grapes,Pen nib with seven rays",Bharatiya Prajagala Kalyana Paksha,2024
+237,U,BPS,Sewing machine,Bharat Peoples Sena,2024
+238,U,BPSJP,"Auto- rickshaw,Ring",Bharatiya Praja Surajya Paksha,2024
+239,U,BRED,Camera,Bhartiya Rashtriya Ekta Dal,2024
+240,U,BRJ,Battery Torch,Bhartiya Rashtriya Jansatta,2024
+241,U,BRKP(D),Bat,Bharat Rakshak Party (Democratic),2024
+242,U,BRM,Bench,Bharatiya Rashtriya Morcha,2024
+243,U,BRMNP,"Telephone,Toffees",Bhartiya Manavta Party,2024
+244,U,BRRTD,"Battery Torch,Brush,Carrom board,Computer,Kettle,Rubber stamp",Bhartiya Rashtriya Dal,2024
+245,U,BRSBD,Bucket,Bhartiya Sabka Dal,2024
+246,U,BRTYLKNYKP,Road roller,Bhartiya Lok Nayak Party,2024
+247,U,BSaP,Cauliflower,Bhartiya Samajik Party,2024
+248,U,BSCP,"Air conditioner,Envelope,Flute,Truck",Bhartiya Shakti Chetna Party,2024
+249,U,BSKRP,Auto- rickshaw,Bharatiya Sampuran Krantikari Party,2024
+250,U,BSP(A),"Gas cylinder,Mike",Bahujan Samaj Party (Ambedkar),2024
+251,U,BSSSSP,Water tank,Bahujan Shoshit Samaj Sangharsh Samta Party,2024
+252,U,BTC,Drill machine,Bheem Tribal Congress,2024
+253,U,BTJP,Trumpet,Bhartiya Jan Parishad,2024
+254,U,BTJSP,Auto- rickshaw,Bhartiya Jan Samrat Party,2024
+255,U,BTMSP,Telephone,Bhartiya Mahasangh Party,2024
+256,U,BUJNBHRTP,"Bat,Battery Torch,Ganna kisan,Ship,Whistle",Bahujan Bharat Party,2024
+257,U,BUP,Pot,Bhumiputra United Party,2024
+258,U,BVA,Whistle,Bahujan Vikas Aaghadi,2024
+259,U,BVD,Whistle,Bhartiya Veer Dal,2024
+260,U,BYKD,"Diamond,Switchboard",Bharathiya YuvaKula Dalam,2024
+261,U,BYPP,Apple,Bhartiya Panchyat Party,2024
+262,U,CAPS,Nagrik,Citizen Action Party-Sikkim,2024
+263,U,CCP,Coconut farm,Country Citizen Party,2024
+264,U,CHALP,Almirah,Challengers Party,2024
+265,U,CHNYUTP,"Pen nib with seven rays,Scissors",Chennai Youth Party,2024
+266,U,CoAP,Football player,Corruption Abolition Party,2024
+267,U,CSBGP,Apple,Chhatrapati Shivaji Bhartiya Garib Party,2024
+268,U,cvgrp,Diesel pump,Chhattisgarh Vikas Ganga Rashtriya Party,2024
+269,U,DABAP,"Almirah,Gas cylinder,Glass tumbler",Dalita Bahujana Party,2024
+270,U,DAMK,Water melon,Dhesiya Makkal Kazhagam,2024
+271,U,DaP,"Bat,Table",Dharmarajya Paksha,2024
+272,U,DBSP,"Air conditioner,Bat,Coat,Ganna kisan",Democratic Bharatiya Samaj Party,2024
+273,U,DHBHP,Football player,Dhanwan Bharat Party,2024
+274,U,DHRMSMJP,Chappals,Dharma Samaj Party,2024
+275,U,DIGVBHP,Coconut farm,Digvijaya Bharatha Party,2024
+276,U,DJHP,"Bat,Pressure cooker,School bag,Whistle",Desh Janhit Party,2024
+277,U,DJP,"Coconut farm,Ganna kisan",Delhi Janta Party,2024
+278,U,DKD,Truck,Dalit Kranti Dal,2024
+279,U,DMSK,"Auto- rickshaw,Bucket,Football player,Robot,Ship,Water melon",Desiya Makkal Sakthi Katchi,2024
+280,U,DPAP,Bucket,Democratic Progressive Azad Party,2024
+281,U,DPRMP,Coconut farm,Desh Prem Party,2024
+282,U,DrAPP,Auto- rickshaw,Dr. Ambedkar People's Party,2024
+283,U,DS,Ring,Dhoom Sena,2024
+284,U,DSPI,Auto- rickshaw,Democratic Socialist Party of India,2024
+285,U,DSPVAD,Harmonium,Dalit Soshit Pichhara Varg Adhikar Dal,2024
+286,U,EKSP,"Boat with man and sail,Phone charger",Eklavya Samaj Party,2024
+287,U,ESBD,"Diamond,Flute,Triangle",Ekam Sanatan Bharat Dal,2024
+288,U,GaAP,"Air conditioner,Camera,Plate containing food,Whistle",Gareeb Aadmi Party,2024
+289,U,GBLRPBP,"CCTV Camera,Gas cylinder,Hockey and ball,Pressure cooker",Global Republican Party,2024
+290,U,GGP,"Baby walker,Black board,Saw",Gondvana Gantantra Party,2024
+291,U,GJRTLKTNTP,Auto- rickshaw,Gujarat Loktantra Party,2024
+292,U,GNASURKP,"Battery Torch,Bead necklace,Binoculars",Gana Suraksha Party,2024
+293,U,GNDWDKP,Man blowing turha,Gondwana Dandkaranya Party,2024
+294,U,GPI,Lady finger,Ganasangam Party of India,2024
+295,U,grac,Tube light,Gorkha Rashtriya Congress,2024
+296,U,GRBDMCTP,Tiller,Garib Democratic Party,2024
+297,U,GRBKLYNP,"Biscuit,Ganna kisan",Garib Kalyan Party,2024
+298,U,GSD,Table,Guruchand Sena Dal,2024
+299,U,GSNJP,CCTV Camera,Gunj Satya Ni Janata Party,2024
+300,U,GSSP,Ship,Gujarat Sarva Samaj Party,2024
+301,U,HAMS,Pan,Hindustani Awam Morcha (Secular),2024
+302,U,HCHLJP,Telephone,Himachal Janta Party,2024
+303,U,HFPP,Water melon,Humanity for Peace Party,2024
+304,U,HINDSMJP,Coat,Hindustan Samaj Party,2024
+305,U,HJP,"Almirah,Cot,Diamond,Pen nib with seven rays,Whistle",Hindustan Janta Party,2024
+306,U,HJPS,Apple,Hindustan Janta Party Secular,2024
+307,U,HMR,Bucket,Hamar Raj Party,2024
+308,U,HMSP,Carrom board,Hamara Sahara Party,2024
+309,U,HNDPPD,Nagrik,Hindustan People's Party (Democratic),2024
+310,U,HNDSWRJD,Apple,Hindvi Swarajyay Dal,2024
+311,U,HRJSP,Ganna kisan,Haryana Jansena Party,2024
+312,U,HS,Hour glass,Hindrashtra Sangh,2024
+313,U,HSP,"Apple,Auto- rickshaw,Battery Torch,Cauliflower",Hindu Samaj Party,2024
+314,U,HSS,"Flute,Gas Stove,Rubber stamp,Trumpet",Hindustan Shakti Sena,2024
+315,U,HSVP,Binoculars,Hamara Sahi Vikalp Party,2024
+316,U,HVD,Bucket,Hindustan Vikas Dal,2024
+317,U,IBP,Almirah,Indian Believers Party (IBP),2024
+318,U,ILP(AP),"Box,Bread,Bucket,Ganna kisan",Indian Labour Party (Ambedkar Phule),2024
+319,U,IMP,Whistle,Indian Movement Party,2024
+320,U,INDMP,Tennis racket & ball,India Manus Party,2024
+321,U,INDPJC,Apple,Indian Praja Congress,2024
+322,U,INDPPLSADH,Balloon,Indian Peoples Adhikar Party,2024
+323,U,INGRP,Apple,India Greens Party,2024
+324,U,INL,"Ganna kisan,Gas cylinder,Gas Stove,Sewing machine",Indian National League,2024
+325,U,INSAF,"Bat,Whistle",Indian National Socialistic Action Forces,2024
+326,U,INYJP,"Carrom board,Matchbox",Indian National Yuva Jana Party,2024
+327,U,IPBP,Trumpet,India Praja Bandhu Party,2024
+328,U,IPGP,Pot,Indian Peoples Green Party,2024
+329,U,ISP,"Auto- rickshaw,Laptop,Table",Insaniyat Party,2024
+330,U,IUC,Ship,Indian Unity Centre,2024
+331,U,JAC,Ganna kisan,Janata Congress,2024
+332,U,JaHP,"Diesel pump,Stethoscope",Janahitha Paksha,2024
+333,U,JAISMP,Gas cylinder,Jai Samta Party,2024
+334,U,JAKAP,Bat,Jammu and Kashmir Apni Party,2024
+335,U,JAKNPF,Batsman,Jammu and Kashmir Nationalist People's Front,2024
+336,U,JANKRPR,"Box,Hockey and ball",Janta Kranti Party (Rashtravadi),2024
+337,U,JaRaP,Whistle,Jan Raajya Party,2024
+338,U,JaSD,Apple,Jan Shakti Dal,2024
+339,U,JASP,"Balloon,Cauliflower",Jan Sangh Party,2024
+340,U,JASWP,Pen nib with seven rays,Jai Swaraj Party,2024
+341,U,JBNP,Battery Torch,Jai Bharat National Party,2024
+342,U,JCVIVP,Gas cylinder,Jaathia Chethi Vruthula Ikya Vedika Party,2024
+343,U,JDKRP,"Computer,Electric pole",Jindabad Kranti Party,2024
+344,U,JeSM,Walking stick,Jamat-E-Seratul Mustakim,2024
+345,U,JHNDCGP,Camera,Jai Hind Congress Party,2024
+346,U,JHP,Scissors,Jai Hind Party,2024
+347,U,JHUP,T.V. Remote,Jai Hindustan Party,2024
+348,U,JIHNDNTLP,Flute,Jai Hind National Party,2024
+349,U,JJ,"Battery Torch,Green chilli",Jebamani Janata,2024
+350,U,JJSP,Pen stand,Jatiya Jana Sena Party,2024
+351,U,JKiP,Helmet,Janhit Kisan Party,2024
+352,U,JKP,"Air conditioner,Basket containing Fruits,Batsman,Cot",Jharkhand Party,2024
+353,U,JKPP,Pot,Jharkhand People's Party,2024
+354,U,JKRP,Hockey and ball,Janta Kranti Party,2024
+355,U,JMBP,"Flute,Whistle",Jai Maha Bharath Party,2024
+356,U,JMM(U),Pot,Jharkhand Mukti Morcha (Ulgulan),2024
+357,U,JNJWDIP,"Air conditioner,Saw",Jan Janwadi Party,2024
+358,U,JNLKVKSP,Apple,Janlok Vikas Party,2024
+359,U,JnP,Glass tumbler,Janasena Party,2024
+360,U,JNSGNDWP,"Saw,Television",Janseva Gondwana Party,2024
+361,U,JNSHSK,Petrol pump,Jana Sahayaka Sakthi,2024
+362,U,JNSKJNDL,Flute,Janshakti Janta Dal,2024
+363,U,JNSKTSMTP,Ganna kisan,Janshakti Samta Party,2024
+364,U,JNSNKP,Auto- rickshaw,Janhit Sankalp Party,2024
+365,U,JNTADRBARP,Hockey and ball,Janta Darbar Party,2024
+366,U,JNTASP,Apple,Janta Shashan Party,2024
+367,U,JNTRAAWJP,Air conditioner,Jantantra Awaj Party,2024
+368,U,JNTSMTP,Ganna kisan,Janta Samta Party,2024
+369,U,JPC,Apple,Jammu & Kashmir People Conference,2024
+370,U,JPJD,Diesel pump,Jai Prakash Janata Dal,2024
+371,U,JRBP,Coat,Jaibhim Rao Bharat Party,2024
+372,U,JRJP,"Air conditioner,Bucket,Football player",Jagrook Janta Party,2024
+373,U,JRVP,Scissors,Janta Raj Vikas Party,2024
+374,U,JSDP,"Auto- rickshaw,Diesel pump,Television,Tyres",Jan Sewa Driver Party,2024
+375,U,JSEP,Letter box,Jan Shakti Ekta Party,2024
+376,U,JSKHP,Lady finger,Jana Shankhaaraavam Party,2024
+377,U,JSKP,Gas cylinder,Jan Sewak Kranti Party,2024
+378,U,JSPVR,Ship,Janta Samajwadi Party (Vivek Raj),2024
+379,U,JSWBHVKP,Television,Jai Sewalal Bahujan Vikas Party,2024
+380,U,JUSTIP,Kettle,Justice Party,2024
+381,U,JYVDRBP,"Gas cylinder,Room cooler",Jay Vidarbha Party,2024
+382,U,KAP,Batsman,Karunaadu Party,2024
+383,U,KCVP,Auto- rickshaw,Kannada Chalavali Vatal Paksha,2024
+384,U,KEC,Auto- rickshaw,Kerala Congress,2024
+385,U,KJD,Pot,Kosal Janata Dal,2024
+386,U,KJP,Jackfruit,Karnataka Jantha Paksha,2024
+387,U,KKJHS,"Auto- rickshaw,Gas cylinder",Kranti Kari Jai Hind Sena,2024
+388,U,KKMP,Pot,Karnataka Karmikara Paksha,2024
+389,U,KMGRKSNP,Coconut farm,Kamgaar Kisan Party,2024
+390,U,KMSMP,Bucket,Kamera Samaj Party,2024
+391,U,KMSP,"Ganna kisan,Nail cutter,Tiller",Kisan Mazdoor Sangharsh Party,2024
+392,U,KNBHJSWP,Diamond,Kunbi Bahujan Sawrajya Party,2024
+393,U,KP,Ship,Kannada Paksha,2024
+394,U,KPJD,Truck,Karpoori Janta Dal,2024
+395,U,KPPR,Sewing machine,Karnataka Praja Party (RaithaParva),2024
+396,U,KPPU,"Black board,Boat with man and sail,Ship,Walking stick",Kamatapur People’s Party (United),2024
+397,U,KRJAP,Saw,Kranti Janshakti Party,2024
+398,U,KRS,Battery Torch,Karnataka Rashtra Samithi,2024
+399,U,KRUNDSVKRA,Coconut farm,Karunada Sevakara Party,2024
+400,U,KRUP,Chappals,Krupaa Party,2024
+401,U,KS,Bat,Kalinga Sena,2024
+402,U,KSNVSWP,Hockey and ball,Kisan Vishwa Party,2024
+403,U,KTKD,Plate containing food,Kisan Kranti Dal,2024
+404,U,LBCP,"Ring,Well",Liberation Congress Party,2024
+405,U,LCPY,"Bucket,Gas cylinder",Loktantra Congress Party,2024
+406,U,LGP,"Box,CCTV Camera",Log Party,2024
+407,U,LJD,Whistle,Loktantrik Janta Dal,2024
+408,U,LJSPty,Scissors,Lok Jan Sangharsh Party,2024
+409,U,LKHAP,Apple,Lokhit Adhikar Party,2024
+410,U,LKRJJNTP,Auto- rickshaw,Lokrajya Janata Party,2024
+411,U,LKSNP,Whistle,Lok Sena Party,2024
+412,U,LKSWRJP,"Gas cylinder,Sewing machine",Lok Swarajya Party,2024
+413,U,LLRP,Matchbox,Loktantrik Lok Rajyam Party,2024
+414,U,LOKJANP,Triangle,Loktantrik Janshakti Party,2024
+415,U,LPRSTRP,Biscuit,Lokpriya Rashtrawadi Party,2024
+416,U,LSD,Gas cylinder,Lok Sewa Dal,2024
+417,U,LSEP,Sewing machine,Lokshahi Ekta Party,2024
+418,U,LSMP,Ganna kisan,Lok Samaj Party,2024
+419,U,LSNP,Telephone,Loktantrik Samajik Nyay Party,2024
+420,U,LSWP,Whistle,Loktantrik Samajwadi Party,2024
+421,U,MADP,Auto- rickshaw,Moulik Adhikar Party,2024
+422,U,MAHMMK,"Air conditioner,Chappals",Mahathma Makkal Munnetra Kazhakam,2024
+423,U,MAHP,Plastering trowel,Mahanwadi Party,2024
+424,U,MAIIJP,Whistle,Mission All India Independent Justice Party,2024
+425,U,MANAK,Pressure cooker,Makkal Nalvaazhvuk Katchi,2024
+426,U,MANBP,Room cooler,Manviya Bharat Party,2024
+427,U,ManKP,Soap dish,Manav Kranti Party,2024
+428,U,MARD,Boat with man and sail,Mera Adhikaar Rashtriya Dal,2024
+429,U,MBCOI,Scissors,Most Backward Classes Of India,2024
+430,U,MBMP,Apple,Mera Bharat Mahan Party,2024
+431,U,MCPI,Computer,Marxist Communist Party of India (United),2024
+432,U,MDMK,Matchbox,Marumalarchi Dravida Munnetra Kazhagam,2024
+433,U,MEDP,Flute,Megh Desham Party,2024
+434,U,mimm,Gas cylinder,Mithilanchal Mukti Morcha,2024
+435,U,MJLMSMJP,Bat,Majloom Samaj Party,2024
+436,U,MKUP,Scissors,Majdoor Kisan Union Party,2024
+437,U,MLCNG,"Auto- rickshaw,Ganna kisan",Malwa Congress,2024
+438,U,MLD,Diamond,Manas Lokshakti Dal,2024
+439,U,MLPOIRF,Bat,Marxist Leninist Party of India (Red Flag),2024
+440,U,MMKA,Gas cylinder,Tamizhaga Murpokku Makkal Katchi,2024
+441,U,MNDB,Boat with man and sail,Mission Naya Digant Party,2024
+442,U,MNDP,Crane,Minorities Democratic Party,2024
+443,U,MNGSMJP,Bat,Mang Samaj Party,2024
+444,U,MNK,Bead necklace,Makkal Nala Kazhagam,2024
+445,U,MOSP,"Batsman,Hockey and ball",Moolniwasi Samaj Party,2024
+446,U,MPC,Electric bulb,Mizoram People's Conference,2024
+447,U,MPJVP,Pressure cooker,Madhya Pradesh Jan Vikas Party,2024
+448,U,MPOI,"Black board,Whistle",Mulnibasi Party of India,2024
+449,U,MSMDNP,Letter box,Manav Samadhan Party,2024
+450,U,MTP,Glass tumbler,Maa Telangana Party,2024
+451,U,MTRSP,Camera,Mana Telangana Rashtra Samaikya Party,2024
+452,U,MVA,"Gas cylinder,Road roller,T.V. Remote,Whistle",Maharashtra Vikas Aghadi,2024
+453,U,MwSP,"Diamond,Scissors",Manavtawadi Samaj Party,2024
+454,U,NADLMMKLK,Auto- rickshaw,Naadaalum Makkal Katchi,2024
+455,U,nafp,Auto- rickshaw,National Future Party,2024
+456,U,NAPt,Apple,National Apni Party,2024
+457,U,NATJUP,"Telephone,Truck",Nationalist Justice Party,2024
+458,U,NAUP,Diamond,National Awami United Party,2024
+459,U,NavaP,"Glass tumbler,Hour glass,Mike",Navataram Party,2024
+460,U,NBBHNRSVP,"Gas cylinder,Television",Naba Bharata Nirmana Seva Party,2024
+461,U,NBEP,"Auto- rickshaw,Gas cylinder,Spanner,Television,Whistle",Naki Bharatiya Ekta Party,2024
+462,U,NBHS,"Gas cylinder,Matchbox,Tiller",Navabharath Sena,2024
+463,U,NBNGPLPP,Auto- rickshaw,North Bengal People’s Party,2024
+464,U,NBPP,Gas cylinder,National Black Panther Party,2024
+465,U,NDS,"Apple,Diamond",Nyaydharmsabha,2024
+466,U,NETHNP,Coconut farm,Neethi Nijayithi Party,2024
+467,U,NGPP,Pot,New Generation People’s Party,2024
+468,U,NIDP,"Air conditioner,Battery Torch",Naam Indiar Party,2024
+469,U,NIP,Baby walker,New India Party,2024
+470,U,NIUP,"Air conditioner,Chain,Ganna kisan",New India United Party,2024
+471,U,NJMP,Whistle,National Janmandal Party,2024
+472,U,NJNDL,Letter box,National Jan Dal,2024
+473,U,NLP,Ganna kisan,National Loktantrik Party,2024
+474,U,NMSP,Hockey and ball,National Maha Sabha Party,2024
+475,U,NNKP,"Gas Stove,Glass tumbler,Hand cart,Plastering trowel,Road roller",National Nava Kranthi Party,2024
+476,U,NNRP,Shoe,Naari Nar Rakshak Party,2024
+477,U,NP,Throwing a javelin,National Party,2024
+478,U,NPM,Boat with man and sail,Navyug Pragatisheel Morcha,2024
+479,U,NPT,Bat,Navodayam Party,2024
+480,U,NRCP,"Bucket,Glass tumbler",Navarang Congress Party,2024
+481,U,NRPI,Road roller,National Republic Party Of India,2024
+482,U,NRSP,Trumpet,New Rashtriya Samaj Party,2024
+483,U,NSBHP,Ship,Navsarjan Bharat Party,2024
+484,U,NSCBRAP,Box,Netaji Subhash Chander Bose Rashtriya Azad Party,2024
+485,U,NTK,Mike,Naam Tamilar Katchi,2024
+486,U,NWLBRP,Ring,New Labour Party,2024
+487,U,NWLP,Diamond,National World Leader Party,2024
+488,U,NYP,Auto- rickshaw,National Youth Party,2024
+489,U,ODSHJP,Flute,Odisha Janata Party,2024
+490,U,PAP,Diamond,Prajatantra Aadhar Party,2024
+491,U,PASIP,Sewing machine,Public Adhikar Socialist Indian Party,2024
+492,U,PBI,"Flute,Plate containing food,Ship","Proutist Bloc, India",2024
+493,U,PBLBRP,Air conditioner,Prabal Bharat Party,2024
+494,U,PBM,"Air conditioner,Kettle",Prabuddhwadi Bahujan Morcha,2024
+495,U,PCHVP,Table,Paschimanchal Vikas Party,2024
+496,U,PDS,Pen nib with seven rays,Party for Democratic Socialism,2024
+497,U,PECP,Glass tumbler,Peace Party,2024
+498,U,PEOPRTCP,Brief case,People Protection Party,2024
+499,U,PEP,Pressure cooker,Praja Ektha Party,2024
+500,U,PGSP,Helmet,Pragatisheel Samaj Party,2024
+501,U,PHCPP,Gas cylinder,Pehchan People’s Party,2024
+502,U,PHJSP,"Batsman,Ganna kisan,Stumps,Whistle",Prahar Janshakti Party,2024
+503,U,PLTIJSTP,Kettle,Political Justice Party,2024
+504,U,PMK,Mango,Pattali Makkal Katchi,2024
+505,U,PMPT,"Batsman,Diesel pump",Purvanchal Mahapanchayat,2024
+506,U,pms,Auto- rickshaw,Pragatisheel Magahi Samaj,2024
+507,U,PMSP,Ganna kisan,Pragatisheel Manav Samaj Party,2024
+508,U,PMTDK,Chappals,Puthiya Makkal Tamil Desam Katchi,2024
+509,U,PNGDSP,Nagrik,Punnagai Desam Party,2024
+510,U,PNJBNP,"Diamond,Football player",Punjab National Party,2024
+511,U,PPI,Almirah,Parcham Party of India,2024
+512,U,PPID,"Air conditioner,Auto- rickshaw,Basket,Basket containing Fruits,Black board,School bag",Peoples Party of India (Democratic),2024
+513,U,PPIS,Grapes,People's Party of India(secular),2024
+514,U,PPOI,"Baby walker,Flute,Television",Pyramid Party of India,2024
+515,U,PPSP,Air conditioner,Pachchasi Parivartan Samaj Party,2024
+516,U,PRCP,"Auto- rickshaw,Bat,Bead necklace,Carrom board,Ganna kisan,Ship",Prabuddha Republican Party,2024
+517,U,PRJP,Ring,Prithviraj Janshakti Party,2024
+518,U,PRJPP,Boat with man and sail,Praja Prasthanam Party,2024
+519,U,PRJVLGUP,Camera,Praja Velugu Party,2024
+520,U,PRJVNIP,Matchbox,Prajavani Party,2024
+521,U,PRSHP,Pot,Praja Shanthi Party,2024
+522,U,PRVPOI,Air conditioner,Parivartan Party of India,2024
+523,U,PS,Almirah,Prajarajya Samithi,2024
+524,U,PSJP,Auto- rickshaw,Parivartan Samaj Party,2024
+525,U,PSPU,Whistle,Pichhara Samaj Party United,2024
+526,U,PSS,Ganna kisan,Proutist Sarva Samaj,2024
+527,U,PUNP,Whistle,People’s Union Party,2024
+528,U,PuPP,"Auto- rickshaw,Laptop,Pencil sharpner,Sewing machine,Syringe",Public Political Party,2024
+529,U,RACHEP,Television,Rashtrawadi Chetna Party,2024
+530,U,RaCP,Hockey and ball,Rashtriya Congress(J) Party,2024
+531,U,RaJPa,"Batsman,Computer,Telephone",Rashtriya Jankranti Party,2024
+532,U,RAJUP,Walking stick,Rashtriya Janutthan Party,2024
+533,U,RaNP,"Bucket,Pot",Rashtra Nirman Party,2024
+534,U,RasLP,Coconut farm,Rashtriya Lokswaraj Party,2024
+535,U,RASMARP,"Batsman,Rubber stamp,Trumpet",Rashtriya Maratha Party,2024
+536,U,RASTSA,Chakki,Rashtriya Janshakti Samaj Party,2024
+537,U,RATLJNTAP,Whistle,Rastriya Atal Janta Party,2024
+538,U,raup,Cauliflower,Rashtriya Uttarakhand Party,2024
+539,U,RBS,"Sewing machine,Whistle",Republican Bahujan Sena,2024
+540,U,RCMP,Ring,Rani Chennamma Party,2024
+541,U,RDD,Boat with man and sail,Rashtra Dharak Dal,2024
+542,U,RGD,Batsman,Rashtriya Garib Dal,2024
+543,U,RGOP,Saw,Rashtriya Gondvana Party,2024
+544,U,RJ,Scissors,Rashtriya Janmorcha,2024
+545,U,RJANSWP,Water melon,Rashtriya Jansangharsh Swaraj Party,2024
+546,U,RJAVP,Electric pole,Rashtriya Jatigat Aarakshan Virodhi Party,2024
+547,U,RJBP,Cauliflower,Rashtriya Jansambhavna Party,2024
+548,U,RJBVP,Table,Rashtriya Jantantrik Bharat Vikas Party,2024
+549,U,RJKMP,Flute,Rashtriya Jan Karmath Party,2024
+550,U,RJKPS,Boat with man and sail,Rashtriya Jan Kalyan Party Secular,2024
+551,U,RJnJnP,Bat,Rashtriya Jan Jan Party,2024
+552,U,RJnPty,Sewing machine,Rashtriya Jansena Party,2024
+553,U,RJP(E),Glass tumbler,Rashtriya Janshakti Party(Eklavya),2024
+554,U,RJsbhP,Coconut farm,Rashtriya Jansabha Party,2024
+555,U,RJSNP,Coat,Rashtriya Janhit Sangharsh Party,2024
+556,U,RJSPS,Chakki,Rashtriya Janshakti Party (Secular),2024
+557,U,RJSTHNRJP,Binoculars,Rajasthan Raj Party,2024
+558,U,RJUP,Auto- rickshaw,Rashtriya Jan Utkarsh Party,2024
+559,U,RKBP,"Camera,Ganna kisan,Pressure cooker,Ring,Road roller",Rashtriya Kisan Bahujan Party,2024
+560,U,RKSYPP,Plate containing food,Rishivadi Karm Sheel Young Parmarthi Party,2024
+561,U,RLD,Hand pump,Rashtriya Lok Dal,2024
+562,U,RLPI,Green chilli,Rashtravadi Loktantrik Party (India),2024
+563,U,RMBP,"Chappals,Diamond,Pressure cooker",Rashtriya Mahaswaraj Bhumi Party,2024
+564,U,RMEP,Truck,Rashtriya Mazdoor Ekta Party,2024
+565,U,RMGLMP,Bucket,Rashtriya Mangalam Party,2024
+566,U,RNVP,Apple,Rashtriya Narayanwadi Vikas Party,2024
+567,U,RPC(S),"Diamond,Ganna kisan,Gas cylinder,Glass tumbler,Ring",Rashtriya Praja Congress (Secular),2024
+568,U,RPI,"Apple,Carrom board,Letter box,Ring",Republican Party of India,2024
+569,U,RPI(A),"Almirah,Auto- rickshaw,Bat,Coconut farm,Diamond,Gas cylinder,Head phone,Laptop,Pressure cooker,Sewing machine,Ship",Republican Party of India (A),2024
+570,U,RPI(S),T.V. Remote,Republican Party of India (Sivaraj),2024
+571,U,RPIA,Scissors,Radical Party of India (Ambedkarist),2024
+572,U,RPIB,Balloon,Republican Party of India Bharatha,2024
+573,U,RPIK,"Gas cylinder,Gas Stove,Television",Republican Party of India (Karnataka),2024
+574,U,RPIS,Gas Stove,Republican Party of India (Social),2024
+575,U,RPPRINAT,"Basket containing Fruits,Battery Torch,Dolli,Ganna kisan,Hockey and ball,Jackfruit,Pen nib with seven rays,School bag,Ship",Republican Party of India (Athawale),2024
+576,U,rpsn,Gas cylinder,Republican Sena,2024
+577,U,RPWP,CCTV Camera,Rashtriya Power Party,2024
+578,U,RRP,Balloon,Rashtriya Rashtrawadi Party,2024
+579,U,RRS,Diamond,Rayalaseema Rashtra Samithi,2024
+580,U,RSD,Whistle,Rashtriya Sawarn Dal,2024
+581,U,RSHSNSP,Almirah,Rashtriya Sanskriti Party,2024
+582,U,RSHTBHUP,Truck,Rashtriy Bahujan Party,2024
+583,U,RSHTLKM,Gas cylinder,Rashtriya Lok Morcha,2024
+584,U,RSHTMNVP,Nagrik,Rashtriya Manav Party,2024
+585,U,RSHTSMNYPP,"Air conditioner,Baby walker",Rashtra Samanya Praja Party,2024
+586,U,RSMD,Scissors,Rashtriya Samanta Dal,2024
+587,U,RSOSP,"Ganna kisan,Hockey and ball",Rashtriya Shoshit Samaj Party,2024
+588,U,RSPS,"Almirah,Black board,Diamond,Refrigerator,Television,Whistle",Rashtriya Samaj Paksha,2024
+589,U,RSSCMJP,Envelope,Rashtriya Secular Majlis Party,2024
+590,U,RSSDP,Batsman,Rashtriya Sant Sandesh Party,2024
+591,U,RSTHNDEKD,Auto- rickshaw,Rashtriya Hind Ekta Dal,2024
+592,U,RSTJLKPS,Cot,Rashtrawadi Janlok Party (Satya),2024
+593,U,RSTRSMPRP,Helmet,Rashtra Samarpan Party,2024
+594,U,RSTRSNTP,Diamond,Rashtriya Sanatan Party,2024
+595,U,RSTRSURKP,Bricks,Rashtriya Suraksha Party,2024
+596,U,RSTWDIBHRT,"Air conditioner,Diamond",Rashtravadi Bharat Party,2024
+597,U,RSUP,Truck,Rashtra Uday Party,2024
+598,U,RSVP,Trumpet,Rashtriya Samta Vikas Party,2024
+599,U,RSWD,Almirah,Rashtra Sewa Dal,2024
+600,U,RTBHP,Tiller,Raita Bharat Party,2024
+601,U,RTJAWP,Diamond,Rashtriya Jan Awaz Party,2024
+602,U,RTJNMS,Whistle,Rashtriya Janmanch (Secular),2024
+603,U,RTJSD,Battery Torch,Rashtriya Jansanchar Dal,2024
+604,U,RTORP,"Letter box,Pressure cooker",Right to Recall Party,2024
+605,U,RTPP,Sewing machine,Rashtriya Republican Party,2024
+606,U,RtrJP,Cot,Rashtriya Janta Party,2024
+607,U,RTRYDVBHMP,"Apple,Flute",Rashtriya Devbhumi Party,2024
+608,U,RTSMJD,"Ring,Whistle",Rashtriya Samaj Dal (R),2024
+609,U,RUC,"Auto- rickshaw,Bat,Coconut farm,Gas cylinder",Rashtriya Ulama Council,2024
+610,U,RViP,Gas cylinder,Rashtriya Vikalp Party,2024
+611,U,RVP,Ganna kisan,Rashtriya Vikas Party,2024
+612,U,SAAFP,Brush,Sathi Aur Aapka Faisala Party,2024
+613,U,SABJANP,Electric pole,Sabhi Jan Party,2024
+614,U,SaBP,Almirah,Sankhyanupati Bhagidari Party,2024
+615,U,SACP,Whistle,Sabse Achchhi Party,2024
+616,U,SACSP,Stethoscope,Sacho Sach Party,2024
+617,U,SAD(M),Bucket,Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann),2024
+618,U,SAJP,"Cauliflower,Coconut farm,Tiller",Samajwadi Janata Party(Karnataka),2024
+619,U,SamAP,Petrol pump,Saman Adhikar Party,2024
+620,U,SAMO,Battery Torch,Samruddha Odisha,2024
+621,U,SamSP,Electric pole,Samata Samadhan Party,2024
+622,U,SANBP,Diamond,Sanyukt Bharat Paksh,2024
+623,U,SANKISVP,Ganna kisan,Sanyukt Kisan Vikas Party,2024
+624,U,SAP,"Air conditioner,Almirah,Batsman,Battery Torch,Box,Coat,Flute,Gas cylinder,Nagrik,Sewing machine,Telephone",Samata Party,2024
+625,U,SaPP,Scissors,Samaj Parivartan Party,2024
+626,U,SaRaPa,"Battery Torch,Ring",Sanman Rajkiya Paksha,2024
+627,U,SaSP,"Bangles,CCTV Camera,Computer,Ganna kisan,Gas cylinder,Grapes,Whistle",Sainik Samaj Party,2024
+628,U,SaSPa,Auto- rickshaw,Sarvjan Samta Party,2024
+629,U,SatBP,Black board,Satya Bahumat Party,2024
+630,U,SBKP,Auto- rickshaw,Sampoorna Bharat Kranti Party,2024
+631,U,SBM,Television,Samaj Bhalai Morcha,2024
+632,U,SBNP,Gas cylinder,Swaraj Bhartiya Nyay Party,2024
+633,U,SBSP,Walking stick,Suheldev Bharatiya Samaj Party,2024
+634,U,SBSPSP,Almirah,Subhashwadi Bhartiya Samajwadi Party (Subhas Party),2024
+635,U,SDC,Ship,Secular Democratic Congress,2024
+636,U,SDPI,"Auto- rickshaw,Gas cylinder,Sewing machine",Social Democratic Party Of India,2024
+637,U,SERSNMH,"Ganna kisan,Gas Stove",Swarajya Sena (Maharashtra),2024
+638,U,SJAP,Gas cylinder,Sarvjan Awaz Party,2024
+639,U,SJPA,"Gas cylinder,Whistle",Sarva Janata Party,2024
+640,U,SJPI,Nagrik,Social Justice Party of India,2024
+641,U,SJSMP,Laptop,Sajag Samaj Party,2024
+642,U,SJVP,Apple,Sanjhi Virasat Party,2024
+643,U,SKJLP,"Ship,Television",Sakala Janula Party,2024
+644,U,SLDP,Air conditioner,Shiromani Lok Dal Party,2024
+645,U,SMARTIP,Auto- rickshaw,Smart Indians Party,2024
+646,U,SMBSP,"Bench,Sofa",Samrat Mihir Bhoj Samaj Party,2024
+647,U,SMJDRP,"Bat,Gas cylinder",Samajhdar Party,2024
+648,U,SMJSKTP,"Almirah,Scissors",Samaj Shakti Party,2024
+649,U,SMJSNGP,School bag,Samajik Sangharsh Party,2024
+650,U,SMJVKP,"Electric pole,Ganna kisan",Samaj Vikas Kranti Party,2024
+651,U,SMJWDLKPRS,Apple,Samajwadi Lok Parishad,2024
+652,U,SMKNK,"Bead necklace,Gas cylinder,Ring",Samaniya Makkal Nala Katchi,2024
+653,U,SMKP,Plastering trowel,Samyak Party,2024
+654,U,SMNKJP,"Gas cylinder,Road roller,Ship",Samnak Janta Party,2024
+655,U,SMSSMJP,Battery Torch,Samst Samaj Party,2024
+656,U,SNHRABHRTP,Pen nib with seven rays,Sunahara Bharat Party,2024
+657,U,SNYGWDIP,Bat,Sanyogwadi Party,2024
+658,U,SP(I),"Air conditioner,Basket containing Fruits,Battery Torch,CCTV Camera,Coconut farm,Frock,Ganna kisan,Gas cylinder,Pot",Socialist Party (India),2024
+659,U,SPAKP,Swing,Sapaks Party,2024
+660,U,SPIP,Binoculars,Super Power India Party,2024
+661,U,SPSTWDJAP,Bat,Spashtwadi Jan Aadhar Party,2024
+662,U,SRKRP,Funnel,Swaraj Kranti Party,2024
+663,U,SRPP,Flute,Sikkim Republican Party,2024
+664,U,SRPSP,Jackfruit,Sardar Patel Siddhant Party,2024
+665,U,SRSMJNP,Table,Sarva Samaj Janata Party,2024
+666,U,SRVADID,Man blowing turha,Sarv Adi Dal,2024
+667,U,SRVLKTSP,Apple,Sarvlokhit Samaj Party,2024
+668,U,SRVRP,Diamond,Sarvar Party,2024
+669,U,SSBD,"Gas cylinder,Scissors",Shakti Sena (Bharat Desh),2024
+670,U,SSD,Saw,Shoshit Samaj Dal,2024
+671,U,SSF,Table,Sehajdhari Sikh Party,2024
+672,U,ssrd,Grapes,Sanatan Sanskriti Raksha Dal,2024
+673,U,SSS,Diamond,Swarajya Shakti Sena,2024
+674,U,STHSHKRVP,Gas cylinder,Saath Sahakar Vikas Party,2024
+675,U,STWDRKSKP,Window,Satyawadi Rakshak Party,2024
+676,U,SUCI,"Auto- rickshaw,Bat,Battery Torch,Gas cylinder,Glass tumbler,Pot,Pressure cooker,Saw",Socialist Unity Centre Of India (COMMUNIST),2024
+677,U,SUSP,Glass tumbler,Sunder Samaj Party,2024
+678,U,svjn,Dish antenna,Sarvjan Lok Shakti Party,2024
+679,U,SVPP,"Mike,Whistle",Sardar Vallabhbhai Patel Party,2024
+680,U,SVSAP,"Ludo,Tongs",Sarv Samaj Party,2024
+681,U,SWAJANPA,Swing,Swatantra Jantaraj Party,2024
+682,U,SWJP,Hand cart,Samajwadi Jan Parishad,2024
+683,U,SWNTRABYKT,Nagrik,Swatantrata Abhivyakti Party,2024
+684,U,SWP,Whistle,Swabhimani Paksha,2024
+685,U,SWSSP,Glass tumbler,Swayam Shashan Party,2024
+686,U,SWTNKSP,Ganna kisan,Swatantra Kisan Party,2024
+687,U,SZPB,Pot,Supreme Zero Party of Bharat,2024
+688,U,TAGRNP,Nagrik,The Agrani Party,2024
+689,U,TCPY,Bat,Telugu Congress Party,2024
+690,U,TJP,Battery Torch,Telangana Jaghir Party,2024
+691,U,TK,Matchbox,Thakkam Katchi,2024
+692,U,TLGNARJYS,Glass tumbler,Telangana Rajya Samithi,2024
+693,U,TLGUNGP,Diamond,Telugu Nava Garjana Party,2024
+694,U,TLRDSMTP,Rubber stamp,Telugu Rajadhikara Samiti Party,2024
+695,U,TMC(M),Bicycle,Tamil Maanila Congress (Moopanar),2024
+696,U,TMK,"Well,Whistle",Tamilar Makkal Katchi,2024
+697,U,TMMDK,"Auto- rickshaw,Ship",Tamil Manila Murpokku Dravida Kazhagam,2024
+698,U,TMNK,Matchbox,Tamilaga Makkal Nala Katchi,2024
+699,U,TMNP,Computer,Tamilnadu Makkal Nalvazhvu Periyakkam,2024
+700,U,TMTHK,Diamond,Tamilaga Makkal Thannurimai Katchi,2024
+701,U,TNRMPI,Gas Stove,The National Road Map Party of India,2024
+702,U,TPJRP,Hockey and ball,Telangana Prajaa Jeevana Rythu Party,2024
+703,U,TPSP,"Road roller,Vacuum cleaner",Telangana Praja Shakthi Party,2024
+704,U,TPSTP,"Battery Torch,Bricks,Ganna kisan,Pressure cooker",Tipu Sultan Party,2024
+705,U,TRP,"Almirah,Mike",Telangana Republican Party,2024
+706,U,TRPS,Telephone,Telangana Rashtra Punahnirmana Samithi,2024
+707,U,TSP,Chapati roller,Telangana Sakalajanula Party,2024
+708,U,TTPty,Auto- rickshaw,Twenty 20 Party,2024
+709,U,UKKD,"Diamond,Ice cream,Walking stick",Uttarakhand Kranti Dal,2024
+710,U,UMEDPI,Auto- rickshaw,Ummeed Party of India,2024
+711,U,UMK,"Auto- rickshaw,Gas cylinder",Ulzaipali Makkal Katchy,2024
+712,U,UPJP,"Auto- rickshaw,Chappals",Uttama Prajaakeeya Party,2024
+713,U,UPP,Scissors,Uttarakhand Parivartan Party,2024
+714,U,UPRP,Battery Torch,Uttar Pradesh Republican Party,2024
+715,U,URPI,"Gas cylinder,Pot",United Republican Party of India,2024
+716,U,US,Boat with man and sail,Utkal Samaj,2024
+717,U,UTRASMNTP,Letter box,Uttarakhand Samanta Party,2024
+718,U,VBA,"Air conditioner,Almirah,Auto- rickshaw,Ganna kisan,Gas cylinder,Kettle,Pressure cooker,Road roller,Whistle",Vanchit Bahujan Aaghadi,2024
+719,U,VCK,"Auto- rickshaw,Pot,T.V. Remote",Viduthalai Chiruthaigal Katchi,2024
+720,U,VINPA,Gas cylinder,Vikas India Party,2024
+721,U,VIP,Auto- rickshaw,Vanchitsamaj Insaaf Party,2024
+722,U,VIPty,Ganna kisan,Vikas Insaf Party,2024
+723,U,VKK,Coconut farm,Viduthalai Kalam Katchi,2024
+724,U,VKRMSP,Spanner,Vishwa Kalyan Rashtriya Manav Samaj Party,2024
+725,U,VKVIP,"Bat,Diamond,Football player,Gas cylinder,Grapes,Helmet,Ship",Viro Ke Vir Indian Party,2024
+726,U,VPI,"Auto- rickshaw,Gas cylinder,Gas Stove",Voters Party International,2024
+727,U,VRA,Scissors,Vidarbha Rajya Aghadi,2024
+728,U,VSIP,Lady purse,Vikassheel Insaan Party,2024
+729,U,VSJNP,Air conditioner,Vishal Janta Party,2024
+730,U,VSP,"Ganna kisan,Matchbox",Vishva Shakti Party,2024
+731,U,VTIP,Chappals,Vidiyalai Thedum Indhiyargal Party,2024
+732,U,VTIPP,Envelope,Voters Independent Party,2024
+733,U,VTRP,Bat,Vidhyarthula Rajakiya Party,2024
+734,U,VTVTK,Pestle and mortar,Veerath Thiyagi Viswanathadoss Thozhilalarkal Katchi,2024
+735,U,WAP,Chimney,Wazib Adhikar Party,2024
+736,U,WPOI,Gas cylinder,Welfare Party Of India,2024
+737,U,YBS,Telephone,Yuva Bihar Sena,2024
+738,U,YGATLSIP,Road roller,Yuga Thulasi Party,2024
+739,U,YIPP,Flute,Youth India Peace Party,2024
+740,U,YKP,Water melon,Yuva Krantikari Party,2024
+741,U,YSEP,Mike,Young Star Empowerment Party,2024
+742,U,YVP,Ganna kisan,Yuva Vikas Party,2024
+743,U,YVTRP,Gas cylinder,Yuva Taram Party,2024
+744,Z,IND,"Air conditioner,Almirah,Apple,Auto- rickshaw,Baby walker,Balloon,Bangles,Basket containing Fruits,Bat,Batsman,Battery Torch,Bead necklace,Belt,Bench,Bicycle pump,Binoculars,Biscuit,Black board,Boat with man and sail,Box,Bread,Brick,Bricks,Brief case,Brush,Bucket,Cake,Calculator,Camera,Can,Capsicum,Carpet,Carrom board,Cauliflower,CCTV Camera,Chain,Chakki,Chapati roller,Chappals,Chess board,Chimney,Clip,Coat,Coconut farm,Colour tray & brush,Computer,Computer mouse,Cot,Crane,Cube,Cutting pliers,Diamond,Diesel pump,Dish antenna,Dolli,Door bell,Door handle,Drill machine,Dumbbells,Dustbin,Ear rings,Electric pole,Envelope,Flute,Football player,Fountain,Frock,Frying pan,Funnel,Ganna kisan,Gas cylinder,Gas Stove,Gift pack,Ginger,Glass tumbler,Gramophone,Grapes,Green chilli,Hand cart,Harmonium,Head phone,Helmet,Hockey and ball,Hour glass,Ice cream,Immersion rod,Iron,Jackfruit,Kettle,Lady finger,Lady purse,Laptop,Latch,Letter box,Lighter,Ludo,Lunch box,Matchbox,Mike,Mixee,Nagrik,Nail cutter,Neck tie,Noodles bowl,Pan,Pears,Peas,Pen drive,Pen nib with seven rays,Pen stand,Pencil box,Pencil sharpner,Pendulum,Pestle and mortar,Petrol pump,Phone charger,Plastering trowel,Plate containing food,Pot,Pressure cooker,Refrigerator,Ring,Road roller,Robot,Room cooler,Rubber stamp,Safety pin,Saw,School bag,Scissors,Sewing machine,Ship,Shoe,Sitar,Slate,Soap dish,Socks,Sofa,Spanner,Stethoscope,Stool,Stumps,Swing,Syringe,T.V. Remote,Table,Tea filter,Telephone,Television,Tennis racket & ball ,Tent,Throwing a javelin,Tiller,Toffee,Toffees,Tongs,Tray,Triangle,Truck,Trumpet,Tube light,Typewriter,Tyres,Vacuum cleaner,Violin,Walking stick,Wall hook,Wallet,Water melon,Water tank,Well,Wheel barrow,Whistle,Window,Wool and Needle",Independent,2024
+745,Z1,NOTA,NOTA,None of the Above,2024
+Summary Statement,,,,,2024
+Sl. No.,Party Type,No of Parties Participated,,,2024
+1,NATIONAL PARTIES,6,,,2024
+2,STATE PARTIES,47,,,2024
+3,REGISTERED(UNRECOGNISED) PARTIES,690,,,2024
+Disclaimer,,,,,2024
+These statistical reports are prepared only for academic and research purposes from the secondary data filled in the Index Cards. The primary data is in the statutory forms maintained by the concerned Returning Officers and the data kept in statutory forms is final.,,,,,2024

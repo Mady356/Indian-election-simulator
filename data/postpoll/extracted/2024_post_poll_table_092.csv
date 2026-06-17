@@ -1,0 +1,13 @@
+col_0,col_1,col_2,col_3,col_4,N,col_6,col_7,(%),col_9,col_10,Valid (%),col_12
+Valid,,01: House/Flat/ Bungalow,,701,,,3.6,,,11.5,,
+,,02: House/Flat with 5 or more rooms,,343,,,1.7,,,5.6,,
+,,03: House/ Flat with 4 rooms,,979,,,5.0,,,16.1,,
+,,04: House/ Flat with 3 rooms,,1394,,,7.1,,,22.9,,
+,,05: House with 2 rooms,,1617,,,8.2,,,26.5,,
+,,06: House with 1 room,,634,,,3.2,,,10.4,,
+,,07: Kuccha house,,218,,,1.1,,,3.6,,
+,,08: Slum/Jhuggi/ Jhopadi,,96,,,.5,,,1.6,,
+,,98: Did not respond,,114,,,.6,,,1.9,,
+,,Total,,6096,,,31.0,,,100.0,,
+Missing,,99: Not applicable,,13567,,,69.0,,,,,
+Total,,,,19663,,,100.0,,,,,

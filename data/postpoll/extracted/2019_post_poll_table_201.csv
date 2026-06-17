@@ -1,0 +1,34 @@
+col_0,col_1,N,(%)
+,700: Ashrafs (Sayyad Shaikh),651,2.7
+,710: Mughal (Khan),282,1.2
+,720: Rajput (Peasant Proprietors),91,.4
+,730: Other Upper Caste Muslim,62,.3
+,732: Muslim Middle for Kashmir,60,.2
+,740: Peasants/Traders,148,.6
+,750: Craftsmen/Weavers,481,2.0
+,760: Service,142,.6
+,770: Ex-Untouchables/Muslim Dalits,69,.3
+,780: Other Muslim OBC,249,1.0
+,790: Manipuri Muslim,53,.2
+,791: Qurashi,10,.0
+,792: Muslim OBC and Lower caste (for Kashmir),143,.6
+,793: Kerala Muslim,49,.2
+,799: Muslim No Caste/Other Muslims,294,1.2
+,800: Jat Sikh,217,.9
+,810: Khatri/Arora Sikh,25,.1
+,820 : OBC Sikh,51,.2
+,825: Mazhabi Sikh,76,.3
+,826: Rai Sikh,19,.1
+,830: Sikh No Caste/Other Sikhs,11,.0
+,840: Upper Caste Christians,89,.4
+,850: OBC Christians,80,.3
+,860: Dalit Christians,11,.0
+,870: Christians No Caste/Other Christians,10,.0
+,880: Other Minorities,22,.1
+,890: Buddhists,10,.0
+,900: Dalit Buddhists,54,.2
+,901: Nepali,0,.0
+,"995: Meetei, Meitei, Hindu no caste",65,.3
+,998: No religion no caste,945,3.9
+,999: Not ascertained/ failed to ask/ Answer refused,199,.8
+,Total,24235,100.0

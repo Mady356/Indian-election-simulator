@@ -1,0 +1,84 @@
+{
+  "nodes": [
+    {
+      "id": "document:visualizer/README.md",
+      "type": "document",
+      "name": "README.md",
+      "filePath": "visualizer/README.md",
+      "summary": "Documents how to build the election/demographics data bundle, serve the static visualizer locally, and upgrade from a state grid cartogram to real GeoJSON boundaries.",
+      "tags": ["documentation", "visualizer", "frontend", "development", "getting-started"],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:visualizer/index.html",
+      "type": "file",
+      "name": "index.html",
+      "filePath": "visualizer/index.html",
+      "summary": "Static HTML shell for the India election and demographics visualizer with header state selector, sidebar metric/DHS/coverage controls, state grid or table view, and detail panels for districts, party swings, and constituencies.",
+      "tags": ["markup", "frontend", "visualizer", "ui-shell", "component"],
+      "complexity": "moderate",
+      "languageNotes": "Defines DOM mount points (mapGrid, districtTable, dhsMap, etc.) consumed by app.js; links styles.css and loads app.js at page end."
+    },
+    {
+      "id": "file:visualizer/styles.css",
+      "type": "file",
+      "name": "styles.css",
+      "filePath": "visualizer/styles.css",
+      "summary": "CSS design system and layout for the visualizer including CSS custom properties, sticky header, sidebar/workspace grid, state cartogram tiles, data tables, DHS cluster map styling, and a 980px responsive breakpoint.",
+      "tags": ["markup", "styling", "frontend", "visualizer", "layout"],
+      "complexity": "complex",
+      "languageNotes": "Uses CSS variables for theming and defines classes (.state-tile, .dhs-map, .legend-ramp) that app.js applies when rendering dynamic content."
+    }
+  ],
+  "edges": [
+    {
+      "source": "document:visualizer/README.md",
+      "target": "file:src/visualization/build_visualizer_data.py",
+      "type": "documents",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "document:visualizer/README.md",
+      "target": "file:visualizer/index.html",
+      "type": "documents",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "document:visualizer/README.md",
+      "target": "file:visualizer/styles.css",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "file:visualizer/index.html",
+      "target": "file:visualizer/styles.css",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "file:visualizer/index.html",
+      "target": "file:visualizer/app.js",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "file:visualizer/styles.css",
+      "target": "file:visualizer/index.html",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "file:visualizer/styles.css",
+      "target": "file:visualizer/app.js",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.5
+    }
+  ]
+}

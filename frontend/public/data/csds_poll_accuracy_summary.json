@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-06-17T05:30:50.340408+00:00",
+  "rows": [
+    {
+      "year": 2019,
+      "poll_type": "post_poll",
+      "party_or_alliance": "INC",
+      "survey_vote_share": 21.5,
+      "actual_vote_share": 31.435,
+      "absolute_error": 9.935,
+      "direction": "underestimated",
+      "interpretation_stub": "In 2019 post-poll, INC was underestimated by 9.9 points versus actual national vote share. This is a descriptive survey-vs-result gap, not a formal polling-error model."
+    },
+    {
+      "year": 2019,
+      "poll_type": "post_poll",
+      "party_or_alliance": "Others",
+      "survey_vote_share": 23.7,
+      "actual_vote_share": 22.634,
+      "absolute_error": 1.066,
+      "direction": "overestimated",
+      "interpretation_stub": "In 2019 post-poll, Others was overestimated by 1.1 points versus actual national vote share. This is a descriptive survey-vs-result gap, not a formal polling-error model."
+    },
+    {
+      "year": 2024,
+      "poll_type": "pre_poll",
+      "party_or_alliance": "Others",
+      "survey_vote_share": 38.55,
+      "actual_vote_share": 16.532,
+      "absolute_error": 22.018,
+      "direction": "overestimated",
+      "interpretation_stub": "In 2024 pre-poll, Others was overestimated by 22.0 points versus actual national vote share. This is a descriptive survey-vs-result gap, not a formal polling-error model."
+    }
+  ],
+  "row_count": 3
+}

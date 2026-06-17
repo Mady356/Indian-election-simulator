@@ -1,0 +1,4 @@
+dataset,row_count,constituencies_covered,missing_bjp_swing,missing_inc_swing,mean_nfhs5_coverage,mean_change_coverage,low_quality_rows,notes
+constituency_election_demographic_master,542,542.0,66.0,100.0,0.8944635883905014,0.8944635883905014,199.0,Partial NFHS coverage is expected because the constituency demographic panel currently covers delimitation-era seats only.
+vote_share_driver_correlations,88,,,,,,40.0,Pairs with fewer than 30 overlapping observations should be read cautiously.
+top_swing_constituencies,150,135.0,,,,,,"Summary tables for swings, close seats, and margin shifts."

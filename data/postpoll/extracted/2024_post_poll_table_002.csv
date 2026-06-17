@@ -1,0 +1,10 @@
+col_0,col_1,col_2,col_3,col_4,N,col_6,col_7,(%),col_9,col_10,Valid (%),col_12
+Valid,,01: On the day of voting,,2591,,,13.2,,,14.1,,
+,,02: A day or two before voting,,2465,,,12.5,,,13.4,,
+,,03: During the campaign,,3801,,,19.3,,,20.7,,
+,,04: After the announcement of candidates,,3809,,,19.4,,,20.7,,
+,,05: Even before announcement of candidates,,5059,,,25.7,,,27.5,,
+,,98: No response,,669,,,3.4,,,3.6,,
+,,Total,,18393,,,93.5,,,100.0,,
+Missing,,99: Not applicable,,1270,,,6.5,,,,,
+Total,,,,19663,,,100.0,,,,,

@@ -1,0 +1,11 @@
+col_0,col_1,N,(%),Valid (%)
+,2: House/Flat with 5 or more rooms,507,2.1,8.3
+,3: House/Flat with 4 rooms,772,3.2,12.6
+,4: House/Flat with 3 rooms,1190,4.9,19.5
+,5: House with 2 rooms,1701,7.0,27.9
+,6: House with 1 room,774,3.2,12.7
+,7: Mainly a kutcha house,406,1.7,6.7
+,8: Slum/jhuggi/jhopdi,93,.4,1.5
+,Total,6105,25.2,100.0
+Missing,9: N.A.,18130,74.8,
+Total,,24235,100.0,

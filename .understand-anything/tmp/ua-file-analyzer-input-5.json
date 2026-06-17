@@ -1,0 +1,28 @@
+{
+  "projectRoot": "/Users/maadhavangupta/Downloads/CS/Projects/Election-simulator",
+  "batchFiles": [
+    {"path": "src/demographics/audit_dhs_downloads.py", "language": "python", "sizeLines": 6, "fileCategory": "code"},
+    {"path": "src/demographics/dhs/audit_dhs_downloads.py", "language": "python", "sizeLines": 95, "fileCategory": "code"},
+    {"path": "src/demographics/dhs/build_dhs_geospatial_layer.py", "language": "python", "sizeLines": 142, "fileCategory": "code"},
+    {"path": "src/demographics/dhs/filename_parser.py", "language": "python", "sizeLines": 11, "fileCategory": "code"},
+    {"path": "src/demographics/dhs_filename_parser.py", "language": "python", "sizeLines": 185, "fileCategory": "code"}
+  ],
+  "batchImportData": {
+    "src/demographics/audit_dhs_downloads.py": [
+      "src/demographics/dhs/audit_dhs_downloads.py"
+    ],
+    "src/demographics/dhs/audit_dhs_downloads.py": [
+      "src/config.py",
+      "src/demographics/dhs/filename_parser.py"
+    ],
+    "src/demographics/dhs/build_dhs_geospatial_layer.py": [
+      "src/config.py",
+      "src/demographics/dhs/filename_parser.py",
+      "src/demographics/dhs/paths.py"
+    ],
+    "src/demographics/dhs/filename_parser.py": [
+      "src/demographics/dhs_filename_parser.py"
+    ],
+    "src/demographics/dhs_filename_parser.py": []
+  }
+}

@@ -1,0 +1,4088 @@
+{
+  "version": "1.0.0",
+  "gitCommitHash": "no-git",
+  "generatedAt": "2026-06-13T16:57:35.928Z",
+  "files": {
+    "src/__init__.py": {
+      "filePath": "src/__init__.py",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 1,
+      "hasStructuralAnalysis": true
+    },
+    "src/analysis/__init__.py": {
+      "filePath": "src/analysis/__init__.py",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 1,
+      "hasStructuralAnalysis": true
+    },
+    "src/analysis/build_constituency_volatality.py": {
+      "filePath": "src/analysis/build_constituency_volatality.py",
+      "contentHash": "a2a7dac3018a158edd97b86b5ab9015645468d10ef20736014af3cfe4f1046a6",
+      "functions": [
+        {
+          "name": "load_data",
+          "params": [],
+          "exported": true,
+          "lineCount": 6
+        },
+        {
+          "name": "build_party_swing_features",
+          "params": [
+            "party_swings"
+          ],
+          "exported": true,
+          "lineCount": 17
+        },
+        {
+          "name": "build_volatility_table",
+          "params": [
+            "winner_comparison",
+            "party_swings",
+            "features_2024"
+          ],
+          "exported": true,
+          "lineCount": 57
+        },
+        {
+          "name": "main",
+          "params": [],
+          "exported": true,
+          "lineCount": 31
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        }
+      ],
+      "exports": [
+        "load_data",
+        "build_party_swing_features",
+        "build_volatility_table",
+        "main"
+      ],
+      "totalLines": 137,
+      "hasStructuralAnalysis": true
+    },
+    "src/analysis/build_state_election_demographic_analysis.py": {
+      "filePath": "src/analysis/build_state_election_demographic_analysis.py",
+      "contentHash": "181cecc6266565e4fa6e760e86da488fa6963b8068ea25cbd7710642ad24f345",
+      "functions": [
+        {
+          "name": "normalise_state_name",
+          "params": [
+            "value"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 10
+        },
+        {
+          "name": "load_inputs",
+          "params": [],
+          "returnType": "tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame]",
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "weighted_average",
+          "params": [
+            "group",
+            "column",
+            "weight_col"
+          ],
+          "returnType": "float",
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "build_demographic_lookup",
+          "params": [
+            "demographics"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 66
+        },
+        {
+          "name": "add_alliance_columns",
+          "params": [
+            "winners",
+            "alliances"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 19
+        },
+        {
+          "name": "most_common",
+          "params": [
+            "series"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 5
+        },
+        {
+          "name": "build_state_outcomes",
+          "params": [
+            "winners",
+            "volatility"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 61
+        },
+        {
+          "name": "build_state_party_swings",
+          "params": [
+            "party_swings",
+            "winners",
+            "alliances"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 40
+        },
+        {
+          "name": "add_key_party_swing_columns",
+          "params": [
+            "state",
+            "state_party"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 14
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 62
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "re",
+          "specifiers": [
+            "re"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "numpy",
+          "specifiers": [
+            "np"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        }
+      ],
+      "exports": [
+        "normalise_state_name",
+        "load_inputs",
+        "weighted_average",
+        "build_demographic_lookup",
+        "add_alliance_columns",
+        "most_common",
+        "build_state_outcomes",
+        "build_state_party_swings",
+        "add_key_party_swing_columns",
+        "main"
+      ],
+      "totalLines": 355,
+      "hasStructuralAnalysis": true
+    },
+    "src/analysis/compare_2019_2024.py": {
+      "filePath": "src/analysis/compare_2019_2024.py",
+      "contentHash": "3935f4250173274c4e0270ac2d9551535726b8cf9dc5362ea3b3f26836a0f985",
+      "functions": [
+        {
+          "name": "load_results",
+          "params": [],
+          "exported": true,
+          "lineCount": 5
+        },
+        {
+          "name": "add_comparison_key",
+          "params": [
+            "df"
+          ],
+          "exported": true,
+          "lineCount": 9
+        },
+        {
+          "name": "build_unmatched_constituencies",
+          "params": [
+            "results_2019",
+            "results_2024"
+          ],
+          "exported": true,
+          "lineCount": 34
+        },
+        {
+          "name": "build_winner_comparison",
+          "params": [
+            "results_2019",
+            "results_2024"
+          ],
+          "exported": true,
+          "lineCount": 71
+        },
+        {
+          "name": "build_party_swing_table",
+          "params": [
+            "results_2019",
+            "results_2024"
+          ],
+          "exported": true,
+          "lineCount": 65
+        },
+        {
+          "name": "build_state_swing_summary",
+          "params": [
+            "swings"
+          ],
+          "exported": true,
+          "lineCount": 14
+        },
+        {
+          "name": "main",
+          "params": [],
+          "exported": true,
+          "lineCount": 146
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        }
+      ],
+      "exports": [
+        "load_results",
+        "add_comparison_key",
+        "build_unmatched_constituencies",
+        "build_winner_comparison",
+        "build_party_swing_table",
+        "build_state_swing_summary",
+        "main"
+      ],
+      "totalLines": 432,
+      "hasStructuralAnalysis": true
+    },
+    "src/analysis/constituency_similarity.py": {
+      "filePath": "src/analysis/constituency_similarity.py",
+      "contentHash": "0637885b38f812522c8fed7362cafa16786df67938b74ca39aa16aa8f678b410",
+      "functions": [
+        {
+          "name": "build_similarity",
+          "params": [
+            "features",
+            "n_neighbors"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 30
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 24
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "numpy",
+          "specifiers": [
+            "np"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "sklearn.neighbors",
+          "specifiers": [
+            "NearestNeighbors"
+          ]
+        },
+        {
+          "source": "sklearn.preprocessing",
+          "specifiers": [
+            "StandardScaler"
+          ]
+        },
+        {
+          "source": "src.data_io",
+          "specifiers": [
+            "CONSTITUENCY_NEIGHBORS_FILE",
+            "load_constituency_features",
+            "save_csv"
+          ]
+        },
+        {
+          "source": "src.utils.validation",
+          "specifiers": [
+            "check_required_columns"
+          ]
+        }
+      ],
+      "exports": [
+        "build_similarity",
+        "main"
+      ],
+      "totalLines": 105,
+      "hasStructuralAnalysis": true
+    },
+    "src/analysis/seat_flip_report.py": {
+      "filePath": "src/analysis/seat_flip_report.py",
+      "contentHash": "322dd78da1652c7daf8606215f6058d5510a9582d21dc57d70edf286dfcf799a",
+      "functions": [
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 56
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "PROCESSED_DIR"
+          ]
+        },
+        {
+          "source": "src.data_io",
+          "specifiers": [
+            "SEAT_FLIP_REPORT_FILE",
+            "ZERO_SUM_RESULTS_FILE",
+            "load_candidate_results",
+            "save_csv"
+          ]
+        }
+      ],
+      "exports": [
+        "main"
+      ],
+      "totalLines": 94,
+      "hasStructuralAnalysis": true
+    },
+    "src/analysis/state_swing_sensitivity.py": {
+      "filePath": "src/analysis/state_swing_sensitivity.py",
+      "contentHash": "a64b19871703e2d98896680f74bb342f48b15ac7e85e750005349efbb75bf4f9",
+      "functions": [
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 49
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "CLOSE_MARGIN_THRESHOLD",
+            "PROCESSED_DIR"
+          ]
+        },
+        {
+          "source": "src.data_io",
+          "specifiers": [
+            "STATE_SWING_SENSITIVITY_FILE",
+            "ZERO_SUM_RESULTS_FILE",
+            "load_candidate_results",
+            "save_csv"
+          ]
+        }
+      ],
+      "exports": [
+        "main"
+      ],
+      "totalLines": 90,
+      "hasStructuralAnalysis": true
+    },
+    "src/analysis/vote_seat_distortion.py": {
+      "filePath": "src/analysis/vote_seat_distortion.py",
+      "contentHash": "1d42af92a70df205aaacbf4cc46a8413bf21b14acbcf5ea82bb41246e21c99f6",
+      "functions": [
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 28
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "src.data_io",
+          "specifiers": [
+            "VOTE_SEAT_DISTORTION_FILE",
+            "load_candidate_results",
+            "load_winners",
+            "save_csv"
+          ]
+        },
+        {
+          "source": "src.utils.election_metrics",
+          "specifiers": [
+            "calculate_vote_seat_distortion"
+          ]
+        }
+      ],
+      "exports": [
+        "main"
+      ],
+      "totalLines": 61,
+      "hasStructuralAnalysis": true
+    },
+    "src/clean/__init__.py": {
+      "filePath": "src/clean/__init__.py",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 1,
+      "hasStructuralAnalysis": true
+    },
+    "src/clean/clean_eci_2019.py": {
+      "filePath": "src/clean/clean_eci_2019.py",
+      "contentHash": "7337b1117aacd5ab993763b42a949bab2e1c481866d21af03bf15e813f79d9b5",
+      "functions": [
+        {
+          "name": "clean_col",
+          "params": [
+            "col"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "detect_header_row",
+          "params": [
+            "raw",
+            "max_scan"
+          ],
+          "returnType": "int",
+          "exported": true,
+          "lineCount": 23
+        },
+        {
+          "name": "load_excel_file",
+          "params": [
+            "path"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 17
+        },
+        {
+          "name": "remove_junk_rows",
+          "params": [
+            "df"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 4
+        },
+        {
+          "name": "standardize_results",
+          "params": [
+            "df"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 46
+        },
+        {
+          "name": "standardize_party_file",
+          "params": [
+            "df"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 11
+        },
+        {
+          "name": "standardize_summary_file",
+          "params": [
+            "df"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 14
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 32
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "re",
+          "specifiers": [
+            "re"
+          ]
+        },
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "ELECTION_YEAR",
+            "RAW_YEAR_DIR"
+          ]
+        },
+        {
+          "source": "src.data_io",
+          "specifiers": [
+            "CANDIDATE_RESULTS_FILE",
+            "CONSTITUENCY_SUMMARY_FILE",
+            "PARTIES_FILE",
+            "save_csv"
+          ]
+        }
+      ],
+      "exports": [
+        "clean_col",
+        "detect_header_row",
+        "load_excel_file",
+        "remove_junk_rows",
+        "standardize_results",
+        "standardize_party_file",
+        "standardize_summary_file",
+        "main"
+      ],
+      "totalLines": 250,
+      "hasStructuralAnalysis": true
+    },
+    "src/clean/clean_eci.py": {
+      "filePath": "src/clean/clean_eci.py",
+      "contentHash": "ffd0bd376cb5e2347d75e0b83b3c576e44b7da50cd3eeb60c08fd437704eeed6",
+      "functions": [
+        {
+          "name": "clean_col",
+          "params": [
+            "col"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "detect_header_row",
+          "params": [
+            "raw",
+            "max_scan"
+          ],
+          "returnType": "int",
+          "exported": true,
+          "lineCount": 23
+        },
+        {
+          "name": "load_excel_file",
+          "params": [
+            "path"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 17
+        },
+        {
+          "name": "remove_junk_rows",
+          "params": [
+            "df"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 4
+        },
+        {
+          "name": "standardize_results",
+          "params": [
+            "df"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 46
+        },
+        {
+          "name": "standardize_party_file",
+          "params": [
+            "df"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 11
+        },
+        {
+          "name": "standardize_summary_file",
+          "params": [
+            "df"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 14
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 32
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "re",
+          "specifiers": [
+            "re"
+          ]
+        },
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "ACTIVE_YEAR",
+            "RAW_YEAR_DIR"
+          ]
+        },
+        {
+          "source": "src.data_io",
+          "specifiers": [
+            "CANDIDATE_RESULTS_FILE",
+            "CONSTITUENCY_SUMMARY_FILE",
+            "PARTIES_FILE",
+            "save_csv"
+          ]
+        }
+      ],
+      "exports": [
+        "clean_col",
+        "detect_header_row",
+        "load_excel_file",
+        "remove_junk_rows",
+        "standardize_results",
+        "standardize_party_file",
+        "standardize_summary_file",
+        "main"
+      ],
+      "totalLines": 263,
+      "hasStructuralAnalysis": true
+    },
+    "src/config.py": {
+      "filePath": "src/config.py",
+      "contentHash": "e523543bc7bd0d26cfc0a279058732e30d4c935862c0893f24693330f3116ee0",
+      "functions": [],
+      "classes": [],
+      "imports": [
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        }
+      ],
+      "exports": [],
+      "totalLines": 104,
+      "hasStructuralAnalysis": true
+    },
+    "src/data_io.py": {
+      "filePath": "src/data_io.py",
+      "contentHash": "e3f7ccc2d1ee7f94fb1ffee37c3a131aa038376192c08afb7a978c70fbf966e3",
+      "functions": [
+        {
+          "name": "load_candidate_results",
+          "params": [],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 3
+        },
+        {
+          "name": "load_party_metadata",
+          "params": [],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 3
+        },
+        {
+          "name": "load_winners",
+          "params": [],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 3
+        },
+        {
+          "name": "load_constituency_features",
+          "params": [],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 3
+        },
+        {
+          "name": "_resolve_base",
+          "params": [
+            "outputs"
+          ],
+          "returnType": "Path",
+          "exported": true,
+          "lineCount": 2
+        },
+        {
+          "name": "save_csv",
+          "params": [
+            "df",
+            "filename",
+            "outputs"
+          ],
+          "returnType": "Path",
+          "exported": true,
+          "lineCount": 11
+        },
+        {
+          "name": "save_parquet",
+          "params": [
+            "df",
+            "filename",
+            "outputs"
+          ],
+          "returnType": "Path",
+          "exported": true,
+          "lineCount": 6
+        },
+        {
+          "name": "save_table",
+          "params": [
+            "df",
+            "name"
+          ],
+          "returnType": "tuple[Path, Path]",
+          "exported": true,
+          "lineCount": 19
+        },
+        {
+          "name": "load_table",
+          "params": [
+            "name"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 3
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "ACTIVE_YEAR",
+            "DATABASE_DIR",
+            "ELECTION_TYPE",
+            "OUTPUTS_DIR",
+            "PROCESSED_DIR"
+          ]
+        }
+      ],
+      "exports": [
+        "load_candidate_results",
+        "load_party_metadata",
+        "load_winners",
+        "load_constituency_features",
+        "_resolve_base",
+        "save_csv",
+        "save_parquet",
+        "save_table",
+        "load_table"
+      ],
+      "totalLines": 135,
+      "hasStructuralAnalysis": true
+    },
+    "src/database/__init__.py": {
+      "filePath": "src/database/__init__.py",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 1,
+      "hasStructuralAnalysis": true
+    },
+    "src/database/database_layer.py": {
+      "filePath": "src/database/database_layer.py",
+      "contentHash": "9cbdbb7bf04cd98eeaf0e07dabd850413a932ba6d9bad888904c2460dff54461",
+      "functions": [
+        {
+          "name": "make_constituency_id",
+          "params": [
+            "state",
+            "constituency"
+          ],
+          "returnType": "pd.Series",
+          "exported": true,
+          "lineCount": 15
+        },
+        {
+          "name": "load_data",
+          "params": [],
+          "returnType": "tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame]",
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "build_results_table",
+          "params": [
+            "results"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 15
+        },
+        {
+          "name": "build_party_table",
+          "params": [
+            "party_meta"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 9
+        },
+        {
+          "name": "build_constituency_table",
+          "params": [
+            "features"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 13
+        },
+        {
+          "name": "build_alliance_table",
+          "params": [
+            "party_meta"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 8
+        },
+        {
+          "name": "build_candidate_table",
+          "params": [
+            "results"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 10
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 11
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "ACTIVE_YEAR",
+            "ALLIANCE_COL",
+            "ELECTION_TYPE"
+          ]
+        },
+        {
+          "source": "src.data_io",
+          "specifiers": [
+            "load_candidate_results",
+            "load_constituency_features",
+            "load_party_metadata",
+            "load_winners",
+            "save_table"
+          ]
+        }
+      ],
+      "exports": [
+        "make_constituency_id",
+        "load_data",
+        "build_results_table",
+        "build_party_table",
+        "build_constituency_table",
+        "build_alliance_table",
+        "build_candidate_table",
+        "main"
+      ],
+      "totalLines": 163,
+      "hasStructuralAnalysis": true
+    },
+    "src/database/query_database.py": {
+      "filePath": "src/database/query_database.py",
+      "contentHash": "8e3a230c6bb2ee35490ae098f35685ae22546f490a8ae7400f29d598f8d78471",
+      "functions": [
+        {
+          "name": "closest_wins",
+          "params": [
+            "party",
+            "n"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 6
+        },
+        {
+          "name": "most_fragmented",
+          "params": [
+            "n"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 4
+        },
+        {
+          "name": "seats_by_state_and_party",
+          "params": [],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 10
+        },
+        {
+          "name": "vulnerable_seats",
+          "params": [
+            "party",
+            "margin_threshold"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 10
+        },
+        {
+          "name": "alliance_seat_counts",
+          "params": [],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 9
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 12
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "ALLIANCE_COL",
+            "CLOSE_MARGIN_THRESHOLD"
+          ]
+        },
+        {
+          "source": "src.data_io",
+          "specifiers": [
+            "load_table"
+          ]
+        }
+      ],
+      "exports": [
+        "closest_wins",
+        "most_fragmented",
+        "seats_by_state_and_party",
+        "vulnerable_seats",
+        "alliance_seat_counts",
+        "main"
+      ],
+      "totalLines": 88,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/__init__.py": {
+      "filePath": "src/demographics/__init__.py",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 1,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/audit_demographic_coverage.py": {
+      "filePath": "src/demographics/audit_demographic_coverage.py",
+      "contentHash": "c5cf361fea582edcaa7b5a8b6fc226c415bf8addfb0a4efeb4996cf13603e52a",
+      "functions": [
+        {
+          "name": "list_raw_files",
+          "params": [],
+          "returnType": "list[Path]",
+          "exported": true,
+          "lineCount": 10
+        },
+        {
+          "name": "raw_roots_for_source",
+          "params": [
+            "source_id"
+          ],
+          "returnType": "list[Path]",
+          "exported": true,
+          "lineCount": 8
+        },
+        {
+          "name": "match_raw_file",
+          "params": [
+            "expected",
+            "files"
+          ],
+          "returnType": "str | None",
+          "exported": true,
+          "lineCount": 9
+        },
+        {
+          "name": "list_processed_files",
+          "params": [],
+          "returnType": "list[Path]",
+          "exported": true,
+          "lineCount": 8
+        },
+        {
+          "name": "processed_column_ready",
+          "params": [
+            "column",
+            "processed_files"
+          ],
+          "returnType": "bool",
+          "exported": true,
+          "lineCount": 26
+        },
+        {
+          "name": "audit_variables",
+          "params": [
+            "df"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 39
+        },
+        {
+          "name": "print_summary",
+          "params": [
+            "report"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 40
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 27
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "DEMOGRAPHICS_CATALOG_DIR",
+            "DEMOGRAPHICS_OUTPUTS_DIR",
+            "DEMOGRAPHICS_PROCESSED_DIR",
+            "DEMOGRAPHICS_RAW_DIR",
+            "LEGACY_CENSUS_2011_DIRS"
+          ]
+        },
+        {
+          "source": "src.demographics.demographic_catalog",
+          "specifiers": [
+            "SOURCE_CENSUS_2011",
+            "SOURCE_RAW_DIRS"
+          ]
+        }
+      ],
+      "exports": [
+        "list_raw_files",
+        "raw_roots_for_source",
+        "match_raw_file",
+        "list_processed_files",
+        "processed_column_ready",
+        "audit_variables",
+        "print_summary",
+        "main"
+      ],
+      "totalLines": 231,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/audit_dhs_downloads.py": {
+      "filePath": "src/demographics/audit_dhs_downloads.py",
+      "contentHash": "6bf74862adbb94370e84526aaa8cc56e5d7e7ba82fa5a13a258e4d07c60a64fd",
+      "functions": [],
+      "classes": [],
+      "imports": [
+        {
+          "source": "src.demographics.dhs.audit_dhs_downloads",
+          "specifiers": [
+            "main"
+          ]
+        }
+      ],
+      "exports": [],
+      "totalLines": 7,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/build_constituency_demographics.py": {
+      "filePath": "src/demographics/build_constituency_demographics.py",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 1,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/build_demographic_catalog.py": {
+      "filePath": "src/demographics/build_demographic_catalog.py",
+      "contentHash": "2b877147183ed8ad86cd397e3e8844189eae7f5c7487165bda969edbdfeae3c6",
+      "functions": [
+        {
+          "name": "ensure_folders",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 13
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 18
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "DEMOGRAPHICS_CATALOG_DIR",
+            "DEMOGRAPHICS_DIR"
+          ]
+        },
+        {
+          "source": "src.demographics.demographic_catalog",
+          "specifiers": [
+            "DEMOGRAPHIC_SOURCES",
+            "DEMOGRAPHIC_VARIABLES"
+          ]
+        }
+      ],
+      "exports": [
+        "ensure_folders",
+        "main"
+      ],
+      "totalLines": 63,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/build_state_demographic_master.py": {
+      "filePath": "src/demographics/build_state_demographic_master.py",
+      "contentHash": "1913a6eb28f0c7dd9080545c5df6fa8fc1bd2fe663d9eac21a169b274ef428d9",
+      "functions": [
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 15
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "DEMOGRAPHICS_PROCESSED_DIR"
+          ]
+        },
+        {
+          "source": "src.demographics.demographic_catalog",
+          "specifiers": [
+            "STATE_DEMOGRAPHICS_MASTER_COLUMNS"
+          ]
+        }
+      ],
+      "exports": [
+        "main"
+      ],
+      "totalLines": 48,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/build_state_demographics_2011.py": {
+      "filePath": "src/demographics/build_state_demographics_2011.py",
+      "contentHash": "1d4705c0b2235c4296e5488fdb139d913d3e2c006cdc979d3cedb08004b9b36b",
+      "functions": [
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 52
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "CENSUS_2011_DIR"
+          ]
+        },
+        {
+          "source": "src.demographics.census_manifest",
+          "specifiers": [
+            "CENSUS_2011_TABLES",
+            "expected_basename",
+            "find_uploaded_file"
+          ]
+        }
+      ],
+      "exports": [
+        "main"
+      ],
+      "totalLines": 87,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/census_manifest.py": {
+      "filePath": "src/demographics/census_manifest.py",
+      "contentHash": "408d568e2b08260896da0ec6f4463be505abfa23b0901bd83f80b084539e890a",
+      "functions": [
+        {
+          "name": "expected_basename",
+          "params": [
+            "entry",
+            "ext"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 3
+        },
+        {
+          "name": "find_uploaded_file",
+          "params": [
+            "raw_dir",
+            "entry"
+          ],
+          "returnType": "Path | None",
+          "exported": true,
+          "lineCount": 20
+        },
+        {
+          "name": "tables_by_priority",
+          "params": [
+            "priority"
+          ],
+          "returnType": "list[dict]",
+          "exported": true,
+          "lineCount": 5
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        }
+      ],
+      "exports": [
+        "expected_basename",
+        "find_uploaded_file",
+        "tables_by_priority"
+      ],
+      "totalLines": 116,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/clean_census_district_2011.py": {
+      "filePath": "src/demographics/clean_census_district_2011.py",
+      "contentHash": "e8505518eaa599fc06e9ce27c4deb6c363503d05943a717f3178df3f936945cc",
+      "functions": [
+        {
+          "name": "clean_name",
+          "params": [
+            "value"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 6
+        },
+        {
+          "name": "find_raw_file",
+          "params": [],
+          "returnType": "Path | None",
+          "exported": true,
+          "lineCount": 10
+        },
+        {
+          "name": "ratio",
+          "params": [
+            "numerator",
+            "denominator",
+            "multiplier"
+          ],
+          "returnType": "pd.Series",
+          "exported": true,
+          "lineCount": 4
+        },
+        {
+          "name": "load_pca",
+          "params": [
+            "path"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 2
+        },
+        {
+          "name": "build_district_table",
+          "params": [
+            "raw"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 65
+        },
+        {
+          "name": "assign_post_2011_state",
+          "params": [
+            "row"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 15
+        },
+        {
+          "name": "aggregate_group",
+          "params": [
+            "group"
+          ],
+          "returnType": "pd.Series",
+          "exported": true,
+          "lineCount": 31
+        },
+        {
+          "name": "build_state_from_districts",
+          "params": [
+            "districts"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 10
+        },
+        {
+          "name": "update_state_master",
+          "params": [
+            "state_from_districts"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 36
+        },
+        {
+          "name": "print_validation",
+          "params": [
+            "districts",
+            "state_from_districts",
+            "master"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 25
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 26
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "re",
+          "specifiers": [
+            "re"
+          ]
+        },
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "numpy",
+          "specifiers": [
+            "np"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "DEMOGRAPHICS_PROCESSED_DIR",
+            "LEGACY_CENSUS_2011_DIRS"
+          ]
+        },
+        {
+          "source": "src.demographics.demographic_catalog",
+          "specifiers": [
+            "STATE_DEMOGRAPHICS_MASTER_COLUMNS"
+          ]
+        }
+      ],
+      "exports": [
+        "clean_name",
+        "find_raw_file",
+        "ratio",
+        "load_pca",
+        "build_district_table",
+        "assign_post_2011_state",
+        "aggregate_group",
+        "build_state_from_districts",
+        "update_state_master",
+        "print_validation",
+        "main"
+      ],
+      "totalLines": 355,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/clean_census_state_2011.py": {
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "contentHash": "5001e9f13dcdfd34a765835ddecadc649db671766374f1f5dac799cd63e5e4d2",
+      "functions": [
+        {
+          "name": "_raw_search_roots",
+          "params": [],
+          "returnType": "list[Path]",
+          "exported": true,
+          "lineCount": 3
+        },
+        {
+          "name": "find_file",
+          "params": [
+            "pattern"
+          ],
+          "returnType": "Path | None",
+          "exported": true,
+          "lineCount": 12
+        },
+        {
+          "name": "clean_state_name",
+          "params": [
+            "value"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 10
+        },
+        {
+          "name": "safe_read_excel",
+          "params": [
+            "path",
+            "sheet_name",
+            "header"
+          ],
+          "returnType": "pd.DataFrame | None",
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "standardize_columns",
+          "params": [
+            "df"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 8
+        },
+        {
+          "name": "_find_column",
+          "params": [
+            "df",
+            "keywords",
+            "exclude"
+          ],
+          "returnType": "str | None",
+          "exported": true,
+          "lineCount": 8
+        },
+        {
+          "name": "_to_numeric",
+          "params": [
+            "series"
+          ],
+          "returnType": "pd.Series",
+          "exported": true,
+          "lineCount": 2
+        },
+        {
+          "name": "_warn_missing",
+          "params": [
+            "label",
+            "detail"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 2
+        },
+        {
+          "name": "_diagnose_df",
+          "params": [
+            "df",
+            "label"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "clean_population_file",
+          "params": [
+            "path"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 103
+        },
+        {
+          "name": "clean_religion_file",
+          "params": [
+            "path"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 72
+        },
+        {
+          "name": "_clean_religion_wide_fallback",
+          "params": [
+            "path"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 15
+        },
+        {
+          "name": "clean_pca_age_file",
+          "params": [
+            "path"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 93
+        },
+        {
+          "name": "merge_census_tables",
+          "params": [
+            "population",
+            "religion",
+            "pca"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 30
+        },
+        {
+          "name": "save_output",
+          "params": [
+            "df"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 4
+        },
+        {
+          "name": "update_state_master",
+          "params": [
+            "census"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 31
+        },
+        {
+          "name": "print_validation",
+          "params": [
+            "df"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 22
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 23
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "re",
+          "specifiers": [
+            "re"
+          ]
+        },
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "numpy",
+          "specifiers": [
+            "np"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "DEMOGRAPHICS_PROCESSED_DIR",
+            "DEMOGRAPHICS_RAW_DIR",
+            "LEGACY_CENSUS_2011_DIRS"
+          ]
+        },
+        {
+          "source": "src.demographics.demographic_catalog",
+          "specifiers": [
+            "STATE_DEMOGRAPHICS_MASTER_COLUMNS"
+          ]
+        }
+      ],
+      "exports": [
+        "_raw_search_roots",
+        "find_file",
+        "clean_state_name",
+        "safe_read_excel",
+        "standardize_columns",
+        "_find_column",
+        "_to_numeric",
+        "_warn_missing",
+        "_diagnose_df",
+        "clean_population_file",
+        "clean_religion_file",
+        "_clean_religion_wide_fallback",
+        "clean_pca_age_file",
+        "merge_census_tables",
+        "save_output",
+        "update_state_master",
+        "print_validation",
+        "main"
+      ],
+      "totalLines": 592,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/demographic_catalog.py": {
+      "filePath": "src/demographics/demographic_catalog.py",
+      "contentHash": "ccfb28fb02f8a4731c02fe76cdb10686a487a756179b4af328593ecc40b00aaf",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 482,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/dhs_filename_parser.py": {
+      "filePath": "src/demographics/dhs_filename_parser.py",
+      "contentHash": "746670484c95d313eff4c05257cb70d9a9d75efde9ee43bc84657ec717ec3c23",
+      "functions": [
+        {
+          "name": "_describe_dhs_phase",
+          "params": [
+            "version_code"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 17
+        },
+        {
+          "name": "describe_survey",
+          "params": [
+            "geo_code",
+            "version_code"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "parse_dhs_filename",
+          "params": [
+            "filename"
+          ],
+          "returnType": "DhsFilenameInfo",
+          "exported": true,
+          "lineCount": 54
+        }
+      ],
+      "classes": [
+        {
+          "name": "DhsFilenameInfo",
+          "methods": [],
+          "properties": [
+            "filename",
+            "geo_code",
+            "state",
+            "dataset_type_code",
+            "dataset_type",
+            "version_code",
+            "survey",
+            "file_format_code",
+            "file_format",
+            "parse_ok",
+            "parse_note"
+          ],
+          "exported": true,
+          "lineCount": 12
+        }
+      ],
+      "imports": [
+        {
+          "source": "re",
+          "specifiers": [
+            "re"
+          ]
+        },
+        {
+          "source": "dataclasses",
+          "specifiers": [
+            "dataclass"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        }
+      ],
+      "exports": [
+        "DhsFilenameInfo",
+        "_describe_dhs_phase",
+        "describe_survey",
+        "parse_dhs_filename"
+      ],
+      "totalLines": 186,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/dhs/__init__.py": {
+      "filePath": "src/demographics/dhs/__init__.py",
+      "contentHash": "202cc22f203f1c84a3a434d4f6d67f3f93f93c2b71515f77d258551b1b03310a",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 2,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/dhs/audit_dhs_downloads.py": {
+      "filePath": "src/demographics/dhs/audit_dhs_downloads.py",
+      "contentHash": "0145cf297208daf84f2f1c4fd49e7a7fb8bfbf11517182590a58577cbd435309",
+      "functions": [
+        {
+          "name": "_list_zip_members",
+          "params": [
+            "path"
+          ],
+          "returnType": "tuple[str, str]",
+          "exported": true,
+          "lineCount": 16
+        },
+        {
+          "name": "audit_download",
+          "params": [
+            "path"
+          ],
+          "returnType": "dict",
+          "exported": true,
+          "lineCount": 26
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 20
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "zipfile",
+          "specifiers": [
+            "zipfile"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "DEMOGRAPHICS_OUTPUTS_DIR",
+            "DHS_DOWNLOADS_DIR"
+          ]
+        },
+        {
+          "source": "src.demographics.dhs.filename_parser",
+          "specifiers": [
+            "parse_dhs_filename"
+          ]
+        }
+      ],
+      "exports": [
+        "_list_zip_members",
+        "audit_download",
+        "main"
+      ],
+      "totalLines": 96,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/dhs/build_dhs_geospatial_layer.py": {
+      "filePath": "src/demographics/dhs/build_dhs_geospatial_layer.py",
+      "contentHash": "7b52614a775b29ebdb9ea81fa69ab7f2a07923c5895a096496102a9c2aec5283",
+      "functions": [
+        {
+          "name": "extract_ge_shapefile",
+          "params": [
+            "zip_path",
+            "out_dir"
+          ],
+          "returnType": "Path | None",
+          "exported": true,
+          "lineCount": 15
+        },
+        {
+          "name": "anonymize_cluster_id",
+          "params": [
+            "cluster_id",
+            "survey"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 3
+        },
+        {
+          "name": "build_from_shapefile",
+          "params": [
+            "shp_path",
+            "survey",
+            "version_code",
+            "source_file"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 28
+        },
+        {
+          "name": "export_public",
+          "params": [
+            "df"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 21
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 38
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "hashlib",
+          "specifiers": [
+            "hashlib"
+          ]
+        },
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "zipfile",
+          "specifiers": [
+            "zipfile"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "numpy",
+          "specifiers": [
+            "np"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "shapefile",
+          "specifiers": [
+            "shapefile"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "DHS_DOWNLOADS_DIR",
+            "DHS_EXTRACTED_DIR"
+          ]
+        },
+        {
+          "source": "src.demographics.dhs.filename_parser",
+          "specifiers": [
+            "parse_dhs_filename"
+          ]
+        },
+        {
+          "source": "src.demographics.dhs.paths",
+          "specifiers": [
+            "DHS_CLUSTER_GEOSPATIAL",
+            "DHS_GEOSPATIAL_PUBLIC"
+          ]
+        }
+      ],
+      "exports": [
+        "extract_ge_shapefile",
+        "anonymize_cluster_id",
+        "build_from_shapefile",
+        "export_public",
+        "main"
+      ],
+      "totalLines": 143,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/dhs/build_nfhs_district_features.py": {
+      "filePath": "src/demographics/dhs/build_nfhs_district_features.py",
+      "contentHash": "a8e015a65fef3bfd359b9ac9e0f21b7b9b614b3fcaafe3b3e0c8441843e4d556",
+      "functions": [
+        {
+          "name": "load_ge_lookup",
+          "params": [
+            "extracted_dir"
+          ],
+          "returnType": "pd.DataFrame | None",
+          "exported": true,
+          "lineCount": 16
+        },
+        {
+          "name": "attach_district_from_ge",
+          "params": [
+            "hr_path",
+            "ge"
+          ],
+          "returnType": "tuple[pd.DataFrame | None, list[str]]",
+          "exported": true,
+          "lineCount": 34
+        },
+        {
+          "name": "aggregate_district_frame",
+          "params": [
+            "joined",
+            "version"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 32
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 68
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "numpy",
+          "specifiers": [
+            "np"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "pyreadstat",
+          "specifiers": [
+            "pyreadstat"
+          ]
+        },
+        {
+          "source": "shapefile",
+          "specifiers": [
+            "shapefile"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "DHS_EXTRACTED_DIR"
+          ]
+        },
+        {
+          "source": "src.demographics.dhs.feature_utils",
+          "specifiers": [
+            "aggregate_hh_features",
+            "aggregate_ir_features",
+            "aggregate_mr_features",
+            "clean_state_label",
+            "count_persons",
+            "find_column",
+            "find_district_column",
+            "normalize_weight",
+            "read_metadata",
+            "resolve_dta_path",
+            "state_labels_from_meta",
+            "weighted_mean",
+            "weighted_pct",
+            "derive_hh_indicators"
+          ]
+        },
+        {
+          "source": "src.demographics.dhs.paths",
+          "specifiers": [
+            "DISTRICT_FEATURE_COLUMNS",
+            "GE_SHAPEFILE_STEMS",
+            "NATIONAL_FILESETS",
+            "NFHS_DISTRICT_FEATURES",
+            "SURVEY_VERSIONS"
+          ]
+        }
+      ],
+      "exports": [
+        "load_ge_lookup",
+        "attach_district_from_ge",
+        "aggregate_district_frame",
+        "main"
+      ],
+      "totalLines": 211,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/dhs/build_nfhs_state_features.py": {
+      "filePath": "src/demographics/dhs/build_nfhs_state_features.py",
+      "contentHash": "58a626d06cb673b128cc5e43589767b0502568e2d06db8b4952c18bc78f315e9",
+      "functions": [
+        {
+          "name": "build_survey_features",
+          "params": [
+            "version"
+          ],
+          "returnType": "tuple[pd.DataFrame, dict]",
+          "exported": true,
+          "lineCount": 38
+        },
+        {
+          "name": "add_trends",
+          "params": [
+            "df"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 18
+        },
+        {
+          "name": "print_validation",
+          "params": [
+            "df",
+            "mappings"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 15
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 31
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "numpy",
+          "specifiers": [
+            "np"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "DHS_EXTRACTED_DIR"
+          ]
+        },
+        {
+          "source": "src.demographics.dhs.feature_utils",
+          "specifiers": [
+            "aggregate_hh_features",
+            "aggregate_ir_features",
+            "aggregate_mr_features",
+            "clean_state_label",
+            "count_persons",
+            "print_missing_warnings",
+            "read_metadata",
+            "resolve_dta_path",
+            "state_labels_from_meta"
+          ]
+        },
+        {
+          "source": "src.demographics.dhs.paths",
+          "specifiers": [
+            "NATIONAL_FILESETS",
+            "NFHS_STATE_FEATURES",
+            "STATE_FEATURE_COLUMNS",
+            "SURVEY_VERSIONS",
+            "TREND_COLUMNS"
+          ]
+        }
+      ],
+      "exports": [
+        "build_survey_features",
+        "add_trends",
+        "print_validation",
+        "main"
+      ],
+      "totalLines": 151,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/dhs/extract_dhs_zips.py": {
+      "filePath": "src/demographics/dhs/extract_dhs_zips.py",
+      "contentHash": "4e8fb668dfe016c38babfaf2c75c1400eb76b70de6982acb0a8714522e8346ee",
+      "functions": [
+        {
+          "name": "extract_stata_from_zip",
+          "params": [
+            "zip_path",
+            "out_dir"
+          ],
+          "returnType": "list[Path]",
+          "exported": true,
+          "lineCount": 16
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 17
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "zipfile",
+          "specifiers": [
+            "zipfile"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "DHS_EXTRACTED_DIR"
+          ]
+        },
+        {
+          "source": "src.demographics.dhs.feature_utils",
+          "specifiers": [
+            "load_inventory"
+          ]
+        }
+      ],
+      "exports": [
+        "extract_stata_from_zip",
+        "main"
+      ],
+      "totalLines": 59,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/dhs/feature_utils.py": {
+      "filePath": "src/demographics/dhs/feature_utils.py",
+      "contentHash": "7c98601eece3aa113f1a4a4a9186db504a6d1661a6c271d83af69cdbda01e4d9",
+      "functions": [
+        {
+          "name": "load_inventory",
+          "params": [],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 15
+        },
+        {
+          "name": "read_metadata",
+          "params": [
+            "path"
+          ],
+          "returnType": "pyreadstat.metadata_container",
+          "exported": true,
+          "lineCount": 3
+        },
+        {
+          "name": "find_column",
+          "params": [
+            "meta",
+            "candidates",
+            "keywords"
+          ],
+          "returnType": "str | None",
+          "exported": true,
+          "lineCount": 16
+        },
+        {
+          "name": "normalize_weight",
+          "params": [
+            "series"
+          ],
+          "returnType": "pd.Series",
+          "exported": true,
+          "lineCount": 8
+        },
+        {
+          "name": "clean_state_label",
+          "params": [
+            "raw"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 6
+        },
+        {
+          "name": "state_labels_from_meta",
+          "params": [
+            "meta",
+            "col"
+          ],
+          "returnType": "dict",
+          "exported": true,
+          "lineCount": 2
+        },
+        {
+          "name": "weighted_pct",
+          "params": [
+            "values",
+            "weights",
+            "yes_values"
+          ],
+          "returnType": "float",
+          "exported": true,
+          "lineCount": 10
+        },
+        {
+          "name": "weighted_mean",
+          "params": [
+            "values",
+            "weights"
+          ],
+          "returnType": "float",
+          "exported": true,
+          "lineCount": 5
+        },
+        {
+          "name": "resolve_dta_path",
+          "params": [
+            "extracted_dir",
+            "stem"
+          ],
+          "returnType": "Path | None",
+          "exported": true,
+          "lineCount": 12
+        },
+        {
+          "name": "compute_tfr",
+          "params": [
+            "df",
+            "weight_col",
+            "age_col"
+          ],
+          "returnType": "float",
+          "exported": true,
+          "lineCount": 45
+        },
+        {
+          "name": "derive_hh_indicators",
+          "params": [
+            "df",
+            "meta"
+          ],
+          "returnType": "dict",
+          "exported": true,
+          "lineCount": 25
+        },
+        {
+          "name": "aggregate_hh_features",
+          "params": [
+            "hr_path",
+            "group_cols"
+          ],
+          "returnType": "tuple[pd.DataFrame, dict[str, str | None]]",
+          "exported": true,
+          "lineCount": 53
+        },
+        {
+          "name": "aggregate_ir_features",
+          "params": [
+            "ir_path",
+            "group_cols"
+          ],
+          "returnType": "tuple[pd.DataFrame, dict[str, str | None]]",
+          "exported": true,
+          "lineCount": 59
+        },
+        {
+          "name": "aggregate_mr_features",
+          "params": [
+            "mr_path",
+            "group_cols"
+          ],
+          "returnType": "tuple[pd.DataFrame, dict[str, str | None]]",
+          "exported": true,
+          "lineCount": 35
+        },
+        {
+          "name": "count_persons",
+          "params": [
+            "pr_path",
+            "group_cols"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 11
+        },
+        {
+          "name": "find_district_column",
+          "params": [
+            "meta"
+          ],
+          "returnType": "tuple[str | None, list[str]]",
+          "exported": true,
+          "lineCount": 9
+        },
+        {
+          "name": "print_missing_warnings",
+          "params": [
+            "mapping",
+            "prefix"
+          ],
+          "returnType": "list[str]",
+          "exported": true,
+          "lineCount": 5
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "re",
+          "specifiers": [
+            "re"
+          ]
+        },
+        {
+          "source": "warnings",
+          "specifiers": [
+            "warnings"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "typing",
+          "specifiers": [
+            "Any"
+          ]
+        },
+        {
+          "source": "numpy",
+          "specifiers": [
+            "np"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "pyreadstat",
+          "specifiers": [
+            "pyreadstat"
+          ]
+        },
+        {
+          "source": "src.demographics.dhs.paths",
+          "specifiers": [
+            "INVENTORY_CANDIDATES"
+          ]
+        }
+      ],
+      "exports": [
+        "load_inventory",
+        "read_metadata",
+        "find_column",
+        "normalize_weight",
+        "clean_state_label",
+        "state_labels_from_meta",
+        "weighted_pct",
+        "weighted_mean",
+        "resolve_dta_path",
+        "compute_tfr",
+        "derive_hh_indicators",
+        "aggregate_hh_features",
+        "aggregate_ir_features",
+        "aggregate_mr_features",
+        "count_persons",
+        "find_district_column",
+        "print_missing_warnings"
+      ],
+      "totalLines": 450,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/dhs/filename_parser.py": {
+      "filePath": "src/demographics/dhs/filename_parser.py",
+      "contentHash": "6e4030fd4653aafbc1ebbede85d1f25c35e34a084701bed19933d55329c88671",
+      "functions": [],
+      "classes": [],
+      "imports": [
+        {
+          "source": "src.demographics.dhs_filename_parser",
+          "specifiers": [
+            "DATASET_TYPES",
+            "FILE_FORMATS",
+            "INDIA_GEO_CODES",
+            "INDIA_NFHS_VERSIONS",
+            "DhsFilenameInfo",
+            "describe_survey",
+            "parse_dhs_filename"
+          ]
+        }
+      ],
+      "exports": [],
+      "totalLines": 12,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/dhs/inspect_dhs_variables.py": {
+      "filePath": "src/demographics/dhs/inspect_dhs_variables.py",
+      "contentHash": "057dd2e675f4852150780b9a58ad24e8d4a4e8731183b47790877c2335861398",
+      "functions": [
+        {
+          "name": "inspect_dta",
+          "params": [
+            "path"
+          ],
+          "returnType": "list[dict]",
+          "exported": true,
+          "lineCount": 19
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 16
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "pyreadstat",
+          "specifiers": [
+            "pyreadstat"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "DHS_EXTRACTED_DIR"
+          ]
+        },
+        {
+          "source": "src.demographics.dhs.paths",
+          "specifiers": [
+            "FEATURE_DICTIONARY"
+          ]
+        }
+      ],
+      "exports": [
+        "inspect_dta",
+        "main"
+      ],
+      "totalLines": 63,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/dhs/paths.py": {
+      "filePath": "src/demographics/dhs/paths.py",
+      "contentHash": "78aba19a46e6f45e447ca63e9a1d3daaf9abc90aec30739174e7cb64c1f6a464",
+      "functions": [],
+      "classes": [],
+      "imports": [
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "DEMOGRAPHICS_OUTPUTS_DIR",
+            "DEMOGRAPHICS_PROCESSED_DIR",
+            "DEMOGRAPHICS_RAW_DIR",
+            "DHS_DOWNLOADS_DIR",
+            "DHS_EXTRACTED_DIR",
+            "ROOT_DIR"
+          ]
+        }
+      ],
+      "exports": [],
+      "totalLines": 81,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/merge_nfhs.py": {
+      "filePath": "src/demographics/merge_nfhs.py",
+      "contentHash": "adbcaba49dc610aa35f5e3c4c9d1d4053ea1b53c0833e0f4b6a81f541d23e490",
+      "functions": [
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 29
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "DEMOGRAPHICS_PROCESSED_DIR",
+            "DEMOGRAPHICS_RAW_NFHS"
+          ]
+        },
+        {
+          "source": "src.demographics.audit_demographic_coverage",
+          "specifiers": [
+            "list_raw_files",
+            "list_processed_files",
+            "processed_column_ready"
+          ]
+        },
+        {
+          "source": "src.demographics.demographic_catalog",
+          "specifiers": [
+            "DEMOGRAPHIC_VARIABLES",
+            "SOURCE_NFHS_5"
+          ]
+        }
+      ],
+      "exports": [
+        "main"
+      ],
+      "totalLines": 67,
+      "hasStructuralAnalysis": true
+    },
+    "src/demographics/national_demographics.py": {
+      "filePath": "src/demographics/national_demographics.py",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 1,
+      "hasStructuralAnalysis": true
+    },
+    "src/features/__init__.py": {
+      "filePath": "src/features/__init__.py",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 1,
+      "hasStructuralAnalysis": true
+    },
+    "src/features/build_constituency_features.py": {
+      "filePath": "src/features/build_constituency_features.py",
+      "contentHash": "d4f8bcef814b755c001564efff36983607f4d09bad48e982475693ae5dc96152",
+      "functions": [
+        {
+          "name": "build_features",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 43
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "ALLIANCE_COL"
+          ]
+        },
+        {
+          "source": "src.data_io",
+          "specifiers": [
+            "CONSTITUENCY_FEATURES_FILE",
+            "load_candidate_results",
+            "load_winners",
+            "save_csv"
+          ]
+        },
+        {
+          "source": "src.utils.election_metrics",
+          "specifiers": [
+            "calculate_top2_margin",
+            "effective_number_of_parties"
+          ]
+        },
+        {
+          "source": "src.utils.validation",
+          "specifiers": [
+            "check_required_columns"
+          ]
+        }
+      ],
+      "exports": [
+        "build_features"
+      ],
+      "totalLines": 85,
+      "hasStructuralAnalysis": true
+    },
+    "src/features/build_constituency_top2.py": {
+      "filePath": "src/features/build_constituency_top2.py",
+      "contentHash": "4e6720a2c6ed5e3d939f42266644ff6b43cdf1d8e588d5300da2d326a7b32e35",
+      "functions": [
+        {
+          "name": "build_top2",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 16
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "src.data_io",
+          "specifiers": [
+            "CONSTITUENCY_TOP2_FILE",
+            "load_candidate_results",
+            "save_csv"
+          ]
+        },
+        {
+          "source": "src.utils.validation",
+          "specifiers": [
+            "check_required_columns"
+          ]
+        }
+      ],
+      "exports": [
+        "build_top2"
+      ],
+      "totalLines": 45,
+      "hasStructuralAnalysis": true
+    },
+    "src/features/build_winners_table.py": {
+      "filePath": "src/features/build_winners_table.py",
+      "contentHash": "18f8c4b9507b8c1c420415bf95353412844886d97b06ab2f4d3c7a1ebb16e781",
+      "functions": [
+        {
+          "name": "build_winners",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 33
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "ALLIANCE_COL"
+          ]
+        },
+        {
+          "source": "src.data_io",
+          "specifiers": [
+            "WINNERS_FILE",
+            "load_candidate_results",
+            "load_party_metadata",
+            "save_csv"
+          ]
+        },
+        {
+          "source": "src.utils.validation",
+          "specifiers": [
+            "check_expected_winners",
+            "check_no_duplicate_winners",
+            "check_required_columns"
+          ]
+        }
+      ],
+      "exports": [
+        "build_winners"
+      ],
+      "totalLines": 73,
+      "hasStructuralAnalysis": true
+    },
+    "src/metadata/__init__.py": {
+      "filePath": "src/metadata/__init__.py",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 1,
+      "hasStructuralAnalysis": true
+    },
+    "src/metadata/build_party_alliances.py": {
+      "filePath": "src/metadata/build_party_alliances.py",
+      "contentHash": "424079bdc5fbe3d731c2ce0f317fe9c8bc7f36e9bffeb669e0653d60875f2191",
+      "functions": [
+        {
+          "name": "load_party_master",
+          "params": [],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "build_party_alliance_table",
+          "params": [
+            "party_master"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 13
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 21
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "DATABASE_DIR"
+          ]
+        }
+      ],
+      "exports": [
+        "load_party_master",
+        "build_party_alliance_table",
+        "main"
+      ],
+      "totalLines": 139,
+      "hasStructuralAnalysis": true
+    },
+    "src/metadata/build_party_metadata.py": {
+      "filePath": "src/metadata/build_party_metadata.py",
+      "contentHash": "9eff1ba61717639a408169c6020458771c1bea969d5f8498734c62bf0ab0a6cc",
+      "functions": [
+        {
+          "name": "build_party_counts",
+          "params": [
+            "results"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 9
+        },
+        {
+          "name": "build_party_metadata",
+          "params": [
+            "party_counts"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 21
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 18
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "ALLIANCE_COL"
+          ]
+        },
+        {
+          "source": "src.data_io",
+          "specifiers": [
+            "PARTY_COUNTS_FILE",
+            "PARTY_METADATA_FILE",
+            "load_candidate_results",
+            "save_csv"
+          ]
+        }
+      ],
+      "exports": [
+        "build_party_counts",
+        "build_party_metadata",
+        "main"
+      ],
+      "totalLines": 146,
+      "hasStructuralAnalysis": true
+    },
+    "src/normalisation/__init__.py": {
+      "filePath": "src/normalisation/__init__.py",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 1,
+      "hasStructuralAnalysis": true
+    },
+    "src/normalisation/normalise_candidates.py": {
+      "filePath": "src/normalisation/normalise_candidates.py",
+      "contentHash": "8734a97ed47cecde438a6ed07b0ab37b951d1fb66a22277cfbf02c1de0627870",
+      "functions": [
+        {
+          "name": "clean_text",
+          "params": [
+            "value"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 8
+        },
+        {
+          "name": "slugify",
+          "params": [
+            "value"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 4
+        },
+        {
+          "name": "build_candidate_election_id",
+          "params": [
+            "row"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 9
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 55
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "re",
+          "specifiers": [
+            "re"
+          ]
+        },
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "ACTIVE_YEAR",
+            "DATABASE_DIR"
+          ]
+        }
+      ],
+      "exports": [
+        "clean_text",
+        "slugify",
+        "build_candidate_election_id",
+        "main"
+      ],
+      "totalLines": 122,
+      "hasStructuralAnalysis": true
+    },
+    "src/normalisation/normalise_parties.py": {
+      "filePath": "src/normalisation/normalise_parties.py",
+      "contentHash": "6c422ffb63ec06b83b38a93784acba3224ad99a5dc3265febd5a75e4ef61636f",
+      "functions": [
+        {
+          "name": "clean_text",
+          "params": [
+            "value"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "slugify",
+          "params": [
+            "value"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 4
+        },
+        {
+          "name": "normalise_party",
+          "params": [
+            "party_raw"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 11
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 30
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "re",
+          "specifiers": [
+            "re"
+          ]
+        },
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "ACTIVE_YEAR",
+            "DATABASE_DIR"
+          ]
+        }
+      ],
+      "exports": [
+        "clean_text",
+        "slugify",
+        "normalise_party",
+        "main"
+      ],
+      "totalLines": 126,
+      "hasStructuralAnalysis": true
+    },
+    "src/simulation/__init__.py": {
+      "filePath": "src/simulation/__init__.py",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 1,
+      "hasStructuralAnalysis": true
+    },
+    "src/simulation/election_simulator_v1.py": {
+      "filePath": "src/simulation/election_simulator_v1.py",
+      "contentHash": "8dd833f7071313ac6fea12df17cabc8b33bdf62aa9a131ee35d9f9627f226b96",
+      "functions": [
+        {
+          "name": "load_state_party_swings",
+          "params": [
+            "path"
+          ],
+          "exported": true,
+          "lineCount": 33
+        },
+        {
+          "name": "apply_zero_sum_swing",
+          "params": [
+            "group",
+            "state_party_swings"
+          ],
+          "exported": true,
+          "lineCount": 36
+        },
+        {
+          "name": "load_data",
+          "params": [],
+          "exported": true,
+          "lineCount": 10
+        },
+        {
+          "name": "add_alliances",
+          "params": [
+            "df",
+            "alliances"
+          ],
+          "exported": true,
+          "lineCount": 10
+        },
+        {
+          "name": "simulate",
+          "params": [
+            "results",
+            "state_party_swings"
+          ],
+          "exported": true,
+          "lineCount": 12
+        },
+        {
+          "name": "build_actual_winners",
+          "params": [
+            "results"
+          ],
+          "exported": true,
+          "lineCount": 19
+        },
+        {
+          "name": "build_flip_report",
+          "params": [
+            "actual_winners",
+            "simulated_winners"
+          ],
+          "exported": true,
+          "lineCount": 32
+        },
+        {
+          "name": "build_national_projection",
+          "params": [
+            "simulated_winners"
+          ],
+          "exported": true,
+          "lineCount": 16
+        },
+        {
+          "name": "build_state_projection",
+          "params": [
+            "simulated_winners"
+          ],
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "build_battlegrounds",
+          "params": [
+            "flip_report",
+            "volatility"
+          ],
+          "exported": true,
+          "lineCount": 25
+        },
+        {
+          "name": "save_outputs",
+          "params": [
+            "simulated",
+            "simulated_winners",
+            "flip_report",
+            "party_projection",
+            "alliance_projection",
+            "state_projection",
+            "battlegrounds"
+          ],
+          "exported": true,
+          "lineCount": 43
+        },
+        {
+          "name": "main",
+          "params": [],
+          "exported": true,
+          "lineCount": 61
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        }
+      ],
+      "exports": [
+        "load_state_party_swings",
+        "apply_zero_sum_swing",
+        "load_data",
+        "add_alliances",
+        "simulate",
+        "build_actual_winners",
+        "build_flip_report",
+        "build_national_projection",
+        "build_state_projection",
+        "build_battlegrounds",
+        "save_outputs",
+        "main"
+      ],
+      "totalLines": 347,
+      "hasStructuralAnalysis": true
+    },
+    "src/simulation/simple_swing_simulator.py": {
+      "filePath": "src/simulation/simple_swing_simulator.py",
+      "contentHash": "698004cf38d0d7d7681efdbc5367b98e6b1f687686808a549a9fbdc12feba0c9",
+      "functions": [
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 24
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "src.data_io",
+          "specifiers": [
+            "SIMULATED_WINNERS_FILE",
+            "load_candidate_results",
+            "save_csv"
+          ]
+        }
+      ],
+      "exports": [
+        "main"
+      ],
+      "totalLines": 62,
+      "hasStructuralAnalysis": true
+    },
+    "src/simulation/state_swing_simulator.py": {
+      "filePath": "src/simulation/state_swing_simulator.py",
+      "contentHash": "8f0b769563aa32993dbb42ae3d5dface0e5a5e69459aefa2b366eb5468163c98",
+      "functions": [
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 27
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "src.config",
+          "specifiers": [
+            "ALLIANCE_COL"
+          ]
+        },
+        {
+          "source": "src.data_io",
+          "specifiers": [
+            "STATE_SIMULATED_WINNERS_FILE",
+            "load_candidate_results",
+            "save_csv"
+          ]
+        }
+      ],
+      "exports": [
+        "main"
+      ],
+      "totalLines": 68,
+      "hasStructuralAnalysis": true
+    },
+    "src/simulation/zero_sum_state_swing_simulator.py": {
+      "filePath": "src/simulation/zero_sum_state_swing_simulator.py",
+      "contentHash": "f2cc0853f176d81fb8f9b3341a2d8a00528f5c564ad38aa41bd92e4e6865570f",
+      "functions": [
+        {
+          "name": "apply_zero_sum_swing",
+          "params": [
+            "group"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 18
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 26
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "sys",
+          "specifiers": [
+            "sys"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        },
+        {
+          "source": "src.data_io",
+          "specifiers": [
+            "ZERO_SUM_RESULTS_FILE",
+            "ZERO_SUM_WINNERS_FILE",
+            "load_candidate_results",
+            "save_csv"
+          ]
+        }
+      ],
+      "exports": [
+        "apply_zero_sum_swing",
+        "main"
+      ],
+      "totalLines": 94,
+      "hasStructuralAnalysis": true
+    },
+    "src/utils/__init__.py": {
+      "filePath": "src/utils/__init__.py",
+      "contentHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "functions": [],
+      "classes": [],
+      "imports": [],
+      "exports": [],
+      "totalLines": 1,
+      "hasStructuralAnalysis": true
+    },
+    "src/utils/election_metrics.py": {
+      "filePath": "src/utils/election_metrics.py",
+      "contentHash": "6734aeb95c0832e6f99e1d9ec54c87e8c803bb5dd48ce71e77955abc39f44f1a",
+      "functions": [
+        {
+          "name": "effective_number_of_parties",
+          "params": [
+            "vote_shares"
+          ],
+          "returnType": "float",
+          "exported": true,
+          "lineCount": 11
+        },
+        {
+          "name": "calculate_vote_share",
+          "params": [
+            "df",
+            "group_cols",
+            "vote_col"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 10
+        },
+        {
+          "name": "calculate_top2_margin",
+          "params": [
+            "df",
+            "group_cols",
+            "share_col"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 25
+        },
+        {
+          "name": "calculate_seat_counts",
+          "params": [
+            "winners",
+            "group_col"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 9
+        },
+        {
+          "name": "calculate_vote_seat_distortion",
+          "params": [
+            "results",
+            "winners",
+            "party_col",
+            "vote_col"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 30
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "typing",
+          "specifiers": [
+            "Iterable",
+            "Sequence"
+          ]
+        },
+        {
+          "source": "numpy",
+          "specifiers": [
+            "np"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        }
+      ],
+      "exports": [
+        "effective_number_of_parties",
+        "calculate_vote_share",
+        "calculate_top2_margin",
+        "calculate_seat_counts",
+        "calculate_vote_seat_distortion"
+      ],
+      "totalLines": 108,
+      "hasStructuralAnalysis": true
+    },
+    "src/utils/validation.py": {
+      "filePath": "src/utils/validation.py",
+      "contentHash": "7199b5b82121e9d351814bf3a46790ddfd2234ff3ed0d995b8c743fc27c02892",
+      "functions": [
+        {
+          "name": "check_expected_winners",
+          "params": [
+            "df",
+            "expected"
+          ],
+          "returnType": "bool",
+          "exported": true,
+          "lineCount": 9
+        },
+        {
+          "name": "check_required_columns",
+          "params": [
+            "df",
+            "required_columns"
+          ],
+          "returnType": "bool",
+          "exported": true,
+          "lineCount": 9
+        },
+        {
+          "name": "check_no_duplicate_winners",
+          "params": [
+            "df"
+          ],
+          "returnType": "bool",
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "check_vote_share_bounds",
+          "params": [
+            "df",
+            "col"
+          ],
+          "returnType": "bool",
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "print_basic_dataset_summary",
+          "params": [
+            "df",
+            "label"
+          ],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 7
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "typing",
+          "specifiers": [
+            "Iterable"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        }
+      ],
+      "exports": [
+        "check_expected_winners",
+        "check_required_columns",
+        "check_no_duplicate_winners",
+        "check_vote_share_bounds",
+        "print_basic_dataset_summary"
+      ],
+      "totalLines": 65,
+      "hasStructuralAnalysis": true
+    },
+    "src/visualization/build_visualizer_data.py": {
+      "filePath": "src/visualization/build_visualizer_data.py",
+      "contentHash": "be44be51d49578b5a40d733d6d2e06ae26846cdba17f2225f41d1443954d2197",
+      "functions": [
+        {
+          "name": "clean_json_value",
+          "params": [
+            "value"
+          ],
+          "exported": true,
+          "lineCount": 8
+        },
+        {
+          "name": "records",
+          "params": [
+            "df"
+          ],
+          "returnType": "list[dict]",
+          "exported": true,
+          "lineCount": 5
+        },
+        {
+          "name": "name_key",
+          "params": [
+            "value"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 7
+        },
+        {
+          "name": "canonical_state_for_district",
+          "params": [
+            "state_2011",
+            "district"
+          ],
+          "returnType": "str",
+          "exported": true,
+          "lineCount": 25
+        },
+        {
+          "name": "add_state_grid",
+          "params": [
+            "df"
+          ],
+          "returnType": "pd.DataFrame",
+          "exported": true,
+          "lineCount": 6
+        },
+        {
+          "name": "build_field_catalog",
+          "params": [
+            "bundle_tables"
+          ],
+          "returnType": "list[dict]",
+          "exported": true,
+          "lineCount": 20
+        },
+        {
+          "name": "main",
+          "params": [],
+          "returnType": "None",
+          "exported": true,
+          "lineCount": 61
+        }
+      ],
+      "classes": [],
+      "imports": [
+        {
+          "source": "json",
+          "specifiers": [
+            "json"
+          ]
+        },
+        {
+          "source": "math",
+          "specifiers": [
+            "math"
+          ]
+        },
+        {
+          "source": "re",
+          "specifiers": [
+            "re"
+          ]
+        },
+        {
+          "source": "pathlib",
+          "specifiers": [
+            "Path"
+          ]
+        },
+        {
+          "source": "pandas",
+          "specifiers": [
+            "pd"
+          ]
+        }
+      ],
+      "exports": [
+        "clean_json_value",
+        "records",
+        "name_key",
+        "canonical_state_for_district",
+        "add_state_grid",
+        "build_field_catalog",
+        "main"
+      ],
+      "totalLines": 321,
+      "hasStructuralAnalysis": true
+    }
+  }
+}

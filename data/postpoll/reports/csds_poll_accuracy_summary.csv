@@ -1,0 +1,4 @@
+year,poll_type,party_or_alliance,survey_vote_share,actual_vote_share,absolute_error,direction,interpretation_stub
+2019,post_poll,INC,21.5,31.435,9.935,underestimated,"In 2019 post-poll, INC was underestimated by 9.9 points versus actual national vote share. This is a descriptive survey-vs-result gap, not a formal polling-error model."
+2019,post_poll,Others,23.7,22.634,1.066,overestimated,"In 2019 post-poll, Others was overestimated by 1.1 points versus actual national vote share. This is a descriptive survey-vs-result gap, not a formal polling-error model."
+2024,pre_poll,Others,38.55,16.532,22.018,overestimated,"In 2024 pre-poll, Others was overestimated by 22.0 points versus actual national vote share. This is a descriptive survey-vs-result gap, not a formal polling-error model."

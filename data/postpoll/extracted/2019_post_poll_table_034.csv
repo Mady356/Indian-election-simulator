@@ -1,0 +1,17 @@
+col_0,col_1,N,(%),Valid (%)
+Valid,01: Out of station,357,1.5,19.3
+,02: Not well,274,1.1,14.8
+,03: No interest/did not feel like voting,44,.2,2.4
+,04: Prevented /Fear of violence,5,.0,.3
+,05: No identity card/identity proof,43,.2,2.3
+,06: No good choice,8,.0,.4
+,07: As a mark of protest,9,.0,.5
+,08: Someone had voted in place of me before I went to vote,9,.0,.5
+,10: Kashmir issue/Anything related to Kashmir issue,31,.1,1.6
+,11: Boycott,15,.1,.8
+,96: Others,122,.5,6.6
+,97: Can’t say,142,.6,7.7
+,98: No response,796,3.3,42.9
+,Total,1855,7.7,100.0
+Missing,99: N.A.,22381,92.3,
+Total,,24235,100.0,

@@ -1,0 +1,4 @@
+year,poll_type,geography_level,state,party_or_alliance,survey_vote_share,actual_vote_share,survey_minus_actual,absolute_error,sample_size,constituencies_covered,notes
+2019,post_poll,national,,INC,21.5,31.435,-9.935,9.935,20000,208,national comparison from discovered election results
+2019,post_poll,national,,Others,23.7,22.634,1.066,1.066,20000,208,national comparison from discovered election results
+2024,pre_poll,national,,Others,38.55,16.532,22.018,22.018,10019,100,national comparison from discovered election results

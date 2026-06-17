@@ -1,0 +1,14 @@
+col_0,col_1,N,(%),Valid (%)
+,106: SBSP,1,.0,.0
+,109: Left Front,1,.0,.0
+,120: NDPP,0,.0,.0
+,121: BLF,1,.0,.0
+,124: NTK,2,.0,.1
+,126: VBA,3,.0,.1
+,900: Independent,7,.0,.2
+,903: Not a supporter of any particular party,1,.0,.0
+,997: Any other party,10,.0,.3
+,998: No response/Can’t say,385,1.6,12.6
+,Total,3053,12.6,100.0
+Missing,999: N.A.,21182,87.4,
+Total,,24235,100.0,

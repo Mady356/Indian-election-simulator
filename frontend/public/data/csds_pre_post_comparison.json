@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-06-17T05:37:34.150273+00:00",
+  "source": "/Users/maadhavangupta/Downloads/CS/Projects/Election-simulator/data/postpoll/processed/csds_pre_post_comparison_deduped.csv",
+  "deduped": true,
+  "rows": [
+    {
+      "year": 2019,
+      "geography_level": "national",
+      "state": null,
+      "voter_group_type": "gender",
+      "voter_group": null,
+      "party_or_alliance": "INDIA",
+      "pre_poll_vote_share": 4.3,
+      "post_poll_vote_share": 8.0,
+      "pre_to_post_shift": 3.7,
+      "absolute_shift": 3.7,
+      "shift_direction": "increased_post_poll",
+      "pre_source_table": "2019_pre_poll_table_084.csv",
+      "post_source_table": "2019_post_poll_table_033.csv",
+      "confidence": "medium",
+      "notes": ""
+    },
+    {
+      "year": 2019,
+      "geography_level": "national",
+      "state": null,
+      "voter_group_type": "religion",
+      "voter_group": null,
+      "party_or_alliance": "NDA",
+      "pre_poll_vote_share": 6.0,
+      "post_poll_vote_share": 84.0,
+      "pre_to_post_shift": 78.0,
+      "absolute_shift": 78.0,
+      "shift_direction": "increased_post_poll",
+      "pre_source_table": "2019_pre_poll_table_106.csv",
+      "post_source_table": "2019_post_poll_table_194.csv",
+      "confidence": "medium",
+      "notes": ""
+    },
+    {
+      "year": 2024,
+      "geography_level": "national",
+      "state": null,
+      "voter_group_type": "gender",
+      "voter_group": null,
+      "party_or_alliance": "NDA",
+      "pre_poll_vote_share": 6.0,
+      "post_poll_vote_share": 12.8,
+      "pre_to_post_shift": 6.8,
+      "absolute_shift": 6.8,
+      "shift_direction": "increased_post_poll",
+      "pre_source_table": "2024_pre_poll_table_014.csv",
+      "post_source_table": "2024_post_poll_table_068.csv",
+      "confidence": "medium",
+      "notes": ""
+    }
+  ],
+  "row_count": 3
+}

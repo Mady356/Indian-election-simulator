@@ -1,0 +1,2561 @@
+{
+  "scriptCompleted": true,
+  "filesAnalyzed": 6,
+  "filesSkipped": [],
+  "results": [
+    {
+      "path": "src/demographics/dhs/build_nfhs_district_features.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 210,
+      "nonEmptyLines": 181,
+      "functions": [
+        {
+          "name": "load_ge_lookup",
+          "startLine": 51,
+          "endLine": 66,
+          "params": [
+            "extracted_dir"
+          ]
+        },
+        {
+          "name": "attach_district_from_ge",
+          "startLine": 69,
+          "endLine": 102,
+          "params": [
+            "hr_path",
+            "ge"
+          ]
+        },
+        {
+          "name": "aggregate_district_frame",
+          "startLine": 105,
+          "endLine": 136,
+          "params": [
+            "joined",
+            "version"
+          ]
+        },
+        {
+          "name": "main",
+          "startLine": 139,
+          "endLine": 206,
+          "params": []
+        }
+      ],
+      "exports": [
+        {
+          "name": "load_ge_lookup",
+          "line": 51,
+          "isDefault": false
+        },
+        {
+          "name": "attach_district_from_ge",
+          "line": 69,
+          "isDefault": false
+        },
+        {
+          "name": "aggregate_district_frame",
+          "line": 105,
+          "isDefault": false
+        },
+        {
+          "name": "main",
+          "line": 139,
+          "isDefault": false
+        }
+      ],
+      "callGraph": [
+        {
+          "caller": "load_ge_lookup",
+          "callee": "shp.exists",
+          "lineNumber": 55
+        },
+        {
+          "caller": "load_ge_lookup",
+          "callee": "shapefile.Reader",
+          "lineNumber": 57
+        },
+        {
+          "caller": "load_ge_lookup",
+          "callee": "str",
+          "lineNumber": 57
+        },
+        {
+          "caller": "load_ge_lookup",
+          "callee": "sf.records",
+          "lineNumber": 59
+        },
+        {
+          "caller": "load_ge_lookup",
+          "callee": "pd.DataFrame",
+          "lineNumber": 60
+        },
+        {
+          "caller": "load_ge_lookup",
+          "callee": "ge[\"DHSCLUST\"].astype",
+          "lineNumber": 61
+        },
+        {
+          "caller": "load_ge_lookup",
+          "callee": "ge[\"DHSREGNA\"].astype(str).str.strip",
+          "lineNumber": 62
+        },
+        {
+          "caller": "load_ge_lookup",
+          "callee": "ge[\"DHSREGNA\"].astype",
+          "lineNumber": 62
+        },
+        {
+          "caller": "load_ge_lookup",
+          "callee": "ge[\"ADM1NAME\"].astype(str).str.strip",
+          "lineNumber": 63
+        },
+        {
+          "caller": "load_ge_lookup",
+          "callee": "ge[\"ADM1NAME\"].astype",
+          "lineNumber": 63
+        },
+        {
+          "caller": "load_ge_lookup",
+          "callee": "ge[\"URBAN_RURA\"].astype(str).str.strip",
+          "lineNumber": 64
+        },
+        {
+          "caller": "load_ge_lookup",
+          "callee": "ge[\"URBAN_RURA\"].astype",
+          "lineNumber": 64
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "read_metadata",
+          "lineNumber": 73
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "find_district_column",
+          "lineNumber": 74
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "print",
+          "lineNumber": 76
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "find_column",
+          "lineNumber": 79
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "find_column",
+          "lineNumber": 80
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "find_column",
+          "lineNumber": 81
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "print",
+          "lineNumber": 83
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "pyreadstat.read_dta",
+          "lineNumber": 88
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "str",
+          "lineNumber": 88
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "df.drop_duplicates",
+          "lineNumber": 89
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "df.merge",
+          "lineNumber": 91
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "joined[\"district\"].notna().mean",
+          "lineNumber": 92
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "joined[\"district\"].notna",
+          "lineNumber": 92
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "print",
+          "lineNumber": 93
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "print",
+          "lineNumber": 96
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "print",
+          "lineNumber": 97
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "sorted",
+          "lineNumber": 97
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "df[cluster_col].unique",
+          "lineNumber": 97
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "print",
+          "lineNumber": 98
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "sorted",
+          "lineNumber": 98
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "ge[\"cluster_id\"].unique",
+          "lineNumber": 98
+        },
+        {
+          "caller": "attach_district_from_ge",
+          "callee": "print",
+          "lineNumber": 99
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "derive_hh_indicators",
+          "lineNumber": 106
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "read_metadata",
+          "lineNumber": 106
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "resolve_dta_path",
+          "lineNumber": 106
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "derived.items",
+          "lineNumber": 107
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "normalize_weight",
+          "lineNumber": 109
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "joined.groupby",
+          "lineNumber": 112
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "district.lower",
+          "lineNumber": 113
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "len",
+          "lineNumber": 120
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "weighted_pct",
+          "lineNumber": 122
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "pd.to_numeric",
+          "lineNumber": 122
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "weighted_pct",
+          "lineNumber": 123
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "pd.to_numeric",
+          "lineNumber": 123
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "weighted_pct",
+          "lineNumber": 124
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "pd.to_numeric",
+          "lineNumber": 124
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "weighted_pct",
+          "lineNumber": 125
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "grp.get",
+          "lineNumber": 125
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "pd.Series",
+          "lineNumber": 125
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "weighted_pct",
+          "lineNumber": 126
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "grp.get",
+          "lineNumber": 126
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "pd.Series",
+          "lineNumber": 126
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "weighted_pct",
+          "lineNumber": 127
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "pd.to_numeric",
+          "lineNumber": 127
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "weighted_mean",
+          "lineNumber": 128
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "pd.to_numeric",
+          "lineNumber": 128
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "rows.append",
+          "lineNumber": 135
+        },
+        {
+          "caller": "aggregate_district_frame",
+          "callee": "pd.DataFrame",
+          "lineNumber": 136
+        },
+        {
+          "caller": "main",
+          "callee": "load_ge_lookup",
+          "lineNumber": 140
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 142
+        },
+        {
+          "caller": "main",
+          "callee": "pd.DataFrame",
+          "lineNumber": 143
+        },
+        {
+          "caller": "main",
+          "callee": "resolve_dta_path",
+          "lineNumber": 148
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 150
+        },
+        {
+          "caller": "main",
+          "callee": "read_metadata",
+          "lineNumber": 153
+        },
+        {
+          "caller": "main",
+          "callee": "find_district_column",
+          "lineNumber": 154
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 155
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 157
+        },
+        {
+          "caller": "main",
+          "callee": "aggregate_hh_features",
+          "lineNumber": 158
+        },
+        {
+          "caller": "main",
+          "callee": "state_labels_from_meta",
+          "lineNumber": 159
+        },
+        {
+          "caller": "main",
+          "callee": "hh_df[\"hv024\"].map(labels).map",
+          "lineNumber": 160
+        },
+        {
+          "caller": "main",
+          "callee": "hh_df[\"hv024\"].map",
+          "lineNumber": 160
+        },
+        {
+          "caller": "main",
+          "callee": "hh_df[district_col].astype",
+          "lineNumber": 161
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 163
+        },
+        {
+          "caller": "main",
+          "callee": "resolve_dta_path",
+          "lineNumber": 167
+        },
+        {
+          "caller": "main",
+          "callee": "read_metadata",
+          "lineNumber": 168
+        },
+        {
+          "caller": "main",
+          "callee": "find_district_column",
+          "lineNumber": 169
+        },
+        {
+          "caller": "main",
+          "callee": "find_column",
+          "lineNumber": 170
+        },
+        {
+          "caller": "main",
+          "callee": "aggregate_ir_features",
+          "lineNumber": 172
+        },
+        {
+          "caller": "main",
+          "callee": "state_labels_from_meta",
+          "lineNumber": 173
+        },
+        {
+          "caller": "main",
+          "callee": "ir_df.rename",
+          "lineNumber": 174
+        },
+        {
+          "caller": "main",
+          "callee": "ir_df[\"district\"].astype",
+          "lineNumber": 175
+        },
+        {
+          "caller": "main",
+          "callee": "ir_df[\"state_code\"].map(ir_labels).map",
+          "lineNumber": 176
+        },
+        {
+          "caller": "main",
+          "callee": "ir_df[\"state_code\"].map",
+          "lineNumber": 176
+        },
+        {
+          "caller": "main",
+          "callee": "hh_df.merge",
+          "lineNumber": 178
+        },
+        {
+          "caller": "main",
+          "callee": "frames.append",
+          "lineNumber": 181
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 185
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 186
+        },
+        {
+          "caller": "main",
+          "callee": "attach_district_from_ge",
+          "lineNumber": 189
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 191
+        },
+        {
+          "caller": "main",
+          "callee": "frames.append",
+          "lineNumber": 193
+        },
+        {
+          "caller": "main",
+          "callee": "aggregate_district_frame",
+          "lineNumber": 193
+        },
+        {
+          "caller": "main",
+          "callee": "NFHS_DISTRICT_FEATURES.parent.mkdir",
+          "lineNumber": 195
+        },
+        {
+          "caller": "main",
+          "callee": "pd.concat",
+          "lineNumber": 197
+        },
+        {
+          "caller": "main",
+          "callee": "df.to_csv",
+          "lineNumber": 200
+        },
+        {
+          "caller": "main",
+          "callee": "df[\"district\"].nunique",
+          "lineNumber": 201
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 202
+        },
+        {
+          "caller": "main",
+          "callee": "len",
+          "lineNumber": 202
+        },
+        {
+          "caller": "main",
+          "callee": "pd.DataFrame(columns=DISTRICT_FEATURE_COLUMNS).to_csv",
+          "lineNumber": 204
+        },
+        {
+          "caller": "main",
+          "callee": "pd.DataFrame",
+          "lineNumber": 204
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 205
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 206
+        }
+      ],
+      "metrics": {
+        "importCount": 3,
+        "exportCount": 4,
+        "functionCount": 4,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/demographics/dhs/build_nfhs_state_features.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 150,
+      "nonEmptyLines": 121,
+      "functions": [
+        {
+          "name": "build_survey_features",
+          "startLine": 39,
+          "endLine": 76,
+          "params": [
+            "version"
+          ]
+        },
+        {
+          "name": "add_trends",
+          "startLine": 79,
+          "endLine": 96,
+          "params": [
+            "df"
+          ]
+        },
+        {
+          "name": "print_validation",
+          "startLine": 99,
+          "endLine": 113,
+          "params": [
+            "df",
+            "mappings"
+          ]
+        },
+        {
+          "name": "main",
+          "startLine": 116,
+          "endLine": 146,
+          "params": []
+        }
+      ],
+      "exports": [
+        {
+          "name": "build_survey_features",
+          "line": 39,
+          "isDefault": false
+        },
+        {
+          "name": "add_trends",
+          "line": 79,
+          "isDefault": false
+        },
+        {
+          "name": "print_validation",
+          "line": 99,
+          "isDefault": false
+        },
+        {
+          "name": "main",
+          "line": 116,
+          "isDefault": false
+        }
+      ],
+      "callGraph": [
+        {
+          "caller": "build_survey_features",
+          "callee": "resolve_dta_path",
+          "lineNumber": 41
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "resolve_dta_path",
+          "lineNumber": 42
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "resolve_dta_path",
+          "lineNumber": 43
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "resolve_dta_path",
+          "lineNumber": 44
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "stems.get",
+          "lineNumber": 44
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "FileNotFoundError",
+          "lineNumber": 47
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "read_metadata",
+          "lineNumber": 49
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "aggregate_hh_features",
+          "lineNumber": 51
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "aggregate_ir_features",
+          "lineNumber": 52
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "ir_df.rename",
+          "lineNumber": 53
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "pd.DataFrame",
+          "lineNumber": 54
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "mr.exists",
+          "lineNumber": 56
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "aggregate_mr_features",
+          "lineNumber": 57
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "mr_df.rename",
+          "lineNumber": 58
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "count_persons",
+          "lineNumber": 60
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "pr.exists",
+          "lineNumber": 60
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "pd.DataFrame",
+          "lineNumber": 60
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "hh_df.copy",
+          "lineNumber": 62
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "out.merge",
+          "lineNumber": 63
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "out.merge",
+          "lineNumber": 65
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "out.merge",
+          "lineNumber": 67
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "state_labels_from_meta",
+          "lineNumber": 69
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "out[state_col].map(labels).map",
+          "lineNumber": 70
+        },
+        {
+          "caller": "build_survey_features",
+          "callee": "out[state_col].map",
+          "lineNumber": 70
+        },
+        {
+          "caller": "add_trends",
+          "callee": "df[df[\"survey\"] == \"NFHS-4\"].set_index",
+          "lineNumber": 80
+        },
+        {
+          "caller": "add_trends",
+          "callee": "df[df[\"survey\"] == \"NFHS-5\"].set_index",
+          "lineNumber": 81
+        },
+        {
+          "caller": "add_trends",
+          "callee": "nfhs5.join",
+          "lineNumber": 82
+        },
+        {
+          "caller": "add_trends",
+          "callee": "pd.DataFrame(trend_cols).reset_index",
+          "lineNumber": 95
+        },
+        {
+          "caller": "add_trends",
+          "callee": "pd.DataFrame",
+          "lineNumber": 95
+        },
+        {
+          "caller": "add_trends",
+          "callee": "df.merge",
+          "lineNumber": 96
+        },
+        {
+          "caller": "print_validation",
+          "callee": "print",
+          "lineNumber": 100
+        },
+        {
+          "caller": "print_validation",
+          "callee": "print",
+          "lineNumber": 101
+        },
+        {
+          "caller": "print_validation",
+          "callee": "df['state'].nunique",
+          "lineNumber": 101
+        },
+        {
+          "caller": "print_validation",
+          "callee": "print",
+          "lineNumber": 102
+        },
+        {
+          "caller": "print_validation",
+          "callee": "df['survey'].unique().tolist",
+          "lineNumber": 102
+        },
+        {
+          "caller": "print_validation",
+          "callee": "df['survey'].unique",
+          "lineNumber": 102
+        },
+        {
+          "caller": "print_validation",
+          "callee": "df[feature_cols].isna().mean().sort_values",
+          "lineNumber": 104
+        },
+        {
+          "caller": "print_validation",
+          "callee": "df[feature_cols].isna().mean",
+          "lineNumber": 104
+        },
+        {
+          "caller": "print_validation",
+          "callee": "df[feature_cols].isna",
+          "lineNumber": 104
+        },
+        {
+          "caller": "print_validation",
+          "callee": "print",
+          "lineNumber": 105
+        },
+        {
+          "caller": "print_validation",
+          "callee": "missing.items",
+          "lineNumber": 106
+        },
+        {
+          "caller": "print_validation",
+          "callee": "print",
+          "lineNumber": 107
+        },
+        {
+          "caller": "print_validation",
+          "callee": "print",
+          "lineNumber": 109
+        },
+        {
+          "caller": "print_validation",
+          "callee": "mappings.items",
+          "lineNumber": 110
+        },
+        {
+          "caller": "print_validation",
+          "callee": "print",
+          "lineNumber": 111
+        },
+        {
+          "caller": "print_validation",
+          "callee": "sorted",
+          "lineNumber": 112
+        },
+        {
+          "caller": "print_validation",
+          "callee": "mp.items",
+          "lineNumber": 112
+        },
+        {
+          "caller": "print_validation",
+          "callee": "print",
+          "lineNumber": 113
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 120
+        },
+        {
+          "caller": "main",
+          "callee": "build_survey_features",
+          "lineNumber": 122
+        },
+        {
+          "caller": "main",
+          "callee": "frames.append",
+          "lineNumber": 123
+        },
+        {
+          "caller": "main",
+          "callee": "mapping.values",
+          "lineNumber": 125
+        },
+        {
+          "caller": "main",
+          "callee": "print_missing_warnings",
+          "lineNumber": 128
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 130
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 133
+        },
+        {
+          "caller": "main",
+          "callee": "pd.concat",
+          "lineNumber": 136
+        },
+        {
+          "caller": "main",
+          "callee": "add_trends",
+          "lineNumber": 137
+        },
+        {
+          "caller": "main",
+          "callee": "NFHS_STATE_FEATURES.parent.mkdir",
+          "lineNumber": 143
+        },
+        {
+          "caller": "main",
+          "callee": "df.to_csv",
+          "lineNumber": 144
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 145
+        },
+        {
+          "caller": "main",
+          "callee": "len",
+          "lineNumber": 145
+        },
+        {
+          "caller": "main",
+          "callee": "print_validation",
+          "lineNumber": 146
+        }
+      ],
+      "metrics": {
+        "importCount": 3,
+        "exportCount": 4,
+        "functionCount": 4,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/demographics/dhs/extract_dhs_zips.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 58,
+      "nonEmptyLines": 45,
+      "functions": [
+        {
+          "name": "extract_stata_from_zip",
+          "startLine": 20,
+          "endLine": 35,
+          "params": [
+            "zip_path",
+            "out_dir"
+          ]
+        },
+        {
+          "name": "main",
+          "startLine": 38,
+          "endLine": 54,
+          "params": []
+        }
+      ],
+      "exports": [
+        {
+          "name": "extract_stata_from_zip",
+          "line": 20,
+          "isDefault": false
+        },
+        {
+          "name": "main",
+          "line": 38,
+          "isDefault": false
+        }
+      ],
+      "callGraph": [
+        {
+          "caller": "extract_stata_from_zip",
+          "callee": "zipfile.ZipFile",
+          "lineNumber": 22
+        },
+        {
+          "caller": "extract_stata_from_zip",
+          "callee": "zf.namelist",
+          "lineNumber": 23
+        },
+        {
+          "caller": "extract_stata_from_zip",
+          "callee": "name.endswith",
+          "lineNumber": 24
+        },
+        {
+          "caller": "extract_stata_from_zip",
+          "callee": "Path(name).suffix.lower",
+          "lineNumber": 26
+        },
+        {
+          "caller": "extract_stata_from_zip",
+          "callee": "Path",
+          "lineNumber": 26
+        },
+        {
+          "caller": "extract_stata_from_zip",
+          "callee": "Path",
+          "lineNumber": 28
+        },
+        {
+          "caller": "extract_stata_from_zip",
+          "callee": "target.exists",
+          "lineNumber": 29
+        },
+        {
+          "caller": "extract_stata_from_zip",
+          "callee": "extracted.append",
+          "lineNumber": 30
+        },
+        {
+          "caller": "extract_stata_from_zip",
+          "callee": "zf.open",
+          "lineNumber": 32
+        },
+        {
+          "caller": "extract_stata_from_zip",
+          "callee": "open",
+          "lineNumber": 32
+        },
+        {
+          "caller": "extract_stata_from_zip",
+          "callee": "dst.write",
+          "lineNumber": 33
+        },
+        {
+          "caller": "extract_stata_from_zip",
+          "callee": "src.read",
+          "lineNumber": 33
+        },
+        {
+          "caller": "extract_stata_from_zip",
+          "callee": "extracted.append",
+          "lineNumber": 34
+        },
+        {
+          "caller": "main",
+          "callee": "DHS_EXTRACTED_DIR.mkdir",
+          "lineNumber": 39
+        },
+        {
+          "caller": "main",
+          "callee": "load_inventory",
+          "lineNumber": 40
+        },
+        {
+          "caller": "main",
+          "callee": "dt_files.iterrows",
+          "lineNumber": 44
+        },
+        {
+          "caller": "main",
+          "callee": "Path",
+          "lineNumber": 45
+        },
+        {
+          "caller": "main",
+          "callee": "zip_path.exists",
+          "lineNumber": 46
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 47
+        },
+        {
+          "caller": "main",
+          "callee": "extract_stata_from_zip",
+          "lineNumber": 49
+        },
+        {
+          "caller": "main",
+          "callee": "all_extracted.extend",
+          "lineNumber": 50
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 51
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 53
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 54
+        },
+        {
+          "caller": "main",
+          "callee": "len",
+          "lineNumber": 54
+        }
+      ],
+      "metrics": {
+        "importCount": 2,
+        "exportCount": 2,
+        "functionCount": 2,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/demographics/dhs/feature_utils.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 449,
+      "nonEmptyLines": 383,
+      "functions": [
+        {
+          "name": "load_inventory",
+          "startLine": 99,
+          "endLine": 113,
+          "params": []
+        },
+        {
+          "name": "read_metadata",
+          "startLine": 116,
+          "endLine": 118,
+          "params": [
+            "path"
+          ]
+        },
+        {
+          "name": "find_column",
+          "startLine": 121,
+          "endLine": 136,
+          "params": [
+            "meta",
+            "candidates",
+            "keywords"
+          ]
+        },
+        {
+          "name": "normalize_weight",
+          "startLine": 139,
+          "endLine": 146,
+          "params": [
+            "series"
+          ]
+        },
+        {
+          "name": "clean_state_label",
+          "startLine": 149,
+          "endLine": 154,
+          "params": [
+            "raw"
+          ]
+        },
+        {
+          "name": "state_labels_from_meta",
+          "startLine": 157,
+          "endLine": 158,
+          "params": [
+            "meta",
+            "col"
+          ]
+        },
+        {
+          "name": "weighted_pct",
+          "startLine": 161,
+          "endLine": 170,
+          "params": [
+            "values",
+            "weights",
+            "yes_values"
+          ]
+        },
+        {
+          "name": "weighted_mean",
+          "startLine": 173,
+          "endLine": 177,
+          "params": [
+            "values",
+            "weights"
+          ]
+        },
+        {
+          "name": "resolve_dta_path",
+          "startLine": 180,
+          "endLine": 191,
+          "params": [
+            "extracted_dir",
+            "stem"
+          ]
+        },
+        {
+          "name": "compute_tfr",
+          "startLine": 194,
+          "endLine": 238,
+          "params": [
+            "df",
+            "weight_col",
+            "age_col"
+          ]
+        },
+        {
+          "name": "derive_hh_indicators",
+          "startLine": 241,
+          "endLine": 265,
+          "params": [
+            "df",
+            "meta"
+          ]
+        },
+        {
+          "name": "aggregate_hh_features",
+          "startLine": 268,
+          "endLine": 320,
+          "params": [
+            "hr_path",
+            "group_cols"
+          ]
+        },
+        {
+          "name": "aggregate_ir_features",
+          "startLine": 323,
+          "endLine": 381,
+          "params": [
+            "ir_path",
+            "group_cols"
+          ]
+        },
+        {
+          "name": "aggregate_mr_features",
+          "startLine": 384,
+          "endLine": 418,
+          "params": [
+            "mr_path",
+            "group_cols"
+          ]
+        },
+        {
+          "name": "count_persons",
+          "startLine": 421,
+          "endLine": 431,
+          "params": [
+            "pr_path",
+            "group_cols"
+          ]
+        },
+        {
+          "name": "find_district_column",
+          "startLine": 434,
+          "endLine": 442,
+          "params": [
+            "meta"
+          ]
+        },
+        {
+          "name": "print_missing_warnings",
+          "startLine": 445,
+          "endLine": 449,
+          "params": [
+            "mapping",
+            "prefix"
+          ]
+        }
+      ],
+      "exports": [
+        {
+          "name": "load_inventory",
+          "line": 99,
+          "isDefault": false
+        },
+        {
+          "name": "read_metadata",
+          "line": 116,
+          "isDefault": false
+        },
+        {
+          "name": "find_column",
+          "line": 121,
+          "isDefault": false
+        },
+        {
+          "name": "normalize_weight",
+          "line": 139,
+          "isDefault": false
+        },
+        {
+          "name": "clean_state_label",
+          "line": 149,
+          "isDefault": false
+        },
+        {
+          "name": "state_labels_from_meta",
+          "line": 157,
+          "isDefault": false
+        },
+        {
+          "name": "weighted_pct",
+          "line": 161,
+          "isDefault": false
+        },
+        {
+          "name": "weighted_mean",
+          "line": 173,
+          "isDefault": false
+        },
+        {
+          "name": "resolve_dta_path",
+          "line": 180,
+          "isDefault": false
+        },
+        {
+          "name": "compute_tfr",
+          "line": 194,
+          "isDefault": false
+        },
+        {
+          "name": "derive_hh_indicators",
+          "line": 241,
+          "isDefault": false
+        },
+        {
+          "name": "aggregate_hh_features",
+          "line": 268,
+          "isDefault": false
+        },
+        {
+          "name": "aggregate_ir_features",
+          "line": 323,
+          "isDefault": false
+        },
+        {
+          "name": "aggregate_mr_features",
+          "line": 384,
+          "isDefault": false
+        },
+        {
+          "name": "count_persons",
+          "line": 421,
+          "isDefault": false
+        },
+        {
+          "name": "find_district_column",
+          "line": 434,
+          "isDefault": false
+        },
+        {
+          "name": "print_missing_warnings",
+          "line": 445,
+          "isDefault": false
+        }
+      ],
+      "callGraph": [
+        {
+          "caller": "load_inventory",
+          "callee": "path.exists",
+          "lineNumber": 102
+        },
+        {
+          "caller": "load_inventory",
+          "callee": "pd.read_csv",
+          "lineNumber": 103
+        },
+        {
+          "caller": "load_inventory",
+          "callee": "df[\"filename\"].map",
+          "lineNumber": 107
+        },
+        {
+          "caller": "load_inventory",
+          "callee": "FileNotFoundError",
+          "lineNumber": 111
+        },
+        {
+          "caller": "read_metadata",
+          "callee": "pyreadstat.read_dta",
+          "lineNumber": 117
+        },
+        {
+          "caller": "read_metadata",
+          "callee": "str",
+          "lineNumber": 117
+        },
+        {
+          "caller": "find_column",
+          "callee": "c.lower",
+          "lineNumber": 127
+        },
+        {
+          "caller": "find_column",
+          "callee": "cand.lower",
+          "lineNumber": 129
+        },
+        {
+          "caller": "find_column",
+          "callee": "cand.lower",
+          "lineNumber": 130
+        },
+        {
+          "caller": "find_column",
+          "callee": "k.lower",
+          "lineNumber": 131
+        },
+        {
+          "caller": "find_column",
+          "callee": "(meta.column_names_to_labels.get(col) or \"\").lower",
+          "lineNumber": 133
+        },
+        {
+          "caller": "find_column",
+          "callee": "meta.column_names_to_labels.get",
+          "lineNumber": 133
+        },
+        {
+          "caller": "find_column",
+          "callee": "any",
+          "lineNumber": 134
+        },
+        {
+          "caller": "normalize_weight",
+          "callee": "pd.to_numeric",
+          "lineNumber": 141
+        },
+        {
+          "caller": "normalize_weight",
+          "callee": "w.dropna",
+          "lineNumber": 142
+        },
+        {
+          "caller": "normalize_weight",
+          "callee": "w.dropna().max",
+          "lineNumber": 144
+        },
+        {
+          "caller": "normalize_weight",
+          "callee": "w.dropna",
+          "lineNumber": 144
+        },
+        {
+          "caller": "clean_state_label",
+          "callee": "isinstance",
+          "lineNumber": 150
+        },
+        {
+          "caller": "clean_state_label",
+          "callee": "np.isnan",
+          "lineNumber": 150
+        },
+        {
+          "caller": "clean_state_label",
+          "callee": "str(raw).strip",
+          "lineNumber": 152
+        },
+        {
+          "caller": "clean_state_label",
+          "callee": "str",
+          "lineNumber": 152
+        },
+        {
+          "caller": "clean_state_label",
+          "callee": "re.sub",
+          "lineNumber": 153
+        },
+        {
+          "caller": "clean_state_label",
+          "callee": "text.title",
+          "lineNumber": 154
+        },
+        {
+          "caller": "state_labels_from_meta",
+          "callee": "meta.variable_value_labels.get",
+          "lineNumber": 158
+        },
+        {
+          "caller": "weighted_pct",
+          "callee": "values.notna",
+          "lineNumber": 166
+        },
+        {
+          "caller": "weighted_pct",
+          "callee": "weights.notna",
+          "lineNumber": 166
+        },
+        {
+          "caller": "weighted_pct",
+          "callee": "mask.any",
+          "lineNumber": 167
+        },
+        {
+          "caller": "weighted_pct",
+          "callee": "values.isin",
+          "lineNumber": 169
+        },
+        {
+          "caller": "weighted_pct",
+          "callee": "float",
+          "lineNumber": 170
+        },
+        {
+          "caller": "weighted_pct",
+          "callee": "weights.loc[yes].sum",
+          "lineNumber": 170
+        },
+        {
+          "caller": "weighted_pct",
+          "callee": "weights.loc[mask].sum",
+          "lineNumber": 170
+        },
+        {
+          "caller": "weighted_mean",
+          "callee": "values.notna",
+          "lineNumber": 174
+        },
+        {
+          "caller": "weighted_mean",
+          "callee": "weights.notna",
+          "lineNumber": 174
+        },
+        {
+          "caller": "weighted_mean",
+          "callee": "mask.any",
+          "lineNumber": 175
+        },
+        {
+          "caller": "weighted_mean",
+          "callee": "float",
+          "lineNumber": 177
+        },
+        {
+          "caller": "weighted_mean",
+          "callee": "(values.loc[mask] * weights.loc[mask]).sum",
+          "lineNumber": 177
+        },
+        {
+          "caller": "weighted_mean",
+          "callee": "weights.loc[mask].sum",
+          "lineNumber": 177
+        },
+        {
+          "caller": "resolve_dta_path",
+          "callee": "path.exists",
+          "lineNumber": 183
+        },
+        {
+          "caller": "resolve_dta_path",
+          "callee": "stem.upper",
+          "lineNumber": 185
+        },
+        {
+          "caller": "resolve_dta_path",
+          "callee": "path.exists",
+          "lineNumber": 186
+        },
+        {
+          "caller": "resolve_dta_path",
+          "callee": "list",
+          "lineNumber": 188
+        },
+        {
+          "caller": "resolve_dta_path",
+          "callee": "extracted_dir.glob",
+          "lineNumber": 188
+        },
+        {
+          "caller": "resolve_dta_path",
+          "callee": "list",
+          "lineNumber": 188
+        },
+        {
+          "caller": "resolve_dta_path",
+          "callee": "extracted_dir.glob",
+          "lineNumber": 189
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "pd.to_numeric",
+          "lineNumber": 206
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "df[(ages >= 15) & (ages <= 49)].copy",
+          "lineNumber": 207
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "normalize_weight",
+          "lineNumber": 211
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "pd.to_numeric",
+          "lineNumber": 212
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "pd.to_numeric",
+          "lineNumber": 213
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "women.get",
+          "lineNumber": 213
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "re.match",
+          "lineNumber": 215
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "c.lower",
+          "lineNumber": 215
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "icmc.notna().any",
+          "lineNumber": 216
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "icmc.notna",
+          "lineNumber": 216
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "range",
+          "lineNumber": 218
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "normalize_weight",
+          "lineNumber": 223
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "pd.to_numeric",
+          "lineNumber": 225
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "pd.to_numeric",
+          "lineNumber": 227
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "gw[(bdates.notna()) & (icmc_grp - bdates <= 36)].sum",
+          "lineNumber": 228
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "bdates.notna",
+          "lineNumber": 228
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "gw.sum",
+          "lineNumber": 229
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "float",
+          "lineNumber": 231
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "sum",
+          "lineNumber": 231
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "asfr.values",
+          "lineNumber": 231
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "pd.to_numeric",
+          "lineNumber": 234
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "ceb.notna",
+          "lineNumber": 235
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "ww.notna",
+          "lineNumber": 235
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "mask.any",
+          "lineNumber": 236
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "float",
+          "lineNumber": 237
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "(ceb.loc[mask] * ww.loc[mask]).sum",
+          "lineNumber": 237
+        },
+        {
+          "caller": "compute_tfr",
+          "callee": "ww.loc[mask].sum",
+          "lineNumber": 237
+        },
+        {
+          "caller": "derive_hh_indicators",
+          "callee": "find_column",
+          "lineNumber": 244
+        },
+        {
+          "caller": "derive_hh_indicators",
+          "callee": "pd.to_numeric",
+          "lineNumber": 246
+        },
+        {
+          "caller": "derive_hh_indicators",
+          "callee": "vals.isin(IMPROVED_TOILET_CODES).astype",
+          "lineNumber": 247
+        },
+        {
+          "caller": "derive_hh_indicators",
+          "callee": "vals.isin",
+          "lineNumber": 247
+        },
+        {
+          "caller": "derive_hh_indicators",
+          "callee": "vals.isna",
+          "lineNumber": 248
+        },
+        {
+          "caller": "derive_hh_indicators",
+          "callee": "find_column",
+          "lineNumber": 251
+        },
+        {
+          "caller": "derive_hh_indicators",
+          "callee": "pd.to_numeric",
+          "lineNumber": 253
+        },
+        {
+          "caller": "derive_hh_indicators",
+          "callee": "fuel_col.lower",
+          "lineNumber": 254
+        },
+        {
+          "caller": "derive_hh_indicators",
+          "callee": "(vals == 8).astype",
+          "lineNumber": 255
+        },
+        {
+          "caller": "derive_hh_indicators",
+          "callee": "(vals == LPG_FUEL_CODE).astype",
+          "lineNumber": 257
+        },
+        {
+          "caller": "derive_hh_indicators",
+          "callee": "vals.isna",
+          "lineNumber": 258
+        },
+        {
+          "caller": "derive_hh_indicators",
+          "callee": "pd.to_numeric",
+          "lineNumber": 261
+        },
+        {
+          "caller": "derive_hh_indicators",
+          "callee": "(vals == 1).astype",
+          "lineNumber": 262
+        },
+        {
+          "caller": "derive_hh_indicators",
+          "callee": "vals.isna",
+          "lineNumber": 263
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "read_metadata",
+          "lineNumber": 272
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "find_column",
+          "lineNumber": 273
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "find_column",
+          "lineNumber": 274
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "ValueError",
+          "lineNumber": 276
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "list",
+          "lineNumber": 278
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "HH_INDICATOR_SPECS.values",
+          "lineNumber": 279
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "usecols.extend",
+          "lineNumber": 280
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "spec.get",
+          "lineNumber": 280
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "usecols.extend",
+          "lineNumber": 281
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "list",
+          "lineNumber": 282
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "dict.fromkeys",
+          "lineNumber": 282
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "pyreadstat.read_dta",
+          "lineNumber": 284
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "str",
+          "lineNumber": 284
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "derive_hh_indicators",
+          "lineNumber": 285
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "derived.items",
+          "lineNumber": 286
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "normalize_weight",
+          "lineNumber": 289
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "df.groupby",
+          "lineNumber": 293
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "isinstance",
+          "lineNumber": 294
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "dict",
+          "lineNumber": 296
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "zip",
+          "lineNumber": 296
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "len",
+          "lineNumber": 297
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "HH_INDICATOR_SPECS.items",
+          "lineNumber": 299
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "find_column",
+          "lineNumber": 300
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "spec.get",
+          "lineNumber": 300
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "spec.get",
+          "lineNumber": 300
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "spec.get",
+          "lineNumber": 302
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "weighted_pct",
+          "lineNumber": 305
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "spec.get",
+          "lineNumber": 308
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "weighted_mean",
+          "lineNumber": 309
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "pd.to_numeric",
+          "lineNumber": 309
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "weighted_pct",
+          "lineNumber": 311
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "pd.to_numeric",
+          "lineNumber": 312
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "spec.get",
+          "lineNumber": 314
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "rows.append",
+          "lineNumber": 318
+        },
+        {
+          "caller": "aggregate_hh_features",
+          "callee": "pd.DataFrame",
+          "lineNumber": 320
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "read_metadata",
+          "lineNumber": 327
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "find_column",
+          "lineNumber": 328
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "find_column",
+          "lineNumber": 329
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "ValueError",
+          "lineNumber": 331
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "IR_SPECS.values",
+          "lineNumber": 334
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "usecols.extend",
+          "lineNumber": 335
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "spec.get",
+          "lineNumber": 335
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "usecols.extend",
+          "lineNumber": 336
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "re.match",
+          "lineNumber": 336
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "c.lower",
+          "lineNumber": 336
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "list",
+          "lineNumber": 337
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "dict.fromkeys",
+          "lineNumber": 337
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "pyreadstat.read_dta",
+          "lineNumber": 339
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "str",
+          "lineNumber": 339
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "normalize_weight",
+          "lineNumber": 340
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "df.groupby",
+          "lineNumber": 344
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "isinstance",
+          "lineNumber": 345
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "dict",
+          "lineNumber": 347
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "zip",
+          "lineNumber": 347
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "IR_SPECS.items",
+          "lineNumber": 349
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "spec.get",
+          "lineNumber": 350
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "compute_tfr",
+          "lineNumber": 351
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "find_column",
+          "lineNumber": 355
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "spec.get",
+          "lineNumber": 355
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "spec.get",
+          "lineNumber": 355
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "weighted_pct",
+          "lineNumber": 364
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "pd.to_numeric",
+          "lineNumber": 364
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "spec.get",
+          "lineNumber": 367
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "spec.get",
+          "lineNumber": 369
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "weighted_pct",
+          "lineNumber": 370
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "pd.to_numeric",
+          "lineNumber": 370
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "weighted_pct",
+          "lineNumber": 372
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "pd.to_numeric",
+          "lineNumber": 373
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "spec.get",
+          "lineNumber": 375
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "rows.append",
+          "lineNumber": 379
+        },
+        {
+          "caller": "aggregate_ir_features",
+          "callee": "pd.DataFrame",
+          "lineNumber": 381
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "read_metadata",
+          "lineNumber": 388
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "find_column",
+          "lineNumber": 389
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "find_column",
+          "lineNumber": 390
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "pd.DataFrame",
+          "lineNumber": 392
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "MR_SPECS.values",
+          "lineNumber": 395
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "usecols.extend",
+          "lineNumber": 396
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "spec.get",
+          "lineNumber": 396
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "list",
+          "lineNumber": 397
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "dict.fromkeys",
+          "lineNumber": 397
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "pyreadstat.read_dta",
+          "lineNumber": 399
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "str",
+          "lineNumber": 399
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "normalize_weight",
+          "lineNumber": 400
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "df.groupby",
+          "lineNumber": 404
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "isinstance",
+          "lineNumber": 405
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "dict",
+          "lineNumber": 407
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "zip",
+          "lineNumber": 407
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "MR_SPECS.items",
+          "lineNumber": 408
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "find_column",
+          "lineNumber": 409
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "spec.get",
+          "lineNumber": 409
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "spec.get",
+          "lineNumber": 409
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "weighted_pct",
+          "lineNumber": 412
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "pd.to_numeric",
+          "lineNumber": 412
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "spec.get",
+          "lineNumber": 412
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "rows.append",
+          "lineNumber": 416
+        },
+        {
+          "caller": "aggregate_mr_features",
+          "callee": "pd.DataFrame",
+          "lineNumber": 418
+        },
+        {
+          "caller": "count_persons",
+          "callee": "read_metadata",
+          "lineNumber": 422
+        },
+        {
+          "caller": "count_persons",
+          "callee": "find_column",
+          "lineNumber": 423
+        },
+        {
+          "caller": "count_persons",
+          "callee": "pd.DataFrame",
+          "lineNumber": 425
+        },
+        {
+          "caller": "count_persons",
+          "callee": "list",
+          "lineNumber": 427
+        },
+        {
+          "caller": "count_persons",
+          "callee": "dict.fromkeys",
+          "lineNumber": 427
+        },
+        {
+          "caller": "count_persons",
+          "callee": "pyreadstat.read_dta",
+          "lineNumber": 429
+        },
+        {
+          "caller": "count_persons",
+          "callee": "str",
+          "lineNumber": 429
+        },
+        {
+          "caller": "count_persons",
+          "callee": "df.groupby(group_cols, dropna=False).size().reset_index",
+          "lineNumber": 430
+        },
+        {
+          "caller": "count_persons",
+          "callee": "df.groupby(group_cols, dropna=False).size",
+          "lineNumber": 430
+        },
+        {
+          "caller": "count_persons",
+          "callee": "df.groupby",
+          "lineNumber": 430
+        },
+        {
+          "caller": "find_district_column",
+          "callee": "(meta.column_names_to_labels.get(col) or \"\").lower",
+          "lineNumber": 439
+        },
+        {
+          "caller": "find_district_column",
+          "callee": "meta.column_names_to_labels.get",
+          "lineNumber": 439
+        },
+        {
+          "caller": "find_district_column",
+          "callee": "col.lower",
+          "lineNumber": 440
+        },
+        {
+          "caller": "find_district_column",
+          "callee": "label.startswith",
+          "lineNumber": 440
+        },
+        {
+          "caller": "find_district_column",
+          "callee": "candidates.append",
+          "lineNumber": 441
+        },
+        {
+          "caller": "print_missing_warnings",
+          "callee": "mapping.items",
+          "lineNumber": 446
+        },
+        {
+          "caller": "print_missing_warnings",
+          "callee": "warnings.warn",
+          "lineNumber": 448
+        }
+      ],
+      "metrics": {
+        "importCount": 1,
+        "exportCount": 17,
+        "functionCount": 17,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/demographics/dhs/inspect_dhs_variables.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 62,
+      "nonEmptyLines": 48,
+      "functions": [
+        {
+          "name": "inspect_dta",
+          "startLine": 22,
+          "endLine": 40,
+          "params": [
+            "path"
+          ]
+        },
+        {
+          "name": "main",
+          "startLine": 43,
+          "endLine": 58,
+          "params": []
+        }
+      ],
+      "exports": [
+        {
+          "name": "inspect_dta",
+          "line": 22,
+          "isDefault": false
+        },
+        {
+          "name": "main",
+          "line": 43,
+          "isDefault": false
+        }
+      ],
+      "callGraph": [
+        {
+          "caller": "inspect_dta",
+          "callee": "pyreadstat.read_dta",
+          "lineNumber": 23
+        },
+        {
+          "caller": "inspect_dta",
+          "callee": "str",
+          "lineNumber": 23
+        },
+        {
+          "caller": "inspect_dta",
+          "callee": "meta.column_names_to_labels.get",
+          "lineNumber": 26
+        },
+        {
+          "caller": "inspect_dta",
+          "callee": "meta.variable_value_labels.get",
+          "lineNumber": 27
+        },
+        {
+          "caller": "inspect_dta",
+          "callee": "\"; \".join",
+          "lineNumber": 30
+        },
+        {
+          "caller": "inspect_dta",
+          "callee": "list",
+          "lineNumber": 30
+        },
+        {
+          "caller": "inspect_dta",
+          "callee": "value_labels.items",
+          "lineNumber": 30
+        },
+        {
+          "caller": "inspect_dta",
+          "callee": "rows.append",
+          "lineNumber": 31
+        },
+        {
+          "caller": "inspect_dta",
+          "callee": "len",
+          "lineNumber": 37
+        },
+        {
+          "caller": "main",
+          "callee": "sorted",
+          "lineNumber": 44
+        },
+        {
+          "caller": "main",
+          "callee": "DHS_EXTRACTED_DIR.glob",
+          "lineNumber": 44
+        },
+        {
+          "caller": "main",
+          "callee": "sorted",
+          "lineNumber": 44
+        },
+        {
+          "caller": "main",
+          "callee": "DHS_EXTRACTED_DIR.glob",
+          "lineNumber": 44
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 46
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 47
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 52
+        },
+        {
+          "caller": "main",
+          "callee": "path.stat",
+          "lineNumber": 52
+        },
+        {
+          "caller": "main",
+          "callee": "rows.extend",
+          "lineNumber": 53
+        },
+        {
+          "caller": "main",
+          "callee": "inspect_dta",
+          "lineNumber": 53
+        },
+        {
+          "caller": "main",
+          "callee": "pd.DataFrame",
+          "lineNumber": 55
+        },
+        {
+          "caller": "main",
+          "callee": "FEATURE_DICTIONARY.parent.mkdir",
+          "lineNumber": 56
+        },
+        {
+          "caller": "main",
+          "callee": "df.to_csv",
+          "lineNumber": 57
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 58
+        },
+        {
+          "caller": "main",
+          "callee": "len",
+          "lineNumber": 58
+        }
+      ],
+      "metrics": {
+        "importCount": 2,
+        "exportCount": 2,
+        "functionCount": 2,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/demographics/dhs/paths.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 80,
+      "nonEmptyLines": 70,
+      "metrics": {
+        "importCount": 1,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0
+      }
+    }
+  ]
+}

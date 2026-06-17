@@ -1,0 +1,24 @@
+col_0,col_1,N,(%),Valid (%)
+,70: Owner-cultivators 20 + Acres,12,.1,.2
+,71: Owner-cultivators 10-20 Acres,43,.4,.8
+,72: Owner-cultivators 5-10 Acres,118,1.2,2.1
+,73: Owner-cultivators 1-5 Acres,403,4.0,7.1
+,74: Owner-cultivators 0-1 Acre,191,1.9,3.4
+,75: Tenant-cultivators 5+ Acres,37,.4,.6
+,76: Tenant-cultivators 0-5 Acres,123,1.2,2.2
+,77: Plantation workers,14,.1,.3
+,78: Agricultural labourers rearers,701,7.0,12.3
+,79: Other agriculture workers,54,.5,1.0
+,80: Live-stock farming,41,.4,.7
+,81: Dairy farming,25,.2,.4
+,82: Poultry farming,15,.2,.3
+,83: Shepherds,5,.0,.1
+,86: Fishermen,21,.2,.4
+,89: Other breeders and cattle,2,.0,.0
+,90: House-wife/husband,29,.3,.5
+,91: Students not seeking employment,12,.1,.2
+,92: Employment seekers,11,.1,.2
+,"93: Unemployed workers, non-workers",5,.0,.1
+,95: Any other occupation,35,.3,.6
+,"96: Political activists, missionaries",9,.1,.2
+,98: Unidentifiable or unclassifiable,565,5.6,9.9

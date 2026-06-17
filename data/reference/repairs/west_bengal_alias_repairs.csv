@@ -1,0 +1,12 @@
+delimitation_state,delimitation_district,census_district,nfhs_district,notes
+West Bengal,HOOGHLY,Hugli,Hugli,Delimitation HOOGHLY maps to Census/NFHS Hugli
+West Bengal,HOWRAH,Haora,Haora,Delimitation HOWRAH maps to Census/NFHS Haora
+West Bengal,BARDHAMAN,Barddhaman,Barddhaman,Delimitation BARDHAMAN maps to NFHS Barddhaman
+West Bengal,NORTH 24 PARGANAS,North Twenty Four Parganas,North Twenty Four Parganas,Numeric district spelling variant
+West Bengal,SOUTH 24 PARGANAS,South Twenty Four Parganas,South Twenty Four Parganas,Numeric district spelling variant
+West Bengal,COOCHBEHAR,Koch Bihar,Koch Bihar,Delimitation COOCHBEHAR maps to Census/NFHS Koch Bihar
+West Bengal,DARJEELING,Darjiling,Darjiling,Delimitation DARJEELING maps to Census/NFHS Darjiling
+West Bengal,MALDAHA,Maldah,Maldah,Delimitation MALDAHA maps to Census/NFHS Maldah
+West Bengal,PURULIA,Puruliya,Puruliya,Delimitation PURULIA maps to Census/NFHS Puruliya
+West Bengal,PURBO MEDINIPUR,Purba Medinipur,,NFHS district panel missing Purba Medinipur; no values imputed
+West Bengal,PASCHIM MEDINIPUR,Paschim Medinipur,,NFHS district panel missing Paschim Medinipur; GE clusters exist but features not built

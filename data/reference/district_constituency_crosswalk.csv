@@ -1,0 +1,1117 @@
+election_type,state,constituency_id,constituency,district,district_role,mapping_confidence,notes,district_weight_estimate,overlap_method,source
+lok_sabha,Andaman & Nicobar Islands,ANDAMAN_&_NICOBAR_ISLANDS__ANDAMAN_&_NICOBAR_ISLANDS,Andaman & Nicobar Islands,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__AMALAPURAM,Amalapuram,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__ANAKAPALLI,Anakapalli,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__ANANTAPUR,Anantapur,ANANTAPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__ARUKU,Aruku,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__BAPATLA,Bapatla,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__CHITTOOR,Chittoor,CHITTOOR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__ELURU,Eluru,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__GUNTUR,Guntur,GUNTUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__HINDUPUR,Hindupur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__KADAPA,Kadapa,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__KAKINADA,Kakinada,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__KURNOOL,Kurnool,KURNOOL,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__MACHILIPATNAM,Machilipatnam,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__NANDYAL,Nandyal,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__NARASARAOPET,Narasaraopet,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__NARSAPURAM,Narsapuram,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__NELLORE,Nellore,SRI POTTI SRIRAMULU NELLORE,partial,medium,Name overlap: constituency='NELLORE' district='SRI POTTI SRIRAMULU NELLORE',,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__ONGOLE,Ongole,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__RAJAHMUNDRY,Rajahmundry,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__RAJAMPET,Rajampet,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__SRIKAKULAM,Srikakulam,SRIKAKULAM,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__TIRUPATI,Tirupati,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__VIJAYAWADA,Vijayawada,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__VISAKHAPATNAM,Visakhapatnam,VISAKHAPATNAM,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__VIZIANAGARAM,Vizianagaram,VIZIANAGARAM,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Arunachal Pradesh,ARUNACHAL_PRADESH__ARUNACHAL_EAST,ARUNACHAL EAST,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Arunachal Pradesh,ARUNACHAL_PRADESH__ARUNACHAL_WEST,ARUNACHAL WEST,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Assam,ASSAM__AUTONOMOUS_DISTRICT,Autonomous District,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Assam,ASSAM__BARPETA,Barpeta,BARPETA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Assam,ASSAM__DHUBRI,Dhubri,DHUBRI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Assam,ASSAM__DIBRUGARH,Dibrugarh,DIBRUGARH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Assam,ASSAM__GAUHATI,Gauhati,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Assam,ASSAM__JORHAT,Jorhat,JORHAT,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Assam,ASSAM__KALIABOR,Kaliabor,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Assam,ASSAM__KARIMGANJ,Karimganj,KARIMGANJ,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Assam,ASSAM__KOKRAJHAR,Kokrajhar,KOKRAJHAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Assam,ASSAM__LAKHIMPUR,Lakhimpur,LAKHIMPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Assam,ASSAM__MANGALDOI,Mangaldoi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Assam,ASSAM__NOWGONG,Nowgong,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Assam,ASSAM__SILCHAR,Silchar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Assam,ASSAM__TEZPUR,Tezpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__ARARIA,Araria,ARARIA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__ARRAH,Arrah,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__AURANGABAD,Aurangabad,AURANGABAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__BANKA,Banka,BANKA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__BEGUSARAI,Begusarai,BEGUSARAI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__BHAGALPUR,Bhagalpur,BHAGALPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__BUXAR,Buxar,BUXAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__DARBHANGA,Darbhanga,DARBHANGA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__GAYA_(SC),Gaya (SC),GAYA,partial,medium,Name overlap: constituency='GAYA SC' district='GAYA',,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__GOPALGANJ_(SC),Gopalganj (SC),GOPALGANJ,partial,medium,Name overlap: constituency='GOPALGANJ SC' district='GOPALGANJ',,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__HAJIPUR_(SC),Hajipur (SC),,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__JAHANABAD,Jahanabad,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__JAMUI_(SC),Jamui (SC),JAMUI,partial,medium,Name overlap: constituency='JAMUI SC' district='JAMUI',,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__JHANJHARPUR,Jhanjharpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__KARAKAT,Karakat,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__KATIHAR,Katihar,KATIHAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__KHAGARIA,Khagaria,KHAGARIA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__KISHANGANJ,Kishanganj,KISHANGANJ,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__MADHEPURA,Madhepura,MADHEPURA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__MADHUBANI,Madhubani,MADHUBANI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__MAHARAJGANJ,Maharajganj,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__MUNGER,Munger,MUNGER,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__MUZAFFARPUR,Muzaffarpur,MUZAFFARPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__NALANDA,Nalanda,NALANDA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__NAWADA,Nawada,NAWADA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__PASCHIM_CHAMPARAN,Paschim Champaran,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__PATALIPUTRA,Pataliputra,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__PATNA_SAHIB,Patna Sahib,PATNA,partial,medium,Name overlap: constituency='PATNA SAHIB' district='PATNA',,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__PURNIA,Purnia,PURNIA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__PURVI_CHAMPARAN,Purvi Champaran,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__SAMASTIPUR_(SC),Samastipur (SC),SAMASTIPUR,partial,medium,Name overlap: constituency='SAMASTIPUR SC' district='SAMASTIPUR',,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__SARAN,Saran,SARAN,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__SASARAM_(SC),Sasaram (SC),,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__SHEOHAR,Sheohar,SHEOHAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__SITAMARHI,Sitamarhi,SITAMARHI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__SIWAN,Siwan,SIWAN,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__SUPAUL,Supaul,SUPAUL,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__UJIARPUR,Ujiarpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__VAISHALI,Vaishali,VAISHALI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Bihar,BIHAR__VALMIKI_NAGAR,Valmiki Nagar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Chandigarh,CHANDIGARH__CHANDIGARH,CHANDIGARH,CHANDIGARH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Chhattisgarh,CHHATTISGARH__BASTAR,BASTAR,BASTAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Chhattisgarh,CHHATTISGARH__BILASPUR,BILASPUR,BILASPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Chhattisgarh,CHHATTISGARH__DURG,DURG,DURG,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Chhattisgarh,CHHATTISGARH__JANJGIR-CHAMPA,JANJGIR-CHAMPA,JANJGIR - CHAMPA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Chhattisgarh,CHHATTISGARH__KANKER,KANKER,UTTAR BASTAR KANKER,partial,medium,Name overlap: constituency='KANKER' district='UTTAR BASTAR KANKER',,,constituency_table_2019
+lok_sabha,Chhattisgarh,CHHATTISGARH__KORBA,KORBA,KORBA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Chhattisgarh,CHHATTISGARH__MAHASAMUND,MAHASAMUND,MAHASAMUND,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Chhattisgarh,CHHATTISGARH__RAIGARH,RAIGARH,RAIGARH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Chhattisgarh,CHHATTISGARH__RAIPUR,RAIPUR,RAIPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Chhattisgarh,CHHATTISGARH__RAJNANDGAON,RAJNANDGAON,RAJNANDGAON,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Chhattisgarh,CHHATTISGARH__SARGUJA,SARGUJA,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Dadra & Nagar Haveli,DADRA_&_NAGAR_HAVELI__DADRA_AND_NAGAR_HAVELI,Dadra And Nagar Haveli,DADRA & NAGAR HAVELI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Daman & Diu,DAMAN_&_DIU__DAMAN_&_DIU,Daman & diu,DIU,partial,medium,Name overlap: constituency='DAMAN AND DIU' district='DIU',,,constituency_table_2019
+lok_sabha,Daman & Diu,DAMAN_&_DIU__DAMAN_&_DIU,Daman & diu,DAMAN,partial,medium,Name overlap: constituency='DAMAN AND DIU' district='DAMAN',,,constituency_table_2019
+lok_sabha,Goa,GOA__NORTH_GOA,North Goa,NORTH GOA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Goa,GOA__SOUTH_GOA,South Goa,SOUTH GOA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__AHMEDABAD_EAST,Ahmedabad East,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__AHMEDABAD_WEST,Ahmedabad West,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__AMRELI,Amreli,AMRELI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__ANAND,Anand,ANAND,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__BANASKANTHA,Banaskantha,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__BARDOLI,Bardoli,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__BHARUCH,Bharuch,BHARUCH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__BHAVNAGAR,Bhavnagar,BHAVNAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__CHHOTA_UDAIPUR,Chhota Udaipur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__DAHOD,Dahod,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__GANDHINAGAR,Gandhinagar,GANDHINAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__JAMNAGAR,Jamnagar,JAMNAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__JUNAGADH,Junagadh,JUNAGADH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__KACHCHH,Kachchh,KACHCHH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__KHEDA,Kheda,KHEDA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__MAHESANA,Mahesana,MAHESANA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__NAVSARI,Navsari,NAVSARI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__PANCHMAHAL,Panchmahal,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__PATAN,Patan,PATAN,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__PORBANDAR,Porbandar,PORBANDAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__RAJKOT,Rajkot,RAJKOT,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__SABARKANTHA,Sabarkantha,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__SURAT,Surat,SURAT,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__SURENDRANAGAR,Surendranagar,SURENDRANAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__VADODARA,Vadodara,VADODARA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Gujarat,GUJARAT__VALSAD,Valsad,VALSAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Haryana,HARYANA__AMBALA,Ambala,AMBALA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Haryana,HARYANA__BHIWANI-MAHENDRAGARH,Bhiwani-Mahendragarh,BHIWANI,partial,medium,Name overlap: constituency='BHIWANI MAHENDRAGARH' district='BHIWANI',,,constituency_table_2019
+lok_sabha,Haryana,HARYANA__BHIWANI-MAHENDRAGARH,Bhiwani-Mahendragarh,MAHENDRAGARH,partial,medium,Name overlap: constituency='BHIWANI MAHENDRAGARH' district='MAHENDRAGARH',,,constituency_table_2019
+lok_sabha,Haryana,HARYANA__FARIDABAD,Faridabad,FARIDABAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Haryana,HARYANA__GURGAON,Gurgaon,GURGAON,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Haryana,HARYANA__HISAR,Hisar,HISAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Haryana,HARYANA__KARNAL,Karnal,KARNAL,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Haryana,HARYANA__KURUKSHETRA,Kurukshetra,KURUKSHETRA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Haryana,HARYANA__ROHTAK,Rohtak,ROHTAK,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Haryana,HARYANA__SIRSA,Sirsa,SIRSA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Haryana,HARYANA__SONIPAT,Sonipat,SONIPAT,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Himachal Pradesh,HIMACHAL_PRADESH__HAMIRPUR,Hamirpur,HAMIRPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Himachal Pradesh,HIMACHAL_PRADESH__KANGRA,Kangra,KANGRA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Himachal Pradesh,HIMACHAL_PRADESH__MANDI,Mandi,MANDI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Himachal Pradesh,HIMACHAL_PRADESH__SHIMLA,Shimla,SHIMLA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Jammu & Kashmir,JAMMU_&_KASHMIR__ANANTNAG,Anantnag,ANANTNAG,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Jammu & Kashmir,JAMMU_&_KASHMIR__BARAMULLA,Baramulla,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Jammu & Kashmir,JAMMU_&_KASHMIR__JAMMU,Jammu,JAMMU,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Jammu & Kashmir,JAMMU_&_KASHMIR__LADAKH,Ladakh,LEH(LADAKH),partial,medium,Name overlap: constituency='LADAKH' district='LEH LADAKH',,,constituency_table_2019
+lok_sabha,Jammu & Kashmir,JAMMU_&_KASHMIR__SRINAGAR,Srinagar,SRINAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Jammu & Kashmir,JAMMU_&_KASHMIR__UDHAMPUR,Udhampur,UDHAMPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Jharkhand,JHARKHAND__CHATRA,Chatra,CHATRA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Jharkhand,JHARKHAND__DHANBAD,Dhanbad,DHANBAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Jharkhand,JHARKHAND__DUMKA,Dumka,DUMKA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Jharkhand,JHARKHAND__GIRIDIH,Giridih,GIRIDIH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Jharkhand,JHARKHAND__GODDA,Godda,GODDA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Jharkhand,JHARKHAND__HAZARIBAGH,Hazaribagh,HAZARIBAGH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Jharkhand,JHARKHAND__JAMSHEDPUR,Jamshedpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Jharkhand,JHARKHAND__KHUNTI,Khunti,KHUNTI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Jharkhand,JHARKHAND__KODARMA,Kodarma,KODARMA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Jharkhand,JHARKHAND__LOHARDAGA,Lohardaga,LOHARDAGA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Jharkhand,JHARKHAND__PALAMAU,Palamau,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Jharkhand,JHARKHAND__RAJMAHAL,Rajmahal,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Jharkhand,JHARKHAND__RANCHI,Ranchi,RANCHI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Jharkhand,JHARKHAND__SINGHBHUM,Singhbhum,PURBI SINGHBHUM,partial,medium,Name overlap: constituency='SINGHBHUM' district='PURBI SINGHBHUM',,,constituency_table_2019
+lok_sabha,Jharkhand,JHARKHAND__SINGHBHUM,Singhbhum,PASHCHIMI SINGHBHUM,partial,medium,Name overlap: constituency='SINGHBHUM' district='PASHCHIMI SINGHBHUM',,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__BAGALKOT,Bagalkot,BAGALKOT,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__BANGALORE_NORTH,Bangalore North,BANGALORE,partial,medium,Name overlap: constituency='BANGALORE NORTH' district='BANGALORE',,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__BANGALORE_RURAL,Bangalore Rural,BANGALORE RURAL,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__BANGALORE_SOUTH,Bangalore South,BANGALORE,partial,medium,Name overlap: constituency='BANGALORE SOUTH' district='BANGALORE',,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__BANGALORE_CENTRAL,Bangalore central,BANGALORE,partial,medium,Name overlap: constituency='BANGALORE CENTRAL' district='BANGALORE',,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__BELGAUM,Belgaum,BELGAUM,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__BELLARY,Bellary,BELLARY,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__BIDAR,Bidar,BIDAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__BIJAPUR,Bijapur,BIJAPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__CHAMARAJANAGAR,Chamarajanagar,CHAMARAJANAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__CHIKKBALLAPUR,Chikkballapur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__CHIKKODI,Chikkodi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__CHITRADURGA,Chitradurga,CHITRADURGA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__DAKSHINA_KANNADA,Dakshina Kannada,DAKSHINA KANNADA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__DAVANAGERE,Davanagere,DAVANAGERE,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__DHARWAD,Dharwad,DHARWAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__GULBARGA,Gulbarga,GULBARGA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__HASSAN,Hassan,HASSAN,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__HAVERI,Haveri,HAVERI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__KOLAR,Kolar,KOLAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__KOPPAL,Koppal,KOPPAL,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__MANDYA,Mandya,MANDYA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__MYSORE,Mysore,MYSORE,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__RAICHUR,Raichur,RAICHUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__SHIMOGA,Shimoga,SHIMOGA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__TUMKUR,Tumkur,TUMKUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__UDUPI_CHIKMAGALUR,Udupi Chikmagalur,UDUPI,partial,medium,Name overlap: constituency='UDUPI CHIKMAGALUR' district='UDUPI',,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__UDUPI_CHIKMAGALUR,Udupi Chikmagalur,CHIKMAGALUR,partial,medium,Name overlap: constituency='UDUPI CHIKMAGALUR' district='CHIKMAGALUR',,,constituency_table_2019
+lok_sabha,Karnataka,KARNATAKA__UTTARA_KANNADA,Uttara Kannada,UTTARA KANNADA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__ALAPPUZHA,Alappuzha,ALAPPUZHA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__ALATHUR,Alathur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__ATTINGAL,Attingal,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__CHALAKUDY,Chalakudy,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__ERNAKULAM,Ernakulam,ERNAKULAM,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__IDUKKI,Idukki,IDUKKI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__KANNUR,Kannur,KANNUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__KASARAGOD,Kasaragod,KASARAGOD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__KOLLAM,Kollam,KOLLAM,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__KOTTAYAM,Kottayam,KOTTAYAM,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__KOZHIKODE,Kozhikode,KOZHIKODE,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__MALAPPURAM,Malappuram,MALAPPURAM,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__MAVELIKKARA,Mavelikkara,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__PALAKKAD,Palakkad,PALAKKAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__PATHANAMTHITTA,Pathanamthitta,PATHANAMTHITTA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__PONNANI,Ponnani,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__THIRUVANANTHAPURAM,Thiruvananthapuram,THIRUVANANTHAPURAM,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__THRISSUR,Thrissur,THRISSUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__VADAKARA,Vadakara,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Kerala,KERALA__WAYANAD,Wayanad,WAYANAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Lakshadweep,LAKSHADWEEP__LAKSHADWEEP,Lakshadweep,LAKSHADWEEP,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__BALAGHAT,BALAGHAT,BALAGHAT,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__BETUL,BETUL,BETUL,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__BHIND,BHIND,BHIND,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__BHOPAL,BHOPAL,BHOPAL,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__CHHINDWARA,CHHINDWARA,CHHINDWARA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__DAMOH,DAMOH,DAMOH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__DEWAS,DEWAS,DEWAS,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__DHAR,DHAR,DHAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__GUNA,GUNA,GUNA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__GWALIOR,GWALIOR,GWALIOR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__HOSHANGABAD,HOSHANGABAD,HOSHANGABAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__INDORE,INDORE,INDORE,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__JABALPUR,JABALPUR,JABALPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__KHAJURAHO,KHAJURAHO,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__KHANDWA,KHANDWA,KHANDWA (EAST NIMAR),partial,medium,Name overlap: constituency='KHANDWA' district='KHANDWA EAST NIMAR',,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__KHARGONE,KHARGONE,KHARGONE (WEST NIMAR),partial,medium,Name overlap: constituency='KHARGONE' district='KHARGONE WEST NIMAR',,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__MANDLA,MANDLA,MANDLA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__MANDSOUR,MANDSOUR,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__MORENA,MORENA,MORENA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__RAJGARH,RAJGARH,RAJGARH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__RATLAM,RATLAM,RATLAM,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__REWA,REWA,REWA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__SAGAR,SAGAR,SAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__SATNA,SATNA,SATNA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__SHAHDOL,SHAHDOL,SHAHDOL,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__SIDHI,SIDHI,SIDHI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__TIKAMGARH,TIKAMGARH,TIKAMGARH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__UJJAIN,UJJAIN,UJJAIN,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__VIDISHA,VIDISHA,VIDISHA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__AHMADNAGAR,Ahmadnagar,AHMADNAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__AKOLA,Akola,AKOLA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__AMRAVATI,Amravati,AMRAVATI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__AURANGABAD,Aurangabad,AURANGABAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__BARAMATI,Baramati,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__BEED,Beed,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__BHANDARA_-_GONDIYA,Bhandara - gondiya,BHANDARA,partial,medium,Name overlap: constituency='BHANDARA GONDIYA' district='BHANDARA',,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__BHANDARA_-_GONDIYA,Bhandara - gondiya,GONDIYA,partial,medium,Name overlap: constituency='BHANDARA GONDIYA' district='GONDIYA',,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__BHIWANDI,Bhiwandi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__BULDHANA,Buldhana,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__CHANDRAPUR,Chandrapur,CHANDRAPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__DHULE,Dhule,DHULE,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__DINDORI,Dindori,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__GADCHIROLI-CHIMUR,Gadchiroli-Chimur,GADCHIROLI,partial,medium,Name overlap: constituency='GADCHIROLI CHIMUR' district='GADCHIROLI',,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__HATKANANGLE,Hatkanangle,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__HINGOLI,Hingoli,HINGOLI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__JALGAON,Jalgaon,JALGAON,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__JALNA,Jalna,JALNA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__KALYAN,Kalyan,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__KOLHAPUR,Kolhapur,KOLHAPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__LATUR,Latur,LATUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__MADHA,Madha,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__MAVAL,Maval,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__MUMBAI_NORTH,Mumbai North,MUMBAI,partial,medium,Name overlap: constituency='MUMBAI NORTH' district='MUMBAI',,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__MUMBAI_NORTH_EAST,Mumbai North East,MUMBAI,partial,medium,Name overlap: constituency='MUMBAI NORTH EAST' district='MUMBAI',,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__MUMBAI_NORTH_WEST,Mumbai North West,MUMBAI,partial,medium,Name overlap: constituency='MUMBAI NORTH WEST' district='MUMBAI',,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__MUMBAI_NORTH_CENTRAL,Mumbai North central,MUMBAI,partial,medium,Name overlap: constituency='MUMBAI NORTH CENTRAL' district='MUMBAI',,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__MUMBAI_SOUTH,Mumbai South,MUMBAI,partial,medium,Name overlap: constituency='MUMBAI SOUTH' district='MUMBAI',,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__MUMBAI_SOUTH_CENTRAL,Mumbai South central,MUMBAI,partial,medium,Name overlap: constituency='MUMBAI SOUTH CENTRAL' district='MUMBAI',,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__NAGPUR,Nagpur,NAGPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__NANDED,Nanded,NANDED,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__NANDURBAR,Nandurbar,NANDURBAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__NASHIK,Nashik,NASHIK,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__OSMANABAD,Osmanabad,OSMANABAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__PALGHAR,Palghar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__PARBHANI,Parbhani,PARBHANI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__PUNE,Pune,PUNE,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__RAIGAD,Raigad,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__RAMTEK,Ramtek,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__RATNAGIRI_-_SINDHUDURG,Ratnagiri - sindhudurg,RATNAGIRI,partial,medium,Name overlap: constituency='RATNAGIRI SINDHUDURG' district='RATNAGIRI',,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__RATNAGIRI_-_SINDHUDURG,Ratnagiri - sindhudurg,SINDHUDURG,partial,medium,Name overlap: constituency='RATNAGIRI SINDHUDURG' district='SINDHUDURG',,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__RAVER,Raver,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__SANGLI,Sangli,SANGLI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__SATARA,Satara,SATARA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__SHIRDI,Shirdi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__SHIRUR,Shirur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__SOLAPUR,Solapur,SOLAPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__THANE,Thane,THANE,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__WARDHA,Wardha,WARDHA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__YAVATMAL-WASHIM,Yavatmal-Washim,WASHIM,partial,medium,Name overlap: constituency='YAVATMAL WASHIM' district='WASHIM',,,constituency_table_2019
+lok_sabha,Maharashtra,MAHARASHTRA__YAVATMAL-WASHIM,Yavatmal-Washim,YAVATMAL,partial,medium,Name overlap: constituency='YAVATMAL WASHIM' district='YAVATMAL',,,constituency_table_2019
+lok_sabha,Manipur,MANIPUR__INNER_MANIPUR,Inner manipur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Manipur,MANIPUR__OUTER_MANIPUR,Outer manipur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Meghalaya,MEGHALAYA__SHILLONG,Shillong,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Meghalaya,MEGHALAYA__TURA,Tura,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Mizoram,MIZORAM__MIZORAM,MIZORAM,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__CHANDNI_CHOWK,CHANDNI CHOWK,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__EAST_DELHI,EAST DELHI,EAST,partial,medium,Name overlap: constituency='EAST DELHI' district='EAST',,,constituency_table_2019
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__NEW_DELHI,NEW DELHI,NEW DELHI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__NORTH_EAST_DELHI,NORTH EAST DELHI,NORTH,partial,medium,Name overlap: constituency='NORTH EAST DELHI' district='NORTH',,,constituency_table_2019
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__NORTH_EAST_DELHI,NORTH EAST DELHI,NORTH EAST,partial,medium,Name overlap: constituency='NORTH EAST DELHI' district='NORTH EAST',,,constituency_table_2019
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__NORTH_EAST_DELHI,NORTH EAST DELHI,EAST,partial,medium,Name overlap: constituency='NORTH EAST DELHI' district='EAST',,,constituency_table_2019
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__NORTH_WEST_DELHI,NORTH WEST DELHI,NORTH WEST,partial,medium,Name overlap: constituency='NORTH WEST DELHI' district='NORTH WEST',,,constituency_table_2019
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__NORTH_WEST_DELHI,NORTH WEST DELHI,NORTH,partial,medium,Name overlap: constituency='NORTH WEST DELHI' district='NORTH',,,constituency_table_2019
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__NORTH_WEST_DELHI,NORTH WEST DELHI,WEST,partial,medium,Name overlap: constituency='NORTH WEST DELHI' district='WEST',,,constituency_table_2019
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__SOUTH_DELHI,SOUTH DELHI,SOUTH,partial,medium,Name overlap: constituency='SOUTH DELHI' district='SOUTH',,,constituency_table_2019
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__WEST_DELHI,WEST DELHI,WEST,partial,medium,Name overlap: constituency='WEST DELHI' district='WEST',,,constituency_table_2019
+lok_sabha,Nagaland,NAGALAND__NAGALAND,Nagaland,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__ASKA,Aska,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__BALASORE,Balasore,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__BARGARH,Bargarh,BARGARH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__BERHAMPUR,Berhampur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__BHADRAK,Bhadrak,BHADRAK,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__BHUBANESWAR,Bhubaneswar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__BOLANGIR,Bolangir,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__CUTTACK,Cuttack,CUTTACK,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__DHENKANAL,Dhenkanal,DHENKANAL,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__JAGATSINGHPUR,Jagatsinghpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__JAJPUR,Jajpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__KALAHANDI,Kalahandi,KALAHANDI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__KANDHAMAL,Kandhamal,KANDHAMAL,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__KENDRAPARA,Kendrapara,KENDRAPARA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__KEONJHAR,Keonjhar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__KORAPUT,Koraput,KORAPUT,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__MAYURBHANJ,Mayurbhanj,MAYURBHANJ,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__NABARANGPUR,Nabarangpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__PURI,Puri,PURI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__SAMBALPUR,Sambalpur,SAMBALPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Odisha,ODISHA__SUNDARGARH,Sundargarh,SUNDARGARH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Puducherry,PUDUCHERRY__PUDUCHERRY,Puducherry,PUDUCHERRY,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Punjab,PUNJAB__AMRITSAR,Amritsar,AMRITSAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Punjab,PUNJAB__ANANDPUR_SAHIB,Anandpur Sahib,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Punjab,PUNJAB__BATHINDA,Bathinda,BATHINDA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Punjab,PUNJAB__FARIDKOT,Faridkot,FARIDKOT,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Punjab,PUNJAB__FATEHGARH_SAHIB,Fatehgarh Sahib,FATEHGARH SAHIB,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Punjab,PUNJAB__FIROZPUR,Firozpur,FIROZPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Punjab,PUNJAB__GURDASPUR,Gurdaspur,GURDASPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Punjab,PUNJAB__HOSHIARPUR,Hoshiarpur,HOSHIARPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Punjab,PUNJAB__JALANDHAR,Jalandhar,JALANDHAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Punjab,PUNJAB__KHADOOR_SAHIB,Khadoor Sahib,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Punjab,PUNJAB__LUDHIANA,Ludhiana,LUDHIANA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Punjab,PUNJAB__PATIALA,Patiala,PATIALA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Punjab,PUNJAB__SANGRUR,Sangrur,SANGRUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__AJMER,Ajmer,AJMER,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__ALWAR,Alwar,ALWAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__BHARATPUR,BHARATPUR,BHARATPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__BANSWARA,Banswara,BANSWARA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__BARMER,Barmer,BARMER,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__BHILWARA,Bhilwara,BHILWARA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__BIKANER_(SC),Bikaner (SC),BIKANER,partial,medium,Name overlap: constituency='BIKANER SC' district='BIKANER',,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__CHITTORGARH,Chittorgarh,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__CHURU,Churu,CHURU,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__DAUSA,Dausa,DAUSA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__GANGANAGAR,Ganganagar,GANGANAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__JHALAWAR-BARAN,JHALAWAR-BARAN,BARAN,partial,medium,Name overlap: constituency='JHALAWAR BARAN' district='BARAN',,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__JHALAWAR-BARAN,JHALAWAR-BARAN,JHALAWAR,partial,medium,Name overlap: constituency='JHALAWAR BARAN' district='JHALAWAR',,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__JAIPUR,Jaipur,JAIPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__JAIPUR_RURAL,Jaipur Rural,JAIPUR,partial,medium,Name overlap: constituency='JAIPUR RURAL' district='JAIPUR',,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__JALORE,Jalore,JALOR,partial,medium,Name overlap: constituency='JALORE' district='JALOR',,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__JHUNJHUNU,Jhunjhunu,JHUNJHUNUN,partial,medium,Name overlap: constituency='JHUNJHUNU' district='JHUNJHUNUN',,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__JODHPUR,Jodhpur,JODHPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__KARAULI-DHOLPUR,KARAULI-DHOLPUR,KARAULI,partial,medium,Name overlap: constituency='KARAULI DHOLPUR' district='KARAULI',,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__KOTA,Kota,KOTA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__NAGAUR,Nagaur,NAGAUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__PALI,Pali,PALI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__RAJSAMAND,Rajsamand,RAJSAMAND,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__SIKAR,Sikar,SIKAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__TONK-SAWAI_MADHOPUR,TONK-SAWAI MADHOPUR,SAWAI MADHOPUR,partial,medium,Name overlap: constituency='TONK SAWAI MADHOPUR' district='SAWAI MADHOPUR',,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__TONK-SAWAI_MADHOPUR,TONK-SAWAI MADHOPUR,TONK,partial,medium,Name overlap: constituency='TONK SAWAI MADHOPUR' district='TONK',,,constituency_table_2019
+lok_sabha,Rajasthan,RAJASTHAN__UDAIPUR,Udaipur,UDAIPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Sikkim,SIKKIM__SIKKIM,Sikkim,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__ARAKKONAM,Arakkonam,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__ARANI,Arani,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__CHENNAI_NORTH,Chennai North,CHENNAI,partial,medium,Name overlap: constituency='CHENNAI NORTH' district='CHENNAI',,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__CHENNAI_SOUTH,Chennai South,CHENNAI,partial,medium,Name overlap: constituency='CHENNAI SOUTH' district='CHENNAI',,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__CHENNAI_CENTRAL,Chennai central,CHENNAI,partial,medium,Name overlap: constituency='CHENNAI CENTRAL' district='CHENNAI',,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__CHIDAMBARAM,Chidambaram,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__COIMBATORE,Coimbatore,COIMBATORE,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__CUDDALORE,Cuddalore,CUDDALORE,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__DHARMAPURI,Dharmapuri,DHARMAPURI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__DINDIGUL,Dindigul,DINDIGUL,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__ERODE,Erode,ERODE,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__KALLAKURICHI,Kallakurichi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__KANCHEEPURAM,Kancheepuram,KANCHEEPURAM,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__KANNIYAKUMARI,Kanniyakumari,KANNIYAKUMARI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__KARUR,Karur,KARUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__KRISHNAGIRI,Krishnagiri,KRISHNAGIRI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__MADURAI,Madurai,MADURAI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__MAYILADUTHURAI,Mayiladuthurai,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__NAGAPATTINAM,Nagapattinam,NAGAPATTINAM,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__NAMAKKAL,Namakkal,NAMAKKAL,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__NILGIRIS,Nilgiris,THE NILGIRIS,partial,medium,Name overlap: constituency='NILGIRIS' district='THE NILGIRIS',,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__PERAMBALUR,Perambalur,PERAMBALUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__POLLACHI,Pollachi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__RAMANATHAPURAM,Ramanathapuram,RAMANATHAPURAM,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__SALEM,Salem,SALEM,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__SIVAGANGA,Sivaganga,SIVAGANGA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__SRIPERUMBUDUR,Sriperumbudur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__TENKASI,Tenkasi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__THANJAVUR,Thanjavur,THANJAVUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__THENI,Theni,THENI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__THIRUVALLUR,Thiruvallur,THIRUVALLUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__THOOTHUKKUDI,Thoothukkudi,THOOTHUKKUDI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__TIRUCHIRAPPALLI,Tiruchirappalli,TIRUCHIRAPPALLI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__TIRUNELVELI,Tirunelveli,TIRUNELVELI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__TIRUPPUR,Tiruppur,TIRUPPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__TIRUVANNAMALAI,Tiruvannamalai,TIRUVANNAMALAI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__VELLORE,Vellore,VELLORE,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__VILUPPURAM,Viluppuram,VILUPPURAM,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Tamil Nadu,TAMIL_NADU__VIRUDHUNAGAR,Virudhunagar,VIRUDHUNAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__ADILABAD,Adilabad,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__BHONGIR,Bhongir,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__CHEVELLA,CHEVELLA,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__HYDERABAD,Hyderabad,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__KARIMNAGAR,Karimnagar,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__KHAMMAM,Khammam,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__MAHABUBABAD,Mahabubabad,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__MAHBUBNAGAR,Mahbubnagar,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__MALKAJGIRI,Malkajgiri,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__MEDAK,Medak,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__NAGARKURNOOL,Nagarkurnool,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__NALGONDA,Nalgonda,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__NIZAMABAD,Nizamabad,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__PEDDAPALLE,Peddapalle,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__SECUNDRABAD,Secundrabad,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__WARANGAL,Warangal,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Telangana,TELANGANA__ZAHIRABAD,Zahirabad,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2019
+lok_sabha,Tripura,TRIPURA__TRIPURA_EAST,Tripura East,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Tripura,TRIPURA__TRIPURA_WEST,Tripura West,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__AGRA,Agra,AGRA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__AKBARPUR,Akbarpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__ALIGARH,Aligarh,ALIGARH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__ALLAHABAD,Allahabad,ALLAHABAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__AMBEDKAR_NAGAR,Ambedkar Nagar,AMBEDKAR NAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__AMETHI,Amethi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__AMROHA,Amroha,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__AONLA,Aonla,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__AZAMGARH,Azamgarh,AZAMGARH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BADAUN,Badaun,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BAGHPAT,Baghpat,BAGHPAT,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BAHRAICH,Bahraich,BAHRAICH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BALLIA,Ballia,BALLIA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BANDA,Banda,BANDA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BANSGAON,Bansgaon,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BARABANKI,Barabanki,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BAREILLY,Bareilly,BAREILLY,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BASTI,Basti,BASTI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BHADOHI,Bhadohi,SANT RAVIDAS NAGAR (BHADOHI),partial,medium,Name overlap: constituency='BHADOHI' district='SANT RAVIDAS NAGAR BHADOHI',,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BIJNOR,Bijnor,BIJNOR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BULANDSHAHR,Bulandshahr,BULANDSHAHR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__CHANDAULI,Chandauli,CHANDAULI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__DEORIA,Deoria,DEORIA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__DHAURAHRA,Dhaurahra,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__DOMARIYAGANJ,Domariyaganj,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__ETAH,Etah,ETAH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__ETAWAH,Etawah,ETAWAH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__FAIZABAD,Faizabad,FAIZABAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__FARRUKHABAD,Farrukhabad,FARRUKHABAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__FATEHPUR,Fatehpur,FATEHPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__FATEHPUR_SIKRI,Fatehpur Sikri,FATEHPUR,partial,medium,Name overlap: constituency='FATEHPUR SIKRI' district='FATEHPUR',,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__FIROZABAD,Firozabad,FIROZABAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__GAUTAM_BUDDHA_NAGAR,Gautam Buddha Nagar,GAUTAM BUDDHA NAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__GHAZIABAD,Ghaziabad,GHAZIABAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__GHAZIPUR,Ghazipur,GHAZIPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__GHOSI,Ghosi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__GONDA,Gonda,GONDA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__GORAKHPUR,Gorakhpur,GORAKHPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__HAMIRPUR,Hamirpur,HAMIRPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__HARDOI,Hardoi,HARDOI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__HATHRAS,Hathras,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__JALAUN,Jalaun,JALAUN,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__JAUNPUR,Jaunpur,JAUNPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__JHANSI,Jhansi,JHANSI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__KAIRANA,Kairana,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__KAISERGANJ,Kaiserganj,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__KANNAUJ,Kannauj,KANNAUJ,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__KANPUR,Kanpur,KANPUR DEHAT,partial,medium,Name overlap: constituency='KANPUR' district='KANPUR DEHAT',,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__KANPUR,Kanpur,KANPUR NAGAR,partial,medium,Name overlap: constituency='KANPUR' district='KANPUR NAGAR',,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__KAUSHAMBI,Kaushambi,KAUSHAMBI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__KHERI,Kheri,KHERI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__KUSHI_NAGAR,Kushi Nagar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__LALGANJ,Lalganj,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__LUCKNOW,Lucknow,LUCKNOW,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MACHHLISHAHR,Machhlishahr,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MAHARAJGANJ,Maharajganj,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MAINPURI,Mainpuri,MAINPURI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MATHURA,Mathura,MATHURA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MEERUT,Meerut,MEERUT,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MIRZAPUR,Mirzapur,MIRZAPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MISRIKH,Misrikh,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MOHANLALGANJ,Mohanlalganj,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MORADABAD,Moradabad,MORADABAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MUZAFFARNAGAR,Muzaffarnagar,MUZAFFARNAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__NAGINA,Nagina,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__PHULPUR,Phulpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__PILIBHIT,Pilibhit,PILIBHIT,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__PRATAPGARH,Pratapgarh,PRATAPGARH,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__RAE_BARELI,Rae Bareli,RAE BARELI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__RAMPUR,Rampur,RAMPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__ROBERTSGANJ,Robertsganj,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__SAHARANPUR,Saharanpur,SAHARANPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__SALEMPUR,Salempur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__SAMBHAL,Sambhal,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__SANT_KABIR_NAGAR,Sant Kabir Nagar,SANT KABIR NAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__SHAHJAHANPUR,Shahjahanpur,SHAHJAHANPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__SHRAWASTI,Shrawasti,SHRAWASTI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__SITAPUR,Sitapur,SITAPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__SULTANPUR,Sultanpur,SULTANPUR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__UNNAO,Unnao,UNNAO,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__VARANASI,Varanasi,VARANASI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttarakhand,UTTARAKHAND__ALMORA,Almora,ALMORA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttarakhand,UTTARAKHAND__GARHWAL,Garhwal,GARHWAL,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttarakhand,UTTARAKHAND__HARDWAR,Hardwar,HARDWAR,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,Uttarakhand,UTTARAKHAND__NAINITAL-UDHAMSINGH_NAGAR,Nainital-udhamsingh Nagar,NAINITAL,partial,medium,Name overlap: constituency='NAINITAL UDHAMSINGH NAGAR' district='NAINITAL',,,constituency_table_2019
+lok_sabha,Uttarakhand,UTTARAKHAND__TEHRI_GARHWAL,Tehri Garhwal,TEHRI GARHWAL,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__ALIPURDUARS,Alipurduars,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__ARAMBAGH,Arambagh,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__ASANSOL,Asansol,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__BAHARAMPUR,Baharampur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__BALURGHAT,Balurghat,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__BANGAON,Bangaon,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__BANKURA,Bankura,BANKURA,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__BARASAT,Barasat,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__BARDHAMAN_DURGAPUR,Bardhaman Durgapur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__BARDHAMAN_PURBA,Bardhaman Purba,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__BARRACKPORE,Barrackpore,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__BASIRHAT,Basirhat,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__BIRBHUM,Birbhum,BIRBHUM,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__BISHNUPUR,Bishnupur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__BOLPUR,Bolpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__COOCH_BEHAR,Cooch behar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__DARJEELING,Darjeeling,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__DIAMOND_HARBOUR,Diamond harbour,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__DUM_DUM,Dum dum,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__GHATAL,Ghatal,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__HOOGHLY,Hooghly,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__HOWRAH,Howrah,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__JADAVPUR,Jadavpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__JALPAIGURI,Jalpaiguri,JALPAIGURI,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__JANGIPUR,Jangipur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__JAYNAGAR,Jaynagar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__JHARGRAM,Jhargram,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__KANTHI,Kanthi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__KOLKATA_DAKSHIN,Kolkata Dakshin,KOLKATA,partial,medium,Name overlap: constituency='KOLKATA DAKSHIN' district='KOLKATA',,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__KOLKATA_UTTAR,Kolkata Uttar,KOLKATA,partial,medium,Name overlap: constituency='KOLKATA UTTAR' district='KOLKATA',,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__KRISHNANAGAR,Krishnanagar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__MALDAHA_DAKSHIN,Maldaha Dakshin,MALDAH,partial,medium,Name overlap: constituency='MALDAHA DAKSHIN' district='MALDAH',,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__MALDAHA_UTTAR,Maldaha Uttar,MALDAH,partial,medium,Name overlap: constituency='MALDAHA UTTAR' district='MALDAH',,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__MATHURAPUR,Mathurapur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__MEDINIPUR,Medinipur,PASCHIM MEDINIPUR,partial,medium,Name overlap: constituency='MEDINIPUR' district='PASCHIM MEDINIPUR',,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__MEDINIPUR,Medinipur,PURBA MEDINIPUR,partial,medium,Name overlap: constituency='MEDINIPUR' district='PURBA MEDINIPUR',,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__MURSHIDABAD,Murshidabad,MURSHIDABAD,primary,high,Exact constituency/district name match,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__PURULIA,Purulia,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__RAIGANJ,Raiganj,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__RANAGHAT,Ranaghat,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__SRERAMPUR,Srerampur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__TAMLUK,Tamluk,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,West Bengal,WEST_BENGAL__ULUBERIA,Uluberia,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2019
+lok_sabha,Andaman & Nicobar Islands,ANDAMAN_&_NICOBAR_ISLANDS__ANDAMAN_&_NICOBAR_ISLANDS,Andaman & Nicobar Islands,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__AMALAPURAM,Amalapuram,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__ANAKAPALLE,Anakapalle,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__ANANTHAPUR,Ananthapur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__ARAKU,Araku,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__BAPATLA,Bapatla,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__CHITTOOR,Chittoor,CHITTOOR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__ELURU,Eluru,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__GUNTUR,Guntur,GUNTUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__HINDUPUR,Hindupur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__KADAPA,Kadapa,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__KAKINADA,Kakinada,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__KURNOOLU,Kurnoolu,KURNOOL,partial,medium,Name overlap: constituency='KURNOOLU' district='KURNOOL',,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__MACHILIPATNAM,Machilipatnam,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__NANDYAL,Nandyal,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__NARSAPURAM,Narsapuram,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__NARSARAOPET,Narsaraopet,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__NELLORE,Nellore,SRI POTTI SRIRAMULU NELLORE,partial,medium,Name overlap: constituency='NELLORE' district='SRI POTTI SRIRAMULU NELLORE',,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__ONGOLE,Ongole,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__RAJAHMUNDRY,Rajahmundry,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__RAJAMPET,Rajampet,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__SRIKAKULAM,Srikakulam,SRIKAKULAM,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__THIRUPATHI,Thirupathi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__VIJAYAWADA,Vijayawada,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__VISAKHAPATNAM,Visakhapatnam,VISAKHAPATNAM,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Andhra Pradesh,ANDHRA_PRADESH__VIZIANAGARAM,Vizianagaram,VIZIANAGARAM,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Arunachal Pradesh,ARUNACHAL_PRADESH__ARUNACHAL_EAST,Arunachal East,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Arunachal Pradesh,ARUNACHAL_PRADESH__ARUNACHAL_WEST,Arunachal West,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Assam,ASSAM__BARPETA,Barpeta,BARPETA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Assam,ASSAM__DARRANG-UDALGURI,Darrang-Udalguri,DARRANG,partial,medium,Name overlap: constituency='DARRANG UDALGURI' district='DARRANG',,,constituency_table_2024
+lok_sabha,Assam,ASSAM__DARRANG-UDALGURI,Darrang-Udalguri,UDALGURI,partial,medium,Name overlap: constituency='DARRANG UDALGURI' district='UDALGURI',,,constituency_table_2024
+lok_sabha,Assam,ASSAM__DHUBRI,Dhubri,DHUBRI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Assam,ASSAM__DIBRUGARH,Dibrugarh,DIBRUGARH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Assam,ASSAM__DIPHU,Diphu,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Assam,ASSAM__GUWAHATI,Guwahati,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Assam,ASSAM__JORHAT,Jorhat,JORHAT,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Assam,ASSAM__KARIMGANJ,Karimganj,KARIMGANJ,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Assam,ASSAM__KAZIRANGA,Kaziranga,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Assam,ASSAM__KOKRAJHAR,Kokrajhar,KOKRAJHAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Assam,ASSAM__LAKHIMPUR,Lakhimpur,LAKHIMPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Assam,ASSAM__NAGAON,Nagaon,NAGAON,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Assam,ASSAM__SILCHAR,Silchar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Assam,ASSAM__SONITPUR,Sonitpur,SONITPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__ARARIA,Araria,ARARIA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__ARRAH,Arrah,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__AURANGABAD,Aurangabad,AURANGABAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__BANKA,Banka,BANKA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__BEGUSARAI,Begusarai,BEGUSARAI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__BHAGALPUR,Bhagalpur,BHAGALPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__BUXAR,Buxar,BUXAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__DARBHANGA,Darbhanga,DARBHANGA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__GAYA,Gaya,GAYA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__GOPALGANJ,Gopalganj,GOPALGANJ,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__HAJIPUR,Hajipur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__JAHANABAD,Jahanabad,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__JAMUI,Jamui,JAMUI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__JHANJHARPUR,Jhanjharpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__KARAKAT,Karakat,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__KATIHAR,Katihar,KATIHAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__KHAGARIA,Khagaria,KHAGARIA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__KISHANGANJ,Kishanganj,KISHANGANJ,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__MADHEPURA,Madhepura,MADHEPURA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__MADHUBANI,Madhubani,MADHUBANI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__MAHARAJGANJ,Maharajganj,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__MUNGER,Munger,MUNGER,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__MUZAFFARPUR,Muzaffarpur,MUZAFFARPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__NALANDA,Nalanda,NALANDA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__NAWADA,Nawada,NAWADA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__PASCHIM_CHAMPARAN,Paschim Champaran,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__PATLIPUTRA,Patliputra,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__PATNA_SAHIB,Patna Sahib,PATNA,partial,medium,Name overlap: constituency='PATNA SAHIB' district='PATNA',,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__PURNIA,Purnia,PURNIA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__PURVI_CHAMPARAN,Purvi Champaran,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__SAMASTIPUR,Samastipur,SAMASTIPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__SARAN,Saran,SARAN,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__SASARAM,Sasaram,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__SHEOHAR,Sheohar,SHEOHAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__SITAMARHI,Sitamarhi,SITAMARHI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__SIWAN,Siwan,SIWAN,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__SUPAUL,Supaul,SUPAUL,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__UJIARPUR,Ujiarpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__VAISHALI,Vaishali,VAISHALI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Bihar,BIHAR__VALMIKI_NAGAR,Valmiki Nagar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Chandigarh,CHANDIGARH__CHANDIGARH,Chandigarh,CHANDIGARH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Chhattisgarh,CHHATTISGARH__BASTAR,BASTAR,BASTAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Chhattisgarh,CHHATTISGARH__BILASPUR,BILASPUR,BILASPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Chhattisgarh,CHHATTISGARH__DURG,DURG,DURG,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Chhattisgarh,CHHATTISGARH__JANJGIR-CHAMPA,JANJGIR-CHAMPA,JANJGIR - CHAMPA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Chhattisgarh,CHHATTISGARH__KANKER,KANKER,UTTAR BASTAR KANKER,partial,medium,Name overlap: constituency='KANKER' district='UTTAR BASTAR KANKER',,,constituency_table_2024
+lok_sabha,Chhattisgarh,CHHATTISGARH__KORBA,KORBA,KORBA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Chhattisgarh,CHHATTISGARH__MAHASAMUND,MAHASAMUND,MAHASAMUND,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Chhattisgarh,CHHATTISGARH__RAIGARH,RAIGARH,RAIGARH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Chhattisgarh,CHHATTISGARH__RAIPUR,RAIPUR,RAIPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Chhattisgarh,CHHATTISGARH__RAJNANDGAON,RAJNANDGAON,RAJNANDGAON,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Chhattisgarh,CHHATTISGARH__SURGUJA,SURGUJA,SURGUJA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Dadra & Nagar Haveli and Daman & Diu,DADRA_&_NAGAR_HAVELI_AND_DAMAN_&_DIU__DADAR_&_NAGAR_HAVELI,Dadar & Nagar Haveli,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Dadra & Nagar Haveli and Daman & Diu,DADRA_&_NAGAR_HAVELI_AND_DAMAN_&_DIU__DAMAN_&_DIU,Daman & Diu,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Goa,GOA__NORTH_GOA,North Goa,NORTH GOA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Goa,GOA__SOUTH_GOA,South Goa,SOUTH GOA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__AHMEDABAD_EAST,Ahmedabad East,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__AHMEDABAD_WEST,Ahmedabad West,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__AMRELI,Amreli,AMRELI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__ANAND,Anand,ANAND,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__BANASKANTHA,Banaskantha,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__BARDOLI,Bardoli,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__BHARUCH,Bharuch,BHARUCH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__BHAVNAGAR,Bhavnagar,BHAVNAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__CHHOTA_UDAIPUR,Chhota Udaipur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__DAHOD,Dahod,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__GANDHINAGAR,Gandhinagar,GANDHINAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__JAMNAGAR,Jamnagar,JAMNAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__JUNAGADH,Junagadh,JUNAGADH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__KACHCHH,Kachchh,KACHCHH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__KHEDA,Kheda,KHEDA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__MAHESANA,Mahesana,MAHESANA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__NAVSARI,Navsari,NAVSARI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__PANCHMAHAL,Panchmahal,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__PATAN,Patan,PATAN,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__PORBANDAR,Porbandar,PORBANDAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__RAJKOT,Rajkot,RAJKOT,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__SABARKANTHA,Sabarkantha,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__SURENDRANAGAR,Surendranagar,SURENDRANAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__VADODARA,Vadodara,VADODARA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Gujarat,GUJARAT__VALSAD,Valsad,VALSAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Haryana,HARYANA__AMBALA,AMBALA,AMBALA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Haryana,HARYANA__BHIWANI-MAHENDRAGARH,BHIWANI-MAHENDRAGARH,BHIWANI,partial,medium,Name overlap: constituency='BHIWANI MAHENDRAGARH' district='BHIWANI',,,constituency_table_2024
+lok_sabha,Haryana,HARYANA__BHIWANI-MAHENDRAGARH,BHIWANI-MAHENDRAGARH,MAHENDRAGARH,partial,medium,Name overlap: constituency='BHIWANI MAHENDRAGARH' district='MAHENDRAGARH',,,constituency_table_2024
+lok_sabha,Haryana,HARYANA__FARIDABAD,FARIDABAD,FARIDABAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Haryana,HARYANA__GURGAON,GURGAON,GURGAON,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Haryana,HARYANA__HISAR,HISAR,HISAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Haryana,HARYANA__KARNAL,KARNAL,KARNAL,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Haryana,HARYANA__KURUKSHETRA,KURUKSHETRA,KURUKSHETRA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Haryana,HARYANA__ROHTAK,ROHTAK,ROHTAK,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Haryana,HARYANA__SIRSA,SIRSA,SIRSA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Haryana,HARYANA__SONIPAT,SONIPAT,SONIPAT,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Himachal Pradesh,HIMACHAL_PRADESH__HAMIRPUR,HAMIRPUR,HAMIRPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Himachal Pradesh,HIMACHAL_PRADESH__KANGRA,KANGRA,KANGRA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Himachal Pradesh,HIMACHAL_PRADESH__MANDI,MANDI,MANDI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Himachal Pradesh,HIMACHAL_PRADESH__SHIMLA,SHIMLA,SHIMLA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Jammu and Kashmir,JAMMU_AND_KASHMIR__ANANTNAG-RAJOURI,ANANTNAG-RAJOURI,RAJOURI,partial,medium,Name overlap: constituency='ANANTNAG RAJOURI' district='RAJOURI',,,constituency_table_2024
+lok_sabha,Jammu and Kashmir,JAMMU_AND_KASHMIR__ANANTNAG-RAJOURI,ANANTNAG-RAJOURI,ANANTNAG,partial,medium,Name overlap: constituency='ANANTNAG RAJOURI' district='ANANTNAG',,,constituency_table_2024
+lok_sabha,Jammu and Kashmir,JAMMU_AND_KASHMIR__BARAMULLA,BARAMULLA,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Jammu and Kashmir,JAMMU_AND_KASHMIR__JAMMU,JAMMU,JAMMU,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Jammu and Kashmir,JAMMU_AND_KASHMIR__SRINAGAR,SRINAGAR,SRINAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Jammu and Kashmir,JAMMU_AND_KASHMIR__UDHAMPUR,UDHAMPUR,UDHAMPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Jharkhand,JHARKHAND__CHATRA,Chatra,CHATRA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Jharkhand,JHARKHAND__DHANBAD,Dhanbad,DHANBAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Jharkhand,JHARKHAND__DUMKA,Dumka,DUMKA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Jharkhand,JHARKHAND__GIRIDIH,Giridih,GIRIDIH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Jharkhand,JHARKHAND__GODDA,Godda,GODDA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Jharkhand,JHARKHAND__HAZARIBAGH,Hazaribagh,HAZARIBAGH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Jharkhand,JHARKHAND__JAMSHEDPUR,Jamshedpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Jharkhand,JHARKHAND__KHUNTI,Khunti,KHUNTI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Jharkhand,JHARKHAND__KODARMA,Kodarma,KODARMA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Jharkhand,JHARKHAND__LOHARDAGA,Lohardaga,LOHARDAGA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Jharkhand,JHARKHAND__PALAMU,Palamu,PALAMU,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Jharkhand,JHARKHAND__RAJMAHAL,Rajmahal,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Jharkhand,JHARKHAND__RANCHI,Ranchi,RANCHI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Jharkhand,JHARKHAND__SINGHBHUM,Singhbhum,PURBI SINGHBHUM,partial,medium,Name overlap: constituency='SINGHBHUM' district='PURBI SINGHBHUM',,,constituency_table_2024
+lok_sabha,Jharkhand,JHARKHAND__SINGHBHUM,Singhbhum,PASHCHIMI SINGHBHUM,partial,medium,Name overlap: constituency='SINGHBHUM' district='PASHCHIMI SINGHBHUM',,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__BAGALKOT,Bagalkot,BAGALKOT,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__BANGALORE_NORTH,Bangalore North,BANGALORE,partial,medium,Name overlap: constituency='BANGALORE NORTH' district='BANGALORE',,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__BANGALORE_RURAL,Bangalore Rural,BANGALORE RURAL,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__BANGALORE_SOUTH,Bangalore South,BANGALORE,partial,medium,Name overlap: constituency='BANGALORE SOUTH' district='BANGALORE',,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__BANGALORE_CENTRAL,Bangalore central,BANGALORE,partial,medium,Name overlap: constituency='BANGALORE CENTRAL' district='BANGALORE',,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__BELGAUM,Belgaum,BELGAUM,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__BELLARY,Bellary,BELLARY,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__BIDAR,Bidar,BIDAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__BIJAPUR,Bijapur,BIJAPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__CHAMARAJANAGAR,Chamarajanagar,CHAMARAJANAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__CHIKKBALLAPUR,Chikkballapur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__CHIKKODI,Chikkodi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__CHITRADURGA,Chitradurga,CHITRADURGA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__DAKSHINA_KANNADA,Dakshina Kannada,DAKSHINA KANNADA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__DAVANAGERE,Davanagere,DAVANAGERE,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__DHARWAD,Dharwad,DHARWAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__GULBARGA,Gulbarga,GULBARGA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__HASSAN,Hassan,HASSAN,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__HAVERI,Haveri,HAVERI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__KOLAR,Kolar,KOLAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__KOPPAL,Koppal,KOPPAL,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__MANDYA,Mandya,MANDYA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__MYSORE,Mysore,MYSORE,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__RAICHUR,Raichur,RAICHUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__SHIMOGA,Shimoga,SHIMOGA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__TUMKUR,Tumkur,TUMKUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__UDUPI_CHIKMAGALUR,Udupi Chikmagalur,UDUPI,partial,medium,Name overlap: constituency='UDUPI CHIKMAGALUR' district='UDUPI',,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__UDUPI_CHIKMAGALUR,Udupi Chikmagalur,CHIKMAGALUR,partial,medium,Name overlap: constituency='UDUPI CHIKMAGALUR' district='CHIKMAGALUR',,,constituency_table_2024
+lok_sabha,Karnataka,KARNATAKA__UTTARA_KANNADA,Uttara Kannada,UTTARA KANNADA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__ALAPPUZHA,Alappuzha,ALAPPUZHA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__ALATHUR,Alathur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__ATTINGAL,Attingal,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__CHALAKUDY,Chalakudy,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__ERNAKULAM,Ernakulam,ERNAKULAM,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__IDUKKI,Idukki,IDUKKI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__KANNUR,Kannur,KANNUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__KASARAGOD,Kasaragod,KASARAGOD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__KOLLAM,Kollam,KOLLAM,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__KOTTAYAM,Kottayam,KOTTAYAM,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__KOZHIKODE,Kozhikode,KOZHIKODE,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__MALAPPURAM,Malappuram,MALAPPURAM,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__MAVELIKKARA,Mavelikkara,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__PALAKKAD,Palakkad,PALAKKAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__PATHANAMTHITTA,Pathanamthitta,PATHANAMTHITTA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__PONNANI,Ponnani,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__THIRUVANANTHAPURAM,Thiruvananthapuram,THIRUVANANTHAPURAM,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__THRISSUR,Thrissur,THRISSUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__VADAKARA,Vadakara,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Kerala,KERALA__WAYANAD,Wayanad,WAYANAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Ladakh,LADAKH__LADAKH,Ladakh,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Lakshadweep,LAKSHADWEEP__LAKSHADWEEP,Lakshadweep,LAKSHADWEEP,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__BALAGHAT,BALAGHAT,BALAGHAT,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__BETUL,BETUL,BETUL,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__BHIND,BHIND,BHIND,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__BHOPAL,BHOPAL,BHOPAL,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__CHHINDWARA,CHHINDWARA,CHHINDWARA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__DAMOH,DAMOH,DAMOH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__DEWAS,DEWAS,DEWAS,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__DHAR,DHAR,DHAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__GUNA,GUNA,GUNA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__GWALIOR,GWALIOR,GWALIOR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__HOSHANGABAD,HOSHANGABAD,HOSHANGABAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__INDORE,INDORE,INDORE,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__JABALPUR,JABALPUR,JABALPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__KHAJURAHO,KHAJURAHO,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__KHANDWA,KHANDWA,KHANDWA (EAST NIMAR),partial,medium,Name overlap: constituency='KHANDWA' district='KHANDWA EAST NIMAR',,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__KHARGONE,KHARGONE,KHARGONE (WEST NIMAR),partial,medium,Name overlap: constituency='KHARGONE' district='KHARGONE WEST NIMAR',,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__MANDLA,MANDLA,MANDLA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__MANDSOUR,MANDSOUR,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__MORENA,MORENA,MORENA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__RAJGARH,RAJGARH,RAJGARH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__RATLAM,RATLAM,RATLAM,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__REWA,REWA,REWA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__SAGAR,SAGAR,SAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__SATNA,SATNA,SATNA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__SHAHDOL,SHAHDOL,SHAHDOL,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__SIDHI,SIDHI,SIDHI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__TIKAMGARH,TIKAMGARH,TIKAMGARH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__UJJAIN,UJJAIN,UJJAIN,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Madhya Pradesh,MADHYA_PRADESH__VIDISHA,VIDISHA,VIDISHA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__AHMEDNAGAR,Ahmednagar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__AKOLA,Akola,AKOLA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__AMRAVATI,Amravati,AMRAVATI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__AURANGABAD,Aurangabad,AURANGABAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__BARAMATI,Baramati,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__BEED,Beed,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__BHANDARA_GONDIYA,Bhandara Gondiya,BHANDARA,partial,medium,Name overlap: constituency='BHANDARA GONDIYA' district='BHANDARA',,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__BHANDARA_GONDIYA,Bhandara Gondiya,GONDIYA,partial,medium,Name overlap: constituency='BHANDARA GONDIYA' district='GONDIYA',,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__BHIWANDI,Bhiwandi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__BULDHANA,Buldhana,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__CHANDRAPUR,Chandrapur,CHANDRAPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__DHULE,Dhule,DHULE,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__DINDORI,Dindori,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__GADCHIROLI_-_CHIMUR,Gadchiroli - Chimur,GADCHIROLI,partial,medium,Name overlap: constituency='GADCHIROLI CHIMUR' district='GADCHIROLI',,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__HATKANANGALE,Hatkanangale,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__HINGOLI,Hingoli,HINGOLI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__JALGAON,Jalgaon,JALGAON,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__JALNA,Jalna,JALNA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__KALYAN,Kalyan,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__KOLHAPUR,Kolhapur,KOLHAPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__LATUR,Latur,LATUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__MADHA,Madha,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__MAVAL,Maval,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__MUMBAI_NORTH,Mumbai North,MUMBAI,partial,medium,Name overlap: constituency='MUMBAI NORTH' district='MUMBAI',,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__MUMBAI_NORTH_CENTRAL,Mumbai North Central,MUMBAI,partial,medium,Name overlap: constituency='MUMBAI NORTH CENTRAL' district='MUMBAI',,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__MUMBAI_NORTH_EAST,Mumbai North East,MUMBAI,partial,medium,Name overlap: constituency='MUMBAI NORTH EAST' district='MUMBAI',,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__MUMBAI_NORTH_WEST,Mumbai North West,MUMBAI,partial,medium,Name overlap: constituency='MUMBAI NORTH WEST' district='MUMBAI',,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__MUMBAI_SOUTH,Mumbai South,MUMBAI,partial,medium,Name overlap: constituency='MUMBAI SOUTH' district='MUMBAI',,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__MUMBAI_SOUTH_CENTRAL,Mumbai South Central,MUMBAI,partial,medium,Name overlap: constituency='MUMBAI SOUTH CENTRAL' district='MUMBAI',,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__NAGPUR,Nagpur,NAGPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__NANDED,Nanded,NANDED,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__NANDURBAR,Nandurbar,NANDURBAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__NASHIK,Nashik,NASHIK,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__OSMANABAD,Osmanabad,OSMANABAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__PALGHAR,Palghar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__PARBHANI,Parbhani,PARBHANI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__PUNE,Pune,PUNE,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__RAIGAD,Raigad,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__RAMTEK,Ramtek,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__RATNAGIRI-_SINDHUDURG,Ratnagiri- Sindhudurg,RATNAGIRI,partial,medium,Name overlap: constituency='RATNAGIRI SINDHUDURG' district='RATNAGIRI',,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__RATNAGIRI-_SINDHUDURG,Ratnagiri- Sindhudurg,SINDHUDURG,partial,medium,Name overlap: constituency='RATNAGIRI SINDHUDURG' district='SINDHUDURG',,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__RAVER,Raver,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__SANGLI,Sangli,SANGLI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__SATARA,Satara,SATARA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__SHIRDI,Shirdi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__SHIRUR,Shirur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__SOLAPUR,Solapur,SOLAPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__THANE,Thane,THANE,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__WARDHA,Wardha,WARDHA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__YAVATMAL-_WASHIM,Yavatmal- Washim,WASHIM,partial,medium,Name overlap: constituency='YAVATMAL WASHIM' district='WASHIM',,,constituency_table_2024
+lok_sabha,Maharashtra,MAHARASHTRA__YAVATMAL-_WASHIM,Yavatmal- Washim,YAVATMAL,partial,medium,Name overlap: constituency='YAVATMAL WASHIM' district='YAVATMAL',,,constituency_table_2024
+lok_sabha,Manipur,MANIPUR__INNER_MANIPUR,Inner Manipur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Manipur,MANIPUR__OUTER_MANIPUR,Outer Manipur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Meghalaya,MEGHALAYA__SHILLONG,Shillong,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Meghalaya,MEGHALAYA__TURA,Tura,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Mizoram,MIZORAM__MIZORAM,MIZORAM,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__CHANDNI_CHOWK,Chandni Chowk,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__EAST_DELHI,East Delhi,EAST,partial,medium,Name overlap: constituency='EAST DELHI' district='EAST',,,constituency_table_2024
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__NEW_DELHI,New Delhi,NEW DELHI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__NORTH-EAST_DELHI,North-East Delhi,NORTH,partial,medium,Name overlap: constituency='NORTH EAST DELHI' district='NORTH',,,constituency_table_2024
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__NORTH-EAST_DELHI,North-East Delhi,NORTH EAST,partial,medium,Name overlap: constituency='NORTH EAST DELHI' district='NORTH EAST',,,constituency_table_2024
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__NORTH-EAST_DELHI,North-East Delhi,EAST,partial,medium,Name overlap: constituency='NORTH EAST DELHI' district='EAST',,,constituency_table_2024
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__NORTH-WEST_DELHI,North-West Delhi,NORTH WEST,partial,medium,Name overlap: constituency='NORTH WEST DELHI' district='NORTH WEST',,,constituency_table_2024
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__NORTH-WEST_DELHI,North-West Delhi,NORTH,partial,medium,Name overlap: constituency='NORTH WEST DELHI' district='NORTH',,,constituency_table_2024
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__NORTH-WEST_DELHI,North-West Delhi,WEST,partial,medium,Name overlap: constituency='NORTH WEST DELHI' district='WEST',,,constituency_table_2024
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__SOUTH_DELHI,South Delhi,SOUTH,partial,medium,Name overlap: constituency='SOUTH DELHI' district='SOUTH',,,constituency_table_2024
+lok_sabha,NCT OF Delhi,NCT_OF_DELHI__WEST_DELHI,West Delhi,WEST,partial,medium,Name overlap: constituency='WEST DELHI' district='WEST',,,constituency_table_2024
+lok_sabha,Nagaland,NAGALAND__NAGALAND,Nagaland,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__ASKA,Aska,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__BALASORE,Balasore,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__BARGARH,Bargarh,BARGARH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__BERHAMPUR,Berhampur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__BHADRAK,Bhadrak,BHADRAK,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__BHUBANESWAR,Bhubaneswar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__BOLANGIR,Bolangir,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__CUTTACK,Cuttack,CUTTACK,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__DHENKANAL,Dhenkanal,DHENKANAL,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__JAGATSINGHPUR,Jagatsinghpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__JAJPUR,Jajpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__KALAHANDI,Kalahandi,KALAHANDI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__KANDHAMAL,Kandhamal,KANDHAMAL,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__KENDRAPARA,Kendrapara,KENDRAPARA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__KEONJHAR,Keonjhar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__KORAPUT,Koraput,KORAPUT,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__MAYURBHANJ,Mayurbhanj,MAYURBHANJ,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__NABARANGPUR,Nabarangpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__PURI,Puri,PURI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__SAMBALPUR,Sambalpur,SAMBALPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Odisha,ODISHA__SUNDARGARH,Sundargarh,SUNDARGARH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Puducherry,PUDUCHERRY__PUDUCHERRY,PUDUCHERRY,PUDUCHERRY,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Punjab,PUNJAB__AMRITSAR,Amritsar,AMRITSAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Punjab,PUNJAB__ANANDPUR_SAHIB,Anandpur Sahib,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Punjab,PUNJAB__BATHINDA,Bathinda,BATHINDA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Punjab,PUNJAB__FARIDKOT,Faridkot,FARIDKOT,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Punjab,PUNJAB__FATEHGARH_SAHIB,Fatehgarh Sahib,FATEHGARH SAHIB,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Punjab,PUNJAB__FIROZPUR,Firozpur,FIROZPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Punjab,PUNJAB__GURDASPUR,Gurdaspur,GURDASPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Punjab,PUNJAB__HOSHIARPUR,Hoshiarpur,HOSHIARPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Punjab,PUNJAB__JALANDHAR,Jalandhar,JALANDHAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Punjab,PUNJAB__KHADOOR_SAHIB,Khadoor Sahib,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Punjab,PUNJAB__LUDHIANA,Ludhiana,LUDHIANA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Punjab,PUNJAB__PATIALA,Patiala,PATIALA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Punjab,PUNJAB__SANGRUR,Sangrur,SANGRUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__AJMER,AJMER,AJMER,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__ALWAR,ALWAR,ALWAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__BANSWARA,BANSWARA,BANSWARA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__BARMER,BARMER,BARMER,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__BHARATPUR,BHARATPUR,BHARATPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__BHILWARA,BHILWARA,BHILWARA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__BIKANER,BIKANER,BIKANER,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__CHITTORGARH,CHITTORGARH,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__CHURU,CHURU,CHURU,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__DAUSA,DAUSA,DAUSA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__GANGANAGAR,GANGANAGAR,GANGANAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__JAIPUR,JAIPUR,JAIPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__JAIPUR_RURAL,JAIPUR RURAL,JAIPUR,partial,medium,Name overlap: constituency='JAIPUR RURAL' district='JAIPUR',,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__JALORE,JALORE,JALOR,partial,medium,Name overlap: constituency='JALORE' district='JALOR',,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__JHALAWAR-BARAN,JHALAWAR-BARAN,BARAN,partial,medium,Name overlap: constituency='JHALAWAR BARAN' district='BARAN',,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__JHALAWAR-BARAN,JHALAWAR-BARAN,JHALAWAR,partial,medium,Name overlap: constituency='JHALAWAR BARAN' district='JHALAWAR',,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__JHUNJHUNU,JHUNJHUNU,JHUNJHUNUN,partial,medium,Name overlap: constituency='JHUNJHUNU' district='JHUNJHUNUN',,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__JODHPUR,JODHPUR,JODHPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__KARAULI-DHOLPUR,KARAULI-DHOLPUR,KARAULI,partial,medium,Name overlap: constituency='KARAULI DHOLPUR' district='KARAULI',,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__KOTA,KOTA,KOTA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__NAGAUR,NAGAUR,NAGAUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__PALI,PALI,PALI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__RAJSAMAND,RAJSAMAND,RAJSAMAND,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__SIKAR,SIKAR,SIKAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__TONK-SAWAI_MADHOPUR,TONK-SAWAI MADHOPUR,SAWAI MADHOPUR,partial,medium,Name overlap: constituency='TONK SAWAI MADHOPUR' district='SAWAI MADHOPUR',,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__TONK-SAWAI_MADHOPUR,TONK-SAWAI MADHOPUR,TONK,partial,medium,Name overlap: constituency='TONK SAWAI MADHOPUR' district='TONK',,,constituency_table_2024
+lok_sabha,Rajasthan,RAJASTHAN__UDAIPUR,UDAIPUR,UDAIPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Sikkim,SIKKIM__SIKKIM,Sikkim,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__ARAKKONAM,ARAKKONAM,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__ARANI,ARANI,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__CHENNAI_CENTRAL,CHENNAI CENTRAL,CHENNAI,partial,medium,Name overlap: constituency='CHENNAI CENTRAL' district='CHENNAI',,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__CHENNAI_NORTH,CHENNAI NORTH,CHENNAI,partial,medium,Name overlap: constituency='CHENNAI NORTH' district='CHENNAI',,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__CHENNAI_SOUTH,CHENNAI SOUTH,CHENNAI,partial,medium,Name overlap: constituency='CHENNAI SOUTH' district='CHENNAI',,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__CHIDAMBARAM,CHIDAMBARAM,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__COIMBATORE,COIMBATORE,COIMBATORE,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__CUDDALORE,CUDDALORE,CUDDALORE,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__DHARMAPURI,DHARMAPURI,DHARMAPURI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__DINDIGUL,DINDIGUL,DINDIGUL,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__ERODE,ERODE,ERODE,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__KALLAKURICHI,KALLAKURICHI,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__KANCHEEPURAM,KANCHEEPURAM,KANCHEEPURAM,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__KANNIYAKUMARI,KANNIYAKUMARI,KANNIYAKUMARI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__KARUR,KARUR,KARUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__KRISHNAGIRI,KRISHNAGIRI,KRISHNAGIRI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__MADURAI,MADURAI,MADURAI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__MAYILADUTHURAI,MAYILADUTHURAI,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__NAGAPATTINAM,NAGAPATTINAM,NAGAPATTINAM,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__NAMAKKAL,NAMAKKAL,NAMAKKAL,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__NILGIRIS,NILGIRIS,THE NILGIRIS,partial,medium,Name overlap: constituency='NILGIRIS' district='THE NILGIRIS',,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__PERAMBALUR,PERAMBALUR,PERAMBALUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__POLLACHI,POLLACHI,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__RAMANATHAPURAM,RAMANATHAPURAM,RAMANATHAPURAM,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__SALEM,SALEM,SALEM,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__SIVAGANGA,SIVAGANGA,SIVAGANGA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__SRIPERUMBUDUR,SRIPERUMBUDUR,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__TENKASI,TENKASI,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__THANJAVUR,THANJAVUR,THANJAVUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__THENI,THENI,THENI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__THOOTHUKKUDI,THOOTHUKKUDI,THOOTHUKKUDI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__TIRUCHIRAPPALLI,TIRUCHIRAPPALLI,TIRUCHIRAPPALLI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__TIRUNELVELI,TIRUNELVELI,TIRUNELVELI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__TIRUPPUR,TIRUPPUR,TIRUPPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__TIRUVALLUR,TIRUVALLUR,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__TIRUVANNAMALAI,TIRUVANNAMALAI,TIRUVANNAMALAI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__VELLORE,VELLORE,VELLORE,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__VILUPPURAM,VILUPPURAM,VILUPPURAM,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Tamil Nadu,TAMIL_NADU__VIRUDHUNAGAR,VIRUDHUNAGAR,VIRUDHUNAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__ADILABAD,Adilabad,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__BHONGIR,Bhongir,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__CHEVELLA,Chevella,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__HYDERABAD,Hyderabad,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__KARIMNAGAR,Karimnagar,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__KHAMMAM,Khammam,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__MAHABUBABAD,Mahabubabad,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__MAHBUBNAGAR,Mahbubnagar,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__MALKAJGIRI,Malkajgiri,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__MEDAK,Medak,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__NAGARKURNOOL,Nagarkurnool,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__NALGONDA,Nalgonda,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__NIZAMABAD,Nizamabad,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__PEDDAPALLE,Peddapalle,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__SECUNDERABAD,Secunderabad,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__WARANGAL,Warangal,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Telangana,TELANGANA__ZAHIRABAD,Zahirabad,,unknown,manual_needed,No district list for this state — fill manually,,,constituency_table_2024
+lok_sabha,Tripura,TRIPURA__TRIPURA_EAST,Tripura East,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Tripura,TRIPURA__TRIPURA_WEST,Tripura West,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__AGRA,Agra,AGRA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__AKBARPUR,Akbarpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__ALIGARH,Aligarh,ALIGARH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__ALLAHABAD,Allahabad,ALLAHABAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__AMBEDKAR_NAGAR,Ambedkar Nagar,AMBEDKAR NAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__AMETHI,Amethi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__AMROHA,Amroha,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__AONLA,Aonla,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__AZAMGARH,Azamgarh,AZAMGARH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BADAUN,Badaun,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BAGHPAT,Baghpat,BAGHPAT,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BAHARAICH,Baharaich,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BALLIA,Ballia,BALLIA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BANDA,Banda,BANDA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BANSGAON,Bansgaon,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BARABANKI,Barabanki,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BAREILLY,Bareilly,BAREILLY,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BASTI,Basti,BASTI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BHADOHI,Bhadohi,SANT RAVIDAS NAGAR (BHADOHI),partial,medium,Name overlap: constituency='BHADOHI' district='SANT RAVIDAS NAGAR BHADOHI',,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BIJNOR,Bijnor,BIJNOR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__BULANDSHAHR,Bulandshahr,BULANDSHAHR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__CHANDAULI,Chandauli,CHANDAULI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__DEORIA,Deoria,DEORIA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__DHAURAHRA,Dhaurahra,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__DOMARIYAGANJ,Domariyaganj,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__ETAH,Etah,ETAH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__ETAWAH,Etawah,ETAWAH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__FAIZABAD,Faizabad,FAIZABAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__FARRUKHABAD,Farrukhabad,FARRUKHABAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__FATEHPUR,Fatehpur,FATEHPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__FATEHPUR_SIKRI,Fatehpur Sikri,FATEHPUR,partial,medium,Name overlap: constituency='FATEHPUR SIKRI' district='FATEHPUR',,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__FIROZABAD,Firozabad,FIROZABAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__GAUTAM_BUDDHA_NAGAR,Gautam Buddha Nagar,GAUTAM BUDDHA NAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__GHAZIABAD,Ghaziabad,GHAZIABAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__GHAZIPUR,Ghazipur,GHAZIPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__GHOSI,Ghosi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__GONDA,Gonda,GONDA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__GORAKHPUR,Gorakhpur,GORAKHPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__HAMIRPUR,Hamirpur,HAMIRPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__HARDOI,Hardoi,HARDOI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__HATHRAS,Hathras,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__JALAUN,Jalaun,JALAUN,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__JAUNPUR,Jaunpur,JAUNPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__JHANSI,Jhansi,JHANSI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__KAIRANA,Kairana,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__KAISERGANJ,Kaiserganj,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__KANNAUJ,Kannauj,KANNAUJ,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__KANPUR,Kanpur,KANPUR DEHAT,partial,medium,Name overlap: constituency='KANPUR' district='KANPUR DEHAT',,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__KANPUR,Kanpur,KANPUR NAGAR,partial,medium,Name overlap: constituency='KANPUR' district='KANPUR NAGAR',,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__KAUSHAMBI,Kaushambi,KAUSHAMBI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__KHERI,Kheri,KHERI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__KUSHI_NAGAR,Kushi Nagar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__LALGANJ,Lalganj,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__LUCKNOW,Lucknow,LUCKNOW,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MACHHLISHAHR,Machhlishahr,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MAHARAJGANJ,Maharajganj,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MAINPURI,Mainpuri,MAINPURI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MATHURA,Mathura,MATHURA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MEERUT,Meerut,MEERUT,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MIRZAPUR,Mirzapur,MIRZAPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MISRIKH,Misrikh,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MOHANLALGANJ,Mohanlalganj,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MORADABAD,Moradabad,MORADABAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__MUZAFFARNAGAR,Muzaffarnagar,MUZAFFARNAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__NAGINA,Nagina,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__PHULPUR,Phulpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__PILIBHIT,Pilibhit,PILIBHIT,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__PRATAPGARH,Pratapgarh,PRATAPGARH,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__RAE_BARELI,Rae Bareli,RAE BARELI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__RAMPUR,Rampur,RAMPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__ROBERTSGANJ,Robertsganj,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__SAHARANPUR,Saharanpur,SAHARANPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__SALEMPUR,Salempur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__SAMBHAL,Sambhal,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__SANT_KABIR_NAGAR,Sant Kabir Nagar,SANT KABIR NAGAR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__SHAHJAHANPUR,Shahjahanpur,SHAHJAHANPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__SHRAWASTI,Shrawasti,SHRAWASTI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__SITAPUR,Sitapur,SITAPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__SULTANPUR,Sultanpur,SULTANPUR,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__UNNAO,Unnao,UNNAO,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttar Pradesh,UTTAR_PRADESH__VARANASI,Varanasi,VARANASI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttarakhand,UTTARAKHAND__ALMORA,Almora,ALMORA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttarakhand,UTTARAKHAND__GARHWAL,Garhwal,GARHWAL,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,Uttarakhand,UTTARAKHAND__HARIDWAR,Haridwar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,Uttarakhand,UTTARAKHAND__NAINITAL-UDHAMSINGH_NAGAR,Nainital-Udhamsingh Nagar,NAINITAL,partial,medium,Name overlap: constituency='NAINITAL UDHAMSINGH NAGAR' district='NAINITAL',,,constituency_table_2024
+lok_sabha,Uttarakhand,UTTARAKHAND__TEHRI_GARHWAL,Tehri Garhwal,TEHRI GARHWAL,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__ALIPURDUARS,Alipurduars,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__ARAMBAG,Arambag,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__ASANSOL,Asansol,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__BAHARAMPUR,Baharampur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__BALURGHAT,Balurghat,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__BANGAON,Bangaon,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__BANKURA,Bankura,BANKURA,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__BARASAT,Barasat,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__BARDHAMAN_PURBA,Bardhaman Purba,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__BARDHAMAN-DURGAPUR,Bardhaman-Durgapur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__BARRACKPUR,Barrackpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__BASIRHAT,Basirhat,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__BIRBHUM,Birbhum,BIRBHUM,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__BISHNUPUR,Bishnupur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__BOLPUR,Bolpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__COOCHBEHAR,Coochbehar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__DARJEELING,Darjeeling,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__DIAMOND_HARBOUR,Diamond harbour,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__DUM_DUM,Dum dum,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__GHATAL,Ghatal,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__HOOGHLY,Hooghly,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__HOWRAH,Howrah,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__JADAVPUR,Jadavpur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__JALPAIGURI,Jalpaiguri,JALPAIGURI,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__JANGIPUR,Jangipur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__JAYNAGAR,Jaynagar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__JHARGRAM,Jhargram,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__KANTHI,Kanthi,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__KOLKATA_DAKSHIN,Kolkata Dakshin,KOLKATA,partial,medium,Name overlap: constituency='KOLKATA DAKSHIN' district='KOLKATA',,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__KOLKATA_UTTAR,Kolkata Uttar,KOLKATA,partial,medium,Name overlap: constituency='KOLKATA UTTAR' district='KOLKATA',,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__KRISHNANAGAR,Krishnanagar,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__MALDAHA_DAKSHIN,Maldaha Dakshin,MALDAH,partial,medium,Name overlap: constituency='MALDAHA DAKSHIN' district='MALDAH',,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__MALDAHA_UTTAR,Maldaha Uttar,MALDAH,partial,medium,Name overlap: constituency='MALDAHA UTTAR' district='MALDAH',,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__MATHURAPUR,Mathurapur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__MEDINIPUR,Medinipur,PASCHIM MEDINIPUR,partial,medium,Name overlap: constituency='MEDINIPUR' district='PASCHIM MEDINIPUR',,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__MEDINIPUR,Medinipur,PURBA MEDINIPUR,partial,medium,Name overlap: constituency='MEDINIPUR' district='PURBA MEDINIPUR',,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__MURSHIDABAD,Murshidabad,MURSHIDABAD,primary,high,Exact constituency/district name match,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__PURULIA,Purulia,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__RAIGANJ,Raiganj,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__RANAGHAT,Ranaghat,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__SREERAMPUR,Sreerampur,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__TAMLUK,Tamluk,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024
+lok_sabha,West Bengal,WEST_BENGAL__ULUBERIA,Uluberia,,unknown,manual_needed,No automatic match — requires manual district assignment or future GIS overlap,,,constituency_table_2024

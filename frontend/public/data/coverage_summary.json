@@ -1,0 +1,278 @@
+{
+  "election_constituencies_total": 542,
+  "constituencies_with_any_nfhs5_value": 351,
+  "constituencies_with_demographic_coverage": 351,
+  "constituencies_with_change_features": 323,
+  "demographic_coverage_pct": 64.76,
+  "election_coverage_pct": 100.0,
+  "state_coverage": [
+    {
+      "state": "Tripura",
+      "total_constituencies": 2,
+      "constituencies_with_demographics": 2,
+      "coverage_pct": 100.0,
+      "mean_nfhs5_coverage_share": 0.87
+    },
+    {
+      "state": "Goa",
+      "total_constituencies": 2,
+      "constituencies_with_demographics": 2,
+      "coverage_pct": 100.0,
+      "mean_nfhs5_coverage_share": 1.0
+    },
+    {
+      "state": "Meghalaya",
+      "total_constituencies": 2,
+      "constituencies_with_demographics": 2,
+      "coverage_pct": 100.0,
+      "mean_nfhs5_coverage_share": 1.0
+    },
+    {
+      "state": "Chhattisgarh",
+      "total_constituencies": 11,
+      "constituencies_with_demographics": 10,
+      "coverage_pct": 90.91,
+      "mean_nfhs5_coverage_share": 0.96
+    },
+    {
+      "state": "Kerala",
+      "total_constituencies": 20,
+      "constituencies_with_demographics": 17,
+      "coverage_pct": 85.0,
+      "mean_nfhs5_coverage_share": 1.0
+    },
+    {
+      "state": "Madhya Pradesh",
+      "total_constituencies": 29,
+      "constituencies_with_demographics": 24,
+      "coverage_pct": 82.76,
+      "mean_nfhs5_coverage_share": 0.91
+    },
+    {
+      "state": "Telangana",
+      "total_constituencies": 17,
+      "constituencies_with_demographics": 14,
+      "coverage_pct": 82.35,
+      "mean_nfhs5_coverage_share": 1.0
+    },
+    {
+      "state": "Jharkhand",
+      "total_constituencies": 14,
+      "constituencies_with_demographics": 11,
+      "coverage_pct": 78.57,
+      "mean_nfhs5_coverage_share": 0.73
+    },
+    {
+      "state": "Karnataka",
+      "total_constituencies": 28,
+      "constituencies_with_demographics": 21,
+      "coverage_pct": 75.0,
+      "mean_nfhs5_coverage_share": 0.9
+    },
+    {
+      "state": "Punjab",
+      "total_constituencies": 13,
+      "constituencies_with_demographics": 8,
+      "coverage_pct": 61.54,
+      "mean_nfhs5_coverage_share": 0.4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "total_constituencies": 2,
+      "constituencies_with_demographics": 1,
+      "coverage_pct": 50.0,
+      "mean_nfhs5_coverage_share": 0.69
+    },
+    {
+      "state": "Gujarat",
+      "total_constituencies": 25,
+      "constituencies_with_demographics": 12,
+      "coverage_pct": 48.0,
+      "mean_nfhs5_coverage_share": 0.39
+    },
+    {
+      "state": "Bihar",
+      "total_constituencies": 40,
+      "constituencies_with_demographics": 19,
+      "coverage_pct": 47.5,
+      "mean_nfhs5_coverage_share": 0.41
+    },
+    {
+      "state": "Rajasthan",
+      "total_constituencies": 25,
+      "constituencies_with_demographics": 11,
+      "coverage_pct": 44.0,
+      "mean_nfhs5_coverage_share": 1.0
+    },
+    {
+      "state": "Haryana",
+      "total_constituencies": 10,
+      "constituencies_with_demographics": 4,
+      "coverage_pct": 40.0,
+      "mean_nfhs5_coverage_share": 0.41
+    },
+    {
+      "state": "Uttar Pradesh",
+      "total_constituencies": 80,
+      "constituencies_with_demographics": 25,
+      "coverage_pct": 31.25,
+      "mean_nfhs5_coverage_share": 0.26
+    },
+    {
+      "state": "Maharashtra",
+      "total_constituencies": 48,
+      "constituencies_with_demographics": 13,
+      "coverage_pct": 27.08,
+      "mean_nfhs5_coverage_share": 1.0
+    },
+    {
+      "state": "Andhra Pradesh",
+      "total_constituencies": 25,
+      "constituencies_with_demographics": 1,
+      "coverage_pct": 4.0,
+      "mean_nfhs5_coverage_share": 1.0
+    },
+    {
+      "state": "Puducherry",
+      "total_constituencies": 1,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": null
+    },
+    {
+      "state": "Tamil Nadu",
+      "total_constituencies": 39,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": null
+    },
+    {
+      "state": "Sikkim",
+      "total_constituencies": 1,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": null
+    },
+    {
+      "state": "Nagaland",
+      "total_constituencies": 1,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": null
+    },
+    {
+      "state": "Uttarakhand",
+      "total_constituencies": 5,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": 0.0
+    },
+    {
+      "state": "Odisha",
+      "total_constituencies": 21,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": null
+    },
+    {
+      "state": "Andaman & Nicobar Islands",
+      "total_constituencies": 1,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": null
+    },
+    {
+      "state": "NCT OF Delhi",
+      "total_constituencies": 7,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": null
+    },
+    {
+      "state": "Mizoram",
+      "total_constituencies": 1,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": null
+    },
+    {
+      "state": "Manipur",
+      "total_constituencies": 2,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": null
+    },
+    {
+      "state": "Lakshadweep",
+      "total_constituencies": 1,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": null
+    },
+    {
+      "state": "Ladakh",
+      "total_constituencies": 1,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": null
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "total_constituencies": 5,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": null
+    },
+    {
+      "state": "Himachal Pradesh",
+      "total_constituencies": 4,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": null
+    },
+    {
+      "state": "Dadra & Nagar Haveli and Daman & Diu",
+      "total_constituencies": 2,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": null
+    },
+    {
+      "state": "Chandigarh",
+      "total_constituencies": 1,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": null
+    },
+    {
+      "state": "Assam",
+      "total_constituencies": 14,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": 0.0
+    },
+    {
+      "state": "West Bengal",
+      "total_constituencies": 42,
+      "constituencies_with_demographics": 0,
+      "coverage_pct": 0.0,
+      "mean_nfhs5_coverage_share": 0.0
+    }
+  ],
+  "missing_reason_counts": {
+    "no_delimitation_district_mapping": 205,
+    "low_coverage_share": 114,
+    "name_normalization_mismatch": 26
+  },
+  "sources": [
+    "Election Commission of India results (2019, 2024)",
+    "Census / delimitation district-to-constituency mappings",
+    "NFHS-4 / NFHS-5 district-level indicators"
+  ],
+  "csds_status": "pending",
+  "notes": [
+    "Missing demographic values are not imputed.",
+    "coverage_share reflects the share of mapped district population represented in NFHS features.",
+    "Analysis is exploratory; correlations are not causal."
+  ]
+}

@@ -1,0 +1,7 @@
+source_id,source_name,description,default_geography_level,notes
+CENSUS_2011,Census of India 2011,"Population, religion, SC/ST, literacy, age structure",state_district,Primary baseline; district tables can be rolled up to state.
+NFHS_5,NFHS-5 (2019-21),"Health, assets, education, fertility, sanitation",state,Complements Census with recent household behaviour indicators.
+MOSPI,MoSPI / NAS / state accounts,Macro and state economic statistics,state,Optional enrichment for economic context.
+RBI,Reserve Bank of India,"Banking, credit, financial inclusion proxies",state,Optional; may overlap with NFHS on financial access.
+PLFS,Periodic Labour Force Survey,"Employment, labour force participation",state,Future: labour market controls.
+SECC,Socio-Economic Caste Census 2011,"Deprivation, housing, asset proxies at rural granularity",district,Future: caste/deprivation where Census is coarse.

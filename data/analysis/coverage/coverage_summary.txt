@@ -1,0 +1,88 @@
+Coverage diagnostics summary
+============================
+
+Overall election rows: 542
+Rows with any NFHS-5 value: 197 (36.3%)
+Rows with NFHS-5 coverage metadata: 311
+Rows with any change feature: 169 (31.2%)
+
+Top 10 states by NFHS-5 coverage:
+  Tripura: 100.0% (2/2)
+  Goa: 100.0% (2/2)
+  Meghalaya: 100.0% (2/2)
+  Chhattisgarh: 90.91% (10/11)
+  Kerala: 85.0% (17/20)
+  Madhya Pradesh: 82.76% (24/29)
+  Telangana: 82.35% (14/17)
+  Jharkhand: 78.57% (11/14)
+  Karnataka: 75.0% (21/28)
+  Punjab: 61.54% (8/13)
+
+Bottom 10 states by NFHS-5 coverage:
+  Mizoram: 0.0% (0/1)
+  Manipur: 0.0% (0/2)
+  Lakshadweep: 0.0% (0/1)
+  Ladakh: 0.0% (0/1)
+  Jammu and Kashmir: 0.0% (0/5)
+  Himachal Pradesh: 0.0% (0/4)
+  Dadra & Nagar Haveli and Daman & Diu: 0.0% (0/2)
+  Chandigarh: 0.0% (0/1)
+  Assam: 0.0% (0/14)
+  West Bengal: 0.0% (0/42)
+
+Top 10 best-covered variables:
+  improved_sanitation_pct_nfhs5: 36.35% (197 constituencies)
+  lpg_pct_nfhs5: 36.35% (197 constituencies)
+  mobile_phone_pct_nfhs5: 36.35% (197 constituencies)
+  urban_pct_nfhs5: 36.35% (197 constituencies)
+  electricity_pct_nfhs5: 36.35% (197 constituencies)
+  bank_account_pct_nfhs5: 34.69% (188 constituencies)
+  wealth_index_mean_nfhs5: 34.69% (188 constituencies)
+  urban_pct_change: 31.18% (169 constituencies)
+  electricity_pct_change: 31.18% (169 constituencies)
+  improved_sanitation_pct_change: 31.18% (169 constituencies)
+
+Top 10 worst-covered variables:
+  women_secondary_edu_pct_change: 0.0% (0 constituencies)
+  wealth_index_mean_change: 0.0% (0 constituencies)
+  male_literacy_pct_change: 0.0% (0 constituencies)
+  female_literacy_pct_change: 0.0% (0 constituencies)
+  fertility_rate_nfhs5: 0.0% (0 constituencies)
+  bank_account_pct_change: 0.0% (0 constituencies)
+  male_literacy_pct_nfhs5: 0.0% (0 constituencies)
+  female_literacy_pct_nfhs5: 0.0% (0 constituencies)
+  women_secondary_edu_pct_nfhs5: 0.0% (0 constituencies)
+  fertility_rate_change: 0.0% (0 constituencies)
+
+Missing reason counts:
+  no_delimitation_district_mapping: 205
+  low_coverage_share: 114
+  name_normalization_mismatch: 26
+
+Recommendations
+---------------
+- Join bug likely for some rows: 26 constituencies match the demographic panel only after state-name aliases (for example Odisha/Orissa or Delhi/NCT of Delhi).
+  Most alias-mismatch rows still have empty district features in the panel, so a join fix alone will not recover many values.
+- Real missing data is the main issue: 205 of 345 uncovered constituencies are absent from the delimitation reference. Many are 2024-redistricted seats or states not yet mapped in the demographic pipeline.
+- States to fix first:
+  * West Bengal: 0.0% covered (0/42)
+  * Tamil Nadu: 0.0% covered (0/39)
+  * Sikkim: 0.0% covered (0/1)
+  * Nagaland: 0.0% covered (0/1)
+  * Uttarakhand: 0.0% covered (0/5)
+- Variables relatively safe for exploratory analysis now:
+  * improved_sanitation_pct_nfhs5
+  * lpg_pct_nfhs5
+  * mobile_phone_pct_nfhs5
+  * urban_pct_nfhs5
+  * electricity_pct_nfhs5
+  * bank_account_pct_nfhs5
+- Variables to treat cautiously for now:
+  * fertility_rate_change: 0.0% non-null
+  * female_literacy_pct_nfhs5: 0.0% non-null
+  * male_literacy_pct_nfhs5: 0.0% non-null
+  * bank_account_pct_change: 0.0% non-null
+  * fertility_rate_nfhs5: 0.0% non-null
+- District-level analysis is currently safer than constituency-level analysis because constituency coverage is partial (197/542 constituencies with any NFHS-5 value) and many gaps come from district-to-constituency allocation or missing district NFHS features.
+- Biggest suspected missing reason: no_delimitation_district_mapping (205 constituencies).
+- 114 constituencies have demographic panel rows but coverage_share below 0.5; improving district NFHS coverage should help these seats.

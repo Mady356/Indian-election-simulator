@@ -1,0 +1,1200 @@
+state,lok_sabha_no,lok_sabha_constituency,assembly_no,assembly_constituency,district,district_role,match_method,mapping_confidence,matched_assembly_no,matched_assembly_constituency,source,notes
+Andhra Pradesh,1,ADILABAD,9.0,Nirmal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,1,ADILABAD,10.0,Mudhole,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,8,SECUNDERABAD,57.0,Musheerabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,11,MAHBUBNAGAR,84.0,Shadnagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,12,NAGARKURNOOL,82.0,Achampet,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,12,NAGARKURNOOL,83.0,Kalwakurthy,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,12,NAGARKURNOOL,85.0,Kollapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,13,NALGONDA,86.0,Devarakonda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,13,NALGONDA,87.0,Nagarjuna Sagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,13,NALGONDA,88.0,Miryalaguda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,13,NALGONDA,89.0,Huzurnagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,13,NALGONDA,90.0,Kodad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,13,NALGONDA,91.0,Suryapet,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,13,NALGONDA,92.0,Nalgonda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,14,BHONGIR,93.0,Munugode,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,14,BHONGIR,94.0,Bhongir,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,14,BHONGIR,95.0,Nakrekal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,14,BHONGIR,96.0,Thungathurthi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,14,BHONGIR,97.0,Alair,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,14,BHONGIR,98.0,Jangaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,14,BHONGIR,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Andhra Pradesh,15,WARANGAL,100.0,Palakurthi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,15,WARANGAL,104.0,Parkal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,15,WARANGAL,105.0,Warangal West,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,15,WARANGAL,106.0,Warangal East,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,15,WARANGAL,107.0,Wardhannapet,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,15,WARANGAL,108.0,Bhupalpalle,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,16,MAHABUBABAD (ST),101.0,Dornakal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,16,MAHABUBABAD (ST),102.0,Mahabubabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,16,MAHABUBABAD (ST),103.0,Narsampet,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,16,MAHABUBABAD (ST),110.0,Pinapaka,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,16,MAHABUBABAD (ST),111.0,Yellandu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,17,KHAMMAM,112.0,Khammam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,17,KHAMMAM,113.0,Palair,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,17,KHAMMAM,114.0,Madhira,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,17,KHAMMAM,115.0,Wyra,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,17,KHAMMAM,116.0,Sathupalle,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,17,KHAMMAM,117.0,Kothagudem,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,18,ARAKU,129.0,Palakonda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,18,ARAKU,130.0,Kurupam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,18,ARAKU,131.0,Parvathipuram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,18,ARAKU,132.0,Salur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,18,ARAKU,147.0,Araku Valley,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,18,ARAKU,148.0,Paderu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,19,SRIKAKULAM,120.0,Ichchapuram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,19,SRIKAKULAM,121.0,Palasa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,19,SRIKAKULAM,122.0,Tekkali,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,19,SRIKAKULAM,123.0,Pathapatnam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,19,SRIKAKULAM,124.0,Srikakulam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,19,SRIKAKULAM,125.0,Amadalavalasa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,19,SRIKAKULAM,127.0,Narasannapeta,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,20,VIZIANAGARAM,126.0,Etcherla,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,20,VIZIANAGARAM,128.0,Rajam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,20,VIZIANAGARAM,133.0,Bobbili,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,20,VIZIANAGARAM,134.0,Cheepurupalli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,20,VIZIANAGARAM,135.0,Gajapathinagaram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,20,VIZIANAGARAM,136.0,Nellimarla,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,20,VIZIANAGARAM,137.0,Vizianagaram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,21,VISAKHAPATNAM,138.0,Srungavarapukota,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,21,VISAKHAPATNAM,139.0,Bhimli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,21,VISAKHAPATNAM,141.0,Visakhapatnam South,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,21,VISAKHAPATNAM,142.0,Visakhapatnam North,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,21,VISAKHAPATNAM,143.0,Visakhapatnam West,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,21,VISAKHAPATNAM,144.0,Gajuwaka,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,22,ANAKAPALLE,145.0,Chodavaram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,22,ANAKAPALLE,146.0,Madugula,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,22,ANAKAPALLE,149.0,Anakapalle,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,22,ANAKAPALLE,150.0,Pendurthi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,22,ANAKAPALLE,151.0,Yelamanchili,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,22,ANAKAPALLE,152.0,Payakaraopet,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,22,ANAKAPALLE,153.0,Narsipatnam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,23,KAKINADA,154.0,Tuni,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,23,KAKINADA,155.0,Prathipadu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,23,KAKINADA,156.0,Pithapuram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,23,KAKINADA,158.0,Peddapuram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,23,KAKINADA,160.0,Kakinada City,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,23,KAKINADA,171.0,Jaggampeta,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,24,"AMALAPURAM (SC) 161-Ramachandrapuram, 62-Mummidivaram",163.0,Amalapuram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,24,"AMALAPURAM (SC) 161-Ramachandrapuram, 62-Mummidivaram",164.0,Razole,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,24,"AMALAPURAM (SC) 161-Ramachandrapuram, 62-Mummidivaram",165.0,Gannavaram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,24,"AMALAPURAM (SC) 161-Ramachandrapuram, 62-Mummidivaram",166.0,Kothapeta,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,24,"AMALAPURAM (SC) 161-Ramachandrapuram, 62-Mummidivaram",167.0,Mandapeta,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,25,RAJAHMUNDRY,159.0,Anaparthy,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,25,RAJAHMUNDRY,168.0,Rajanagaram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,25,RAJAHMUNDRY,169.0,Rajahmundry City,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,25,RAJAHMUNDRY,170.0,Rajahmundry Rural,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,25,RAJAHMUNDRY,173.0,Kovvur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,25,RAJAHMUNDRY,174.0,Nidadavole,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,26,NARSAPURAM,175.0,Achanta,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,26,NARSAPURAM,176.0,Palacole,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,26,NARSAPURAM,177.0,Narsapuram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,26,NARSAPURAM,178.0,Bhimavaram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,26,NARSAPURAM,179.0,Undi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,26,NARSAPURAM,180.0,Tanuku,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,26,NARSAPURAM,181.0,Tadepalligudem,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,27,ELURU,182.0,Unguturu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,27,ELURU,183.0,Denduluru,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,27,ELURU,184.0,Eluru,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,27,ELURU,186.0,Polavaram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,27,ELURU,187.0,Chintalapudi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,27,ELURU,189.0,Nuzvid,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,27,ELURU,192.0,Kaikalur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,27,ELURU,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Andhra Pradesh,28,MACHILIPATNAM,190.0,Gannavaram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,28,MACHILIPATNAM,191.0,Gudivada,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,28,MACHILIPATNAM,193.0,Pedana,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,28,MACHILIPATNAM,194.0,Machilipatnam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,28,MACHILIPATNAM,195.0,Avanigadda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,28,MACHILIPATNAM,196.0,Pamarru,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,28,MACHILIPATNAM,197.0,Penamaluru,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,29,VIJAYAWADA,188.0,Tiruvuru,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,29,VIJAYAWADA,198.0,Vijayawada West,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,29,VIJAYAWADA,200.0,Vijayawada East,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,29,VIJAYAWADA,201.0,Mylavaram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,29,VIJAYAWADA,202.0,Nandigama,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,29,VIJAYAWADA,203.0,Jaggayyapeta,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,30,GUNTUR,205.0,Tadikonda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,30,GUNTUR,206.0,Mangalagiri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,30,GUNTUR,207.0,Ponnuru,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,30,GUNTUR,210.0,Tenali,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,30,GUNTUR,212.0,Prathipadu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,30,GUNTUR,213.0,Guntur West,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,30,GUNTUR,214.0,Guntur East,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,31,NARASARAOPET,204.0,Pedakurapadu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,31,NARASARAOPET,215.0,Chilakaluripet,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,31,NARASARAOPET,216.0,Narasaraopet,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,31,NARASARAOPET,217.0,Sattenapalli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,31,NARASARAOPET,218.0,Vinukonda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,31,NARASARAOPET,219.0,Gurajala,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,31,NARASARAOPET,220.0,Macherla,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,32,BAPATLA,208.0,Vemuru,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,32,BAPATLA,209.0,Repalle,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,32,BAPATLA,211.0,Bapatla,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,32,BAPATLA,223.0,Parchur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,32,BAPATLA,224.0,Addanki,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,32,BAPATLA,225.0,Chirala,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,33,ONGOLE,221.0,Yerragondapalem,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,33,ONGOLE,222.0,Darsi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,33,ONGOLE,227.0,Ongole,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,33,ONGOLE,229.0,Kondapi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,33,ONGOLE,230.0,Markapuram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,33,ONGOLE,231.0,Giddalur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,33,ONGOLE,232.0,Kanigiri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,34,NANDYAL,253.0,Allagadda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,34,NANDYAL,254.0,Srisailam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,34,NANDYAL,255.0,Nandikotkur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,34,NANDYAL,257.0,Panyam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,34,NANDYAL,258.0,Nandyal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,34,NANDYAL,259.0,Banaganapalle,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,34,NANDYAL,260.0,Dhone,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,35,KURNOOL,256.0,Kurnool,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,35,KURNOOL,261.0,Pattikonda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,35,KURNOOL,262.0,Kodumur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,35,KURNOOL,263.0,Yemmiganur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,35,KURNOOL,264.0,Mantralayam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,35,KURNOOL,265.0,Adoni,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,35,KURNOOL,266.0,Alur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,36,ANANTAPUR,267.0,Rayadurg,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,36,ANANTAPUR,268.0,Uravakonda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,36,ANANTAPUR,269.0,Guntakal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,36,ANANTAPUR,270.0,Tadpatri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,36,ANANTAPUR,271.0,Singanamala,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,36,ANANTAPUR,272.0,Anantapur Urban,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,36,ANANTAPUR,273.0,Kalyandurg,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,37,HINDUPUR,274.0,Raptadu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,37,HINDUPUR,275.0,Madakasira,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,37,HINDUPUR,276.0,Hindupur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,37,HINDUPUR,277.0,Penukonda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,37,HINDUPUR,278.0,Puttaparthi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,37,HINDUPUR,279.0,Dharmavaram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,37,HINDUPUR,280.0,Kadiri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,38,KADAPA,243.0,Badvel,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,38,KADAPA,245.0,Kadapa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,38,KADAPA,248.0,Pulivendla,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,38,KADAPA,249.0,Kamalapuram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,38,KADAPA,250.0,Jammalamadugu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,38,KADAPA,251.0,Proddatur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,38,KADAPA,252.0,Mydukur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,39,NELLORE,233.0,Kavali,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,39,NELLORE,235.0,Kovur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,39,NELLORE,236.0,Nellore City,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,39,NELLORE,237.0,Nellore Rural,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,39,NELLORE,242.0,Udayagiri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,40,TIRUPATI,238.0,Sarvepalli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,40,TIRUPATI,239.0,Gudur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,40,TIRUPATI,240.0,Sullurpeta,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,40,TIRUPATI,241.0,Venkatagiri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,40,TIRUPATI,286.0,Tirupati,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,40,TIRUPATI,287.0,Srikalahasti,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,41,RAJAMPET,244.0,Rajampet,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,41,RAJAMPET,246.0,Kodur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,41,RAJAMPET,247.0,Rayachoti,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,41,RAJAMPET,281.0,Thamballapalle,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,41,RAJAMPET,282.0,Pileru,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,41,RAJAMPET,283.0,Madanapalle,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,41,RAJAMPET,284.0,Punganur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,41,RAJAMPET,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Andhra Pradesh,42,CHITTOOR,285.0,Chandragiri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,42,CHITTOOR,289.0,Nagari,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,42,CHITTOOR,290.0,Gangadhara Nellore,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,42,CHITTOOR,291.0,Chittoor,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,42,CHITTOOR,292.0,Puthalapattu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,42,CHITTOOR,293.0,Palamaner,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,42,CHITTOOR,2004.0,Further,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Andhra Pradesh,42,CHITTOOR,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Arunachal Pradesh,1,ARUNACHAL WEST,2.0,Tawang,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Arunachal Pradesh,1,ARUNACHAL WEST,17.0,Ziro-Hapoli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Arunachal Pradesh,2,ARUNAHCAL EAST,57.0,Borduria-Bagapani,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Arunachal Pradesh,2,ARUNAHCAL EAST,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Assam,11,Kaliabor,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Assam,14,Lakhimpur,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Bihar,8,Supaul,44.0,Triveniganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Bihar,14,Darbhanga,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Bihar,31,Pataliputra,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Bihar,40,Jamui,169.0,Sheikhpura,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Bihar,40,Jamui,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Chhattisgarh,10,Bastar,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Chhattisgarh,11,Kanker,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Goa,2,South Goa,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Gujarat,2,Banaskantha,12.0,Palanpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,2,Banaskantha,13.0,Deesa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,6,Gandhinagar,36.0,Gandhinagar North,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,6,Gandhinagar,41.0,Ghatlodia,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,6,Gandhinagar,42.0,Vejalpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,6,Gandhinagar,55.0,Sabarmati,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,7,Ahmedabad East,35.0,Gandhinagar South,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,10,Rajkot,68.0,Rajkot East,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,10,Rajkot,69.0,Rajkot West,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,13,Junagadh,86.0,Junagadh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,14,Amreli,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Gujarat,15,Bhavnagar,103.0,Bhavnagar Rural,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,16,Anand,112.0,Anand,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,17,Kheda,116.0,Nadiad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,18,Panchmahal,126.0,Godhra,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,19,Dahod,130.0,Jhalod,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,25,Navsari,168.0,Choryasi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,26,Valsad,179.0,Valsad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Gujarat,26,Valsad,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Himachal Pradesh,1,Kangra,1.0,Churah,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,1,Kangra,3.0,Chamba,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,1,Kangra,4.0,Dalhousie,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,1,Kangra,5.0,Bhattiyat,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,1,Kangra,6.0,Nurpur,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,1,Kangra,7.0,Indora,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,1,Kangra,8.0,Fatehpur,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,1,Kangra,9.0,Jawali,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,1,Kangra,12.0,Jawalamukhi,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,1,Kangra,13.0,Jaisinghpur,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,1,Kangra,14.0,Sullah,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,1,Kangra,15.0,Nagrota,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,1,Kangra,16.0,Kangra,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,1,Kangra,17.0,Shahpur,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,1,Kangra,18.0,Dharamshala,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,1,Kangra,19.0,Palampur,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,2,Mandi,2.0,Bharmour,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,2,Mandi,21.0,Lahaul,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,2,Mandi,22.0,Manali,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,2,Mandi,23.0,Kullu,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,2,Mandi,24.0,Banjar,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,2,Mandi,25.0,Anni,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,2,Mandi,26.0,Karsog,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,2,Mandi,27.0,Sundernagar,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,2,Mandi,28.0,Nachan,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,2,Mandi,29.0,Seraj,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,2,Mandi,30.0,Darang,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,2,Mandi,31.0,Jogindernagar,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,2,Mandi,33.0,Mandi,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,2,Mandi,34.0,Balh,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,2,Mandi,35.0,Sarkaghat,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,2,Mandi,66.0,Rampur,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,10.0,Dehra,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,11.0,Jaswan-Pragpur,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,32.0,Dharampur,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,36.0,Bhoranj,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,37.0,Sujanpur,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,38.0,Hamirpur,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,39.0,Barsar,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,40.0,Nadaun,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,41.0,Chintpurni,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,42.0,Gagret,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,43.0,Haroli,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,44.0,Una,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,45.0,Kutlehar,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,46.0,Jhanduta,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,47.0,Ghumarwin,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,48.0,Bilaspur,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,49.0,Sri Naina Deviji,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,4.0,Shimla,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,50.0,Arki,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,51.0,Nalagarh,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,52.0,Doon,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,53.0,Solan,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,54.0,Kasauli,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,55.0,Pachhad,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,56.0,Nahan,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,57.0,Sri Renukaji,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,58.0,Paonta Sahib,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,59.0,Shillai,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,60.0,Chopal,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,61.0,Theog,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,62.0,Kasumpti,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,63.0,Shimla,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,64.0,Shimla Rural,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,65.0,Jubbal-Kotkhai,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,2004.0,Any reference to Ward of Municipal Corporation,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Himachal Pradesh,3,Hamirpur,,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Jharkhand,9,Jamshedpur,51.0,Seraikela,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Jharkhand,14,Hazaribagh,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Karnataka,28,Kolar,2004.0,Further,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,1,Kasaragod,1.0,Manjeshwar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,1,Kasaragod,2.0,Kasaragod,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,1,Kasaragod,5.0,Trikaripur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,1,Kasaragod,6.0,Payyannur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,1,Kasaragod,8.0,Taliparamba,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,1,Kasaragod,9.0,Irikkur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,1,Kasaragod,15.0,Mattannur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,1,Kasaragod,16.0,Peravoor,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,3,Vadakara,14.0,Kuthuparamba,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,3,Vadakara,21.0,Kuttiadi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,3,Vadakara,22.0,Nadapuram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,3,Vadakara,23.0,Quilandy,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,3,Vadakara,24.0,Perambra,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,4,Wayanad,17.0,Mananthavady,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,4,Wayanad,18.0,Sulthanbathery,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,4,Wayanad,19.0,Kalpetta,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,4,Wayanad,32.0,Thiruvambadi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,4,Wayanad,34.0,Ernad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,4,Wayanad,35.0,Nilambur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,5,Kozhikode,25.0,Balusseri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,5,Kozhikode,30.0,Kunnamangalam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,6,Malappuram,33.0,Kondotty,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,6,Malappuram,38.0,Perinthalmanna,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,6,Malappuram,39.0,Mankada,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,6,Malappuram,41.0,Vengara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,7,Ponnani,46.0,Kottakkal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,7,Ponnani,49.0,Thrithala,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,8,Palakkad,50.0,Pattambi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,8,Palakkad,51.0,Shoranur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,8,Palakkad,52.0,Ottappalam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,8,Palakkad,54.0,Mannarkkad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,8,Palakkad,55.0,Malampuzha,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,9,Alathur,57.0,Tarur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,9,Alathur,58.0,Chittur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,9,Alathur,59.0,Nemmara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,9,Alathur,60.0,Alathur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,9,Alathur,61.0,Chelakkara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,9,Alathur,62.0,Kunnamkulam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,10,Thrissur,70.0,Irinjalakuda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,10,Thrissur,71.0,Pudukkad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,11,Chalakudy,69.0,Kaipamangalam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,11,Chalakudy,72.0,Chalakudy,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,11,Chalakudy,74.0,Perumbavoor,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,11,Chalakudy,75.0,Angamaly,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,11,Chalakudy,76.0,Aluva,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,12,Ernakulam,77.0,Kalamassery,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,12,Ernakulam,78.0,Paravur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,12,Ernakulam,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Kerala,13,Idukki,86.0,Muvattupuzha,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,13,Idukki,87.0,Kothamangalam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,13,Idukki,88.0,Devikulam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,13,Idukki,90.0,Thodupuzha,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,14,Kottayam,94.0,Kaduthuruthy,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,14,Kottayam,96.0,Ettumanoor,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,14,Kottayam,97.0,Kottayam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,14,Kottayam,98.0,Puthuppally,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,15,Alappuzha,102.0,Aroor,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,15,Alappuzha,103.0,Cherthala,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,15,Alappuzha,107.0,Haripad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,15,Alappuzha,108.0,Kayamkulam,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,15,Alappuzha,116.0,Karunagappally,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,16,Mavelikkara,99.0,Changanassery,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,16,Mavelikkara,106.0,Kuttanad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,16,Mavelikkara,110.0,Chengannur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,17,Pathanamthitta,111.0,Thiruvalla,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,17,Pathanamthitta,113.0,Aranmula,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,17,Pathanamthitta,114.0,Konni,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,18,Kollam,121.0,Punalur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,18,Kollam,126.0,Chathannoor,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,19,Attingal,127.0,Varkala,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,19,Attingal,128.0,Attingal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,19,Attingal,131.0,Vamanapuram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,19,Attingal,136.0,Aruvikkara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Kerala,20,"Thiruvanantha puram                    -puram, 135- Nemom, 137- Parassala, 139- Kovalam and Particulars of Panchayats which are spread over in more than one district.",,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Madhya Pradesh,1,MORENA,4.0,Joura,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,1,MORENA,6.0,Morena,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,2,BHIND,11.0,Lahar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,2,BHIND,12.0,Mehgaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,9,SATNA,62.0,Raigaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,9,SATNA,64.0,Nagod,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,10,REWA,69.0,Semariya,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,10,REWA,75.0,Gurh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,11,SIDHI,80.0,Singrauli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,11,SIDHI,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Madhya Pradesh,12,SHAHDOL,85.0,Jaitpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,13,JABALPUR,96.0,Bargi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,14,MANDLA,106.0,Niwas,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,14,MANDLA,117.0,Lakhnadon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,15,BALAGHAT,112.0,Waraseoni,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,15,BALAGHAT,113.0,Katangi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,16,CHHINDWARA,122.0,Junnardeo,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,18,VIDISHA,145.0,Basoda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,20,RAJGARH,160.0,Narsinghgarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,20,RAJGARH,161.0,Biaora,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,20,RAJGARH,165.0,Susner,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,21,DEWAS,172.0,Hatpipliya,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,22,"UJJAIN (SC) 212 Nagada-Khachrod, 213 Mahidpur, 214 Tarana (SC)",,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Madhya Pradesh,23,MANDSOUR,222.0,Jaora,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,23,MANDSOUR,226.0,Suwasra,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,23,MANDSOUR,227.0,Garoth,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,23,MANDSOUR,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Madhya Pradesh,25,"DHAR (ST) 196 Sardarpur (ST), 197 Gandhwani (ST), 198 Kukshi (ST)",,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Madhya Pradesh,27,KHARGONE (ST) 183-Maheshwar (SC),184.0,Kasrawad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,27,KHARGONE (ST) 183-Maheshwar (SC),185.0,Khargone,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,27,KHARGONE (ST) 183-Maheshwar (SC),188.0,Rajpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,27,KHARGONE (ST) 183-Maheshwar (SC),189.0,Pansemal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,28,KHANDWA,179.0,Nepanagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,28,KHANDWA,181.0,Bikhangaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,28,KHANDWA,182.0,Badwah,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,29,BETUL,133.0,Bhainsdehi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Madhya Pradesh,29,BETUL,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Maharashtra,2,Dhule,6.0,Dhule Rural,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,2,Dhule,7.0,Dhule City,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,2,Dhule,8.0,Sindkheda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,2,Dhule,115.0,Malegaon Outer,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,3,Jalgaon,13.0,Jalgaon City,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,3,Jalgaon,14.0,Jalgaon Rural,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,3,Jalgaon,15.0,Amalner,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,3,Jalgaon,16.0,Erandol,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,3,Jalgaon,17.0,Chalisgaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,3,Jalgaon,18.0,Pachora,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,4,Raver,10.0,Chopda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,4,Raver,12.0,Bhusawal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,4,Raver,19.0,Jamner,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,4,Raver,21.0,Malkapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,5,Buldhana,22.0,Buldhana,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,5,Buldhana,23.0,Chikhli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,5,Buldhana,24.0,Sindkhed Raja,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,5,Buldhana,26.0,Khamgaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,6,Akola,28.0,Akot,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,6,Akola,29.0,Balapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,6,Akola,30.0,Akola West,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,6,Akola,31.0,Akola East,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,6,Akola,32.0,Murtizapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,6,Akola,33.0,Risod,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,7,Amravati,37.0,Badnera,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,7,Amravati,38.0,Amravati,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,7,Amravati,39.0,Teosa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,7,Amravati,40.0,Daryapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,7,Amravati,41.0,Melghat,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,7,Amravati,42.0,Achalpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,8,Wardha,36.0,Dhamangaon Railway,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,8,Wardha,43.0,Morshi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,8,Wardha,44.0,Arvi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,8,Wardha,45.0,Deoli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,8,Wardha,46.0,Hinganghat,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,8,Wardha,47.0,Wardha,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,9,Ramtek,48.0,Katol,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,9,Ramtek,49.0,Savner,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,9,Ramtek,50.0,Hingna,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,9,Ramtek,51.0,Umred,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,9,Ramtek,58.0,Kamthi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,9,Ramtek,59.0,Ramtek,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,10,"Nagpur 52 Nagpur South West, 53. Nagpur South, 54. Nagpur East",55.0,Nagpur Central,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,10,"Nagpur 52 Nagpur South West, 53. Nagpur South, 54. Nagpur East",56.0,Nagpur West,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,11,"Bhandara Gondiya           (SC), 64. Tirora and 65. Gondiya.",60.0,Tumsar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,11,"Bhandara Gondiya           (SC), 64. Tirora and 65. Gondiya.",61.0,Bhandara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,11,"Bhandara Gondiya           (SC), 64. Tirora and 65. Gondiya.",62.0,Sakoli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,11,"Bhandara Gondiya           (SC), 64. Tirora and 65. Gondiya.",63.0,Arjuni-Morgaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,12,Gadchiroli Chimur (ST),66.0,Amgaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,12,Gadchiroli Chimur (ST),67.0,Armori,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,12,Gadchiroli Chimur (ST),68.0,Gadchiroli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,12,Gadchiroli Chimur (ST),69.0,Aheri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,12,Gadchiroli Chimur (ST),73.0,Brahmapuri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,12,Gadchiroli Chimur (ST),74.0,Chimur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,13,Chandrapur,70.0,Rajura,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,13,Chandrapur,72.0,Ballarpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,13,Chandrapur,75.0,Warora,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,13,Chandrapur,76.0,Wani,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,14,Yavatmal,34.0,Washim,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,14,Yavatmal,35.0,Karanja,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,14,Yavatmal,77.0,Ralegaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,14,Yavatmal,78.0,Yavatmal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,14,Yavatmal,79.0,Digras,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,14,Yavatmal,81.0,Pusad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,14,Yavatmal,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Maharashtra,15,Hingoli,82.0,Umarkhed,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,15,Hingoli,83.0,Kinwat,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,15,Hingoli,84.0,Hadgaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,15,Hingoli,93.0,Kalamnuri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,15,Hingoli,94.0,Hingoli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,16,Nanded,85.0,Bhokar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,16,Nanded,86.0,Nanded North,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,16,Nanded,87.0,Nanded South,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,16,Nanded,90.0,Deglur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,16,Nanded,91.0,Mukhed,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,17,Parbhani,95.0,Jintur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,17,Parbhani,96.0,Parbhani,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,17,Parbhani,97.0,Gangakhed,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,17,Parbhani,99.0,Partur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,17,Parbhani,100.0,Ghansawangi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,18,Jalna,101.0,Jalna,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,18,Jalna,102.0,Badnapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,18,Jalna,103.0,Bhokardan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,18,Jalna,104.0,Sillod,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,18,Jalna,106.0,Phulambri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,18,Jalna,110.0,Paithan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,19,Aurangabad,105.0,Kannad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,19,Aurangabad,107.0,Aurangabad Central,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,19,Aurangabad,108.0,Aurangabad West,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,19,Aurangabad,109.0,Aurangabad East,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,19,Aurangabad,111.0,Gangapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,19,Aurangabad,112.0,Vaijapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,20,Dindori,113.0,Nandgaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,20,Dindori,117.0,Kalwan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,20,Dindori,118.0,Chandvad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,20,Dindori,119.0,Yevla,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,20,Dindori,121.0,Niphad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,21,Nashik,120.0,Sinnar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,21,Nashik,123.0,Nashik East,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,21,Nashik,124.0,Nashik Central,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,21,Nashik,125.0,Nashik West,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,21,Nashik,126.0,Deolali,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,22,Palghar,128.0,Dahanu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,22,Palghar,129.0,Vikramgad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,22,Palghar,131.0,Boisar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,22,Palghar,132.0,Nalasopara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,22,Palghar,133.0,Vasai,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,23,"Bhiwandi 134 Bhiwandi Rural (ST), 135. Shahapur (ST), 136. Bhiwandi",137.0,Bhiwandi East,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,23,"Bhiwandi 134 Bhiwandi Rural (ST), 135. Shahapur (ST), 136. Bhiwandi",138.0,Kalyan West,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,23,"Bhiwandi 134 Bhiwandi Rural (ST), 135. Shahapur (ST), 136. Bhiwandi",139.0,Murbad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,24,Kalyan,143.0,Dombivali,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,24,Kalyan,140.0,Ambernath,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,24,Kalyan,141.0,Ulhas Nagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,24,Kalyan,142.0,Kalyan East,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,24,Kalyan,144.0,Kalyan Rural,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,24,Kalyan,149.0,Mumbra-Kalwa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,25,Thane,145.0,Mira Bhayandar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,25,Thane,150.0,Airoli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,25,Thane,151.0,Belapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,26,Mumbai North,152.0,Borivali,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,26,Mumbai North,153.0,Dahisar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,26,Mumbai North,161.0,Charkop,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,26,Mumbai North,162.0,Malad West,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,27,Mumbai North West,158.0,Jogeshwari East,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,27,Mumbai North West,159.0,Dindoshi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,27,Mumbai North West,165.0,Andheri West,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,28,"Mumbai North- 155 Mulund, 156. Vikhroli, 157. Bhandup West, 169. Ghatkopar East             West, 170. Ghatkopar East and 171 Mankhurd Shivaji Nagar.",,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Maharashtra,29,"Mumbai North Central          East, 177. Vandre West and 175. Kalina.",167.0,Vile Parle,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,29,"Mumbai North Central          East, 177. Vandre West and 175. Kalina.",174.0,Kurla,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,29,"Mumbai North Central          East, 177. Vandre West and 175. Kalina.",176.0,Vandre,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,30,Mumbai South Central,172.0,Anushakti Nagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,30,Mumbai South Central,178.0,Dharavi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,30,Mumbai South Central,179.0,Sion Koliwada,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,30,Mumbai South Central,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Maharashtra,31,Mumbai South,182.0,Worli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,31,Mumbai South,183.0,Shivadi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,31,Mumbai South,185.0,Malabar Hill,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,31,Mumbai South,186.0,Mumbadevi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,31,Mumbai South,187.0,Colaba,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,32,Raigad,191.0,Pen,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,32,Raigad,192.0,Alibag,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,32,Raigad,193.0,Shrivardhan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,32,Raigad,194.0,Mahad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,32,Raigad,263.0,Dapoli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,32,Raigad,264.0,Guhagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,33,Maval,188.0,Panvel,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,33,Maval,189.0,Karjat,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,33,Maval,190.0,Uran,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,33,Maval,204.0,Maval,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,33,Maval,205.0,Chinchwad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,34,Pune,208.0,Vadgaon Sheri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,34,Pune,209.0,Shivajinagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,34,Pune,210.0,Kothrud,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,34,Pune,212.0,Parvati,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,34,Pune,215.0,Kasba Peth,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,35,Baramati,199.0,Daund,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,35,Baramati,200.0,Indapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,35,Baramati,201.0,Baramati,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,35,Baramati,202.0,Purandar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,35,Baramati,203.0,Bhor,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,35,Baramati,211.0,Khadakwasala,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,36,Shirur,195.0,Junnar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,36,Shirur,196.0,Ambegaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,36,Shirur,197.0,Khed Alandi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,36,Shirur,198.0,Shirur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,36,Shirur,207.0,Bhosari,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,36,Shirur,213.0,Hadapsar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,37,Ahmednagar,222.0,Shevgaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,37,Ahmednagar,223.0,Rahuri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,37,Ahmednagar,224.0,Parner,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,37,Ahmednagar,226.0,Shrigonda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,37,Ahmednagar,227.0,Karjat Jamkhed,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,38,Shirdi,216.0,Akole,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,38,Shirdi,217.0,Sangamner,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,38,Shirdi,218.0,Shirdi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,38,Shirdi,219.0,Kopargaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,38,Shirdi,220.0,Shrirampur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,38,Shirdi,221.0,Nevasa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,39,Beed,228.0,Georai,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,39,Beed,229.0,Majalgaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,39,Beed,230.0,Beed,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,39,Beed,232.0,Kaij,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,39,Beed,233.0,Parli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,40,Osmanabad,239.0,Ausa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,40,Osmanabad,240.0,Umarga,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,40,Osmanabad,241.0,Tuljapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,40,Osmanabad,242.0,Osmanabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,40,Osmanabad,243.0,Paranda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,40,Osmanabad,246.0,Barshi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,41,Latur,234.0,Latur Rural,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,41,Latur,235.0,Latur City,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,41,Latur,236.0,Ahmadpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,41,Latur,237.0,Udgir,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,41,Latur,238.0,Nilanga,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,42,Solapur,247.0,Mohol,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,42,Solapur,248.0,Solapur City North,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,42,Solapur,250.0,Akkalkot,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,42,Solapur,251.0,Solapur South,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,42,Solapur,252.0,Pandharpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,43,Madha,244.0,Karmala,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,43,Madha,245.0,Madha,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,43,Madha,253.0,Sangole,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,43,Madha,254.0,Malshiras,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,43,Madha,255.0,Phaltan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,43,Madha,258.0,Man,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,44,Sangli,281.0,Miraj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,44,Sangli,282.0,Sangli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,44,Sangli,285.0,Palus-Kadegaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,44,Sangli,286.0,Khanapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,44,Sangli,287.0,Tasgaon-Kavathe Mahankal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,44,Sangli,288.0,Jat,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,45,Satara,256.0,Wai,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,45,Satara,259.0,Karad North,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,45,Satara,260.0,Karad South,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,45,Satara,261.0,Patan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,45,Satara,262.0,Satara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,46,Ratnagiri – Sindhudurg,270.0,Sawantwadi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,46,Ratnagiri – Sindhudurg,265.0,Chiplun,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,46,Ratnagiri – Sindhudurg,266.0,Ratnagiri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,46,Ratnagiri – Sindhudurg,267.0,Rajapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,46,Ratnagiri – Sindhudurg,268.0,Kankavli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,46,Ratnagiri – Sindhudurg,269.0,Kudal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,46,Ratnagiri – Sindhudurg,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Maharashtra,47,Kolhapur,271.0,Chandgad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,47,Kolhapur,272.0,Radhanagari,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,47,Kolhapur,273.0,Kagal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,47,Kolhapur,275.0,Karvir,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,48,Hatkanangle,277.0,Shahuwadi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,48,Hatkanangle,278.0,Hatkanangle,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,48,Hatkanangle,279.0,Ichalkaranji,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,48,Hatkanangle,280.0,Shirol,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,48,Hatkanangle,283.0,Islampur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Maharashtra,48,Hatkanangle,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Meghalaya,1,SHILLONG,1.0,Nartiang,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Meghalaya,1,SHILLONG,25.0,Mawsynram,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Meghalaya,1,SHILLONG,31.0,Mawthadraishan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Meghalaya,1,SHILLONG,32.0,Nongstoin,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Meghalaya,2,TURA,38.0,Mendipathar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Meghalaya,2,TURA,40.0,Bajengdoba,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Meghalaya,2,TURA,41.0,Songsak,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Meghalaya,2,TURA,42.0,Rongjeng,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Meghalaya,2,TURA,43.0,William Nagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Meghalaya,2,TURA,48.0,Selsella,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Meghalaya,2,TURA,50.0,North Tura,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Meghalaya,2,TURA,53.0,Ampati,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Meghalaya,2,TURA,54.0,Mahendraganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Meghalaya,2,TURA,59.0,Chokpot,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Meghalaya,2,TURA,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Orissa,7,BHADRAK,42.0,Simulia,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Orissa,9,DHENKANAL,55.0,Dhenkanal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Orissa,10,BOLANGIR,64.0,Birmaharajpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Orissa,10,BOLANGIR,65.0,Sonepur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Orissa,12,"NABARANGPUR (ST) 73. Umarkote (ST), 74. Jharigam (ST), 75. Nabarangpur (ST)",,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Orissa,18,BHUBANESWAR,111.0,Jayadev,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Orissa,21,KORAPUT,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Punjab,11,Bathinda,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Punjab,13,Patiala,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Rajasthan,1,Ganganagar (SC),1.0,Sadulshahar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,1,Ganganagar (SC),8.0,Hanumangarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,1,Ganganagar (SC),9.0,Pilibanga,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,2,Bikaner,12.0,Khajuwala,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,2,Bikaner,13.0,Bikaner West,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,2,Bikaner,15.0,Kolayat,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,2,Bikaner,16.0,Lunkaransar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,2,Bikaner,17.0,Dungargarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,2,Bikaner,18.0,Nokha,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,3,Churu,19.0,Sadulpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,3,Churu,20.0,Taranagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,3,Churu,21.0,Sardarshahar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,3,Churu,22.0,Churu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,3,Churu,23.0,Ratangarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,3,Churu,24.0,Sujangarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,4,Jhunjhunu,25.0,Pilani,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,4,Jhunjhunu,26.0,Surajgarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,4,Jhunjhunu,27.0,Jhunjhunu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,4,Jhunjhunu,28.0,Mandawa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,4,Jhunjhunu,29.0,Nawalgarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,4,Jhunjhunu,30.0,Udaipurwati,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,4,Jhunjhunu,31.0,Khetri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,4,Jhunjhunu,32.0,Fatehpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,5,Sikar,34.0,Dhod,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,5,Sikar,35.0,Sikar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,5,Sikar,36.0,Danta Ramgarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,5,Sikar,37.0,Khandela,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,5,Sikar,38.0,Neem Ka Thana,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,5,Sikar,39.0,Srimadhopur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,5,Sikar,43.0,Chomu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,6,Jaipur Rural,40.0,Kotputli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,6,Jaipur Rural,41.0,Viratnagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,6,Jaipur Rural,42.0,Shahpura,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,6,Jaipur Rural,44.0,Phulera,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,6,Jaipur Rural,46.0,Jhotwara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,6,Jaipur Rural,47.0,Amber,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,6,Jaipur Rural,48.0,Jamwa Ramgarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,6,Jaipur Rural,63.0,Bansur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,7,Jaipur,49.0,Hawa Mahal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,7,Jaipur,50.0,Vidhyadhar Nagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,7,Jaipur,51.0,Civil Lines,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,7,Jaipur,53.0,Adarsh Nagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,7,Jaipur,54.0,Malviya Nagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,7,Jaipur,55.0,Sanganer,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,7,Jaipur,56.0,Bagru,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,8,Alwar,59.0,Tijara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,8,Alwar,60.0,Kishangarh Bas,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,8,Alwar,61.0,Mundawar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,8,Alwar,62.0,Behror,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,8,Alwar,66.0,Alwar Urban,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,9,Bharatpur,69.0,Kathumar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,9,Bharatpur,70.0,Kaman,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,9,Bharatpur,71.0,Nagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,9,Bharatpur,73.0,Bharatpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,9,Bharatpur,74.0,Nadbai,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,9,Bharatpur,75.0,Weir,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,9,Bharatpur,76.0,Bayana,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,10,"Karauli – Dholpur (SC)       (ST), 82-Hindaun (SC), 83-Karauli and 84-Sapotra (ST)",77.0,Baseri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,10,"Karauli – Dholpur (SC)       (ST), 82-Hindaun (SC), 83-Karauli and 84-Sapotra (ST)",78.0,Bari,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,10,"Karauli – Dholpur (SC)       (ST), 82-Hindaun (SC), 83-Karauli and 84-Sapotra (ST)",79.0,Dholpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,10,"Karauli – Dholpur (SC)       (ST), 82-Hindaun (SC), 83-Karauli and 84-Sapotra (ST)",80.0,Rajakhera,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,10,"Karauli – Dholpur (SC)       (ST), 82-Hindaun (SC), 83-Karauli and 84-Sapotra (ST)",81.0,Todabhim,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,11,Dausa,57.0,Bassi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,11,Dausa,58.0,Chaksu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,11,Dausa,64.0,Thanagazi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,11,Dausa,85.0,Bandikui,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,11,Dausa,86.0,Mahuwa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,11,Dausa,87.0,Sikrai,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,11,Dausa,88.0,Dausa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,11,Dausa,89.0,Lalsot,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,12,Tonk – Sawai,90.0,Gangapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,12,Tonk – Sawai,91.0,Bamanwas,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,12,Tonk – Sawai,92.0,Sawai Madhopur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,12,Tonk – Sawai,94.0,Malpura,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,12,Tonk – Sawai,95.0,Niwai,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,12,Tonk – Sawai,96.0,Tonk,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,13,Ajmer,45.0,Dudu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,13,Ajmer,98.0,Kishangarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,13,Ajmer,99.0,Pushkar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,13,Ajmer,100.0,Ajmer North,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,13,Ajmer,101.0,Ajmer South,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,13,Ajmer,102.0,Nasirabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,13,Ajmer,104.0,Masuda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,13,Ajmer,105.0,Kekri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,14,Nagaur,106.0,Ladnun,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,14,Nagaur,107.0,Deedwana,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,14,Nagaur,108.0,Jayal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,14,Nagaur,109.0,Nagaur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,14,Nagaur,110.0,Khinvsar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,14,Nagaur,113.0,Makrana,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,14,Nagaur,114.0,Parbatsar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,14,Nagaur,115.0,Nawan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,15,Pali,118.0,Pali,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,15,Pali,119.0,Marwar Junction,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,15,Pali,120.0,Bali,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,15,Pali,121.0,Sumerpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,15,Pali,125.0,Osian,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,15,Pali,126.0,Bhopalgarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,15,Pali,131.0,Bilara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,15,Pali,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Rajasthan,16,Jodhpur,122.0,Phalodi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,16,Jodhpur,123.0,Lohawat,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,16,Jodhpur,124.0,Shergarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,16,Jodhpur,127.0,Sardarpura,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,16,Jodhpur,128.0,Jodhpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,16,Jodhpur,129.0,Soorsagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,16,Jodhpur,130.0,Luni,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,16,Jodhpur,133.0,Pokaran,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,17,Barmer,132.0,Jaisalmer,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,17,Barmer,134.0,Sheo,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,17,Barmer,135.0,Barmer,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,17,Barmer,136.0,Baytoo,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,17,Barmer,137.0,Pachpadra,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,17,Barmer,138.0,Siwana,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,17,Barmer,139.0,Gudha Malani,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,17,Barmer,140.0,Chohtan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,18,Jalore,141.0,Ahore,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,18,Jalore,142.0,Jalore,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,18,Jalore,143.0,Bhinmal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,18,Jalore,144.0,Sanchore,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,18,Jalore,145.0,Raniwara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,18,Jalore,146.0,Sirohi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,18,Jalore,147.0,Pindwara-Abu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,18,Jalore,148.0,Reodar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,19,Udaipur,149.0,Gogunda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,19,Udaipur,150.0,Jhadol,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,19,Udaipur,151.0,Kherwara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,19,Udaipur,152.0,Udaipur Rural,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,19,Udaipur,153.0,Udaipur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,19,Udaipur,156.0,Salumber,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,19,Udaipur,157.0,Dhariawad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,19,Udaipur,159.0,Aspur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,20,Banswara,158.0,Dungarpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,20,Banswara,160.0,Sagwara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,20,Banswara,161.0,Chorasi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,20,Banswara,162.0,Ghatol,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,20,Banswara,163.0,Garhi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,20,Banswara,164.0,Banswara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,20,Banswara,165.0,Bagidora,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,21,Chittorgarh,154.0,Mavli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,21,Chittorgarh,155.0,Vallabhnagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,21,Chittorgarh,167.0,Kapasan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,21,Chittorgarh,168.0,Begun,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,21,Chittorgarh,169.0,Chittorgarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,21,Chittorgarh,171.0,Bari Sadri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,22,Rajsamand,103.0,Beawar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,22,Rajsamand,111.0,Merta,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,22,Rajsamand,112.0,Degana,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,22,Rajsamand,116.0,Jaitaran,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,22,Rajsamand,173.0,Bhim,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,22,Rajsamand,175.0,Rajsamand,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,22,Rajsamand,176.0,Nathdwara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,23,Bhilwara,177.0,Asind,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,23,Bhilwara,179.0,Sahara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,23,Bhilwara,180.0,Bhilwara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,23,Bhilwara,181.0,Shahpura,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,23,Bhilwara,182.0,Jahazpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,23,Bhilwara,184.0,Hindoli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,24,Kota,186.0,Bundi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,24,Kota,187.0,Pipalda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,24,Kota,189.0,Kota North,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,24,Kota,190.0,Kota South,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,24,Kota,191.0,Ladpura,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,24,Kota,192.0,Ramganj Mandi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,25,Jhalawar,193.0,Anta,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,25,Jhalawar,195.0,Baran-Atru,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,25,Jhalawar,197.0,Dag,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Rajasthan,25,Jhalawar,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Tamil Nadu,1,"TIRUVALLUR (SC) 1 Gummidipoondi, 2 Ponneri (SC), 4 Tiruvallur",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,2,"CHENNAI NORTH 10 Tiruvottiyur, 11 Dr.Radhakrishnan Nagar, 12 Perambur",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,3,"CHENNAI SOUTH 22Virugambakkam, 23Saidapet, 24 Thiyagarayanagar",4.0,CHENNAI CENTRAL 14 Villivakkam,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,3,"CHENNAI SOUTH 22Virugambakkam, 23Saidapet, 24 Thiyagarayanagar",18.0,Harbour,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,5,"SRIPERUMBUDUR 7 Maduravoyal, 8 Ambattur, 28 Alandur, 29 Sriperumbudur",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,6,"KANCHEEPURAM (SC) 32 Chengalpattu, 33 Thiruporur, 34 Cheyyur (SC)",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,7,"ARAKKONAM 3 Tiruttani, 38 Arakkonam (SC), 39 Sholingur, 40 Katpadi",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,8,"VELLORE 43 Vellore, 44 Anaikattu, 45 Kilvaithinankuppam (SC)",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,9,"KRISHNAGIRI 51 Uthangarai (SC), 52 Bargur, 53 Krishnagiri",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,10,"DHARMAPURI 57 Palacodu, 58 Pennagaram, 59 Dharmapuri",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,11,"TIRUVANNAMALAI 49 Jolarpet, 50 Tiruppattur, 62 Chengam (SC)",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,12,"ARANI 66 Polur, 67 Arani, 68 Cheyyar, 69 Vandavasi (SC)",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,13,"VILUPPURAM (SC) 72 Tindivanam (SC), 73 Vanur (SC), 74 Viluppuram",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,14,"KALLAKURICHI 78 Rishivandiyam, 79 Sankarapuram, 80 Kallakurichi (SC)",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,15,"SALEM 84 Omalur, 86 Edappadi, 88 Salem (West), 89 Salem",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,16,"NAMAKKAL 87 Sankari, 92 Rasipuram (SC), 93 Senthamangalam (ST)",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,17,"ERODE 97 Kumarapalayam, 98 Erode (East), 99 Erode (West)",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,18,"TIRUPPUR 103 Perundurai, 104 Bhavani, 105 Anthiyur",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,19,"NILGIRIS (SC) 107 Bhavanisagar (SC), 108 Udhagamandalam, 109 Gudalur",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,20,"COIMBATORE 115 Palladam, 116 Sulur, 117 Kavundampalayam",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,21,"POLLACHI 119 Thondamuthur, 122 Kinathukadavu, 123 Pollachi",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,22,"DINDIGUL 127 Palani, 128 Oddanchatram, 129 Attur, 130 Nilakkottai",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,23,"KARUR 133 Vedasandur, 134 Aravakurichi, 135 Karur",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,24,"TIRUCHIRAPPALLI 139 Srirangam, 140 Tiruchirappalli (West), 141 Tiruchirappalli",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,25,"PERAMBALUR 137 Kulithalai, 143 Lalgudi, 144 Manachanallur 145 Musiri",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,26,"CUDDALORE 151 Tittakudi (SC), 152 Vriddhachalam, 153 Neyveli, 154",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,27,"CHIDAMBARAM (SC) 148 Kunnam, 149 Ariyalur, 150 Jayankondam, 157",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,28,"MAYILADUTHURAI 160 Sirkazhi (SC), 161 Mayiladuthurai, 162 Poompuhar",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,29,"NAGAPATTINAM (SC) 163 Nagapattinam, 164 Kilvelur (SC), 165 Vedaranyam",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,30,"THANJAVUR 167 Mannargudi, 173 Thiruvaiyaru, 174 Thanjavur",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,31,"SIVAGANGA 181 Thirumayam, 182 Alangudi, 184 Karaikudi",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,32,"MADURAI 188 Melur, 189 Madurai East, 191 Madurai North, 192",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,33,"THENI 190 Sholavandan (SC), 197 Usilampatti, 198 Andipatti",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,34,"VIRUDHUNAGAR 195 Thiruparankundram, 196 Tirumangalam, 204 Sattur",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,35,"RAMANATHAPURAM 183 Aranthangi , 208 Tiruchuli, 209 Paramakudi (SC), 210",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,36,"THOOTHUKKUDI 213 Vilathikulam, 214 Thoothukkudi, 215 Tiruchendur",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,37,"TENKASI (SC) 202 Rajapalayam, 203 Srivilliputhur (SC), 219 Sankarankovil",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,38,"TIRUNELVELI 223 Alangulam, 224 Tirunelveli, 225 Ambasamudram",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,39,"KANNIYAKUMARI 229 Kanniyakumari, 230 Nagercoil, 231 Colachel",2004.0,Further,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tamil Nadu,39,"KANNIYAKUMARI 229 Kanniyakumari, 230 Nagercoil, 231 Colachel",,,,unknown,unmatched,low,,,delimitation_order_2008,unknown_state
+Tripura,1,Tripura West,2.0,Mohanpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Tripura,1,Tripura West,9.0,Banamalipur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Tripura,1,Tripura West,10.0,Majlishpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Tripura,1,Tripura West,15.0,Kamalasagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Tripura,1,Tripura West,17.0,Golaghati,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Tripura,1,Tripura West,20.0,Boxanagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Tripura,1,Tripura West,23.0,Dhanpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Tripura,1,Tripura West,31.0,Radhakishorepur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Tripura,1,Tripura West,32.0,Matarbari,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Tripura,1,Tripura West,33.0,Kakraban-Salgarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Tripura,1,Tripura West,35.0,Belonia,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Tripura,1,Tripura West,36.0,Santirbazar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Tripura,2,Tripura East,38.0,Jolaibari,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Tripura,2,Tripura East,54.0,Kadamtala-Kurti,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Tripura,2,Tripura East,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Uttar Pradesh,4,Bijnor,16.0,Meerapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,6,Moradabad,25.0,Kanth,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,6,Moradabad,27.0,Moradabad Rural,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,6,Moradabad,28.0,Moradabad Nagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,8,Sambhal,31.0,Chandausi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,9,Amroha,40.0,Naugawan Sadat,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,9,Amroha,41.0,Amroha,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,9,Amroha,60.0,Garhmukteshwar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,10,Meerut,46.0,Kithore,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,10,Meerut,48.0,Meerut,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,11,Baghpat,43.0,Siwalkhas,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,11,Baghpat,50.0,Chhaprauli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,11,Baghpat,51.0,Baraut,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,11,Baghpat,52.0,Baghpat,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,12,Ghaziabad,56.0,Ghaziabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,13,Gautam Buddha,61.0,Noida,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,13,Gautam Buddha,62.0,Dadri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,13,Gautam Buddha,64.0,Sikandrabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,14,Bulandshahr,66.0,Syana,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,15,Aligarh,73.0,Atrauli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,15,Aligarh,76.0,Aligarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,15,Aligarh,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Uttar Pradesh,16,Hathras,74.0,Chharra,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,16,Hathras,77.0,Iglas,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,16,Hathras,79.0,Sadabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,16,Hathras,80.0,Sikandra Rao,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,17,Mathura,83.0,Goverdhan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,18,Agra,86.0,Etmadpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,18,Agra,88.0,Agra South,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,18,Agra,89.0,Agra North,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,19,Fatehpur Sikri,90.0,Agra Rural,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,19,Fatehpur Sikri,92.0,Kheragarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,19,Fatehpur Sikri,93.0,Fatehabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,19,Fatehpur Sikri,94.0,Bah,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,20,Firozabad,97.0,Firozabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,20,Firozabad,99.0,Sirsaganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,21,Mainpuri,107.0,Mainpuri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,21,Mainpuri,108.0,Bhongaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,21,Mainpuri,109.0,Kishni,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,21,Mainpuri,110.0,Karhal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,21,Mainpuri,199.0,Jaswantnagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,22,Etah,100.0,Kasganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,22,Etah,102.0,Patiyali,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,22,Etah,104.0,Etah,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,22,Etah,105.0,Marhara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,23,Badaun,111.0,Gunnaur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,23,Badaun,113.0,Sahaswan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,24,Aonla,116.0,Shekhupur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,24,Aonla,117.0,Dataganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,24,Aonla,122.0,Faridpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,24,Aonla,126.0,Aonla,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,25,Bareilly,119.0,Meerganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,25,Bareilly,120.0,Bhojipura,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,25,Bareilly,121.0,Nawabganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,25,Bareilly,125.0,Bareilly Cantt,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,26,Pilibhit,118.0,Baheri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,26,Pilibhit,127.0,Pilibhit,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,26,Pilibhit,130.0,Bisalpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,27,Shahjahanpur,131.0,Katra,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,27,Shahjahanpur,132.0,Jalalabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,27,Shahjahanpur,133.0,Tilhar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,27,Shahjahanpur,134.0,Powayan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,27,Shahjahanpur,136.0,Dadral,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,28,Kheri,137.0,Palia,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,28,Kheri,138.0,Nighasan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,28,Kheri,139.0,Gola Gokrannath,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,29,Dhaurahra,141.0,Dhaurahra,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,29,Dhaurahra,144.0,Mohammdi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,30,Sitapur,148.0,Laharpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,30,Sitapur,149.0,Biswan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,30,Sitapur,150.0,Sevata,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,30,Sitapur,151.0,Mahmoodabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,31,Hardoi,154.0,Sawayazpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,31,Hardoi,156.0,Hardoi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,32,Misrikh,160.0,Balamau,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,32,Misrikh,161.0,Sandila,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,32,Misrikh,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Uttar Pradesh,33,Unnao,162.0,Bangermau,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,33,Unnao,163.0,Safipur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,33,Unnao,164.0,Mohan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,33,Unnao,166.0,Bhagwantnagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,34,Mohanlalganj,152.0,Sidhauli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,34,Mohanlalganj,168.0,Malihabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,34,Mohanlalganj,169.0,Bakshi Kaa Talab,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,34,Mohanlalganj,170.0,Sarojini Nagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,35,Lucknow,171.0,Lucknow West,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,35,Lucknow,172.0,Lucknow North,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,35,Lucknow,173.0,Lucknow East,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,35,Lucknow,174.0,Lucknow Central,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,36,Rae Bareli,177.0,Bachhrawan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,36,Rae Bareli,179.0,Harchandpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,36,Rae Bareli,180.0,Rae Bareli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,36,Rae Bareli,182.0,Sareni,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,36,Rae Bareli,183.0,Unchahar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,37,Amethi,178.0,Tiloi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,37,Amethi,181.0,Salon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,37,Amethi,186.0,Amethi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,38,Sultanpur,190.0,Lambhua,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,39,Pratapgarh,244.0,Rampur Khas,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,39,Pratapgarh,247.0,Vishwanath Ganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,39,Pratapgarh,248.0,Pratapgarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,39,Pratapgarh,250.0,Raniganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,40,Farrukhabad,103.0,Aliganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,40,Farrukhabad,192.0,Kaimganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,40,Farrukhabad,194.0,Farrukhabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,40,Farrukhabad,195.0,Bhojpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,41,Etawah,200.0,Etawah,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,41,Etawah,201.0,Bharthana,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,41,Etawah,203.0,Dibiyapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,41,Etawah,207.0,Sikandra,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,42,Kannauj,196.0,Chhibramau,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,42,Kannauj,197.0,Tirwa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,42,Kannauj,198.0,Kannauj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,42,Kannauj,202.0,Bidhuna,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,43,Kanpur,212.0,Govindnagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,43,Kanpur,213.0,Sishamau,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,43,Kanpur,214.0,Arya Nagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,43,Kanpur,216.0,Kanpur Cantt,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,44,Akbarpur,206.0,Akbarpur-Raniya,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,44,Akbarpur,210.0,Bithoor,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,44,Akbarpur,211.0,Kalyanpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,44,Akbarpur,217.0,Maharajpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,45,Jalaun,208.0,Bhognipur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,45,Jalaun,219.0,Madhaugarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,45,Jalaun,220.0,Kalpi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,45,Jalaun,221.0,Orai,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,45,Jalaun,225.0,Garautha,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,46,Jhansi,222.0,Babina,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,46,Jhansi,223.0,Jhansi Nagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,46,Jhansi,224.0,Mauranipur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,47,Hamirpur,228.0,Hamirpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,47,Hamirpur,229.0,Rath,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,47,Hamirpur,230.0,Mahoba,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,47,Hamirpur,232.0,Tindwari,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,48,Banda,233.0,Baberu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,48,Banda,234.0,Naraini,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,48,Banda,235.0,Banda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,48,Banda,236.0,Chitrakoot,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,49,Fatehpur,238.0,Jahanabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,49,Fatehpur,239.0,Bindki,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,49,Fatehpur,241.0,Ayah Shah,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,49,Fatehpur,242.0,Husainganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,49,Fatehpur,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Uttar Pradesh,50,Kaushambi,245.0,Babaganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,50,Kaushambi,251.0,Sirathu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,50,Kaushambi,252.0,Manjhanpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,50,Kaushambi,253.0,Chail,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,51,Phulpur,254.0,Phaphamau,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,51,Phulpur,255.0,Soraon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,51,Phulpur,256.0,Phulpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,51,Phulpur,262.0,Allahabad North,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,52,Allahabad,260.0,Karachhana,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,52,Allahabad,263.0,Allahabad South,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,53,Barabanki,266.0,Kursi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,53,Barabanki,267.0,Ram Nagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,53,Barabanki,268.0,Barabanki,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,53,Barabanki,269.0,Zaidpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,54,Faizabad,270.0,Dariyabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,54,Faizabad,271.0,Rudauli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,54,Faizabad,273.0,Milkipur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,54,Faizabad,274.0,Bikapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,54,Faizabad,275.0,Ayodhya,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,55,Ambedkar Nagar,276.0,Goshainganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,55,Ambedkar Nagar,277.0,Katehari,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,55,Ambedkar Nagar,278.0,Tanda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,55,Ambedkar Nagar,280.0,Jalalpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,55,Ambedkar Nagar,281.0,Akbarpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,56,Bahraich,284.0,Matera,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,57,Kaiserganj,287.0,Payagpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,57,Kaiserganj,297.0,Katra Bazar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,57,Kaiserganj,299.0,Tarabganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,58,Shrawasti,289.0,Bhinga,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,58,Shrawasti,290.0,Shrawasti,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,58,Shrawasti,292.0,Gainsari,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,59,Gonda,293.0,Utraula,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,59,Gonda,295.0,Mehnaun,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,59,Gonda,296.0,Gonda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,59,Gonda,301.0,Gaura,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,60,Domariyaganj,302.0,Shohratgarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,60,Domariyaganj,303.0,Kapilvastu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,60,Domariyaganj,304.0,Bansi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,60,Domariyaganj,305.0,Itwa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,61,Basti,307.0,Harraiya,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,61,Basti,308.0,Kaptanganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,61,Basti,309.0,Rudhauli,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,61,Basti,310.0,Basti Sadar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,62,Sant Kabir Nagar,279.0,Alapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,62,Sant Kabir Nagar,312.0,Menhdawal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,62,Sant Kabir Nagar,313.0,Khalilabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,62,Sant Kabir Nagar,314.0,Dhanghata,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,63,Maharajganj,315.0,Pharenda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,63,Maharajganj,316.0,Nautanwa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,63,Maharajganj,317.0,Siswa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,63,Maharajganj,318.0,Maharajganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,63,Maharajganj,319.0,Paniyara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,64,Gorakhpur,320.0,Caimpiyarganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,64,Gorakhpur,321.0,Pipraich,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,64,Gorakhpur,322.0,Gorakhpur Urban,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,64,Gorakhpur,323.0,Gorakhpur Rural,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,64,Gorakhpur,324.0,Sahajanwa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,65,Kushi Nagar,329.0,Khadda,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,65,Kushi Nagar,330.0,Padrauna,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,65,Kushi Nagar,333.0,Kushinagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,65,Kushi Nagar,334.0,Hata,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,66,Deoria,331.0,Tamkuhi Raj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,66,Deoria,332.0,Fazilnagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,66,Deoria,338.0,Pathardeva,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,66,Deoria,339.0,Rampur Karkhana,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,66,Deoria,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Uttar Pradesh,67,Bansgaon,326.0,Chauri-Chaura,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,67,Bansgaon,327.0,Bansgaon,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,67,Bansgaon,328.0,Chillupar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,67,Bansgaon,336.0,Rudrapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,67,Bansgaon,342.0,Barhaj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,68,Lalganj,343.0,Atrauliya,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,68,Lalganj,348.0,Nizamabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,68,Lalganj,349.0,Phoolpur-Pawai,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,68,Lalganj,350.0,Didarganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,69,Azamgarh,344.0,Gopalpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,69,Azamgarh,345.0,Sagri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,69,Azamgarh,346.0,Mubarakpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,69,Azamgarh,347.0,Azamgarh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,70,Ghosi,353.0,Madhuban,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,70,Ghosi,355.0,Muhammadabad-Gohna,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,70,Ghosi,358.0,Rasara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,71,Salempur,340.0,Bhatpar Rani,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,71,Salempur,357.0,Belthara Road,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,71,Salempur,359.0,Sikanderpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,71,Salempur,362.0,Bansdih,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,72,Ballia,360.0,Phephana,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,72,Ballia,363.0,Bairia,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,72,Ballia,377.0,Zahoorabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,72,Ballia,378.0,Mohammadabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,73,Jaunpur,364.0,Badlapur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,73,Jaunpur,365.0,Shahganj,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,73,Jaunpur,366.0,Jaunpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,73,Jaunpur,367.0,Malhani,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,73,Jaunpur,368.0,Mungra Badshahpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,74,Machhlishahr,369.0,Machhlishahr,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,74,Machhlishahr,370.0,Mariyahu,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,74,Machhlishahr,371.0,Zafrabad,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,74,Machhlishahr,372.0,Kerakat,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,75,Ghazipur,373.0,Jakhanian,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,75,Ghazipur,375.0,Ghazipur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,75,Ghazipur,376.0,Jangipur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,75,Ghazipur,379.0,Zamania,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,76,Chandauli,380.0,Mughalsarai,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,76,Chandauli,382.0,Saiyadraja,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,76,Chandauli,385.0,Ajagara,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,76,Chandauli,386.0,Shivpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,77,Varanasi,387.0,Rohaniya,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,77,Varanasi,388.0,Varanasi North,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,77,Varanasi,389.0,Varanasi South,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,77,Varanasi,390.0,Varanasi Cantt,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,77,Varanasi,391.0,Sevapuri,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,78,Bhadohi,257.0,Pratappur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,78,Bhadohi,258.0,Handia,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,78,Bhadohi,392.0,Bhadohi,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,78,Bhadohi,393.0,Gyanpur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,79,Mirzapur,395.0,Chhanbey,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,79,Mirzapur,397.0,Majhawan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,79,Mirzapur,398.0,Chunar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,79,Mirzapur,399.0,Marihan,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,80,Robertsganj,383.0,Chakia,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,80,Robertsganj,400.0,Ghorawal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,80,Robertsganj,402.0,Obra,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttar Pradesh,80,Robertsganj,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+Uttarakhand,1,Tehri Garhwal,14.0,Dhanolti,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,1,Tehri Garhwal,15.0,Chakrata,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,1,Tehri Garhwal,19.0,Raipur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,1,Tehri Garhwal,21.0,Dehradun Cantt,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,1,Tehri Garhwal,22.0,Mussoorie,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,2,Garhwal,36.0,Yamkeshwar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,2,Garhwal,38.0,Srinagar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,2,Garhwal,40.0,Lansdowne,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,3,Almora,45.0,Gangolihat,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,3,Almora,46.0,Kapkote,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,3,Almora,48.0,Dwarahat,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,3,Almora,51.0,Someshwar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,3,Almora,52.0,Almora,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,3,Almora,53.0,Jageshwar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,3,Almora,54.0,Lohagat,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,3,Almora,55.0,Champawat,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,4,"Nainital- Udham singh Nagar         Kaladhungi, 62-Jaspur, 63-Kashipur, 64-Bajpur (SC), 65-Gadarpur, 66-",56.0,Lalkuwa,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,4,"Nainital- Udham singh Nagar         Kaladhungi, 62-Jaspur, 63-Kashipur, 64-Bajpur (SC), 65-Gadarpur, 66-",57.0,Bhimtal,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,4,"Nainital- Udham singh Nagar         Kaladhungi, 62-Jaspur, 63-Kashipur, 64-Bajpur (SC), 65-Gadarpur, 66-",58.0,Nainital,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,4,"Nainital- Udham singh Nagar         Kaladhungi, 62-Jaspur, 63-Kashipur, 64-Bajpur (SC), 65-Gadarpur, 66-",69.0,Nanak Matta,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,4,"Nainital- Udham singh Nagar         Kaladhungi, 62-Jaspur, 63-Kashipur, 64-Bajpur (SC), 65-Gadarpur, 66-",70.0,Khatima,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,5,Hardwar,18.0,Dharampur,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,5,Hardwar,24.0,Rishikesh,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,5,Hardwar,25.0,Hardwar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,5,Hardwar,29.0,Jhabrera,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,5,Hardwar,30.0,Pirankaliyar,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+Uttarakhand,5,Hardwar,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+West Bengal,10,BAHARAMPUR,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+West Bengal,12,"KRISHNANAGAR 78 TEHATTA, 79 PALASHIPARA, 80. KALIGANJ, 81",85.0,KRISHNANAGAR DAKSHIN,,unknown,unmatched,low,,,delimitation_order_2008,assembly_no_missing_in_table_a
+West Bengal,22,JADAVPUR,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+West Bengal,34,MEDINIPUR KHARAGPUR SADAR,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name
+West Bengal,42,BIRBHUM,,,,unknown,unmatched,low,,,delimitation_order_2008,missing_assembly_no_and_name

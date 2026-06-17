@@ -1,0 +1,713 @@
+state,lok_sabha_constituency,district,assembly_segments_in_district,total_assembly_segments,district_segment_share
+Andhra Pradesh,ADILABAD,ADILABAD,5,5,1.0
+Andhra Pradesh,BHONGIR,RANGAREDDI,1,1,1.0
+Andhra Pradesh,CHEVELLA,RANGAREDDI,7,7,1.0
+Andhra Pradesh,HYDERABAD,HYDERABAD,7,7,1.0
+Andhra Pradesh,KARIMNAGAR,KARIMNAGAR,7,7,1.0
+Andhra Pradesh,MAHABUBABAD (ST),MEDAK,1,1,1.0
+Andhra Pradesh,MAHBUBNAGAR,MAHBUBNAGAR,6,6,1.0
+Andhra Pradesh,MALKAJGIRI,RANGAREDDI,6,6,1.0
+Andhra Pradesh,MEDAK,MEDAK,7,7,1.0
+Andhra Pradesh,NAGARKURNOOL,MAHBUBNAGAR,4,4,1.0
+Andhra Pradesh,NELLORE,MAHBUBNAGAR,1,2,0.5
+Andhra Pradesh,NELLORE,RANGAREDDI,1,2,0.5
+Andhra Pradesh,NIZAMABAD,NIZAMABAD,3,5,0.6
+Andhra Pradesh,NIZAMABAD,KARIMNAGAR,2,5,0.4
+Andhra Pradesh,PEDDAPALLE,KARIMNAGAR,4,7,0.5714
+Andhra Pradesh,PEDDAPALLE,ADILABAD,3,7,0.4286
+Andhra Pradesh,SECUNDERABAD,HYDERABAD,5,5,1.0
+Andhra Pradesh,ZAHIRABAD,NIZAMABAD,4,6,0.6667
+Andhra Pradesh,ZAHIRABAD,MEDAK,2,6,0.3333
+Arunachal Pradesh,ARUNACHAL WEST,WEST SIANG,9,29,0.3103
+Arunachal Pradesh,ARUNACHAL WEST,UPPER SUBANSIRI,6,29,0.2069
+Arunachal Pradesh,ARUNACHAL WEST,CHANGLANG,3,29,0.1034
+Arunachal Pradesh,ARUNACHAL WEST,LOWER SUBANSIRI,3,29,0.1034
+Arunachal Pradesh,ARUNACHAL WEST,TIRAP,3,29,0.1034
+Arunachal Pradesh,ARUNACHAL WEST,EAST SIANG,2,29,0.069
+Arunachal Pradesh,ARUNACHAL WEST,TAWANG,2,29,0.069
+Arunachal Pradesh,ARUNACHAL WEST,DIBANG VALLEY,1,29,0.0345
+Arunachal Pradesh,ARUNAHCAL EAST,CHANGLANG,6,25,0.24
+Arunachal Pradesh,ARUNAHCAL EAST,EAST SIANG,6,25,0.24
+Arunachal Pradesh,ARUNAHCAL EAST,LOHIT,5,25,0.2
+Arunachal Pradesh,ARUNAHCAL EAST,TIRAP,5,25,0.2
+Arunachal Pradesh,ARUNAHCAL EAST,DIBANG VALLEY,3,25,0.12
+Assam,Autonomous District (ST,DIBRUGARH,4,4,1.0
+Assam,Barpeta,DIBRUGARH,10,10,1.0
+Assam,Dhubri,DIBRUGARH,10,10,1.0
+Assam,Dibrugarh,DIBRUGARH,9,9,1.0
+Assam,Gauhati,DIBRUGARH,10,10,1.0
+Assam,Jorhat,DIBRUGARH,10,10,1.0
+Assam,Kaliabor,DIBRUGARH,9,9,1.0
+Assam,Karimganj,DIBRUGARH,8,8,1.0
+Assam,Kokrajhar,DIBRUGARH,9,9,1.0
+Assam,Lakhimpur,DIBRUGARH,8,8,1.0
+Assam,Mangaldoi,DIBRUGARH,10,10,1.0
+Assam,Nawgong,DIBRUGARH,9,9,1.0
+Assam,Silchar,DIBRUGARH,7,7,1.0
+Assam,Tezpur,DIBRUGARH,9,9,1.0
+Bihar,Araria,ARARIA,6,6,1.0
+Bihar,Arrah,BHOJPUR,7,7,1.0
+Bihar,Aurangabad,AURANGABAD,3,6,0.5
+Bihar,Aurangabad,GAYA,3,6,0.5
+Bihar,Banka,BANKA,5,6,0.8333
+Bihar,Banka,BHAGALPUR,1,6,0.1667
+Bihar,Begusarai,BEGUSARAI,6,6,1.0
+Bihar,Bhagalpur,BHAGALPUR,6,6,1.0
+Bihar,Buxar,BUXAR,4,6,0.6667
+Bihar,Buxar,KAIMUR (BHABUA),1,6,0.1667
+Bihar,Buxar,ROHTAS,1,6,0.1667
+Bihar,Darbhanga,DARBHANGA,5,5,1.0
+Bihar,Gaya,GAYA,5,5,1.0
+Bihar,Gopalganj 99-Baikunthpur,GOPALGANJ,5,5,1.0
+Bihar,Hajipur,VAISHALI,6,6,1.0
+Bihar,Jahanabad,JAHANABAD,3,6,0.5
+Bihar,Jahanabad,ARWAL,2,6,0.3333
+Bihar,Jahanabad,GAYA,1,6,0.1667
+Bihar,Jamui,NAWADA,4,5,0.8
+Bihar,Jamui,MUNGER,1,5,0.2
+Bihar,Jhanjharpur,MADHUBANI,6,6,1.0
+Bihar,Karakat,AURANGABAD,3,6,0.5
+Bihar,Karakat,ROHTAS,3,6,0.5
+Bihar,Katihar,KATIHAR,6,6,1.0
+Bihar,Khagaria,KHAGARIA,4,6,0.6667
+Bihar,Khagaria,SAHARSA,1,6,0.1667
+Bihar,Khagaria,SAMASTIPUR,1,6,0.1667
+Bihar,Kishanganj,KISHANGANJ,4,6,0.6667
+Bihar,Kishanganj,PURNIA,2,6,0.3333
+Bihar,Madhepura,MADHEPURA,3,6,0.5
+Bihar,Madhepura,SAHARSA,3,6,0.5
+Bihar,Madhubani,MADHUBANI,4,6,0.6667
+Bihar,Madhubani,DARBHANGA,2,6,0.3333
+Bihar,Maharajganj,SARAN,4,6,0.6667
+Bihar,Maharajganj,SIWAN,2,6,0.3333
+Bihar,Munger,MUNGER,4,6,0.6667
+Bihar,Munger,PATNA,2,6,0.3333
+Bihar,Muzaffarpur,MUZAFFARPUR,6,6,1.0
+Bihar,Nalanda,NALANDA,7,7,1.0
+Bihar,Nawada,NAWADA,5,6,0.8333
+Bihar,Nawada,SHEIKHPURA,1,6,0.1667
+Bihar,Paschim Champaran,PASCHIM CHAMPARAN,3,6,0.5
+Bihar,Paschim Champaran,PURVI CHAMPARAN,3,6,0.5
+Bihar,Pataliputra,PATNA,6,6,1.0
+Bihar,Patna Sahib,PATNA,5,5,1.0
+Bihar,Purnia,PURNIA,5,5,1.0
+Bihar,Purvi Champaran,PURVI CHAMPARAN,6,6,1.0
+Bihar,Saran,SARAN,6,6,1.0
+Bihar,Sasaram,KAIMUR (BHABUA),3,6,0.5
+Bihar,Sasaram,ROHTAS,3,6,0.5
+Bihar,Sheohar,PURVI CHAMPARAN,3,6,0.5
+Bihar,Sheohar,SITAMARHI,2,6,0.3333
+Bihar,Sheohar,SHEOHAR,1,6,0.1667
+Bihar,Sitamarhi,SITAMARHI,5,6,0.8333
+Bihar,Sitamarhi,MUNGER,1,6,0.1667
+Bihar,Siwan,SIWAN,6,6,1.0
+Bihar,Supaul,SUPAUL,4,4,1.0
+Bihar,Ujiarpur,SAMASTIPUR,8,12,0.6667
+Bihar,Ujiarpur,DARBHANGA,2,12,0.1667
+Bihar,Ujiarpur,SITAMARHI,1,12,0.0833
+Bihar,Ujiarpur,VAISHALI,1,12,0.0833
+Bihar,Vaishali,MUZAFFARPUR,5,6,0.8333
+Bihar,Vaishali,VAISHALI,1,6,0.1667
+Bihar,Valmiki Nagar,PASCHIM CHAMPARAN,6,6,1.0
+Chhattisgarh,Bastar,BASTAR,5,8,0.625
+Chhattisgarh,Bastar,DAKSHIN BASTAR (DANTEWADA),3,8,0.375
+Chhattisgarh,Bilaspur,BILASPUR,2,8,0.25
+Chhattisgarh,Bilaspur,MAHASAMUND,2,8,0.25
+Chhattisgarh,Bilaspur,DURG,1,8,0.125
+Chhattisgarh,Bilaspur,JANJGIR-CHAMPA,1,8,0.125
+Chhattisgarh,Bilaspur,RAIPUR,1,8,0.125
+Chhattisgarh,Bilaspur,RAJNANDGAON,1,8,0.125
+Chhattisgarh,Durg,DURG,9,9,1.0
+Chhattisgarh,Kanker,DURG,3,7,0.4286
+Chhattisgarh,Kanker,UTTAR BASTAR (KANKER),2,7,0.2857
+Chhattisgarh,Kanker,BASTAR,1,7,0.1429
+Chhattisgarh,Kanker,DHAMTARI,1,7,0.1429
+Chhattisgarh,Korba,KORBA,2,7,0.2857
+Chhattisgarh,Korba,JANJGIR-CHAMPA,1,7,0.1429
+Chhattisgarh,Korba,KORIA,1,7,0.1429
+Chhattisgarh,Korba,MAHASAMUND,1,7,0.1429
+Chhattisgarh,Korba,RAIPUR,1,7,0.1429
+Chhattisgarh,Korba,RAJNANDGAON,1,7,0.1429
+Chhattisgarh,Mahasamund,DHAMTARI,3,8,0.375
+Chhattisgarh,Mahasamund,MAHASAMUND,3,8,0.375
+Chhattisgarh,Mahasamund,RAIPUR,2,8,0.25
+Chhattisgarh,Raigarh,JANJGIR-CHAMPA,4,15,0.2667
+Chhattisgarh,Raigarh,RAIGARH,4,15,0.2667
+Chhattisgarh,Raigarh,DURG,2,15,0.1333
+Chhattisgarh,Raigarh,RAIPUR,2,15,0.1333
+Chhattisgarh,Raigarh,RAJNANDGAON,2,15,0.1333
+Chhattisgarh,Raigarh,MAHASAMUND,1,15,0.0667
+Chhattisgarh,Raipur,RAIPUR,6,8,0.75
+Chhattisgarh,Raipur,DHAMTARI,2,8,0.25
+Chhattisgarh,Rajnandgaon,RAJNANDGAON,5,8,0.625
+Chhattisgarh,Rajnandgaon,KABIRDHAM,2,8,0.25
+Chhattisgarh,Rajnandgaon,BASTAR,1,8,0.125
+Chhattisgarh,Surguja,SURGUJA,4,8,0.5
+Chhattisgarh,Surguja,DURG,2,8,0.25
+Chhattisgarh,Surguja,MAHASAMUND,1,8,0.125
+Chhattisgarh,Surguja,RAJNANDGAON,1,8,0.125
+Delhi,Chandni Chowk,Delhi,10,10,1.0
+Delhi,East Delhi,Delhi,9,9,1.0
+Delhi,New Delhi,Delhi,8,8,1.0
+Delhi,North East Delhi,Delhi,10,10,1.0
+Delhi,"North West Delhi 1.Nerela, 5.Badli, 6.Rithala, 7.Bawana (SC), 8.Mundka, 9.Kirari",Delhi,4,4,1.0
+Delhi,South Delhi,Delhi,10,10,1.0
+Delhi,West Delhi,Delhi,9,9,1.0
+Goa,North Goa,NORTH GOA,2,2,1.0
+Goa,South Goa,SOUTH GOA,2,3,0.6667
+Goa,South Goa,NORTH GOA,1,3,0.3333
+Gujarat,Ahmedabad East,AHMEDABAD,5,6,0.8333
+Gujarat,Ahmedabad East,GANDHINAGAR,1,6,0.1667
+Gujarat,"Ahmedabad West (SC)           Khadia, 53-Maninagar, 54-Danilimda (SC), 56-Asarwa (SC).",AHMEDABAD,4,4,1.0
+Gujarat,Amreli,AMRELI,5,7,0.7143
+Gujarat,Amreli,BHAVNAGAR,1,7,0.1429
+Gujarat,Amreli,SURAT,1,7,0.1429
+Gujarat,Anand,ANAND,6,6,1.0
+Gujarat,Banaskantha,KACHCHH,5,5,1.0
+Gujarat,Bardoli,SURAT,6,6,1.0
+Gujarat,Bharuch,BHARUCH,5,7,0.7143
+Gujarat,Bharuch,NARMADA,1,7,0.1429
+Gujarat,Bharuch,VADODARA,1,7,0.1429
+Gujarat,Bhavnagar,BHAVNAGAR,5,5,1.0
+Gujarat,Dahod,DAHOD,5,6,0.8333
+Gujarat,Dahod,PANCHMAHALS,1,6,0.1667
+Gujarat,Gandhinagar,AHMEDABAD,2,3,0.6667
+Gujarat,Gandhinagar,PANCHMAHALS,1,3,0.3333
+Gujarat,Jamnagar,JAMNAGAR,6,6,1.0
+Gujarat,Junagadh,JUNAGADH,6,6,1.0
+Gujarat,Kachchh,KACHCHH,2,7,0.2857
+Gujarat,Kachchh,RAJKOT,2,7,0.2857
+Gujarat,Kachchh,PANCHMAHALS,1,7,0.1429
+Gujarat,Kachchh,SURAT,1,7,0.1429
+Gujarat,Kachchh,VALSAD,1,7,0.1429
+Gujarat,Kheda,KHEDA,4,6,0.6667
+Gujarat,Kheda,AHMEDABAD,2,6,0.3333
+Gujarat,Mahesana,MAHESANA,6,7,0.8571
+Gujarat,Mahesana,GANDHINAGAR,1,7,0.1429
+Gujarat,Navsari,SURAT,3,5,0.6
+Gujarat,Navsari,NAVSARI,2,5,0.4
+Gujarat,Panchmahal,PANCHMAHALS,4,6,0.6667
+Gujarat,Panchmahal,KHEDA,2,6,0.3333
+Gujarat,Patan,PATAN,4,7,0.5714
+Gujarat,Patan,KACHCHH,2,7,0.2857
+Gujarat,Patan,MAHESANA,1,7,0.1429
+Gujarat,Porbandar,RAJKOT,3,7,0.4286
+Gujarat,Porbandar,JUNAGADH,2,7,0.2857
+Gujarat,Porbandar,PORBANDAR,2,7,0.2857
+Gujarat,Rajkot,RAJKOT,5,5,1.0
+Gujarat,Sabarkantha,SABARKANTHA,7,7,1.0
+Gujarat,Surat,SURAT,6,6,1.0
+Gujarat,Surendranagar,SURENDRANAGAR,5,7,0.7143
+Gujarat,Surendranagar,AHMEDABAD,2,7,0.2857
+Gujarat,Vadodara,VADODARA,10,12,0.8333
+Gujarat,Vadodara,PANCHMAHALS,1,12,0.0833
+Gujarat,Vadodara,RAJKOT,1,12,0.0833
+Gujarat,Valsad,VALSAD,3,5,0.6
+Gujarat,Valsad,DANGS,1,5,0.2
+Gujarat,Valsad,NAVSARI,1,5,0.2
+Haryana,Ambala,AMBALA,4,9,0.4444
+Haryana,Ambala,YAMUNANAGAR,3,9,0.3333
+Haryana,Ambala,PANCHKULA,2,9,0.2222
+Haryana,Bhiwani,BHIWANI,5,9,0.5556
+Haryana,Bhiwani,MAHENDRAGARH,4,9,0.4444
+Haryana,Faridabad,FARIDABAD,7,8,0.875
+Haryana,Faridabad,MAHENDRAGARH,1,8,0.125
+Haryana,Gurgaon,GURGAON,6,8,0.75
+Haryana,Gurgaon,REWARI,2,8,0.25
+Haryana,Hisar,HISAR,7,8,0.875
+Haryana,Hisar,JIND,1,8,0.125
+Haryana,Karnal,KARNAL,5,9,0.5556
+Haryana,Karnal,PANIPAT,4,9,0.4444
+Haryana,Kurukshetra,KAITHAL,4,9,0.4444
+Haryana,Kurukshetra,KURUKSHETRA,4,9,0.4444
+Haryana,Kurukshetra,YAMUNANAGAR,1,9,0.1111
+Haryana,Rohtak,JHAJJAR,4,9,0.4444
+Haryana,Rohtak,ROHTAK,4,9,0.4444
+Haryana,Rohtak,REWARI,1,9,0.1111
+Haryana,Sirsa,SIRSA,5,9,0.5556
+Haryana,Sirsa,FATEHABAD,3,9,0.3333
+Haryana,Sirsa,JIND,1,9,0.1111
+Haryana,Sonipat,SONIPAT,6,9,0.6667
+Haryana,Sonipat,JIND,3,9,0.3333
+Jharkhand,Chatra,CHATRA,2,4,0.5
+Jharkhand,Chatra,PALAMAU,2,4,0.5
+Jharkhand,Dhanbad,DHANBAD,4,5,0.8
+Jharkhand,Dhanbad,BOKARO,1,5,0.2
+Jharkhand,Dumka,DUMKA,4,5,0.8
+Jharkhand,Dumka,DEOGHAR,1,5,0.2
+Jharkhand,Giridih,BOKARO,2,6,0.3333
+Jharkhand,Giridih,DHANBAD,2,6,0.3333
+Jharkhand,Giridih,GIRIDIH,2,6,0.3333
+Jharkhand,Godda,GODDA,3,6,0.5
+Jharkhand,Godda,DEOGHAR,2,6,0.3333
+Jharkhand,Godda,DUMKA,1,6,0.1667
+Jharkhand,Hazaribagh,HAZARIBAGH,4,4,1.0
+Jharkhand,Jamshedpur,(EAST) SINGHBHUM,5,11,0.4545
+Jharkhand,Jamshedpur,(WEST) SINGHBHUM,4,11,0.3636
+Jharkhand,Jamshedpur,DHANBAD,1,11,0.0909
+Jharkhand,Jamshedpur,DUMKA,1,11,0.0909
+Jharkhand,Khunti,GUMLA,4,10,0.4
+Jharkhand,Khunti,RANCHI,4,10,0.4
+Jharkhand,Khunti,(WEST) SINGHBHUM,1,10,0.1
+Jharkhand,Khunti,DUMKA,1,10,0.1
+Jharkhand,Kodarma,GIRIDIH,4,6,0.6667
+Jharkhand,Kodarma,HAZARIBAGH,1,6,0.1667
+Jharkhand,Kodarma,KODARMA,1,6,0.1667
+Jharkhand,Palamu,PALAMAU,4,6,0.6667
+Jharkhand,Palamu,GARHWA,2,6,0.3333
+Jharkhand,Rajmahal,SAHEBGANJ,3,5,0.6
+Jharkhand,Rajmahal,PAKAUR,2,5,0.4
+Jharkhand,Ranchi,RANCHI,4,5,0.8
+Jharkhand,Ranchi,(WEST) SINGHBHUM,1,5,0.2
+Karnataka,Bagalkot,BAGALKOT,7,8,0.875
+Karnataka,Bagalkot,GADAG,1,8,0.125
+Karnataka,"Bangalore Central 160 Sarvagnanagar, 161 C.V. Raman Nagar (SC)",BANGALORE,1,1,1.0
+Karnataka,Bangalore North,BANGALORE,5,6,0.8333
+Karnataka,Bangalore North,MYSORE,1,6,0.1667
+Karnataka,Bangalore Rural,BANGALORE RURAL,4,8,0.5
+Karnataka,Bangalore Rural,BANGALORE,3,8,0.375
+Karnataka,Bangalore Rural,TUMKUR,1,8,0.125
+Karnataka,"Bangalore South 166 Govindraj Nagar, 167 Vijay Nagar, 169 Chickpet",BANGALORE,1,1,1.0
+Karnataka,Belgaum,BELGAUM,8,8,1.0
+Karnataka,Bellary,BELLARY,7,7,1.0
+Karnataka,Bidar,BIDAR,5,7,0.7143
+Karnataka,Bidar,GULBARGA,2,7,0.2857
+Karnataka,Bijapur,BIJAPUR,8,8,1.0
+Karnataka,"Chamarajanagar 213. Heggadadevankote (ST), 214. Nanjangud (SC)",CHAMARAJANAGAR,4,6,0.6667
+Karnataka,"Chamarajanagar 213. Heggadadevankote (ST), 214. Nanjangud (SC)",MYSORE,2,6,0.3333
+Karnataka,Chikkballapur,BANGALORE RURAL,3,7,0.4286
+Karnataka,Chikkballapur,KOLAR,3,7,0.4286
+Karnataka,Chikkballapur,BANGALORE,1,7,0.1429
+Karnataka,Chikkodi,BELGAUM,4,7,0.5714
+Karnataka,Chikkodi,BANGALORE,1,7,0.1429
+Karnataka,Chikkodi,DAVANAGERE,1,7,0.1429
+Karnataka,Chikkodi,UDUPI,1,7,0.1429
+Karnataka,Chitradurga,CHITRADURGA,6,7,0.8571
+Karnataka,Chitradurga,TUMKUR,1,7,0.1429
+Karnataka,"Dakshina Kannada 200. Belthangady, 201. Moodabidri, 202. Mangalore City North",DAKSHINA KANNADA,4,4,1.0
+Karnataka,Davanagere,DAVANAGERE,8,8,1.0
+Karnataka,Dharwad,DHARWAD,6,8,0.75
+Karnataka,Dharwad,HAVERI,1,8,0.125
+Karnataka,Dharwad,MYSORE,1,8,0.125
+Karnataka,Gulbarga,GULBARGA,8,8,1.0
+Karnataka,Hassan,HASSAN,6,7,0.8571
+Karnataka,Hassan,CHICKMAGALUR,1,7,0.1429
+Karnataka,Haveri,HAVERI,5,8,0.625
+Karnataka,Haveri,GADAG,3,8,0.375
+Karnataka,Kolar,KOLAR,7,8,0.875
+Karnataka,Kolar,MYSORE,1,8,0.125
+Karnataka,Koppal,KOPPAL,5,7,0.7143
+Karnataka,Koppal,RAICHUR,2,7,0.2857
+Karnataka,Mandya,MANDYA,7,8,0.875
+Karnataka,Mandya,MYSORE,1,8,0.125
+Karnataka,Mysore,MYSORE,5,7,0.7143
+Karnataka,Mysore,KODAGU,2,7,0.2857
+Karnataka,Raichur,GULBARGA,3,6,0.5
+Karnataka,Raichur,RAICHUR,3,6,0.5
+Karnataka,Shimoga,SHIMOGA,7,8,0.875
+Karnataka,Shimoga,UDUPI,1,8,0.125
+Karnataka,Tumkur,TUMKUR,8,8,1.0
+Karnataka,Udupi,CHICKMAGALUR,4,8,0.5
+Karnataka,Udupi,UDUPI,4,8,0.5
+Karnataka,Uttara Kannada,UTTARA KANNADA,6,8,0.75
+Karnataka,Uttara Kannada,BELGAUM,2,8,0.25
+Kerala,Alappuzha,Alappuzha,2,2,1.0
+Kerala,Alathur,Thrissur,1,1,1.0
+Kerala,Attingal,Thiruvananthapuram,3,3,1.0
+Kerala,Chalakudy,Thrissur,1,1,1.0
+Kerala,Ernakulam,Ernakulam,5,5,1.0
+Kerala,Idukki,Idukki,3,3,1.0
+Kerala,Kasaragod,Kannur,4,6,0.6667
+Kerala,Kasaragod,Kasaragod,2,6,0.3333
+Kerala,Kollam,Kollam,5,5,1.0
+Kerala,Kottayam,Ernakulam,1,2,0.5
+Kerala,Kottayam,Palakkad,1,2,0.5
+Kerala,Kozhikode,Kozhikode,5,5,1.0
+Kerala,Malappuram,Malappuram,3,3,1.0
+Kerala,Mavelikkara,Kollam,3,4,0.75
+Kerala,Mavelikkara,Alappuzha,1,4,0.25
+Kerala,Palakkad,Palakkad,2,2,1.0
+Kerala,Pathanamthitta,Kottayam,2,3,0.6667
+Kerala,Pathanamthitta,Pathanamthitta,1,3,0.3333
+Kerala,Ponnani,Malappuram,5,5,1.0
+Kerala,"Thiruvanantha puram                    -puram, 135- Nemom, 137- Parassala, 139- Kovalam and",Thiruvananthapuram,3,3,1.0
+Kerala,Thrissur,Thrissur,5,5,1.0
+Kerala,Vadakara,Kannur,1,2,0.5
+Kerala,Vadakara,Kozhikode,1,2,0.5
+Madhya Pradesh,119-Narsingpur,HOSHANGABAD,4,7,0.5714
+Madhya Pradesh,119-Narsingpur,NARSINGPUR,2,7,0.2857
+Madhya Pradesh,119-Narsingpur,RAISEN,1,7,0.1429
+Madhya Pradesh,BALAGHAT,BALAGHAT,4,6,0.6667
+Madhya Pradesh,BALAGHAT,SEONI,2,6,0.3333
+Madhya Pradesh,BETUL,BETUL,4,6,0.6667
+Madhya Pradesh,BETUL,HARDA,2,6,0.3333
+Madhya Pradesh,BHIND,SEONI,2,6,0.3333
+Madhya Pradesh,BHIND,BALAGHAT,1,6,0.1667
+Madhya Pradesh,BHIND,BHIND,1,6,0.1667
+Madhya Pradesh,BHIND,DATIA,1,6,0.1667
+Madhya Pradesh,BHIND,JHABUA,1,6,0.1667
+Madhya Pradesh,BHOPAL,BHOPAL,6,7,0.8571
+Madhya Pradesh,BHOPAL,SEHORE,1,7,0.1429
+Madhya Pradesh,CHHINDWARA,CHHINDWARA,5,5,1.0
+Madhya Pradesh,DAMOH,DAMOH,3,7,0.4286
+Madhya Pradesh,DAMOH,SEONI,2,7,0.2857
+Madhya Pradesh,DAMOH,CHHATARPUR,1,7,0.1429
+Madhya Pradesh,DAMOH,JHABUA,1,7,0.1429
+Madhya Pradesh,DEWAS,SHAJAPUR,4,7,0.5714
+Madhya Pradesh,DEWAS,DEWAS,2,7,0.2857
+Madhya Pradesh,DEWAS,SEHORE,1,7,0.1429
+Madhya Pradesh,GUNA,SEONI,3,8,0.375
+Madhya Pradesh,GUNA,GUNA,2,8,0.25
+Madhya Pradesh,GUNA,ASHOK NAGAR,1,8,0.125
+Madhya Pradesh,GUNA,SHIVPURI,1,8,0.125
+Madhya Pradesh,GUNA,WEST NIMAR (Khaorgone),1,8,0.125
+Madhya Pradesh,GWALIOR,GWALIOR,5,8,0.625
+Madhya Pradesh,GWALIOR,GUNA,2,8,0.25
+Madhya Pradesh,GWALIOR,SHIVPURI,1,8,0.125
+Madhya Pradesh,INDORE,INDORE,7,7,1.0
+Madhya Pradesh,JABALPUR,JABALPUR,6,6,1.0
+Madhya Pradesh,KHAJURAHO,KATNI,3,8,0.375
+Madhya Pradesh,KHAJURAHO,PANNA,3,8,0.375
+Madhya Pradesh,KHAJURAHO,CHHATARPUR,2,8,0.25
+Madhya Pradesh,KHANDWA,EAST NIMAR (Khandwa),3,5,0.6
+Madhya Pradesh,KHANDWA,BURHANPUR,1,5,0.2
+Madhya Pradesh,KHANDWA,DEWAS,1,5,0.2
+Madhya Pradesh,KHARGONE (ST) 183-Maheshwar (SC),BADWANI,1,2,0.5
+Madhya Pradesh,KHARGONE (ST) 183-Maheshwar (SC),WEST NIMAR (Khaorgone),1,2,0.5
+Madhya Pradesh,MANDLA,DINDORI,2,5,0.4
+Madhya Pradesh,MANDLA,MANDLA,2,5,0.4
+Madhya Pradesh,MANDLA,SEONI,1,5,0.2
+Madhya Pradesh,MANDSOUR,NEEMUCH,3,5,0.6
+Madhya Pradesh,MANDSOUR,MANDSOUR,2,5,0.4
+Madhya Pradesh,MORENA,DATIA,2,5,0.4
+Madhya Pradesh,MORENA,JABALPUR,1,5,0.2
+Madhya Pradesh,MORENA,MORENA,1,5,0.2
+Madhya Pradesh,MORENA,SHEOPUR,1,5,0.2
+Madhya Pradesh,RAJGARH,RAJGARH,3,5,0.6
+Madhya Pradesh,RAJGARH,GUNA,1,5,0.2
+Madhya Pradesh,RAJGARH,MORENA,1,5,0.2
+Madhya Pradesh,RATLAM,JHABUA,5,7,0.7143
+Madhya Pradesh,RATLAM,RATLAM,2,7,0.2857
+Madhya Pradesh,REWA,REWA,4,6,0.6667
+Madhya Pradesh,REWA,DATIA,1,6,0.1667
+Madhya Pradesh,REWA,SEONI,1,6,0.1667
+Madhya Pradesh,SAGAR,SAGAR,3,8,0.375
+Madhya Pradesh,SAGAR,VIDISHA,3,8,0.375
+Madhya Pradesh,SAGAR,JHABUA,1,8,0.125
+Madhya Pradesh,SAGAR,SEONI,1,8,0.125
+Madhya Pradesh,SATNA,SATNA,4,5,0.8
+Madhya Pradesh,SATNA,SEONI,1,5,0.2
+Madhya Pradesh,SHAHDOL,ANUPPUR,3,6,0.5
+Madhya Pradesh,SHAHDOL,UMARIA,2,6,0.3333
+Madhya Pradesh,SHAHDOL,SHAHDOL,1,6,0.1667
+Madhya Pradesh,SIDHI,SIDHI,5,6,0.8333
+Madhya Pradesh,SIDHI,REWA,1,6,0.1667
+Madhya Pradesh,TIKAMGARH,TIKAMGARH,3,7,0.4286
+Madhya Pradesh,TIKAMGARH,CHHATARPUR,2,7,0.2857
+Madhya Pradesh,TIKAMGARH,SEONI,1,7,0.1429
+Madhya Pradesh,TIKAMGARH,WEST NIMAR (Khaorgone),1,7,0.1429
+Madhya Pradesh,VIDISHA,RAISEN,3,7,0.4286
+Madhya Pradesh,VIDISHA,SEHORE,2,7,0.2857
+Madhya Pradesh,VIDISHA,DEWAS,1,7,0.1429
+Madhya Pradesh,VIDISHA,VIDISHA,1,7,0.1429
+Maharashtra,Beed,AMRAVATI,1,1,1.0
+Maharashtra,Buldhana,RAIGAD,1,1,1.0
+Maharashtra,Chandrapur,CHANDRAPUR,1,1,1.0
+Maharashtra,Hingoli,HINGOLI,1,1,1.0
+Maharashtra,Latur,SOLAPUR,1,1,1.0
+Maharashtra,"Mumbai North Central          East, 177. Vandre West and 175. Kalina.",MUMBAI SUBURBAN,1,1,1.0
+Maharashtra,Mumbai North West,MUMBAI SUBURBAN,3,3,1.0
+Maharashtra,Mumbai South,MUMBAI CITY,1,1,1.0
+Maharashtra,Mumbai South Central,MUMBAI SUBURBAN,2,3,0.6667
+Maharashtra,Mumbai South Central,MUMBAI CITY,1,3,0.3333
+Maharashtra,Nanded,MUMBAI CITY,1,1,1.0
+Maharashtra,Palghar,THANE,1,1,1.0
+Maharashtra,Parbhani,PARBHANI,1,1,1.0
+Maharashtra,Satara,SATARA,1,1,1.0
+Maharashtra,Thane,THANE,1,1,1.0
+Meghalaya,SHILLONG,EAST KHASI HILLS,13,31,0.4194
+Meghalaya,SHILLONG,WEST GARO HILLS,7,31,0.2258
+Meghalaya,SHILLONG,WEST KHASI HILLS,5,31,0.1613
+Meghalaya,SHILLONG,EAST GARO HILLS,3,31,0.0968
+Meghalaya,SHILLONG,SOUTH GARO HILLS,3,31,0.0968
+Meghalaya,TURA,WEST GARO HILLS,10,13,0.7692
+Meghalaya,TURA,EAST GARO HILLS,2,13,0.1538
+Meghalaya,TURA,SOUTH GARO HILLS,1,13,0.0769
+Orissa,ASKA,GANJAM,7,7,1.0
+Orissa,BALASORE,BALASORE,6,7,0.8571
+Orissa,BALASORE,MAYURBHANJ,1,7,0.1429
+Orissa,BARGARH,BARGARH,2,7,0.2857
+Orissa,BARGARH,JHARSUGUDA,2,7,0.2857
+Orissa,BARGARH,GANJAM,1,7,0.1429
+Orissa,BARGARH,KORAPUT,1,7,0.1429
+Orissa,BARGARH,PURI,1,7,0.1429
+Orissa,BERHAMPUR,GANJAM,5,7,0.7143
+Orissa,BERHAMPUR,GAJAPATI,2,7,0.2857
+Orissa,BHADRAK,BHADRAK,5,6,0.8333
+Orissa,BHADRAK,BALASORE,1,6,0.1667
+Orissa,BHUBANESWAR,KHURDA,3,3,1.0
+Orissa,BOLANGIR,BOLANGIR,5,5,1.0
+Orissa,CUTTACK,CUTTACK,6,7,0.8571
+Orissa,CUTTACK,NAYAGARH,1,7,0.1429
+Orissa,DHENKANAL,ANGUL,3,5,0.6
+Orissa,DHENKANAL,DHENKANAL,2,5,0.4
+Orissa,JAGATSINGHPUR,JAGATSINGHPUR,4,7,0.5714
+Orissa,JAGATSINGHPUR,PURI,2,7,0.2857
+Orissa,JAGATSINGHPUR,CUTTACK,1,7,0.1429
+Orissa,JAJPUR,JAJPUR,7,7,1.0
+Orissa,KALAHANDI,KALAHANDI,5,7,0.7143
+Orissa,KALAHANDI,NUAPADA,2,7,0.2857
+Orissa,KANDHAMAL,KANDHAMAL,3,7,0.4286
+Orissa,KANDHAMAL,BOUDH,2,7,0.2857
+Orissa,KANDHAMAL,GANJAM,1,7,0.1429
+Orissa,KANDHAMAL,NAYAGARH,1,7,0.1429
+Orissa,KENDRAPARA,KENDRAPARA,5,7,0.7143
+Orissa,KENDRAPARA,CUTTACK,2,7,0.2857
+Orissa,KEONJHAR,KEONJHAR,6,6,1.0
+Orissa,KORAPUT,KORAPUT,3,6,0.5
+Orissa,KORAPUT,RAYAGADA,3,6,0.5
+Orissa,MAYURBHANJ,MAYURBHANJ,6,6,1.0
+Orissa,"NABARANGPUR (ST) 73. Umarkote (ST), 74. Jharigam (ST), 75. Nabarangpur (ST)",KORAPUT,1,3,0.3333
+Orissa,"NABARANGPUR (ST) 73. Umarkote (ST), 74. Jharigam (ST), 75. Nabarangpur (ST)",MALKANGIRI,1,3,0.3333
+Orissa,"NABARANGPUR (ST) 73. Umarkote (ST), 74. Jharigam (ST), 75. Nabarangpur (ST)",NABARANGPUR,1,3,0.3333
+Orissa,PURI,PURI,4,7,0.5714
+Orissa,PURI,NAYAGARH,2,7,0.2857
+Orissa,PURI,KHURDA,1,7,0.1429
+Orissa,SAMBALPUR,SAMBALPUR,4,7,0.5714
+Orissa,SAMBALPUR,ANGUL,2,7,0.2857
+Orissa,SAMBALPUR,DEOGARH,1,7,0.1429
+Orissa,SUNDARGARH,SUNDARGARH,6,6,1.0
+Punjab,Amritsar,AMRITSAR,8,8,1.0
+Punjab,Anandpur Sahib,RUPNAGAR,4,8,0.5
+Punjab,Anandpur Sahib,NAWAN SHAHR,3,8,0.375
+Punjab,Anandpur Sahib,HOSHIARPUR,1,8,0.125
+Punjab,Bathinda,BATHINDA,5,8,0.625
+Punjab,Bathinda,MANSA,2,8,0.25
+Punjab,Bathinda,MUKTSAR,1,8,0.125
+Punjab,Faridkot,MOGA,4,9,0.4444
+Punjab,Faridkot,FARIDKOT,3,9,0.3333
+Punjab,Faridkot,BATHINDA,1,9,0.1111
+Punjab,Faridkot,MUKTSAR,1,9,0.1111
+Punjab,Fatehgarh Sahib,LUDHIANA,5,9,0.5556
+Punjab,Fatehgarh Sahib,FATEHGARH SAHIB,3,9,0.3333
+Punjab,Fatehgarh Sahib,SANGRUR,1,9,0.1111
+Punjab,Firozpur,FIROZPUR,7,9,0.7778
+Punjab,Firozpur,MUKTSAR,2,9,0.2222
+Punjab,Gurdaspur,GURDASPUR,8,8,1.0
+Punjab,Hoshiarpur,HOSHIARPUR,5,8,0.625
+Punjab,Hoshiarpur,KAPURTHALA,2,8,0.25
+Punjab,Hoshiarpur,GURDASPUR,1,8,0.125
+Punjab,Jalandhar,JALANDHAR,7,7,1.0
+Punjab,Khadoor Sahib,AMRITSAR,6,9,0.6667
+Punjab,Khadoor Sahib,KAPURTHALA,2,9,0.2222
+Punjab,Khadoor Sahib,FIROZPUR,1,9,0.1111
+Punjab,Ludhiana,LUDHIANA,8,8,1.0
+Punjab,Patiala,PATIALA,7,7,1.0
+Punjab,Sangrur,SANGRUR,9,9,1.0
+Rajasthan,Alwar,HANUMANGARH,1,1,1.0
+Rajasthan,Banswara,BANSWARA,1,1,1.0
+Rajasthan,Bhilwara,BHILWARA,2,2,1.0
+Rajasthan,Bikaner,GANGANAGAR,1,1,1.0
+Rajasthan,Chittorgarh,CHITTORGARH,2,2,1.0
+Rajasthan,Churu,HANUMANGARH,2,2,1.0
+Rajasthan,Ganganagar (SC),GANGANAGAR,3,5,0.6
+Rajasthan,Ganganagar (SC),BHARATPUR,1,5,0.2
+Rajasthan,Ganganagar (SC),HANUMANGARH,1,5,0.2
+Rajasthan,Jhalawar,BARAN,2,4,0.5
+Rajasthan,Jhalawar,JHALAWAR,2,4,0.5
+Rajasthan,Kota,BUNDI,1,2,0.5
+Rajasthan,Kota,KOTA,1,2,0.5
+Rajasthan,Pali,PALI,1,1,1.0
+Rajasthan,Rajsamand,RAJSAMAND,1,1,1.0
+Rajasthan,Sikar,SIKAR,1,1,1.0
+Tripura,Tripura East,NORTH TRIPURA,7,23,0.3043
+Tripura,Tripura East,DHALAI,6,23,0.2609
+Tripura,Tripura East,SOUTH TRIPURA,6,23,0.2609
+Tripura,Tripura East,WEST TRIPURA,4,23,0.1739
+Tripura,Tripura West,WEST TRIPURA,13,15,0.8667
+Tripura,Tripura West,NORTH TRIPURA,1,15,0.0667
+Tripura,Tripura West,SOUTH TRIPURA,1,15,0.0667
+Uttar Pradesh,Agra,AZAMGARH,1,1,1.0
+Uttar Pradesh,Aligarh,AZAMGARH,1,3,0.3333
+Uttar Pradesh,Aligarh,BUDAUN,1,3,0.3333
+Uttar Pradesh,Aligarh,GHAZIPUR,1,3,0.3333
+Uttar Pradesh,Allahabad,ALLAHABAD,1,2,0.5
+Uttar Pradesh,Allahabad,MATHURA,1,2,0.5
+Uttar Pradesh,Amethi,AZAMGARH,1,2,0.5
+Uttar Pradesh,Amethi,SULTANPUR,1,2,0.5
+Uttar Pradesh,Amroha,SITAPUR,1,2,0.5
+Uttar Pradesh,Amroha,SONBHADRA,1,2,0.5
+Uttar Pradesh,Badaun,BUDAUN,1,3,0.3333
+Uttar Pradesh,Badaun,KUSHI NAGAR,1,3,0.3333
+Uttar Pradesh,Badaun,SULTANPUR,1,3,0.3333
+Uttar Pradesh,Bahraich,BAHRAICH,4,4,1.0
+Uttar Pradesh,Ballia,BALLIA,1,1,1.0
+Uttar Pradesh,Banda,GHAZIPUR,1,1,1.0
+Uttar Pradesh,Bareilly,BAREILLY,1,1,1.0
+Uttar Pradesh,Bijnor,MATHURA,1,3,0.3333
+Uttar Pradesh,Bijnor,MORADABAD,1,3,0.3333
+Uttar Pradesh,Bijnor,UNNAO,1,3,0.3333
+Uttar Pradesh,Bulandshahr,AZAMGARH,1,4,0.25
+Uttar Pradesh,Bulandshahr,BASTI,1,4,0.25
+Uttar Pradesh,Bulandshahr,MORADABAD,1,4,0.25
+Uttar Pradesh,Bulandshahr,SANT RAVIDAS NAGAR,1,4,0.25
+Uttar Pradesh,Chandauli,GHAZIPUR,1,1,1.0
+Uttar Pradesh,Deoria,DEORIA,1,1,1.0
+Uttar Pradesh,Dhaurahra,BALLIA,1,2,0.5
+Uttar Pradesh,Dhaurahra,BULANDSHAHAR,1,2,0.5
+Uttar Pradesh,Domariyaganj,SIDDHARTHNAGAR,1,1,1.0
+Uttar Pradesh,Etah,BALRAMPUR,1,1,1.0
+Uttar Pradesh,Etawah,AURAIYA,1,1,1.0
+Uttar Pradesh,Farrukhabad,BULANDSHAHAR,1,1,1.0
+Uttar Pradesh,Fatehpur,FATEHPUR,1,1,1.0
+Uttar Pradesh,Fatehpur Sikri,BAHRAICH,1,1,1.0
+Uttar Pradesh,Firozabad,BAHRAICH,1,3,0.3333
+Uttar Pradesh,Firozabad,FIROZABAD,1,3,0.3333
+Uttar Pradesh,Firozabad,GHAZIPUR,1,3,0.3333
+Uttar Pradesh,Gautam Buddha,ALLAHABAD,1,1,1.0
+Uttar Pradesh,Ghaziabad,GHAZIABAD,1,4,0.25
+Uttar Pradesh,Ghaziabad,GHAZIPUR,1,4,0.25
+Uttar Pradesh,Ghaziabad,MORADABAD,1,4,0.25
+Uttar Pradesh,Ghaziabad,SITAPUR,1,4,0.25
+Uttar Pradesh,Ghazipur,BUDAUN,1,1,1.0
+Uttar Pradesh,Ghosi,MAU,1,2,0.5
+Uttar Pradesh,Ghosi,RAE BARELI,1,2,0.5
+Uttar Pradesh,Gonda,GONDA,1,1,1.0
+Uttar Pradesh,Hamirpur,MAHOBA,1,1,1.0
+Uttar Pradesh,Hardoi,BALLIA,1,2,0.5
+Uttar Pradesh,Hardoi,HARDOI,1,2,0.5
+Uttar Pradesh,Hathras,MAHAMAYA NAGAR,1,1,1.0
+Uttar Pradesh,Jhansi,LALITPUR,1,1,1.0
+Uttar Pradesh,Kairana,SONBHADRA,3,5,0.6
+Uttar Pradesh,Kairana,AURAIYA,1,5,0.2
+Uttar Pradesh,Kairana,GHAZIPUR,1,5,0.2
+Uttar Pradesh,Kaiserganj,BAHRAICH,1,2,0.5
+Uttar Pradesh,Kaiserganj,GONDA,1,2,0.5
+Uttar Pradesh,Kaushambi,PRATAPGARH,1,1,1.0
+Uttar Pradesh,Kheri,HARDOI,1,2,0.5
+Uttar Pradesh,Kheri,KUSHI NAGAR,1,2,0.5
+Uttar Pradesh,Lucknow,DEORIA,1,1,1.0
+Uttar Pradesh,Machhlishahr,VARANASI,1,1,1.0
+Uttar Pradesh,Mathura,AZAMGARH,1,3,0.3333
+Uttar Pradesh,Mathura,GHAZIPUR,1,3,0.3333
+Uttar Pradesh,Mathura,MATHURA,1,3,0.3333
+Uttar Pradesh,Meerut,BULANDSHAHAR,1,2,0.5
+Uttar Pradesh,Meerut,MAU,1,2,0.5
+Uttar Pradesh,Mirzapur,AZAMGARH,1,1,1.0
+Uttar Pradesh,Misrikh,BAHRAICH,1,2,0.5
+Uttar Pradesh,Misrikh,HARDOI,1,2,0.5
+Uttar Pradesh,Moradabad,PILIBHIT,1,2,0.5
+Uttar Pradesh,Moradabad,RAMPUR,1,2,0.5
+Uttar Pradesh,Muzaffarnagar,BALRAMPUR,1,5,0.2
+Uttar Pradesh,Muzaffarnagar,BULANDSHAHAR,1,5,0.2
+Uttar Pradesh,Muzaffarnagar,PRATAPGARH,1,5,0.2
+Uttar Pradesh,Muzaffarnagar,SHRAWASTI,1,5,0.2
+Uttar Pradesh,Muzaffarnagar,SULTANPUR,1,5,0.2
+Uttar Pradesh,Nagina,VARANASI,2,5,0.4
+Uttar Pradesh,Nagina,BAHRAICH,1,5,0.2
+Uttar Pradesh,Nagina,BULANDSHAHAR,1,5,0.2
+Uttar Pradesh,Nagina,GORAKHPUR,1,5,0.2
+Uttar Pradesh,Pilibhit,KUSHI NAGAR,1,2,0.5
+Uttar Pradesh,Pilibhit,PILIBHIT,1,2,0.5
+Uttar Pradesh,Pratapgarh,PRATAPGARH,1,1,1.0
+Uttar Pradesh,Rampur,GAUTAM BUDDHA NAGAR,1,4,0.25
+Uttar Pradesh,Rampur,MATHURA,1,4,0.25
+Uttar Pradesh,Rampur,MAU,1,4,0.25
+Uttar Pradesh,Rampur,SHRAWASTI,1,4,0.25
+Uttar Pradesh,Robertsganj,SONBHADRA,1,1,1.0
+Uttar Pradesh,Saharanpur,BALLIA,1,4,0.25
+Uttar Pradesh,Saharanpur,PRATAPGARH,1,4,0.25
+Uttar Pradesh,Saharanpur,SONBHADRA,1,4,0.25
+Uttar Pradesh,Saharanpur,VARANASI,1,4,0.25
+Uttar Pradesh,Salempur,GHAZIPUR,1,1,1.0
+Uttar Pradesh,Sambhal,ALLAHABAD,1,4,0.25
+Uttar Pradesh,Sambhal,GAUTAM BUDDHA NAGAR,1,4,0.25
+Uttar Pradesh,Sambhal,PRATAPGARH,1,4,0.25
+Uttar Pradesh,Sambhal,SONBHADRA,1,4,0.25
+Uttar Pradesh,Shahjahanpur,BALLIA,1,1,1.0
+Uttar Pradesh,Shrawasti,BALRAMPUR,1,1,1.0
+Uttar Pradesh,Sitapur,SITAPUR,1,1,1.0
+Uttar Pradesh,Sultanpur,GORAKHPUR,1,3,0.3333
+Uttar Pradesh,Sultanpur,MORADABAD,1,3,0.3333
+Uttar Pradesh,Sultanpur,SULTANPUR,1,3,0.3333
+Uttar Pradesh,Unnao,DEORIA,1,2,0.5
+Uttar Pradesh,Unnao,UNNAO,1,2,0.5
+Uttarakhand,Almora,TEHRI GARHWAL,2,6,0.3333
+Uttarakhand,Almora,UTTARKASHI,2,6,0.3333
+Uttarakhand,Almora,ALMORA,1,6,0.1667
+Uttarakhand,Almora,BAGESHWAR,1,6,0.1667
+Uttarakhand,Garhwal,DEHRADUN,2,11,0.1818
+Uttarakhand,Garhwal,GARHWAL,2,11,0.1818
+Uttarakhand,Garhwal,UTTARKASHI,2,11,0.1818
+Uttarakhand,Garhwal,ALMORA,1,11,0.0909
+Uttarakhand,Garhwal,HARDWAR,1,11,0.0909
+Uttarakhand,Garhwal,NAINITAL,1,11,0.0909
+Uttarakhand,Garhwal,PITHORAGARH,1,11,0.0909
+Uttarakhand,Garhwal,UDHAMSINGH NAGAR,1,11,0.0909
+Uttarakhand,Hardwar,HARDWAR,5,7,0.7143
+Uttarakhand,Hardwar,NAINITAL,1,7,0.1429
+Uttarakhand,Hardwar,UDHAMSINGH NAGAR,1,7,0.1429
+Uttarakhand,"Nainital- Udham singh Nagar         Kaladhungi, 62-Jaspur, 63-Kashipur, 64-Bajpur (SC), 65-Gadarpur, 66-",UDHAMSINGH NAGAR,3,4,0.75
+Uttarakhand,"Nainital- Udham singh Nagar         Kaladhungi, 62-Jaspur, 63-Kashipur, 64-Bajpur (SC), 65-Gadarpur, 66-",NAINITAL,1,4,0.25
+Uttarakhand,Tehri Garhwal,UDHAMSINGH NAGAR,5,9,0.5556
+Uttarakhand,Tehri Garhwal,ALMORA,1,9,0.1111
+Uttarakhand,Tehri Garhwal,BAGESHWAR,1,9,0.1111
+Uttarakhand,Tehri Garhwal,HARDWAR,1,9,0.1111
+Uttarakhand,Tehri Garhwal,PITHORAGARH,1,9,0.1111
+West Bengal,"ALIPURDUARS (ST) 9. TUFANGANJ, 10. KUMARGRAM (ST), 11. KALCHINI (ST), 12",JALPAIGURI,3,3,1.0
+West Bengal,ARAMBAG,HOOGHLY,2,2,1.0
+West Bengal,ASANSOL,BARDHAMAN,7,7,1.0
+West Bengal,BAHARAMPUR,MURSHIDABAD,5,5,1.0
+West Bengal,BALURGHAT,DAKSHIN DINAJPUR,6,7,0.8571
+West Bengal,BALURGHAT,UTTAR DINAJPUR,1,7,0.1429
+West Bengal,BANGAON,NORTH 24 PARGANAS,3,5,0.6
+West Bengal,BANGAON,NADIA,2,5,0.4
+West Bengal,BANKURA,BANKURA,5,6,0.8333
+West Bengal,BANKURA,PURULIA,1,6,0.1667
+West Bengal,BARASAT,NORTH 24 PARGANAS,6,6,1.0
+West Bengal,"BARDHAMAN DURGAPUR              BARDHAMAN UTTAR (SC), 267. BHATAR, 274. GALSI (SC),",BARDHAMAN,3,3,1.0
+West Bengal,"BARDHAMAN PURBA (SC)            MEMARI , 268. PURBASTHALI DAKSHIN, 269. PURBASTHALI",BARDHAMAN,5,5,1.0
+West Bengal,BARRACKPUR,NORTH 24 PARGANAS,7,7,1.0
+West Bengal,BASIRHAT,NORTH 24 PARGANAS,6,6,1.0
+West Bengal,BIRBHUM,BIRBHUM,6,6,1.0
+West Bengal,"BISHNUPUR (SC) 253. BARJORA, 254. ONDA, 255. BISHNUPUR, 256",BANKURA,2,2,1.0
+West Bengal,BOLPUR,BIRBHUM,4,7,0.5714
+West Bengal,BOLPUR,BARDHAMAN,3,7,0.4286
+West Bengal,COOCHBEHAR,COOCHBEHAR,3,6,0.5
+West Bengal,COOCHBEHAR,BANKURA,1,6,0.1667
+West Bengal,COOCHBEHAR,BARDHAMAN,1,6,0.1667
+West Bengal,COOCHBEHAR,NORTH 24 PARGANAS,1,6,0.1667
+West Bengal,DARJEELING,DARJEELING,6,7,0.8571
+West Bengal,DARJEELING,UTTAR DINAJPUR,1,7,0.1429
+West Bengal,DIAMOND,SOUTH 24 PARGANAS,6,6,1.0
+West Bengal,DUM DUM,NORTH 24 PARGANAS,7,7,1.0
+West Bengal,GHATAL,PASCHIM MEDINIPUR,5,6,0.8333
+West Bengal,GHATAL,PURBO MEDINIPUR,1,6,0.1667
+West Bengal,HOOGHLY,HOOGHLY,6,6,1.0
+West Bengal,HOWRAH,HOWRAH,7,7,1.0
+West Bengal,JADAVPUR,SOUTH 24 PARGANAS,7,7,1.0
+West Bengal,JALPAIGURI,JALPAIGURI,5,6,0.8333
+West Bengal,JALPAIGURI,COOCHBEHAR,1,6,0.1667
+West Bengal,JANGIPUR,MURSHIDABAD,6,6,1.0
+West Bengal,JAYNAGAR,SOUTH 24 PARGANAS,6,6,1.0
+West Bengal,JHARGRAM,PASCHIM MEDINIPUR,7,8,0.875
+West Bengal,JHARGRAM,PURBO MEDINIPUR,1,8,0.125
+West Bengal,KANTHI,PURBO MEDINIPUR,6,6,1.0
+West Bengal,KOLKATA,KOLKATA,4,7,0.5714
+West Bengal,KOLKATA,SOUTH 24 PARGANAS,3,7,0.4286
+West Bengal,"KOLKATA UTTAR 162. CHOWRANGEE, 163. ENTALLY, 164. BELEGHATA, 165",KOLKATA,3,3,1.0
+West Bengal,"KRISHNANAGAR 78 TEHATTA, 79 PALASHIPARA, 80. KALIGANJ, 81",NADIA,2,2,1.0
+West Bengal,MALDAHA,MALDAHA,5,7,0.7143
+West Bengal,MALDAHA,MURSHIDABAD,2,7,0.2857
+West Bengal,"MALDAHA UTTAR 43. HABIBPUR (ST), 44. GAZOLE (SC), 45. CHANCHAL",MALDAHA,4,4,1.0
+West Bengal,MATHURAPUR,SOUTH 24 PARGANAS,6,6,1.0
+West Bengal,MEDINIPUR KHARAGPUR SADAR,PASCHIM MEDINIPUR,3,3,1.0
+West Bengal,MURSHIDABAD,MURSHIDABAD,6,7,0.8571
+West Bengal,MURSHIDABAD,NADIA,1,7,0.1429
+West Bengal,PURULIA,PURULIA,7,7,1.0
+West Bengal,RAIGANJ,UTTAR DINAJPUR,7,7,1.0
+West Bengal,RANAGHAT,NADIA,5,5,1.0
+West Bengal,SREERAMPUR,HOOGHLY,5,7,0.7143
+West Bengal,SREERAMPUR,HOWRAH,2,7,0.2857
+West Bengal,TAMLUK,PURBO MEDINIPUR,7,7,1.0
+West Bengal,ULUBERIA,HOWRAH,7,7,1.0

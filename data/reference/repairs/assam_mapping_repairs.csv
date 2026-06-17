@@ -1,0 +1,127 @@
+state,lok_sabha_no,lok_sabha_constituency,assembly_no,assembly_constituency,district,match_method
+Assam,1,Karimganj,1.0,Ratabari,CACHAR,by_number
+Assam,1,Karimganj,2.0,Patharkandi,CACHAR,by_number
+Assam,1,Karimganj,3.0,Karimganj North,CACHAR,by_number
+Assam,1,Karimganj,4.0,Karimganj South,CACHAR,by_number
+Assam,1,Karimganj,5.0,Badarpur,CACHAR,by_number
+Assam,1,Karimganj,6.0,Hailakandi,CACHAR,by_number
+Assam,1,Karimganj,7.0,Katlicherra,CACHAR,by_number
+Assam,1,Karimganj,8.0,Algapur,CACHAR,by_number
+Assam,2,Silchar,9.0,Silchar,CACHAR,by_number
+Assam,2,Silchar,10.0,Sonai,CACHAR,by_number
+Assam,2,Silchar,11.0,Dholai,CACHAR,by_number
+Assam,2,Silchar,12.0,Udharbond,CACHAR,by_number
+Assam,2,Silchar,13.0,Lakhipur,CACHAR,by_number
+Assam,2,Silchar,14.0,Barkhola,CACHAR,by_number
+Assam,2,Silchar,15.0,Katigora,CACHAR,by_number
+Assam,3,Autonomous District (ST,16.0,Haflong,NORTH CACHAR HILLS,by_number
+Assam,3,Autonomous District (ST,17.0,Bokajan,MIKIR HILLS,by_number
+Assam,3,Autonomous District (ST,18.0,Howraghat,MIKIR HILLS,by_number
+Assam,3,Autonomous District (ST,19.0,Diphu,MIKIR HILLS,by_number
+Assam,4,Dhubri,21.0,Mankachar,GOALPARA,by_number
+Assam,4,Dhubri,22.0,Salmara South,GOALPARA,by_number
+Assam,4,Dhubri,23.0,Dhubri,GOALPARA,by_number
+Assam,4,Dhubri,24.0,Gauripur,GOALPARA,by_number
+Assam,4,Dhubri,25.0,Golakganj,GOALPARA,by_number
+Assam,4,Dhubri,26.0,Bilasipara West,GOALPARA,by_number
+Assam,4,Dhubri,27.0,Bilasipara East,GOALPARA,by_number
+Assam,4,Dhubri,37.0,Goalpara East,GOALPARA,by_number
+Assam,4,Dhubri,38.0,Goalpara West,GOALPARA,by_number
+Assam,4,Dhubri,39.0,Jaleswar,GOALPARA,by_number
+Assam,5,Kokrajhar,28.0,Gossaigaon,GOALPARA,by_number
+Assam,5,Kokrajhar,29.0,Kokrajhar West,GOALPARA,by_number
+Assam,5,Kokrajhar,30.0,Kokrajhar East,GOALPARA,by_number
+Assam,5,Kokrajhar,31.0,Sidli,GOALPARA,by_number
+Assam,5,Kokrajhar,33.0,Bijni,GOALPARA,by_number
+Assam,5,Kokrajhar,40.0,Sorbhog,KAMRUP,by_number
+Assam,5,Kokrajhar,41.0,Bhabanipur,KAMRUP,by_number
+Assam,5,Kokrajhar,58.0,Tamulpur,KAMRUP,by_number
+Assam,5,Kokrajhar,62.0,Barama,KAMRUP,by_number
+Assam,6,Barpeta,32.0,Bongaigaon,GOALPARA,by_number
+Assam,6,Barpeta,34.0,Abhayapuri North,GOALPARA,by_number
+Assam,6,Barpeta,35.0,Abhayapuri South,GOALPARA,by_number
+Assam,6,Barpeta,42.0,Patacharkuchi,KAMRUP,by_number
+Assam,6,Barpeta,43.0,Barpeta,KAMRUP,by_number
+Assam,6,Barpeta,44.0,Jania,KAMRUP,by_number
+Assam,6,Barpeta,45.0,Baghbar,KAMRUP,by_number
+Assam,6,Barpeta,46.0,Sarukhetri,KAMRUP,by_number
+Assam,6,Barpeta,47.0,Chenga,KAMRUP,by_number
+Assam,6,Barpeta,61.0,Dharmapur,KAMRUP,by_number
+Assam,7,Gauhati,36.0,Dudhnai,GOALPARA,by_number
+Assam,7,Gauhati,48.0,Boko,KAMRUP,by_number
+Assam,7,Gauhati,49.0,Chaygaon,KAMRUP,by_number
+Assam,7,Gauhati,50.0,Palasbari,KAMRUP,by_number
+Assam,7,Gauhati,51.0,Jalukbari,KAMRUP,by_number
+Assam,7,Gauhati,52.0,Dispur,KAMRUP,by_number
+Assam,7,Gauhati,53.0,Gauhati East,KAMRUP,by_number
+Assam,7,Gauhati,54.0,Gauhati West,KAMRUP,by_number
+Assam,7,Gauhati,55.0,Hajo,KAMRUP,by_number
+Assam,7,Gauhati,60.0,Barkhetry,KAMRUP,by_number
+Assam,8,Mangaldoi,56.0,Kamalpur,KAMRUP,by_number
+Assam,8,Mangaldoi,57.0,Rangiya,KAMRUP,by_number
+Assam,8,Mangaldoi,59.0,Nalbari,KAMRUP,by_number
+Assam,8,Mangaldoi,64.0,Panery,DARRANG,by_number
+Assam,8,Mangaldoi,65.0,Kalaigaon,DARRANG,by_number
+Assam,8,Mangaldoi,66.0,Sipajhar,DARRANG,by_number
+Assam,8,Mangaldoi,67.0,Mangaldoi,DARRANG,by_number
+Assam,8,Mangaldoi,68.0,Dalgaon,DARRANG,by_number
+Assam,8,Mangaldoi,69.0,Udalguri,DARRANG,by_number
+Assam,8,Mangaldoi,70.0,Majbat,DARRANG,by_number
+Assam,9,Tezpur,71.0,Dhekiajuli,DARRANG,by_number
+Assam,9,Tezpur,72.0,Barchalla,DARRANG,by_number
+Assam,9,Tezpur,73.0,Tezpur,DARRANG,by_number
+Assam,9,Tezpur,74.0,Rangapara,DARRANG,by_number
+Assam,9,Tezpur,75.0,Sootea,DARRANG,by_number
+Assam,9,Tezpur,76.0,Biswanath,DARRANG,by_number
+Assam,9,Tezpur,77.0,Behali,DARRANG,by_number
+Assam,9,Tezpur,78.0,Gohpur,DARRANG,by_number
+Assam,9,Tezpur,109.0,Bihpuria,LAKHIMPUR,by_number
+Assam,10,Nawgong,79.0,Jagiroad,NOWGONG,by_number
+Assam,10,Nawgong,80.0,Marigaon,NOWGONG,by_number
+Assam,10,Nawgong,81.0,Laharighat,NOWGONG,by_number
+Assam,10,Nawgong,82.0,Raha,NOWGONG,by_number
+Assam,10,Nawgong,86.0,Nowgong,NOWGONG,by_number
+Assam,10,Nawgong,87.0,Barhampur,NOWGONG,by_number
+Assam,10,Nawgong,90.0,Jamunamukh,NOWGONG,by_number
+Assam,10,Nawgong,91.0,Hojai,NOWGONG,by_number
+Assam,10,Nawgong,92.0,Lumding,NOWGONG,by_number
+Assam,11,Kaliabor,83.0,Dhing,NOWGONG,by_number
+Assam,11,Kaliabor,84.0,Batadroba,NOWGONG,by_number
+Assam,11,Kaliabor,85.0,Rupohihat,NOWGONG,by_number
+Assam,11,Kaliabor,88.0,Samaguri,NOWGONG,by_number
+Assam,11,Kaliabor,89.0,Kaliabor,NOWGONG,by_number
+Assam,11,Kaliabor,93.0,Bokakhat,SIBSAGAR,by_number
+Assam,11,Kaliabor,94.0,Sarupathar,SIBSAGAR,by_number
+Assam,11,Kaliabor,95.0,Golaghat,SIBSAGAR,by_number
+Assam,11,Kaliabor,96.0,Khumtai,SIBSAGAR,by_number
+Assam,11,Kaliabor,,,,unmatched
+Assam,12,Jorhat,98.0,Jorhat,SIBSAGAR,by_number
+Assam,12,Jorhat,100.0,Titabar,SIBSAGAR,by_number
+Assam,12,Jorhat,101.0,Mariani,SIBSAGAR,by_number
+Assam,12,Jorhat,102.0,Teok,SIBSAGAR,by_number
+Assam,12,Jorhat,103.0,Amguri,SIBSAGAR,by_number
+Assam,12,Jorhat,104.0,Nazira,SIBSAGAR,by_number
+Assam,12,Jorhat,105.0,Mahmara,SIBSAGAR,by_number
+Assam,12,Jorhat,106.0,Sonari,SIBSAGAR,by_number
+Assam,12,Jorhat,107.0,Thowra,SIBSAGAR,by_number
+Assam,12,Jorhat,108.0,Sibsagar,SIBSAGAR,by_number
+Assam,13,Dibrugarh,115.0,Moran,DIBRUGARH,by_number
+Assam,13,Dibrugarh,116.0,Dibrugarh,DIBRUGARH,by_number
+Assam,13,Dibrugarh,117.0,Lahowal,DIBRUGARH,by_number
+Assam,13,Dibrugarh,118.0,Duliajan,DIBRUGARH,by_number
+Assam,13,Dibrugarh,119.0,Tingkhong,DIBRUGARH,by_number
+Assam,13,Dibrugarh,120.0,Nahar Katia,DIBRUGARH,by_number
+Assam,13,Dibrugarh,122.0,Tinsukia,DIBRUGARH,by_number
+Assam,13,Dibrugarh,123.0,Digboi,DIBRUGARH,by_number
+Assam,13,Dibrugarh,124.0,Margherita,DIBRUGARH,by_number
+Assam,14,Lakhimpur,99.0,Majuli,SIBSAGAR,by_substring
+Assam,14,Lakhimpur,110.0,Naoboicha,LAKHIMPUR,by_number
+Assam,14,Lakhimpur,111.0,Lakhimpur,LAKHIMPUR,by_number
+Assam,14,Lakhimpur,112.0,Dhakuakhana,LAKHIMPUR,by_number
+Assam,14,Lakhimpur,113.0,Dhemaji,LAKHIMPUR,by_number
+Assam,14,Lakhimpur,114.0,Jonai,LAKHIMPUR,by_number
+Assam,14,Lakhimpur,121.0,Chabua,DIBRUGARH,by_number
+Assam,14,Lakhimpur,125.0,Doom Dooma,DIBRUGARH,by_number
+Assam,14,Lakhimpur,1.0,st day of August,CACHAR,by_number
+Assam,14,Lakhimpur,1976.0,for the State of Assam,,unmatched
+Assam,14,Lakhimpur,,,,unmatched

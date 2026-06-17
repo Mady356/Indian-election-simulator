@@ -1,0 +1,11 @@
+col_0,col_1,N,(%),Valid (%)
+Valid,1: Central government,1456,6.0,44.8
+,2: State government,1243,5.1,38.2
+,3: Local politician,117,.5,3.6
+,4: Local Bureaucrat,89,.4,2.7
+,5: Other,22,.1,.7
+,6: Both Central and State government,61,.3,1.9
+,8: No response,263,1.1,8.1
+,Total,3252,13.4,100.0
+Missing,9: N.A.,20984,86.6,
+Total,,24235,100.0,

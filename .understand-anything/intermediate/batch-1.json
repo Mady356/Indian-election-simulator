@@ -1,0 +1,1581 @@
+{
+  "nodes": [
+    {
+      "id": "file:src/config.py",
+      "type": "file",
+      "name": "config.py",
+      "filePath": "src/config.py",
+      "summary": "Central configuration module defining ACTIVE_YEAR, filesystem paths (RAW_DIR, PROCESSED_DIR, DATABASE_DIR), year-stamped schema constants like ALLIANCE_COL, and analysis tuning knobs such as CLOSE_MARGIN_THRESHOLD.",
+      "tags": [
+        "config",
+        "paths",
+        "constants",
+        "core"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/data_io.py",
+      "type": "file",
+      "name": "data_io.py",
+      "filePath": "src/data_io.py",
+      "summary": "Canonical I/O layer exposing year-stamped filenames and load/save helpers for processed CSVs, outputs, and database tables; all paths derive from config.ACTIVE_YEAR.",
+      "tags": [
+        "io",
+        "data",
+        "csv",
+        "core"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:src/analysis/seat_flip_report.py",
+      "type": "file",
+      "name": "seat_flip_report.py",
+      "filePath": "src/analysis/seat_flip_report.py",
+      "summary": "Compares actual election winners against zero-sum swing simulation winners per constituency and writes a seat-flip report with party-change flags.",
+      "tags": [
+        "analysis",
+        "report",
+        "simulation",
+        "seat-flip"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/analysis/state_swing_sensitivity.py",
+      "type": "file",
+      "name": "state_swing_sensitivity.py",
+      "filePath": "src/analysis/state_swing_sensitivity.py",
+      "summary": "Aggregates per-state swing sensitivity metrics—flip rates, close-seat counts, and margin statistics—by merging actual results with zero-sum simulation output.",
+      "tags": [
+        "analysis",
+        "report",
+        "swing",
+        "state-level"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/clean/clean_eci.py",
+      "type": "file",
+      "name": "clean_eci.py",
+      "filePath": "src/clean/clean_eci.py",
+      "summary": "Year-agnostic ECI Excel cleaner using calamine engine: auto-detects header rows, normalises columns, computes rank/vote_share/margin, and routes files to canonical processed CSVs.",
+      "tags": [
+        "clean",
+        "eci",
+        "excel",
+        "pipeline"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "file:src/clean/clean_eci_2019.py",
+      "type": "file",
+      "name": "clean_eci_2019.py",
+      "filePath": "src/clean/clean_eci_2019.py",
+      "summary": "Legacy sibling of clean_eci targeting the same modern ECI format but keyed on ELECTION_YEAR; parses raw Excel into standardised candidate, party, and summary CSVs.",
+      "tags": [
+        "clean",
+        "eci",
+        "excel",
+        "pipeline"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "file:src/database/database_layer.py",
+      "type": "file",
+      "name": "database_layer.py",
+      "filePath": "src/database/database_layer.py",
+      "summary": "Builds year-stamped analytical database tables (results, candidate, party, alliance, constituency) from processed CSVs with stable constituency_id slugs for cross-year joins.",
+      "tags": [
+        "database",
+        "etl",
+        "normalisation",
+        "pipeline"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:src/database/query_database.py",
+      "type": "file",
+      "name": "query_database.py",
+      "filePath": "src/database/query_database.py",
+      "summary": "Convenience query module over database tables: closest wins, fragmentation, seat counts, vulnerable seats, and alliance seat totals.",
+      "tags": [
+        "database",
+        "queries",
+        "analysis"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:src/demographics/build_state_demographics_2011.py",
+      "type": "file",
+      "name": "build_state_demographics_2011.py",
+      "filePath": "src/demographics/build_state_demographics_2011.py",
+      "summary": "Placeholder Census 2011 demographics builder that audits uploaded files against the census manifest; parsing not yet implemented.",
+      "tags": [
+        "demographics",
+        "census",
+        "placeholder",
+        "audit"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/demographics/census_manifest.py",
+      "type": "file",
+      "name": "census_manifest.py",
+      "filePath": "src/demographics/census_manifest.py",
+      "summary": "Curated checklist of Census 2011 tables needed for electoral analysis, with helpers to derive expected filenames and locate uploaded files.",
+      "tags": [
+        "demographics",
+        "census",
+        "manifest",
+        "metadata"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/metadata/build_party_alliances.py",
+      "type": "file",
+      "name": "build_party_alliances.py",
+      "filePath": "src/metadata/build_party_alliances.py",
+      "summary": "Builds cross-year party-to-alliance lookup table from party_master and hardcoded PARTY_ALLIANCE_MAP for 2019 and 2024.",
+      "tags": [
+        "metadata",
+        "alliances",
+        "parties",
+        "database"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:src/metadata/build_party_metadata.py",
+      "type": "file",
+      "name": "build_party_metadata.py",
+      "filePath": "src/metadata/build_party_metadata.py",
+      "summary": "Enriches contesting parties with type, ideology, region, and year-specific alliance tags; outputs party counts audit and full metadata CSV.",
+      "tags": [
+        "metadata",
+        "parties",
+        "pipeline"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:src/normalisation/normalise_candidates.py",
+      "type": "file",
+      "name": "normalise_candidates.py",
+      "filePath": "src/normalisation/normalise_candidates.py",
+      "summary": "Normalises candidate names and assigns stable candidate_election_id keys to results_table rows; maintains cross-year candidate_master roster.",
+      "tags": [
+        "normalisation",
+        "candidates",
+        "database"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:src/normalisation/normalise_parties.py",
+      "type": "file",
+      "name": "normalise_parties.py",
+      "filePath": "src/normalisation/normalise_parties.py",
+      "summary": "Maps raw ECI party strings to canonical party_id via alias table; augments results_table and writes party_master.csv.",
+      "tags": [
+        "normalisation",
+        "parties",
+        "database"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:src/simulation/simple_swing_simulator.py",
+      "type": "file",
+      "name": "simple_swing_simulator.py",
+      "filePath": "src/simulation/simple_swing_simulator.py",
+      "summary": "Applies uniform per-party vote-share swings nationwide, re-ranks candidates, and outputs simulated winners (non-zero-sum model).",
+      "tags": [
+        "simulation",
+        "swing",
+        "what-if"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/simulation/state_swing_simulator.py",
+      "type": "file",
+      "name": "state_swing_simulator.py",
+      "filePath": "src/simulation/state_swing_simulator.py",
+      "summary": "Applies (state, party) keyed swings to vote shares, re-ranks per constituency, and outputs state-level simulated winners (non-zero-sum).",
+      "tags": [
+        "simulation",
+        "swing",
+        "state-level"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/simulation/zero_sum_state_swing_simulator.py",
+      "type": "file",
+      "name": "zero_sum_state_swing_simulator.py",
+      "filePath": "src/simulation/zero_sum_state_swing_simulator.py",
+      "summary": "Per-(state, party) swing simulator that clips negative shares and renormalises each constituency to 100%, producing rigorous flip comparisons for analysis modules.",
+      "tags": [
+        "simulation",
+        "swing",
+        "zero-sum",
+        "state-level"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/analysis/seat_flip_report.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/analysis/seat_flip_report.py",
+      "summary": "Loads actual and simulated winners, merges on state/constituency, flags flipped seats, saves report, and prints summary statistics.",
+      "tags": [
+        "entry-point",
+        "report"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/analysis/state_swing_sensitivity.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/analysis/state_swing_sensitivity.py",
+      "summary": "Computes per-state flip rates and close-seat counts using CLOSE_MARGIN_THRESHOLD, saves state swing sensitivity CSV.",
+      "tags": [
+        "entry-point",
+        "report"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/clean/clean_eci.py:clean_col",
+      "type": "function",
+      "name": "clean_col",
+      "filePath": "src/clean/clean_eci.py",
+      "summary": "Normalises Excel column headers to snake_case alphanumeric identifiers.",
+      "tags": [
+        "utility",
+        "columns"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/clean/clean_eci.py:detect_header_row",
+      "type": "function",
+      "name": "detect_header_row",
+      "filePath": "src/clean/clean_eci.py",
+      "summary": "Scans raw sheet rows to find the first row matching header heuristics (non-null ratio, string cells, keyword match).",
+      "tags": [
+        "excel",
+        "header-detection"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/clean/clean_eci.py:load_excel_file",
+      "type": "function",
+      "name": "load_excel_file",
+      "filePath": "src/clean/clean_eci.py",
+      "summary": "Reads an ECI Excel file with calamine engine, detects header row, and returns cleaned DataFrame.",
+      "tags": [
+        "excel",
+        "loader"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/clean/clean_eci.py:remove_junk_rows",
+      "type": "function",
+      "name": "remove_junk_rows",
+      "filePath": "src/clean/clean_eci.py",
+      "summary": "Drops entirely empty rows from a DataFrame while preserving total/summary rows.",
+      "tags": [
+        "cleaning"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/clean/clean_eci.py:standardize_results",
+      "type": "function",
+      "name": "standardize_results",
+      "filePath": "src/clean/clean_eci.py",
+      "summary": "Transforms candidate-level sheet into canonical long table with rank, vote_share, winner flag, and margin_votes.",
+      "tags": [
+        "standardisation",
+        "results"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/clean/clean_eci.py:standardize_party_file",
+      "type": "function",
+      "name": "standardize_party_file",
+      "filePath": "src/clean/clean_eci.py",
+      "summary": "Cleans party reference sheet: strips whitespace on text columns and stamps ACTIVE_YEAR.",
+      "tags": [
+        "standardisation",
+        "parties"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/clean/clean_eci.py:standardize_summary_file",
+      "type": "function",
+      "name": "standardize_summary_file",
+      "filePath": "src/clean/clean_eci.py",
+      "summary": "Basic cleaning for constituency summary sheet (placeholder for full multi-sheet loader).",
+      "tags": [
+        "standardisation",
+        "summary"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/clean/clean_eci.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/clean/clean_eci.py",
+      "summary": "Iterates RAW_YEAR_DIR Excel files, routes each to appropriate standardiser, and saves via data_io.save_csv.",
+      "tags": [
+        "entry-point",
+        "pipeline"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/clean/clean_eci_2019.py:clean_col",
+      "type": "function",
+      "name": "clean_col",
+      "filePath": "src/clean/clean_eci_2019.py",
+      "summary": "Normalises Excel column headers to snake_case alphanumeric identifiers.",
+      "tags": [
+        "utility",
+        "columns"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/clean/clean_eci_2019.py:detect_header_row",
+      "type": "function",
+      "name": "detect_header_row",
+      "filePath": "src/clean/clean_eci_2019.py",
+      "summary": "Scans raw sheet rows to find the first row matching header heuristics.",
+      "tags": [
+        "excel",
+        "header-detection"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/clean/clean_eci_2019.py:load_excel_file",
+      "type": "function",
+      "name": "load_excel_file",
+      "filePath": "src/clean/clean_eci_2019.py",
+      "summary": "Reads ECI Excel with calamine, auto-detects header, returns normalised DataFrame.",
+      "tags": [
+        "excel",
+        "loader"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/clean/clean_eci_2019.py:remove_junk_rows",
+      "type": "function",
+      "name": "remove_junk_rows",
+      "filePath": "src/clean/clean_eci_2019.py",
+      "summary": "Drops entirely empty rows from a DataFrame.",
+      "tags": [
+        "cleaning"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/clean/clean_eci_2019.py:standardize_results",
+      "type": "function",
+      "name": "standardize_results",
+      "filePath": "src/clean/clean_eci_2019.py",
+      "summary": "Builds canonical candidate results with rank, vote_share, winner, and margin_votes using ELECTION_YEAR.",
+      "tags": [
+        "standardisation",
+        "results"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/clean/clean_eci_2019.py:standardize_party_file",
+      "type": "function",
+      "name": "standardize_party_file",
+      "filePath": "src/clean/clean_eci_2019.py",
+      "summary": "Cleans party sheet and stamps ELECTION_YEAR.",
+      "tags": [
+        "standardisation",
+        "parties"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/clean/clean_eci_2019.py:standardize_summary_file",
+      "type": "function",
+      "name": "standardize_summary_file",
+      "filePath": "src/clean/clean_eci_2019.py",
+      "summary": "Basic cleaning for constituency summary sheet.",
+      "tags": [
+        "standardisation",
+        "summary"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/clean/clean_eci_2019.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/clean/clean_eci_2019.py",
+      "summary": "Processes all Excel files in RAW_YEAR_DIR and writes year-stamped processed CSVs.",
+      "tags": [
+        "entry-point",
+        "pipeline"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/data_io.py:load_candidate_results",
+      "type": "function",
+      "name": "load_candidate_results",
+      "filePath": "src/data_io.py",
+      "summary": "Reads the year-stamped ECI candidate results CSV from PROCESSED_DIR.",
+      "tags": [
+        "loader",
+        "results"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/data_io.py:load_party_metadata",
+      "type": "function",
+      "name": "load_party_metadata",
+      "filePath": "src/data_io.py",
+      "summary": "Reads party metadata CSV with type, alliance, ideology, and region.",
+      "tags": [
+        "loader",
+        "metadata"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/data_io.py:load_winners",
+      "type": "function",
+      "name": "load_winners",
+      "filePath": "src/data_io.py",
+      "summary": "Reads one-row-per-constituency winners table enriched with party metadata.",
+      "tags": [
+        "loader",
+        "winners"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/data_io.py:load_constituency_features",
+      "type": "function",
+      "name": "load_constituency_features",
+      "filePath": "src/data_io.py",
+      "summary": "Reads constituency-level numeric features for modelling.",
+      "tags": [
+        "loader",
+        "features"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/data_io.py:save_csv",
+      "type": "function",
+      "name": "save_csv",
+      "filePath": "src/data_io.py",
+      "summary": "Writes DataFrame to processed/ or outputs/ directory based on outputs flag.",
+      "tags": [
+        "saver",
+        "csv"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/data_io.py:save_parquet",
+      "type": "function",
+      "name": "save_parquet",
+      "filePath": "src/data_io.py",
+      "summary": "Writes DataFrame as Parquet to processed/ or outputs/.",
+      "tags": [
+        "saver",
+        "parquet"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/data_io.py:save_table",
+      "type": "function",
+      "name": "save_table",
+      "filePath": "src/data_io.py",
+      "summary": "Persists database table as both CSV and Parquet with ACTIVE_YEAR suffix.",
+      "tags": [
+        "saver",
+        "database"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/data_io.py:load_table",
+      "type": "function",
+      "name": "load_table",
+      "filePath": "src/data_io.py",
+      "summary": "Loads a year-stamped database table from Parquet.",
+      "tags": [
+        "loader",
+        "database"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/database/database_layer.py:make_constituency_id",
+      "type": "function",
+      "name": "make_constituency_id",
+      "filePath": "src/database/database_layer.py",
+      "summary": "Creates year-stable slug IDs like STATE__CONSTITUENCY for cross-year joins.",
+      "tags": [
+        "utility",
+        "keys"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/database/database_layer.py:load_data",
+      "type": "function",
+      "name": "load_data",
+      "filePath": "src/database/database_layer.py",
+      "summary": "Loads results, party metadata, winners, and constituency features via data_io.",
+      "tags": [
+        "loader"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/database/database_layer.py:build_results_table",
+      "type": "function",
+      "name": "build_results_table",
+      "filePath": "src/database/database_layer.py",
+      "summary": "Builds long candidate-level fact table with election_year, election_type, and constituency_id.",
+      "tags": [
+        "builder",
+        "results"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/database/database_layer.py:build_party_table",
+      "type": "function",
+      "name": "build_party_table",
+      "filePath": "src/database/database_layer.py",
+      "summary": "Extracts one row per party with metadata columns including year-stamped alliance.",
+      "tags": [
+        "builder",
+        "parties"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/database/database_layer.py:build_constituency_table",
+      "type": "function",
+      "name": "build_constituency_table",
+      "filePath": "src/database/database_layer.py",
+      "summary": "Combines constituency features with stable id and winner facts.",
+      "tags": [
+        "builder",
+        "constituencies"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/database/database_layer.py:build_alliance_table",
+      "type": "function",
+      "name": "build_alliance_table",
+      "filePath": "src/database/database_layer.py",
+      "summary": "Produces long-format (election_year, party, alliance) mapping.",
+      "tags": [
+        "builder",
+        "alliances"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/database/database_layer.py:build_candidate_table",
+      "type": "function",
+      "name": "build_candidate_table",
+      "filePath": "src/database/database_layer.py",
+      "summary": "Creates lightweight candidate lookup keyed by candidate_id slug.",
+      "tags": [
+        "builder",
+        "candidates"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/database/database_layer.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/database/database_layer.py",
+      "summary": "Loads data, builds all five database tables, and saves via save_table.",
+      "tags": [
+        "entry-point",
+        "pipeline"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/database/query_database.py:closest_wins",
+      "type": "function",
+      "name": "closest_wins",
+      "filePath": "src/database/query_database.py",
+      "summary": "Returns constituencies with smallest top-2 margin, optionally filtered by winning party.",
+      "tags": [
+        "query",
+        "margins"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/database/query_database.py:most_fragmented",
+      "type": "function",
+      "name": "most_fragmented",
+      "filePath": "src/database/query_database.py",
+      "summary": "Returns constituencies with highest effective number of parties.",
+      "tags": [
+        "query",
+        "fragmentation"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/database/query_database.py:seats_by_state_and_party",
+      "type": "function",
+      "name": "seats_by_state_and_party",
+      "filePath": "src/database/query_database.py",
+      "summary": "Aggregates seat counts grouped by state and party from results_table.",
+      "tags": [
+        "query",
+        "aggregation"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/database/query_database.py:vulnerable_seats",
+      "type": "function",
+      "name": "vulnerable_seats",
+      "filePath": "src/database/query_database.py",
+      "summary": "Lists seats held by a party whose margin is below threshold.",
+      "tags": [
+        "query",
+        "risk"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/database/query_database.py:alliance_seat_counts",
+      "type": "function",
+      "name": "alliance_seat_counts",
+      "filePath": "src/database/query_database.py",
+      "summary": "Counts seats by year-stamped alliance column from constituency_table.",
+      "tags": [
+        "query",
+        "alliances"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/database/query_database.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/database/query_database.py",
+      "summary": "Demo entry point printing sample queries for BJP closest wins, fragmentation, vulnerable INC seats, and alliance counts.",
+      "tags": [
+        "entry-point",
+        "demo"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/build_state_demographics_2011.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/demographics/build_state_demographics_2011.py",
+      "summary": "Audits CENSUS_2011_DIR against manifest entries, reports present/missing/extra files; parsing deferred.",
+      "tags": [
+        "entry-point",
+        "audit",
+        "placeholder"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/census_manifest.py:expected_basename",
+      "type": "function",
+      "name": "expected_basename",
+      "filePath": "src/demographics/census_manifest.py",
+      "summary": "Returns preferred filename for a manifest entry given optional extension.",
+      "tags": [
+        "utility",
+        "naming"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/census_manifest.py:find_uploaded_file",
+      "type": "function",
+      "name": "find_uploaded_file",
+      "filePath": "src/demographics/census_manifest.py",
+      "summary": "Locates uploaded Census file matching preferred basename or code prefix in raw directory.",
+      "tags": [
+        "utility",
+        "discovery"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/census_manifest.py:tables_by_priority",
+      "type": "function",
+      "name": "tables_by_priority",
+      "filePath": "src/demographics/census_manifest.py",
+      "summary": "Filters CENSUS_2011_TABLES list by priority level or returns all.",
+      "tags": [
+        "utility",
+        "filter"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/metadata/build_party_alliances.py:load_party_master",
+      "type": "function",
+      "name": "load_party_master",
+      "filePath": "src/metadata/build_party_alliances.py",
+      "summary": "Reads party_master.csv from DATABASE_DIR or raises if missing.",
+      "tags": [
+        "loader"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/metadata/build_party_alliances.py:build_party_alliance_table",
+      "type": "function",
+      "name": "build_party_alliance_table",
+      "filePath": "src/metadata/build_party_alliances.py",
+      "summary": "Expands PARTY_ALLIANCE_MAP into long (party_id, election_year, alliance) rows for all known parties.",
+      "tags": [
+        "builder",
+        "alliances"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/metadata/build_party_alliances.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/metadata/build_party_alliances.py",
+      "summary": "Builds and saves party_alliance_by_year.csv with summary stats and UNKNOWN audit.",
+      "tags": [
+        "entry-point",
+        "pipeline"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/metadata/build_party_metadata.py:build_party_counts",
+      "type": "function",
+      "name": "build_party_counts",
+      "filePath": "src/metadata/build_party_metadata.py",
+      "summary": "Counts candidates per party from results DataFrame.",
+      "tags": [
+        "builder",
+        "audit"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/metadata/build_party_metadata.py:build_party_metadata",
+      "type": "function",
+      "name": "build_party_metadata",
+      "filePath": "src/metadata/build_party_metadata.py",
+      "summary": "Merges PARTY_FACTS and PARTY_ALLIANCE_MAP onto party counts with unknown defaults.",
+      "tags": [
+        "builder",
+        "metadata"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/metadata/build_party_metadata.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/metadata/build_party_metadata.py",
+      "summary": "Loads candidate results, builds counts and metadata tables, saves both CSVs.",
+      "tags": [
+        "entry-point",
+        "pipeline"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/normalisation/normalise_candidates.py:clean_text",
+      "type": "function",
+      "name": "clean_text",
+      "filePath": "src/normalisation/normalise_candidates.py",
+      "summary": "Uppercases and normalises candidate name strings, stripping special characters.",
+      "tags": [
+        "utility",
+        "text"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/normalisation/normalise_candidates.py:slugify",
+      "type": "function",
+      "name": "slugify",
+      "filePath": "src/normalisation/normalise_candidates.py",
+      "summary": "Converts cleaned text to underscore slug for ID components.",
+      "tags": [
+        "utility",
+        "text"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/normalisation/normalise_candidates.py:build_candidate_election_id",
+      "type": "function",
+      "name": "build_candidate_election_id",
+      "filePath": "src/normalisation/normalise_candidates.py",
+      "summary": "Constructs stable CAND_<year>_<state>_<constituency>_<party>_<name> identifier.",
+      "tags": [
+        "utility",
+        "keys"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/normalisation/normalise_candidates.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/normalisation/normalise_candidates.py",
+      "summary": "Augments results_table with candidate IDs, updates candidate_master cross-year roster.",
+      "tags": [
+        "entry-point",
+        "pipeline"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/normalisation/normalise_parties.py:clean_text",
+      "type": "function",
+      "name": "clean_text",
+      "filePath": "src/normalisation/normalise_parties.py",
+      "summary": "Uppercases and normalises raw party name strings.",
+      "tags": [
+        "utility",
+        "text"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/normalisation/normalise_parties.py:slugify",
+      "type": "function",
+      "name": "slugify",
+      "filePath": "src/normalisation/normalise_parties.py",
+      "summary": "Converts cleaned party text to underscore slug.",
+      "tags": [
+        "utility",
+        "text"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/normalisation/normalise_parties.py:normalise_party",
+      "type": "function",
+      "name": "normalise_party",
+      "filePath": "src/normalisation/normalise_parties.py",
+      "summary": "Maps raw party via KNOWN_PARTY_ALIASES or generates PARTY_ slug for unknowns.",
+      "tags": [
+        "utility",
+        "normalisation"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/normalisation/normalise_parties.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/normalisation/normalise_parties.py",
+      "summary": "Adds party_id columns to results_table and writes party_master.csv.",
+      "tags": [
+        "entry-point",
+        "pipeline"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/simulation/simple_swing_simulator.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/simulation/simple_swing_simulator.py",
+      "summary": "Applies SWINGS dict to vote_share, re-ranks per constituency, saves simulated winners CSV.",
+      "tags": [
+        "entry-point",
+        "simulation"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/simulation/state_swing_simulator.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/simulation/state_swing_simulator.py",
+      "summary": "Applies STATE_SWINGS keyed by (state, party), re-ranks, saves state simulated winners.",
+      "tags": [
+        "entry-point",
+        "simulation"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/simulation/zero_sum_state_swing_simulator.py:apply_zero_sum_swing",
+      "type": "function",
+      "name": "apply_zero_sum_swing",
+      "filePath": "src/simulation/zero_sum_state_swing_simulator.py",
+      "summary": "Within one constituency group, applies state-party swing, clips to zero, renormalises shares to 100%.",
+      "tags": [
+        "simulation",
+        "zero-sum"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/simulation/zero_sum_state_swing_simulator.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/simulation/zero_sum_state_swing_simulator.py",
+      "summary": "Runs zero-sum swing per constituency, saves full simulated results and winners, reports changed seats.",
+      "tags": [
+        "entry-point",
+        "simulation"
+      ],
+      "complexity": "moderate"
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:src/analysis/seat_flip_report.py",
+      "target": "function:src/analysis/seat_flip_report.py:main",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/state_swing_sensitivity.py",
+      "target": "function:src/analysis/state_swing_sensitivity.py:main",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/clean/clean_eci.py",
+      "target": "function:src/clean/clean_eci.py:clean_col",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/clean/clean_eci.py",
+      "target": "function:src/clean/clean_eci.py:detect_header_row",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/clean/clean_eci.py",
+      "target": "function:src/clean/clean_eci.py:load_excel_file",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/clean/clean_eci.py",
+      "target": "function:src/clean/clean_eci.py:remove_junk_rows",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/clean/clean_eci.py",
+      "target": "function:src/clean/clean_eci.py:standardize_results",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/clean/clean_eci.py",
+      "target": "function:src/clean/clean_eci.py:standardize_party_file",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/clean/clean_eci.py",
+      "target": "function:src/clean/clean_eci.py:standardize_summary_file",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/clean/clean_eci.py",
+      "target": "function:src/clean/clean_eci.py:main",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/clean/clean_eci_2019.py",
+      "target": "function:src/clean/clean_eci_2019.py:clean_col",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/clean/clean_eci_2019.py",
+      "target": "function:src/clean/clean_eci_2019.py:detect_header_row",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/clean/clean_eci_2019.py",
+      "target": "function:src/clean/clean_eci_2019.py:load_excel_file",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/clean/clean_eci_2019.py",
+      "target": "function:src/clean/clean_eci_2019.py:remove_junk_rows",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/clean/clean_eci_2019.py",
+      "target": "function:src/clean/clean_eci_2019.py:standardize_results",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/clean/clean_eci_2019.py",
+      "target": "function:src/clean/clean_eci_2019.py:standardize_party_file",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/clean/clean_eci_2019.py",
+      "target": "function:src/clean/clean_eci_2019.py:standardize_summary_file",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/clean/clean_eci_2019.py",
+      "target": "function:src/clean/clean_eci_2019.py:main",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/data_io.py",
+      "target": "function:src/data_io.py:load_candidate_results",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/data_io.py",
+      "target": "function:src/data_io.py:load_party_metadata",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/data_io.py",
+      "target": "function:src/data_io.py:load_winners",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/data_io.py",
+      "target": "function:src/data_io.py:load_constituency_features",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/data_io.py",
+      "target": "function:src/data_io.py:save_csv",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/data_io.py",
+      "target": "function:src/data_io.py:save_parquet",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/data_io.py",
+      "target": "function:src/data_io.py:save_table",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/data_io.py",
+      "target": "function:src/data_io.py:load_table",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/database/database_layer.py",
+      "target": "function:src/database/database_layer.py:make_constituency_id",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/database/database_layer.py",
+      "target": "function:src/database/database_layer.py:load_data",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/database/database_layer.py",
+      "target": "function:src/database/database_layer.py:build_results_table",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/database/database_layer.py",
+      "target": "function:src/database/database_layer.py:build_party_table",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/database/database_layer.py",
+      "target": "function:src/database/database_layer.py:build_constituency_table",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/database/database_layer.py",
+      "target": "function:src/database/database_layer.py:build_alliance_table",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/database/database_layer.py",
+      "target": "function:src/database/database_layer.py:build_candidate_table",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/database/database_layer.py",
+      "target": "function:src/database/database_layer.py:main",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/database/query_database.py",
+      "target": "function:src/database/query_database.py:closest_wins",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/database/query_database.py",
+      "target": "function:src/database/query_database.py:most_fragmented",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/database/query_database.py",
+      "target": "function:src/database/query_database.py:seats_by_state_and_party",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/database/query_database.py",
+      "target": "function:src/database/query_database.py:vulnerable_seats",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/database/query_database.py",
+      "target": "function:src/database/query_database.py:alliance_seat_counts",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/database/query_database.py",
+      "target": "function:src/database/query_database.py:main",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/build_state_demographics_2011.py",
+      "target": "function:src/demographics/build_state_demographics_2011.py:main",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/census_manifest.py",
+      "target": "function:src/demographics/census_manifest.py:expected_basename",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/census_manifest.py",
+      "target": "function:src/demographics/census_manifest.py:find_uploaded_file",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/census_manifest.py",
+      "target": "function:src/demographics/census_manifest.py:tables_by_priority",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/metadata/build_party_alliances.py",
+      "target": "function:src/metadata/build_party_alliances.py:load_party_master",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/metadata/build_party_alliances.py",
+      "target": "function:src/metadata/build_party_alliances.py:build_party_alliance_table",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/metadata/build_party_alliances.py",
+      "target": "function:src/metadata/build_party_alliances.py:main",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/metadata/build_party_metadata.py",
+      "target": "function:src/metadata/build_party_metadata.py:build_party_counts",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/metadata/build_party_metadata.py",
+      "target": "function:src/metadata/build_party_metadata.py:build_party_metadata",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/metadata/build_party_metadata.py",
+      "target": "function:src/metadata/build_party_metadata.py:main",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/normalisation/normalise_candidates.py",
+      "target": "function:src/normalisation/normalise_candidates.py:clean_text",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/normalisation/normalise_candidates.py",
+      "target": "function:src/normalisation/normalise_candidates.py:slugify",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/normalisation/normalise_candidates.py",
+      "target": "function:src/normalisation/normalise_candidates.py:build_candidate_election_id",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/normalisation/normalise_candidates.py",
+      "target": "function:src/normalisation/normalise_candidates.py:main",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/normalisation/normalise_parties.py",
+      "target": "function:src/normalisation/normalise_parties.py:clean_text",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/normalisation/normalise_parties.py",
+      "target": "function:src/normalisation/normalise_parties.py:slugify",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/normalisation/normalise_parties.py",
+      "target": "function:src/normalisation/normalise_parties.py:normalise_party",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/normalisation/normalise_parties.py",
+      "target": "function:src/normalisation/normalise_parties.py:main",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/simulation/simple_swing_simulator.py",
+      "target": "function:src/simulation/simple_swing_simulator.py:main",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/simulation/state_swing_simulator.py",
+      "target": "function:src/simulation/state_swing_simulator.py:main",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/simulation/zero_sum_state_swing_simulator.py",
+      "target": "function:src/simulation/zero_sum_state_swing_simulator.py:apply_zero_sum_swing",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/simulation/zero_sum_state_swing_simulator.py",
+      "target": "function:src/simulation/zero_sum_state_swing_simulator.py:main",
+      "type": "contains",
+      "direction": "directed",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/seat_flip_report.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/analysis/seat_flip_report.py",
+      "target": "file:src/data_io.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/analysis/state_swing_sensitivity.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/analysis/state_swing_sensitivity.py",
+      "target": "file:src/data_io.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/clean/clean_eci.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/clean/clean_eci.py",
+      "target": "file:src/data_io.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/clean/clean_eci_2019.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/clean/clean_eci_2019.py",
+      "target": "file:src/data_io.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/data_io.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/database/database_layer.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/database/database_layer.py",
+      "target": "file:src/data_io.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/database/query_database.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/database/query_database.py",
+      "target": "file:src/data_io.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/build_state_demographics_2011.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/build_state_demographics_2011.py",
+      "target": "file:src/demographics/census_manifest.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/metadata/build_party_alliances.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/metadata/build_party_metadata.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/metadata/build_party_metadata.py",
+      "target": "file:src/data_io.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/normalisation/normalise_candidates.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/normalisation/normalise_parties.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/simulation/simple_swing_simulator.py",
+      "target": "file:src/data_io.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/simulation/state_swing_simulator.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/simulation/state_swing_simulator.py",
+      "target": "file:src/data_io.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/simulation/zero_sum_state_swing_simulator.py",
+      "target": "file:src/data_io.py",
+      "type": "imports",
+      "direction": "directed",
+      "weight": 0.7
+    }
+  ]
+}

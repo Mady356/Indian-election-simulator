@@ -1,0 +1,883 @@
+{
+  "nodes": [
+    {
+      "id": "file:src/demographics/dhs/build_nfhs_district_features.py",
+      "type": "file",
+      "name": "build_nfhs_district_features.py",
+      "filePath": "src/demographics/dhs/build_nfhs_district_features.py",
+      "summary": "CLI pipeline that builds district-level NFHS-4/NFHS-5 demographic features by resolving district from microdata columns or joining household records to DHS geographic shapefiles via cluster IDs.",
+      "tags": ["entry-point", "data-pipeline", "nfhs", "district-aggregation", "geospatial-join"],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/demographics/dhs/build_nfhs_district_features.py:load_ge_lookup",
+      "type": "function",
+      "name": "load_ge_lookup",
+      "filePath": "src/demographics/dhs/build_nfhs_district_features.py",
+      "lineRange": [51, 66],
+      "summary": "Loads DHS geographic shapefiles (IAGE71FL/IAGE7AFL) and returns a cluster-to-district lookup DataFrame with state and urban/rural attributes.",
+      "tags": ["geospatial", "shapefile", "cluster-lookup"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/dhs/build_nfhs_district_features.py:attach_district_from_ge",
+      "type": "function",
+      "name": "attach_district_from_ge",
+      "filePath": "src/demographics/dhs/build_nfhs_district_features.py",
+      "lineRange": [69, 102],
+      "summary": "Joins household microdata to the GE lookup on cluster ID, validates match rate (>=50%), and returns joined records or diagnostic candidates when join fails.",
+      "tags": ["geospatial-join", "microdata", "validation"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/dhs/build_nfhs_district_features.py:aggregate_district_frame",
+      "type": "function",
+      "name": "aggregate_district_frame",
+      "filePath": "src/demographics/dhs/build_nfhs_district_features.py",
+      "lineRange": [105, 136],
+      "summary": "Groups joined household records by state and district, computing weighted NFHS indicators (electricity, sanitation, LPG, wealth) for each district.",
+      "tags": ["aggregation", "weighted-stats", "district-features"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/dhs/build_nfhs_district_features.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/demographics/dhs/build_nfhs_district_features.py",
+      "lineRange": [139, 206],
+      "summary": "Orchestrates NFHS-4 and NFHS-5 district feature builds across microdata and GE-join paths, merges IR features when available, and writes nfhs_district_features.csv.",
+      "tags": ["entry-point", "orchestration", "csv-output"],
+      "complexity": "complex"
+    },
+    {
+      "id": "file:src/demographics/dhs/build_nfhs_state_features.py",
+      "type": "file",
+      "name": "build_nfhs_state_features.py",
+      "filePath": "src/demographics/dhs/build_nfhs_state_features.py",
+      "summary": "CLI pipeline that aggregates NFHS-4 and NFHS-5 household, women, men, and person-count microdata into state-level feature tables with NFHS-4-to-5 trend columns.",
+      "tags": ["entry-point", "data-pipeline", "nfhs", "state-aggregation"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/dhs/build_nfhs_state_features.py:build_survey_features",
+      "type": "function",
+      "name": "build_survey_features",
+      "filePath": "src/demographics/dhs/build_nfhs_state_features.py",
+      "lineRange": [39, 76],
+      "summary": "Resolves HR/IR/PR/MR Stata files for a survey version, aggregates features per state, merges datasets, and attaches survey metadata and state labels.",
+      "tags": ["aggregation", "microdata", "survey-version"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/dhs/build_nfhs_state_features.py:add_trends",
+      "type": "function",
+      "name": "add_trends",
+      "filePath": "src/demographics/dhs/build_nfhs_state_features.py",
+      "lineRange": [79, 96],
+      "summary": "Computes NFHS-4-to-NFHS-5 delta columns for internet, electricity, sanitation, and fertility by joining survey rounds on state.",
+      "tags": ["trend-analysis", "nfhs-comparison", "feature-engineering"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/dhs/build_nfhs_state_features.py:print_validation",
+      "type": "function",
+      "name": "print_validation",
+      "filePath": "src/demographics/dhs/build_nfhs_state_features.py",
+      "lineRange": [99, 113],
+      "summary": "Prints coverage statistics, per-feature missingness rates, and Stata variable-to-feature mapping diagnostics after state feature build.",
+      "tags": ["validation", "diagnostics", "logging"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/dhs/build_nfhs_state_features.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/demographics/dhs/build_nfhs_state_features.py",
+      "lineRange": [116, 146],
+      "summary": "Builds NFHS-4 and NFHS-5 state features, adds trend columns, writes nfhs_state_features.csv, and prints validation output.",
+      "tags": ["entry-point", "orchestration", "csv-output"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:src/demographics/dhs/extract_dhs_zips.py",
+      "type": "file",
+      "name": "extract_dhs_zips.py",
+      "filePath": "src/demographics/dhs/extract_dhs_zips.py",
+      "summary": "Extracts Stata (.dta) microdata files from DHS DT-format zip archives listed in the download inventory into the DHS extracted directory.",
+      "tags": ["entry-point", "data-pipeline", "extraction", "stata"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/dhs/extract_dhs_zips.py:extract_stata_from_zip",
+      "type": "function",
+      "name": "extract_stata_from_zip",
+      "filePath": "src/demographics/dhs/extract_dhs_zips.py",
+      "lineRange": [20, 35],
+      "summary": "Opens a DHS zip archive and extracts .dta members to the output directory, skipping files that already exist.",
+      "tags": ["zip-extraction", "stata", "utility"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/dhs/extract_dhs_zips.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/demographics/dhs/extract_dhs_zips.py",
+      "lineRange": [38, 54],
+      "summary": "Iterates DT-format files from the DHS inventory and extracts all Stata microdata to DHS_EXTRACTED_DIR.",
+      "tags": ["entry-point", "orchestration", "batch-processing"],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/demographics/dhs/feature_utils.py",
+      "type": "file",
+      "name": "feature_utils.py",
+      "filePath": "src/demographics/dhs/feature_utils.py",
+      "summary": "Shared library for weighted NFHS aggregation from Stata microdata, including column resolution, indicator specs, TFR estimation, and HH/IR/MR/PR feature builders.",
+      "tags": ["utility", "aggregation", "nfhs", "microdata", "weighted-stats"],
+      "complexity": "complex",
+      "languageNotes": "Defines HH_INDICATOR_SPECS, IR_SPECS, and MR_SPECS dicts mapping output feature names to Stata variable candidates and keyword fallbacks."
+    },
+    {
+      "id": "function:src/demographics/dhs/feature_utils.py:load_inventory",
+      "type": "function",
+      "name": "load_inventory",
+      "filePath": "src/demographics/dhs/feature_utils.py",
+      "lineRange": [99, 113],
+      "summary": "Loads the DHS file inventory from candidate CSV paths, optionally enriching with parsed filename metadata.",
+      "tags": ["inventory", "data-loading", "utility"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/dhs/feature_utils.py:find_column",
+      "type": "function",
+      "name": "find_column",
+      "filePath": "src/demographics/dhs/feature_utils.py",
+      "lineRange": [121, 136],
+      "summary": "Resolves a Stata column by exact name match first, then by keyword search against variable labels in metadata.",
+      "tags": ["column-resolution", "metadata", "utility"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/dhs/feature_utils.py:weighted_pct",
+      "type": "function",
+      "name": "weighted_pct",
+      "filePath": "src/demographics/dhs/feature_utils.py",
+      "lineRange": [161, 170],
+      "summary": "Computes a survey-weighted percentage of values matching a yes-code set, returning NaN when no valid weights exist.",
+      "tags": ["weighted-stats", "aggregation", "utility"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/dhs/feature_utils.py:resolve_dta_path",
+      "type": "function",
+      "name": "resolve_dta_path",
+      "filePath": "src/demographics/dhs/feature_utils.py",
+      "lineRange": [180, 191],
+      "summary": "Locates an extracted Stata file by stem, trying exact, uppercase, and glob matches across .dta/.DTA extensions.",
+      "tags": ["path-resolution", "stata", "utility"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/dhs/feature_utils.py:compute_tfr",
+      "type": "function",
+      "name": "compute_tfr",
+      "filePath": "src/demographics/dhs/feature_utils.py",
+      "lineRange": [194, 238],
+      "summary": "Estimates total fertility rate from birth-history columns using age-specific fertility rates, falling back to weighted mean children ever born.",
+      "tags": ["fertility", "birth-history", "weighted-stats"],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/demographics/dhs/feature_utils.py:derive_hh_indicators",
+      "type": "function",
+      "name": "derive_hh_indicators",
+      "filePath": "src/demographics/dhs/feature_utils.py",
+      "lineRange": [241, 265],
+      "summary": "Derives boolean household indicator columns for improved sanitation and LPG cooking fuel from raw Stata toilet and fuel variables.",
+      "tags": ["feature-engineering", "household", "derived-columns"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/dhs/feature_utils.py:aggregate_hh_features",
+      "type": "function",
+      "name": "aggregate_hh_features",
+      "filePath": "src/demographics/dhs/feature_utils.py",
+      "lineRange": [268, 320],
+      "summary": "Reads household recode (HR) microdata, groups by specified columns, and computes weighted HH_INDICATOR_SPECS features per group.",
+      "tags": ["aggregation", "household", "weighted-stats"],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/demographics/dhs/feature_utils.py:aggregate_ir_features",
+      "type": "function",
+      "name": "aggregate_ir_features",
+      "filePath": "src/demographics/dhs/feature_utils.py",
+      "lineRange": [323, 381],
+      "summary": "Aggregates women's individual recode (IR) microdata into literacy, education, and fertility features per group using IR_SPECS.",
+      "tags": ["aggregation", "women", "fertility"],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/demographics/dhs/feature_utils.py:aggregate_mr_features",
+      "type": "function",
+      "name": "aggregate_mr_features",
+      "filePath": "src/demographics/dhs/feature_utils.py",
+      "lineRange": [384, 418],
+      "summary": "Aggregates men's individual recode (MR) microdata into male literacy percentage per group, returning empty when state/weight columns are missing.",
+      "tags": ["aggregation", "men", "literacy"],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/dhs/feature_utils.py:count_persons",
+      "type": "function",
+      "name": "count_persons",
+      "filePath": "src/demographics/dhs/feature_utils.py",
+      "lineRange": [421, 431],
+      "summary": "Counts persons per group from population recode (PR) microdata using groupby size.",
+      "tags": ["aggregation", "person-count", "utility"],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/demographics/dhs/inspect_dhs_variables.py",
+      "type": "file",
+      "name": "inspect_dhs_variables.py",
+      "filePath": "src/demographics/dhs/inspect_dhs_variables.py",
+      "summary": "Inspects all extracted DHS Stata files and writes a CSV feature dictionary mapping variables to labels and sample value codes.",
+      "tags": ["entry-point", "inspection", "metadata", "diagnostics"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/dhs/inspect_dhs_variables.py:inspect_dta",
+      "type": "function",
+      "name": "inspect_dta",
+      "filePath": "src/demographics/dhs/inspect_dhs_variables.py",
+      "lineRange": [22, 40],
+      "summary": "Reads Stata metadata only and returns a list of variable records with labels and sample value-label mappings.",
+      "tags": ["metadata", "stata", "inspection"],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/dhs/inspect_dhs_variables.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/demographics/dhs/inspect_dhs_variables.py",
+      "lineRange": [43, 58],
+      "summary": "Scans all .dta files in DHS_EXTRACTED_DIR, inspects each, and saves the combined variable dictionary to dhs_feature_dictionary.csv.",
+      "tags": ["entry-point", "orchestration", "csv-output"],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/demographics/dhs/paths.py",
+      "type": "file",
+      "name": "paths.py",
+      "filePath": "src/demographics/dhs/paths.py",
+      "summary": "Centralizes DHS/NFHS pipeline paths, survey version metadata, national fileset stems, feature column schemas, and GE shapefile identifiers.",
+      "tags": ["configuration", "paths", "schema-definition", "nfhs"],
+      "complexity": "simple"
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_district_features.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_district_features.py",
+      "target": "file:src/demographics/dhs/feature_utils.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_district_features.py",
+      "target": "file:src/demographics/dhs/paths.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_state_features.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_state_features.py",
+      "target": "file:src/demographics/dhs/feature_utils.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_state_features.py",
+      "target": "file:src/demographics/dhs/paths.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/dhs/extract_dhs_zips.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/dhs/extract_dhs_zips.py",
+      "target": "file:src/demographics/dhs/feature_utils.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "file:src/demographics/dhs/paths.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/dhs/inspect_dhs_variables.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/dhs/inspect_dhs_variables.py",
+      "target": "file:src/demographics/dhs/paths.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/dhs/paths.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_district_features.py",
+      "target": "function:src/demographics/dhs/build_nfhs_district_features.py:load_ge_lookup",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_district_features.py",
+      "target": "function:src/demographics/dhs/build_nfhs_district_features.py:attach_district_from_ge",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_district_features.py",
+      "target": "function:src/demographics/dhs/build_nfhs_district_features.py:aggregate_district_frame",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_district_features.py",
+      "target": "function:src/demographics/dhs/build_nfhs_district_features.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_state_features.py",
+      "target": "function:src/demographics/dhs/build_nfhs_state_features.py:build_survey_features",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_state_features.py",
+      "target": "function:src/demographics/dhs/build_nfhs_state_features.py:add_trends",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_state_features.py",
+      "target": "function:src/demographics/dhs/build_nfhs_state_features.py:print_validation",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_state_features.py",
+      "target": "function:src/demographics/dhs/build_nfhs_state_features.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/extract_dhs_zips.py",
+      "target": "function:src/demographics/dhs/extract_dhs_zips.py:extract_stata_from_zip",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/extract_dhs_zips.py",
+      "target": "function:src/demographics/dhs/extract_dhs_zips.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:load_inventory",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:find_column",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:weighted_pct",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:resolve_dta_path",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:compute_tfr",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:derive_hh_indicators",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:aggregate_hh_features",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:aggregate_ir_features",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:aggregate_mr_features",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:count_persons",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/inspect_dhs_variables.py",
+      "target": "function:src/demographics/dhs/inspect_dhs_variables.py:inspect_dta",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/inspect_dhs_variables.py",
+      "target": "function:src/demographics/dhs/inspect_dhs_variables.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_district_features.py",
+      "target": "function:src/demographics/dhs/build_nfhs_district_features.py:load_ge_lookup",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_district_features.py",
+      "target": "function:src/demographics/dhs/build_nfhs_district_features.py:attach_district_from_ge",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_district_features.py",
+      "target": "function:src/demographics/dhs/build_nfhs_district_features.py:aggregate_district_frame",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_district_features.py",
+      "target": "function:src/demographics/dhs/build_nfhs_district_features.py:main",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_state_features.py",
+      "target": "function:src/demographics/dhs/build_nfhs_state_features.py:build_survey_features",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_state_features.py",
+      "target": "function:src/demographics/dhs/build_nfhs_state_features.py:add_trends",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_state_features.py",
+      "target": "function:src/demographics/dhs/build_nfhs_state_features.py:print_validation",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_state_features.py",
+      "target": "function:src/demographics/dhs/build_nfhs_state_features.py:main",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/extract_dhs_zips.py",
+      "target": "function:src/demographics/dhs/extract_dhs_zips.py:extract_stata_from_zip",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/extract_dhs_zips.py",
+      "target": "function:src/demographics/dhs/extract_dhs_zips.py:main",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:load_inventory",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:find_column",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:weighted_pct",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:resolve_dta_path",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:compute_tfr",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:derive_hh_indicators",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:aggregate_hh_features",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:aggregate_ir_features",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:aggregate_mr_features",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "function:src/demographics/dhs/feature_utils.py:count_persons",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/inspect_dhs_variables.py",
+      "target": "function:src/demographics/dhs/inspect_dhs_variables.py:inspect_dta",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/inspect_dhs_variables.py",
+      "target": "function:src/demographics/dhs/inspect_dhs_variables.py:main",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_district_features.py:main",
+      "target": "function:src/demographics/dhs/build_nfhs_district_features.py:load_ge_lookup",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_district_features.py:main",
+      "target": "function:src/demographics/dhs/build_nfhs_district_features.py:attach_district_from_ge",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_district_features.py:main",
+      "target": "function:src/demographics/dhs/build_nfhs_district_features.py:aggregate_district_frame",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_district_features.py:main",
+      "target": "function:src/demographics/dhs/feature_utils.py:aggregate_hh_features",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_district_features.py:main",
+      "target": "function:src/demographics/dhs/feature_utils.py:aggregate_ir_features",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_district_features.py:main",
+      "target": "function:src/demographics/dhs/feature_utils.py:resolve_dta_path",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_district_features.py:attach_district_from_ge",
+      "target": "function:src/demographics/dhs/feature_utils.py:find_column",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_district_features.py:aggregate_district_frame",
+      "target": "function:src/demographics/dhs/feature_utils.py:derive_hh_indicators",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_district_features.py:aggregate_district_frame",
+      "target": "function:src/demographics/dhs/feature_utils.py:weighted_pct",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_state_features.py:main",
+      "target": "function:src/demographics/dhs/build_nfhs_state_features.py:build_survey_features",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_state_features.py:main",
+      "target": "function:src/demographics/dhs/build_nfhs_state_features.py:add_trends",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_state_features.py:main",
+      "target": "function:src/demographics/dhs/build_nfhs_state_features.py:print_validation",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_state_features.py:build_survey_features",
+      "target": "function:src/demographics/dhs/feature_utils.py:aggregate_hh_features",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_state_features.py:build_survey_features",
+      "target": "function:src/demographics/dhs/feature_utils.py:aggregate_ir_features",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_state_features.py:build_survey_features",
+      "target": "function:src/demographics/dhs/feature_utils.py:aggregate_mr_features",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_state_features.py:build_survey_features",
+      "target": "function:src/demographics/dhs/feature_utils.py:count_persons",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/build_nfhs_state_features.py:build_survey_features",
+      "target": "function:src/demographics/dhs/feature_utils.py:resolve_dta_path",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/extract_dhs_zips.py:main",
+      "target": "function:src/demographics/dhs/extract_dhs_zips.py:extract_stata_from_zip",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/extract_dhs_zips.py:main",
+      "target": "function:src/demographics/dhs/feature_utils.py:load_inventory",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/feature_utils.py:aggregate_hh_features",
+      "target": "function:src/demographics/dhs/feature_utils.py:derive_hh_indicators",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/feature_utils.py:aggregate_hh_features",
+      "target": "function:src/demographics/dhs/feature_utils.py:find_column",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/feature_utils.py:aggregate_ir_features",
+      "target": "function:src/demographics/dhs/feature_utils.py:compute_tfr",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/feature_utils.py:derive_hh_indicators",
+      "target": "function:src/demographics/dhs/feature_utils.py:find_column",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/demographics/dhs/inspect_dhs_variables.py:main",
+      "target": "function:src/demographics/dhs/inspect_dhs_variables.py:inspect_dta",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_district_features.py",
+      "target": "file:src/demographics/dhs/extract_dhs_zips.py",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_state_features.py",
+      "target": "file:src/demographics/dhs/extract_dhs_zips.py",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "file:src/demographics/dhs/inspect_dhs_variables.py",
+      "target": "file:src/demographics/dhs/extract_dhs_zips.py",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_district_features.py",
+      "target": "file:src/demographics/dhs/paths.py",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "file:src/demographics/dhs/build_nfhs_state_features.py",
+      "target": "file:src/demographics/dhs/paths.py",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "file:src/demographics/dhs/feature_utils.py",
+      "target": "file:src/demographics/dhs/paths.py",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.6
+    }
+  ]
+}

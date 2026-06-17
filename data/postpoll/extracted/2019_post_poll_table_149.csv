@@ -1,0 +1,9 @@
+col_0,col_1,N,(%),Valid (%)
+Valid,1: Very serious,7153,29.5,59.4
+,2: Somewhat serious,3012,12.4,25.0
+,3: Less serious,534,2.2,4.4
+,4: Not at all serious,287,1.2,2.4
+,8: No response,1056,4.4,8.8
+,Total,12041,49.7,100.0
+Missing,System,12194,50.3,
+Total,,24235,100.0,

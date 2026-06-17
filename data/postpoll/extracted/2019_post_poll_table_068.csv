@@ -1,0 +1,33 @@
+col_0,col_1,N,(%),Valid (%)
+,053: MNS,3,.0,.1
+,055: RPI-A,5,.0,.1
+,060: NPF,1,.0,.0
+,064: UDP,0,.0,.0
+,070: BJD,11,.0,.3
+,071: SAD,26,.1,.6
+,082: TRS,9,.0,.2
+,083: AIADMK,81,.3,2.0
+,084: AMMK,4,.0,.1
+,085: DMK,63,.3,1.5
+,086: DMDK,4,.0,.1
+,087: PMK,17,.1,.4
+,088: VCK,1,.0,.0
+,089: MDMK,10,.0,.3
+,101: RLD,5,.0,.1
+,109: Left Front,1,.0,.0
+,112: LJD,1,.0,.0
+,114: GSM,0,.0,.0
+,120: NDPP,0,.0,.0
+,124: NTK,1,.0,.0
+,125: TMC,0,.0,.0
+,126: VBA,1,.0,.0
+,131: UDF supported Independent,0,.0,.0
+,132: LDF supported Independent,1,.0,.0
+,501: Jammu & Kashmir People movement,0,.0,.0
+,900: Independent,3,.0,.1
+,903: Not a supporter of any particular party,1,.0,.0
+,997: Any other party,13,.1,.3
+,998: No response,333,1.4,8.1
+,Total,4123,17.0,100.0
+Missing,999: N.A.,20112,83.0,
+Total,,24235,100.0,

@@ -1,0 +1,4457 @@
+{
+  "scriptCompleted": true,
+  "filesAnalyzed": 24,
+  "filesSkipped": [],
+  "results": [
+    {
+      "path": "docs/PROJECT_GUIDE.md",
+      "language": "markdown",
+      "fileCategory": "docs",
+      "totalLines": 219,
+      "nonEmptyLines": 160,
+      "sections": [
+        {
+          "heading": "Project Guide",
+          "level": 1,
+          "line": 1
+        },
+        {
+          "heading": "Where You Are",
+          "level": 2,
+          "line": 9
+        },
+        {
+          "heading": "First Files To Open",
+          "level": 2,
+          "line": 30
+        },
+        {
+          "heading": "Mental Model",
+          "level": 2,
+          "line": 53
+        },
+        {
+          "heading": "The Main Pipeline",
+          "level": 2,
+          "line": 69
+        },
+        {
+          "heading": "How To Read The Current Results",
+          "level": 2,
+          "line": 106
+        },
+        {
+          "heading": "How To Read Key Columns",
+          "level": 2,
+          "line": 136
+        },
+        {
+          "heading": "What To Do Next",
+          "level": 2,
+          "line": 171
+        },
+        {
+          "heading": "Suggested Near-Term Milestone",
+          "level": 2,
+          "line": 210
+        }
+      ],
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0,
+        "sectionCount": 9
+      }
+    },
+    {
+      "path": "README.md",
+      "language": "markdown",
+      "fileCategory": "docs",
+      "totalLines": 299,
+      "nonEmptyLines": 238,
+      "sections": [
+        {
+          "heading": "Indian Election Model",
+          "level": 1,
+          "line": 1
+        },
+        {
+          "heading": "Start here",
+          "level": 2,
+          "line": 13
+        },
+        {
+          "heading": "Active election",
+          "level": 2,
+          "line": 22
+        },
+        {
+          "heading": "Project structure",
+          "level": 2,
+          "line": 39
+        },
+        {
+          "heading": "Install",
+          "level": 2,
+          "line": 97
+        },
+        {
+          "heading": "How to run the pipeline",
+          "level": 2,
+          "line": 109
+        },
+        {
+          "heading": "What this project currently supports",
+          "level": 2,
+          "line": 165
+        },
+        {
+          "heading": "Demographic Data Warehouse",
+          "level": 2,
+          "line": 191
+        },
+        {
+          "heading": "Folder structure",
+          "level": 3,
+          "line": 213
+        },
+        {
+          "heading": "Commands",
+          "level": 3,
+          "line": 225
+        },
+        {
+          "heading": "Planned next analyses",
+          "level": 2,
+          "line": 241
+        },
+        {
+          "heading": "Visual Explorer",
+          "level": 2,
+          "line": 264
+        },
+        {
+          "heading": "Conventions",
+          "level": 2,
+          "line": 290
+        }
+      ],
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0,
+        "sectionCount": 13
+      }
+    },
+    {
+      "path": "requirements.txt",
+      "language": "txt",
+      "fileCategory": "docs",
+      "totalLines": 11,
+      "nonEmptyLines": 11,
+      "metrics": {}
+    },
+    {
+      "path": "src/__init__.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 1,
+      "nonEmptyLines": 0,
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/analysis/__init__.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 1,
+      "nonEmptyLines": 0,
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/analysis/build_constituency_volatality.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 136,
+      "nonEmptyLines": 101,
+      "functions": [
+        {
+          "name": "load_data",
+          "startLine": 16,
+          "endLine": 21,
+          "params": []
+        },
+        {
+          "name": "build_party_swing_features",
+          "startLine": 24,
+          "endLine": 40,
+          "params": [
+            "party_swings"
+          ]
+        },
+        {
+          "name": "build_volatility_table",
+          "startLine": 43,
+          "endLine": 99,
+          "params": [
+            "winner_comparison",
+            "party_swings",
+            "features_2024"
+          ]
+        },
+        {
+          "name": "main",
+          "startLine": 102,
+          "endLine": 132,
+          "params": []
+        }
+      ],
+      "exports": [
+        {
+          "name": "load_data",
+          "line": 16,
+          "isDefault": false
+        },
+        {
+          "name": "build_party_swing_features",
+          "line": 24,
+          "isDefault": false
+        },
+        {
+          "name": "build_volatility_table",
+          "line": 43,
+          "isDefault": false
+        },
+        {
+          "name": "main",
+          "line": 102,
+          "isDefault": false
+        }
+      ],
+      "callGraph": [
+        {
+          "caller": "load_data",
+          "callee": "pd.read_csv",
+          "lineNumber": 17
+        },
+        {
+          "caller": "load_data",
+          "callee": "pd.read_csv",
+          "lineNumber": 18
+        },
+        {
+          "caller": "load_data",
+          "callee": "pd.read_parquet",
+          "lineNumber": 19
+        },
+        {
+          "caller": "build_party_swing_features",
+          "callee": "party_swings.groupby([\"state\", \"constituency_id\"])\n        .agg(\n            max_positive_swing=(\"swing\", \"max\"),\n            max_negative_swing=(\"swing\", \"min\"),\n            avg_abs_swing=(\"swing\", lambda x: x.abs().mean()),\n        )\n        .reset_index",
+          "lineNumber": 26
+        },
+        {
+          "caller": "build_party_swing_features",
+          "callee": "party_swings.groupby([\"state\", \"constituency_id\"])\n        .agg",
+          "lineNumber": 26
+        },
+        {
+          "caller": "build_party_swing_features",
+          "callee": "party_swings.groupby",
+          "lineNumber": 26
+        },
+        {
+          "caller": "build_party_swing_features",
+          "callee": "x.abs().mean",
+          "lineNumber": 30
+        },
+        {
+          "caller": "build_party_swing_features",
+          "callee": "x.abs",
+          "lineNumber": 30
+        },
+        {
+          "caller": "build_volatility_table",
+          "callee": "build_party_swing_features",
+          "lineNumber": 44
+        },
+        {
+          "caller": "build_volatility_table",
+          "callee": "winner_comparison.merge",
+          "lineNumber": 46
+        },
+        {
+          "caller": "build_volatility_table",
+          "callee": "volatility.merge",
+          "lineNumber": 62
+        },
+        {
+          "caller": "build_volatility_table",
+          "callee": "volatility[\"seat_flipped\"].astype",
+          "lineNumber": 73
+        },
+        {
+          "caller": "build_volatility_table",
+          "callee": "volatility[\"top2_margin_pct\"].clip",
+          "lineNumber": 76
+        },
+        {
+          "caller": "build_volatility_table",
+          "callee": "volatility[\"effective_num_parties\"].fillna",
+          "lineNumber": 80
+        },
+        {
+          "caller": "build_volatility_table",
+          "callee": "volatility[\"avg_abs_swing\"].fillna",
+          "lineNumber": 84
+        },
+        {
+          "caller": "build_volatility_table",
+          "callee": "volatility.sort_values",
+          "lineNumber": 94
+        },
+        {
+          "caller": "main",
+          "callee": "load_data",
+          "lineNumber": 103
+        },
+        {
+          "caller": "main",
+          "callee": "build_volatility_table",
+          "lineNumber": 105
+        },
+        {
+          "caller": "main",
+          "callee": "volatility.to_csv",
+          "lineNumber": 111
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 113
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 114
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 115
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 117
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 132
+        },
+        {
+          "caller": "main",
+          "callee": "volatility[cols].head",
+          "lineNumber": 132
+        }
+      ],
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 4,
+        "functionCount": 4,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/analysis/build_state_election_demographic_analysis.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 354,
+      "nonEmptyLines": 302,
+      "functions": [
+        {
+          "name": "normalise_state_name",
+          "startLine": 42,
+          "endLine": 51,
+          "params": [
+            "value"
+          ]
+        },
+        {
+          "name": "load_inputs",
+          "startLine": 54,
+          "endLine": 60,
+          "params": []
+        },
+        {
+          "name": "weighted_average",
+          "startLine": 63,
+          "endLine": 69,
+          "params": [
+            "group",
+            "column",
+            "weight_col"
+          ]
+        },
+        {
+          "name": "build_demographic_lookup",
+          "startLine": 72,
+          "endLine": 137,
+          "params": [
+            "demographics"
+          ]
+        },
+        {
+          "name": "add_alliance_columns",
+          "startLine": 140,
+          "endLine": 158,
+          "params": [
+            "winners",
+            "alliances"
+          ]
+        },
+        {
+          "name": "most_common",
+          "startLine": 161,
+          "endLine": 165,
+          "params": [
+            "series"
+          ]
+        },
+        {
+          "name": "build_state_outcomes",
+          "startLine": 168,
+          "endLine": 228,
+          "params": [
+            "winners",
+            "volatility"
+          ]
+        },
+        {
+          "name": "build_state_party_swings",
+          "startLine": 231,
+          "endLine": 270,
+          "params": [
+            "party_swings",
+            "winners",
+            "alliances"
+          ]
+        },
+        {
+          "name": "add_key_party_swing_columns",
+          "startLine": 273,
+          "endLine": 286,
+          "params": [
+            "state",
+            "state_party"
+          ]
+        },
+        {
+          "name": "main",
+          "startLine": 289,
+          "endLine": 350,
+          "params": []
+        }
+      ],
+      "exports": [
+        {
+          "name": "normalise_state_name",
+          "line": 42,
+          "isDefault": false
+        },
+        {
+          "name": "load_inputs",
+          "line": 54,
+          "isDefault": false
+        },
+        {
+          "name": "weighted_average",
+          "line": 63,
+          "isDefault": false
+        },
+        {
+          "name": "build_demographic_lookup",
+          "line": 72,
+          "isDefault": false
+        },
+        {
+          "name": "add_alliance_columns",
+          "line": 140,
+          "isDefault": false
+        },
+        {
+          "name": "most_common",
+          "line": 161,
+          "isDefault": false
+        },
+        {
+          "name": "build_state_outcomes",
+          "line": 168,
+          "isDefault": false
+        },
+        {
+          "name": "build_state_party_swings",
+          "line": 231,
+          "isDefault": false
+        },
+        {
+          "name": "add_key_party_swing_columns",
+          "line": 273,
+          "isDefault": false
+        },
+        {
+          "name": "main",
+          "line": 289,
+          "isDefault": false
+        }
+      ],
+      "callGraph": [
+        {
+          "caller": "normalise_state_name",
+          "callee": "pd.isna",
+          "lineNumber": 44
+        },
+        {
+          "caller": "normalise_state_name",
+          "callee": "str(value).strip().upper",
+          "lineNumber": 46
+        },
+        {
+          "caller": "normalise_state_name",
+          "callee": "str(value).strip",
+          "lineNumber": 46
+        },
+        {
+          "caller": "normalise_state_name",
+          "callee": "str",
+          "lineNumber": 46
+        },
+        {
+          "caller": "normalise_state_name",
+          "callee": "name.replace",
+          "lineNumber": 47
+        },
+        {
+          "caller": "normalise_state_name",
+          "callee": "re.sub",
+          "lineNumber": 48
+        },
+        {
+          "caller": "normalise_state_name",
+          "callee": "name.replace",
+          "lineNumber": 49
+        },
+        {
+          "caller": "normalise_state_name",
+          "callee": "name.replace",
+          "lineNumber": 50
+        },
+        {
+          "caller": "load_inputs",
+          "callee": "pd.read_csv",
+          "lineNumber": 55
+        },
+        {
+          "caller": "load_inputs",
+          "callee": "pd.read_csv",
+          "lineNumber": 56
+        },
+        {
+          "caller": "load_inputs",
+          "callee": "pd.read_csv",
+          "lineNumber": 57
+        },
+        {
+          "caller": "load_inputs",
+          "callee": "pd.read_csv",
+          "lineNumber": 58
+        },
+        {
+          "caller": "load_inputs",
+          "callee": "pd.read_csv",
+          "lineNumber": 59
+        },
+        {
+          "caller": "weighted_average",
+          "callee": "pd.to_numeric",
+          "lineNumber": 64
+        },
+        {
+          "caller": "weighted_average",
+          "callee": "pd.to_numeric",
+          "lineNumber": 65
+        },
+        {
+          "caller": "weighted_average",
+          "callee": "values.notna",
+          "lineNumber": 66
+        },
+        {
+          "caller": "weighted_average",
+          "callee": "weights.notna",
+          "lineNumber": 66
+        },
+        {
+          "caller": "weighted_average",
+          "callee": "mask.any",
+          "lineNumber": 67
+        },
+        {
+          "caller": "weighted_average",
+          "callee": "np.average",
+          "lineNumber": 69
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "demographics.copy",
+          "lineNumber": 80
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "demo[\"state\"].map",
+          "lineNumber": 81
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "demo[demo[\"state_key\"].isin(dnh_dd_keys)].copy",
+          "lineNumber": 89
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "demo[\"state_key\"].isin",
+          "lineNumber": 89
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "pd.api.types.is_numeric_dtype",
+          "lineNumber": 101
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "dnh_dd[col].sum",
+          "lineNumber": 105
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "col.endswith",
+          "lineNumber": 106
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "weighted_average",
+          "lineNumber": 109
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "rows.append",
+          "lineNumber": 110
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "pd.DataFrame",
+          "lineNumber": 110
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "set",
+          "lineNumber": 120
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "legacy_aliases.items",
+          "lineNumber": 121
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "base.iloc[0].copy",
+          "lineNumber": 127
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "legacy_rows.append",
+          "lineNumber": 131
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "rows.append",
+          "lineNumber": 133
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "pd.DataFrame",
+          "lineNumber": 133
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "pd.concat",
+          "lineNumber": 135
+        },
+        {
+          "caller": "build_demographic_lookup",
+          "callee": "out.drop_duplicates",
+          "lineNumber": 136
+        },
+        {
+          "caller": "add_alliance_columns",
+          "callee": "winners.copy",
+          "lineNumber": 141
+        },
+        {
+          "caller": "add_alliance_columns",
+          "callee": "alliances[alliances[\"election_year\"] == year][[\"party_id\", \"alliance\"]]\n            .drop_duplicates(\"party_id\")\n            .rename",
+          "lineNumber": 145
+        },
+        {
+          "caller": "add_alliance_columns",
+          "callee": "alliances[alliances[\"election_year\"] == year][[\"party_id\", \"alliance\"]]\n            .drop_duplicates",
+          "lineNumber": 145
+        },
+        {
+          "caller": "add_alliance_columns",
+          "callee": "out.merge",
+          "lineNumber": 154
+        },
+        {
+          "caller": "add_alliance_columns",
+          "callee": "out[f\"alliance_{year}\"].fillna",
+          "lineNumber": 155
+        },
+        {
+          "caller": "most_common",
+          "callee": "series.dropna().value_counts",
+          "lineNumber": 162
+        },
+        {
+          "caller": "most_common",
+          "callee": "series.dropna",
+          "lineNumber": 162
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "winners.groupby(\"state\", as_index=False)\n        .agg",
+          "lineNumber": 170
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "winners.groupby",
+          "lineNumber": 170
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "winners.groupby([\"state\", \"party_2019\"]).size().reset_index",
+          "lineNumber": 191
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "winners.groupby([\"state\", \"party_2019\"]).size",
+          "lineNumber": 191
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "winners.groupby",
+          "lineNumber": 191
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "winners.groupby([\"state\", \"party_2024\"]).size().reset_index",
+          "lineNumber": 194
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "winners.groupby([\"state\", \"party_2024\"]).size",
+          "lineNumber": 194
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "winners.groupby",
+          "lineNumber": 194
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "party_2019[party_2019[\"party_2019\"] == party][[\"state\", \"seats_2019\"]]\n            .rename",
+          "lineNumber": 199
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "party.lower",
+          "lineNumber": 200
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "party_2024[party_2024[\"party_2024\"] == party][[\"state\", \"seats_2024\"]]\n            .rename",
+          "lineNumber": 203
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "party.lower",
+          "lineNumber": 204
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "state.merge",
+          "lineNumber": 206
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "state.merge",
+          "lineNumber": 207
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "party.lower",
+          "lineNumber": 208
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "state[f\"{party.lower()}_seats_2019\"].fillna(0).astype",
+          "lineNumber": 208
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "state[f\"{party.lower()}_seats_2019\"].fillna",
+          "lineNumber": 208
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "party.lower",
+          "lineNumber": 208
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "party.lower",
+          "lineNumber": 209
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "state[f\"{party.lower()}_seats_2024\"].fillna(0).astype",
+          "lineNumber": 209
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "state[f\"{party.lower()}_seats_2024\"].fillna",
+          "lineNumber": 209
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "party.lower",
+          "lineNumber": 209
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "party.lower",
+          "lineNumber": 210
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "party.lower",
+          "lineNumber": 211
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "party.lower",
+          "lineNumber": 211
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "volatility.groupby(\"state\", as_index=False)\n        .agg",
+          "lineNumber": 215
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "volatility.groupby",
+          "lineNumber": 215
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "int",
+          "lineNumber": 219
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "(s <= 5).sum",
+          "lineNumber": 219
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "state.merge",
+          "lineNumber": 225
+        },
+        {
+          "caller": "build_state_outcomes",
+          "callee": "state[\"state\"].map",
+          "lineNumber": 227
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "party_swings.groupby([\"state\", \"party_id\"], as_index=False)\n        .agg",
+          "lineNumber": 237
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "party_swings.groupby",
+          "lineNumber": 237
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "winners.groupby([\"state\", \"party_2019\"]).size().reset_index(name=\"seats_2019\")\n        .rename",
+          "lineNumber": 249
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "winners.groupby([\"state\", \"party_2019\"]).size().reset_index",
+          "lineNumber": 249
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "winners.groupby([\"state\", \"party_2019\"]).size",
+          "lineNumber": 249
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "winners.groupby",
+          "lineNumber": 249
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "winners.groupby([\"state\", \"party_2024\"]).size().reset_index(name=\"seats_2024\")\n        .rename",
+          "lineNumber": 253
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "winners.groupby([\"state\", \"party_2024\"]).size().reset_index",
+          "lineNumber": 253
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "winners.groupby([\"state\", \"party_2024\"]).size",
+          "lineNumber": 253
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "winners.groupby",
+          "lineNumber": 253
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "swing.merge",
+          "lineNumber": 257
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "swing.merge",
+          "lineNumber": 258
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "swing[\"seats_2019\"].fillna(0).astype",
+          "lineNumber": 259
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "swing[\"seats_2019\"].fillna",
+          "lineNumber": 259
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "swing[\"seats_2024\"].fillna(0).astype",
+          "lineNumber": 260
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "swing[\"seats_2024\"].fillna",
+          "lineNumber": 260
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "alliances[alliances[\"election_year\"] == 2024][[\"party_id\", \"alliance\"]]\n        .drop_duplicates(\"party_id\")\n        .rename",
+          "lineNumber": 264
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "alliances[alliances[\"election_year\"] == 2024][[\"party_id\", \"alliance\"]]\n        .drop_duplicates",
+          "lineNumber": 264
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "swing.merge",
+          "lineNumber": 268
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "swing[\"alliance_2024\"].fillna",
+          "lineNumber": 269
+        },
+        {
+          "caller": "build_state_party_swings",
+          "callee": "swing.sort_values",
+          "lineNumber": 270
+        },
+        {
+          "caller": "add_key_party_swing_columns",
+          "callee": "state.copy",
+          "lineNumber": 274
+        },
+        {
+          "caller": "add_key_party_swing_columns",
+          "callee": "state_party[state_party[\"party_id\"] == party][\n            [\"state\", \"avg_swing\", \"avg_vote_share_2019\", \"avg_vote_share_2024\"]\n        ].rename",
+          "lineNumber": 276
+        },
+        {
+          "caller": "add_key_party_swing_columns",
+          "callee": "party.lower",
+          "lineNumber": 280
+        },
+        {
+          "caller": "add_key_party_swing_columns",
+          "callee": "party.lower",
+          "lineNumber": 281
+        },
+        {
+          "caller": "add_key_party_swing_columns",
+          "callee": "party.lower",
+          "lineNumber": 282
+        },
+        {
+          "caller": "add_key_party_swing_columns",
+          "callee": "out.merge",
+          "lineNumber": 285
+        },
+        {
+          "caller": "main",
+          "callee": "load_inputs",
+          "lineNumber": 290
+        },
+        {
+          "caller": "main",
+          "callee": "add_alliance_columns",
+          "lineNumber": 291
+        },
+        {
+          "caller": "main",
+          "callee": "build_state_outcomes",
+          "lineNumber": 293
+        },
+        {
+          "caller": "main",
+          "callee": "build_state_party_swings",
+          "lineNumber": 294
+        },
+        {
+          "caller": "main",
+          "callee": "add_key_party_swing_columns",
+          "lineNumber": 295
+        },
+        {
+          "caller": "main",
+          "callee": "build_demographic_lookup",
+          "lineNumber": 297
+        },
+        {
+          "caller": "main",
+          "callee": "state.merge",
+          "lineNumber": 298
+        },
+        {
+          "caller": "main",
+          "callee": "demo_lookup.drop",
+          "lineNumber": 299
+        },
+        {
+          "caller": "main",
+          "callee": "state[\"demography_match_status\"].fillna",
+          "lineNumber": 303
+        },
+        {
+          "caller": "main",
+          "callee": "state[preferred_order + remaining].sort_values(\"state\").reset_index",
+          "lineNumber": 335
+        },
+        {
+          "caller": "main",
+          "callee": "state[preferred_order + remaining].sort_values",
+          "lineNumber": 335
+        },
+        {
+          "caller": "main",
+          "callee": "OUTPUT_DIR.mkdir",
+          "lineNumber": 337
+        },
+        {
+          "caller": "main",
+          "callee": "state.to_csv",
+          "lineNumber": 338
+        },
+        {
+          "caller": "main",
+          "callee": "state_party.to_csv",
+          "lineNumber": 339
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 341
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 342
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 343
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 344
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 345
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 346
+        },
+        {
+          "caller": "main",
+          "callee": "state[\"demography_match_status\"].value_counts().to_string",
+          "lineNumber": 346
+        },
+        {
+          "caller": "main",
+          "callee": "state[\"demography_match_status\"].value_counts",
+          "lineNumber": 346
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 347
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 348
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 350
+        },
+        {
+          "caller": "main",
+          "callee": "state[state[\"demography_match_status\"] != \"exact\"][cols].to_string",
+          "lineNumber": 350
+        }
+      ],
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 10,
+        "functionCount": 10,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/analysis/compare_2019_2024.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 431,
+      "nonEmptyLines": 354,
+      "functions": [
+        {
+          "name": "load_results",
+          "startLine": 72,
+          "endLine": 76,
+          "params": []
+        },
+        {
+          "name": "add_comparison_key",
+          "startLine": 79,
+          "endLine": 87,
+          "params": [
+            "df"
+          ]
+        },
+        {
+          "name": "build_unmatched_constituencies",
+          "startLine": 90,
+          "endLine": 123,
+          "params": [
+            "results_2019",
+            "results_2024"
+          ]
+        },
+        {
+          "name": "build_winner_comparison",
+          "startLine": 126,
+          "endLine": 196,
+          "params": [
+            "results_2019",
+            "results_2024"
+          ]
+        },
+        {
+          "name": "build_party_swing_table",
+          "startLine": 199,
+          "endLine": 263,
+          "params": [
+            "results_2019",
+            "results_2024"
+          ]
+        },
+        {
+          "name": "build_state_swing_summary",
+          "startLine": 266,
+          "endLine": 279,
+          "params": [
+            "swings"
+          ]
+        },
+        {
+          "name": "main",
+          "startLine": 282,
+          "endLine": 427,
+          "params": []
+        }
+      ],
+      "exports": [
+        {
+          "name": "load_results",
+          "line": 72,
+          "isDefault": false
+        },
+        {
+          "name": "add_comparison_key",
+          "line": 79,
+          "isDefault": false
+        },
+        {
+          "name": "build_unmatched_constituencies",
+          "line": 90,
+          "isDefault": false
+        },
+        {
+          "name": "build_winner_comparison",
+          "line": 126,
+          "isDefault": false
+        },
+        {
+          "name": "build_party_swing_table",
+          "line": 199,
+          "isDefault": false
+        },
+        {
+          "name": "build_state_swing_summary",
+          "line": 266,
+          "isDefault": false
+        },
+        {
+          "name": "main",
+          "line": 282,
+          "isDefault": false
+        }
+      ],
+      "callGraph": [
+        {
+          "caller": "load_results",
+          "callee": "pd.read_parquet",
+          "lineNumber": 73
+        },
+        {
+          "caller": "load_results",
+          "callee": "pd.read_parquet",
+          "lineNumber": 74
+        },
+        {
+          "caller": "add_comparison_key",
+          "callee": "df.copy",
+          "lineNumber": 80
+        },
+        {
+          "caller": "add_comparison_key",
+          "callee": "out[\"constituency_id\"]\n        .map(CONSTITUENCY_ID_ALIASES)\n        .fillna",
+          "lineNumber": 83
+        },
+        {
+          "caller": "add_comparison_key",
+          "callee": "out[\"constituency_id\"]\n        .map",
+          "lineNumber": 83
+        },
+        {
+          "caller": "build_unmatched_constituencies",
+          "callee": "results_2019[results_2019[\"winner\"] == True].copy",
+          "lineNumber": 91
+        },
+        {
+          "caller": "build_unmatched_constituencies",
+          "callee": "results_2024[results_2024[\"winner\"] == True].copy",
+          "lineNumber": 92
+        },
+        {
+          "caller": "build_unmatched_constituencies",
+          "callee": "set",
+          "lineNumber": 94
+        },
+        {
+          "caller": "build_unmatched_constituencies",
+          "callee": "set",
+          "lineNumber": 95
+        },
+        {
+          "caller": "build_unmatched_constituencies",
+          "callee": "winners_2019[\n        ~winners_2019[\"constituency_id\"].isin(ids_2024)\n    ].copy",
+          "lineNumber": 97
+        },
+        {
+          "caller": "build_unmatched_constituencies",
+          "callee": "winners_2019[\"constituency_id\"].isin",
+          "lineNumber": 98
+        },
+        {
+          "caller": "build_unmatched_constituencies",
+          "callee": "winners_2024[\n        ~winners_2024[\"constituency_id\"].isin(ids_2019)\n    ].copy",
+          "lineNumber": 103
+        },
+        {
+          "caller": "build_unmatched_constituencies",
+          "callee": "winners_2024[\"constituency_id\"].isin",
+          "lineNumber": 104
+        },
+        {
+          "caller": "build_unmatched_constituencies",
+          "callee": "pd.concat",
+          "lineNumber": 120
+        },
+        {
+          "caller": "build_winner_comparison",
+          "callee": "results_2019[\n        results_2019[\"winner\"] == True\n    ][\n        [\n            \"state\",\n            \"source_constituency_id\",\n            \"constituency_id\",\n            \"constituency\",\n            \"party_id\",\n            \"candidate\",\n            \"vote_share\",\n        ]\n    ].copy",
+          "lineNumber": 128
+        },
+        {
+          "caller": "build_winner_comparison",
+          "callee": "results_2024[\n        results_2024[\"winner\"] == True\n    ][\n        [\n            \"state\",\n            \"source_constituency_id\",\n            \"constituency_id\",\n            \"constituency\",\n            \"party_id\",\n            \"candidate\",\n            \"vote_share\",\n        ]\n    ].copy",
+          "lineNumber": 142
+        },
+        {
+          "caller": "build_winner_comparison",
+          "callee": "winners_2019.rename",
+          "lineNumber": 156
+        },
+        {
+          "caller": "build_winner_comparison",
+          "callee": "winners_2024.rename",
+          "lineNumber": 167
+        },
+        {
+          "caller": "build_winner_comparison",
+          "callee": "winners_2019.merge",
+          "lineNumber": 178
+        },
+        {
+          "caller": "build_winner_comparison",
+          "callee": "comparison[\"state_2024\"].fillna",
+          "lineNumber": 184
+        },
+        {
+          "caller": "build_winner_comparison",
+          "callee": "comparison[\"constituency_2024\"].fillna",
+          "lineNumber": 187
+        },
+        {
+          "caller": "build_party_swing_table",
+          "callee": "results_2019[\n        [\n            \"state\",\n            \"source_constituency_id\",\n            \"constituency_id\",\n            \"party_id\",\n            \"vote_share\",\n        ]\n    ].copy",
+          "lineNumber": 201
+        },
+        {
+          "caller": "build_party_swing_table",
+          "callee": "results_2024[\n        [\n            \"state\",\n            \"source_constituency_id\",\n            \"constituency_id\",\n            \"party_id\",\n            \"vote_share\",\n        ]\n    ].copy",
+          "lineNumber": 211
+        },
+        {
+          "caller": "build_party_swing_table",
+          "callee": "party_votes_2019.rename",
+          "lineNumber": 221
+        },
+        {
+          "caller": "build_party_swing_table",
+          "callee": "party_votes_2024.rename",
+          "lineNumber": 229
+        },
+        {
+          "caller": "build_party_swing_table",
+          "callee": "party_votes_2019.merge",
+          "lineNumber": 237
+        },
+        {
+          "caller": "build_party_swing_table",
+          "callee": "swings[\"vote_share_2019\"]\n        .fillna",
+          "lineNumber": 247
+        },
+        {
+          "caller": "build_party_swing_table",
+          "callee": "swings[\"vote_share_2024\"]\n        .fillna",
+          "lineNumber": 252
+        },
+        {
+          "caller": "build_party_swing_table",
+          "callee": "swings[\"state_2024\"].fillna",
+          "lineNumber": 261
+        },
+        {
+          "caller": "build_state_swing_summary",
+          "callee": "swings.groupby(\n            [\"state\", \"party_id\"]\n        )[\"swing\"]\n        .mean()\n        .reset_index",
+          "lineNumber": 269
+        },
+        {
+          "caller": "build_state_swing_summary",
+          "callee": "swings.groupby(\n            [\"state\", \"party_id\"]\n        )[\"swing\"]\n        .mean",
+          "lineNumber": 269
+        },
+        {
+          "caller": "build_state_swing_summary",
+          "callee": "swings.groupby",
+          "lineNumber": 269
+        },
+        {
+          "caller": "build_state_swing_summary",
+          "callee": "state_summary.sort_values",
+          "lineNumber": 276
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 284
+        },
+        {
+          "caller": "main",
+          "callee": "load_results",
+          "lineNumber": 286
+        },
+        {
+          "caller": "main",
+          "callee": "add_comparison_key",
+          "lineNumber": 287
+        },
+        {
+          "caller": "main",
+          "callee": "add_comparison_key",
+          "lineNumber": 288
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 290
+        },
+        {
+          "caller": "main",
+          "callee": "len",
+          "lineNumber": 290
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 291
+        },
+        {
+          "caller": "main",
+          "callee": "len",
+          "lineNumber": 291
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 297
+        },
+        {
+          "caller": "main",
+          "callee": "build_winner_comparison",
+          "lineNumber": 299
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 308
+        },
+        {
+          "caller": "main",
+          "callee": "build_party_swing_table",
+          "lineNumber": 310
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 319
+        },
+        {
+          "caller": "main",
+          "callee": "build_state_swing_summary",
+          "lineNumber": 321
+        },
+        {
+          "caller": "main",
+          "callee": "build_unmatched_constituencies",
+          "lineNumber": 323
+        },
+        {
+          "caller": "main",
+          "callee": "winner_comparison.to_csv",
+          "lineNumber": 332
+        },
+        {
+          "caller": "main",
+          "callee": "swings.to_csv",
+          "lineNumber": 337
+        },
+        {
+          "caller": "main",
+          "callee": "state_summary.to_csv",
+          "lineNumber": 342
+        },
+        {
+          "caller": "main",
+          "callee": "unmatched.to_csv",
+          "lineNumber": 347
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 356
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 357
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 358
+        },
+        {
+          "caller": "main",
+          "callee": "winner_comparison[\"seat_flipped\"].sum",
+          "lineNumber": 360
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 362
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 363
+        },
+        {
+          "caller": "main",
+          "callee": "len",
+          "lineNumber": 363
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 364
+        },
+        {
+          "caller": "main",
+          "callee": "len",
+          "lineNumber": 364
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 366
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 368
+        },
+        {
+          "caller": "main",
+          "callee": "winner_comparison[\n            winner_comparison[\"seat_flipped\"]\n        ]\n        .groupby(\n            [\"party_2019\", \"party_2024\"]\n        )\n        .size()\n        .sort_values(ascending=False)\n        .head",
+          "lineNumber": 369
+        },
+        {
+          "caller": "main",
+          "callee": "winner_comparison[\n            winner_comparison[\"seat_flipped\"]\n        ]\n        .groupby(\n            [\"party_2019\", \"party_2024\"]\n        )\n        .size()\n        .sort_values",
+          "lineNumber": 369
+        },
+        {
+          "caller": "main",
+          "callee": "winner_comparison[\n            winner_comparison[\"seat_flipped\"]\n        ]\n        .groupby(\n            [\"party_2019\", \"party_2024\"]\n        )\n        .size",
+          "lineNumber": 369
+        },
+        {
+          "caller": "main",
+          "callee": "winner_comparison[\n            winner_comparison[\"seat_flipped\"]\n        ]\n        .groupby",
+          "lineNumber": 369
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 380
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 381
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 382
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 384
+        },
+        {
+          "caller": "main",
+          "callee": "swings.sort_values(\n            \"swing\",\n            ascending=False\n        )[\n            [\n                \"state\",\n                \"constituency_id\",\n                \"party_id\",\n                \"vote_share_2019\",\n                \"vote_share_2024\",\n                \"swing\",\n            ]\n        ]\n        .head",
+          "lineNumber": 385
+        },
+        {
+          "caller": "main",
+          "callee": "swings.sort_values",
+          "lineNumber": 385
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 401
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 402
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 403
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 405
+        },
+        {
+          "caller": "main",
+          "callee": "swings.sort_values(\n            \"swing\"\n        )[\n            [\n                \"state\",\n                \"constituency_id\",\n                \"party_id\",\n                \"vote_share_2019\",\n                \"vote_share_2024\",\n                \"swing\",\n            ]\n        ]\n        .head",
+          "lineNumber": 406
+        },
+        {
+          "caller": "main",
+          "callee": "swings.sort_values",
+          "lineNumber": 406
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 421
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 422
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 423
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 425
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 426
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 427
+        }
+      ],
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 7,
+        "functionCount": 7,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/clean/__init__.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 1,
+      "nonEmptyLines": 0,
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/database/__init__.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 1,
+      "nonEmptyLines": 0,
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/demographics/__init__.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 1,
+      "nonEmptyLines": 0,
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/demographics/build_constituency_demographics.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 1,
+      "nonEmptyLines": 0,
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/demographics/dhs/__init__.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 1,
+      "nonEmptyLines": 1,
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/demographics/dhs/README.md",
+      "language": "markdown",
+      "fileCategory": "docs",
+      "totalLines": 49,
+      "nonEmptyLines": 36,
+      "sections": [
+        {
+          "heading": "DHS / NFHS Demographic Pipeline",
+          "level": 1,
+          "line": 1
+        },
+        {
+          "heading": "Privacy rules",
+          "level": 2,
+          "line": 6
+        },
+        {
+          "heading": "Commands",
+          "level": 2,
+          "line": 13
+        },
+        {
+          "heading": "Outputs",
+          "level": 2,
+          "line": 26
+        },
+        {
+          "heading": "Visualizer",
+          "level": 2,
+          "line": 36
+        },
+        {
+          "heading": "Notes",
+          "level": 2,
+          "line": 44
+        }
+      ],
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0,
+        "sectionCount": 6
+      }
+    },
+    {
+      "path": "src/demographics/national_demographics.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 1,
+      "nonEmptyLines": 0,
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/demographics/README.md",
+      "language": "markdown",
+      "fileCategory": "docs",
+      "totalLines": 127,
+      "nonEmptyLines": 93,
+      "sections": [
+        {
+          "heading": "Demographic data warehouse",
+          "level": 1,
+          "line": 1
+        },
+        {
+          "heading": "Folder layout",
+          "level": 2,
+          "line": 7
+        },
+        {
+          "heading": "Commands",
+          "level": 2,
+          "line": 25
+        },
+        {
+          "heading": "Current modelling sequence",
+          "level": 2,
+          "line": 52
+        },
+        {
+          "heading": "Census cleaner outputs",
+          "level": 2,
+          "line": 67
+        },
+        {
+          "heading": "Needed Next Files",
+          "level": 2,
+          "line": 94
+        },
+        {
+          "heading": "Roadmap",
+          "level": 2,
+          "line": 116
+        },
+        {
+          "heading": "Older modules",
+          "level": 2,
+          "line": 124
+        }
+      ],
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0,
+        "sectionCount": 8
+      }
+    },
+    {
+      "path": "src/features/__init__.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 1,
+      "nonEmptyLines": 0,
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/metadata/__init__.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 1,
+      "nonEmptyLines": 0,
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/normalisation/__init__.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 1,
+      "nonEmptyLines": 0,
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/simulation/__init__.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 1,
+      "nonEmptyLines": 0,
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/simulation/election_simulator_v1.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 346,
+      "nonEmptyLines": 272,
+      "functions": [
+        {
+          "name": "load_state_party_swings",
+          "startLine": 17,
+          "endLine": 49,
+          "params": [
+            "path"
+          ]
+        },
+        {
+          "name": "apply_zero_sum_swing",
+          "startLine": 52,
+          "endLine": 87,
+          "params": [
+            "group",
+            "state_party_swings"
+          ]
+        },
+        {
+          "name": "load_data",
+          "startLine": 90,
+          "endLine": 99,
+          "params": []
+        },
+        {
+          "name": "add_alliances",
+          "startLine": 102,
+          "endLine": 111,
+          "params": [
+            "df",
+            "alliances"
+          ]
+        },
+        {
+          "name": "simulate",
+          "startLine": 114,
+          "endLine": 125,
+          "params": [
+            "results",
+            "state_party_swings"
+          ]
+        },
+        {
+          "name": "build_actual_winners",
+          "startLine": 128,
+          "endLine": 146,
+          "params": [
+            "results"
+          ]
+        },
+        {
+          "name": "build_flip_report",
+          "startLine": 149,
+          "endLine": 180,
+          "params": [
+            "actual_winners",
+            "simulated_winners"
+          ]
+        },
+        {
+          "name": "build_national_projection",
+          "startLine": 183,
+          "endLine": 198,
+          "params": [
+            "simulated_winners"
+          ]
+        },
+        {
+          "name": "build_state_projection",
+          "startLine": 201,
+          "endLine": 207,
+          "params": [
+            "simulated_winners"
+          ]
+        },
+        {
+          "name": "build_battlegrounds",
+          "startLine": 210,
+          "endLine": 234,
+          "params": [
+            "flip_report",
+            "volatility"
+          ]
+        },
+        {
+          "name": "save_outputs",
+          "startLine": 237,
+          "endLine": 279,
+          "params": [
+            "simulated",
+            "simulated_winners",
+            "flip_report",
+            "party_projection",
+            "alliance_projection",
+            "state_projection",
+            "battlegrounds"
+          ]
+        },
+        {
+          "name": "main",
+          "startLine": 282,
+          "endLine": 342,
+          "params": []
+        }
+      ],
+      "exports": [
+        {
+          "name": "load_state_party_swings",
+          "line": 17,
+          "isDefault": false
+        },
+        {
+          "name": "apply_zero_sum_swing",
+          "line": 52,
+          "isDefault": false
+        },
+        {
+          "name": "load_data",
+          "line": 90,
+          "isDefault": false
+        },
+        {
+          "name": "add_alliances",
+          "line": 102,
+          "isDefault": false
+        },
+        {
+          "name": "simulate",
+          "line": 114,
+          "isDefault": false
+        },
+        {
+          "name": "build_actual_winners",
+          "line": 128,
+          "isDefault": false
+        },
+        {
+          "name": "build_flip_report",
+          "line": 149,
+          "isDefault": false
+        },
+        {
+          "name": "build_national_projection",
+          "line": 183,
+          "isDefault": false
+        },
+        {
+          "name": "build_state_projection",
+          "line": 201,
+          "isDefault": false
+        },
+        {
+          "name": "build_battlegrounds",
+          "line": 210,
+          "isDefault": false
+        },
+        {
+          "name": "save_outputs",
+          "line": 237,
+          "isDefault": false
+        },
+        {
+          "name": "main",
+          "line": 282,
+          "isDefault": false
+        }
+      ],
+      "callGraph": [
+        {
+          "caller": "load_state_party_swings",
+          "callee": "path.exists",
+          "lineNumber": 18
+        },
+        {
+          "caller": "load_state_party_swings",
+          "callee": "FileNotFoundError",
+          "lineNumber": 19
+        },
+        {
+          "caller": "load_state_party_swings",
+          "callee": "pd.read_csv",
+          "lineNumber": 24
+        },
+        {
+          "caller": "load_state_party_swings",
+          "callee": "set",
+          "lineNumber": 26
+        },
+        {
+          "caller": "load_state_party_swings",
+          "callee": "ValueError",
+          "lineNumber": 29
+        },
+        {
+          "caller": "load_state_party_swings",
+          "callee": "sorted",
+          "lineNumber": 30
+        },
+        {
+          "caller": "load_state_party_swings",
+          "callee": "swings.copy",
+          "lineNumber": 33
+        },
+        {
+          "caller": "load_state_party_swings",
+          "callee": "swings[\"state\"].astype(str).str.strip",
+          "lineNumber": 34
+        },
+        {
+          "caller": "load_state_party_swings",
+          "callee": "swings[\"state\"].astype",
+          "lineNumber": 34
+        },
+        {
+          "caller": "load_state_party_swings",
+          "callee": "swings[\"party_id\"].astype(str).str.strip",
+          "lineNumber": 35
+        },
+        {
+          "caller": "load_state_party_swings",
+          "callee": "swings[\"party_id\"].astype",
+          "lineNumber": 35
+        },
+        {
+          "caller": "load_state_party_swings",
+          "callee": "pd.to_numeric",
+          "lineNumber": 36
+        },
+        {
+          "caller": "load_state_party_swings",
+          "callee": "swings.duplicated",
+          "lineNumber": 38
+        },
+        {
+          "caller": "load_state_party_swings",
+          "callee": "duplicate_keys.any",
+          "lineNumber": 39
+        },
+        {
+          "caller": "load_state_party_swings",
+          "callee": "ValueError",
+          "lineNumber": 41
+        },
+        {
+          "caller": "load_state_party_swings",
+          "callee": "duplicates.to_dict",
+          "lineNumber": 43
+        },
+        {
+          "caller": "load_state_party_swings",
+          "callee": "swings.itertuples",
+          "lineNumber": 48
+        },
+        {
+          "caller": "apply_zero_sum_swing",
+          "callee": "group.copy",
+          "lineNumber": 59
+        },
+        {
+          "caller": "apply_zero_sum_swing",
+          "callee": "group[\"party_id\"].map",
+          "lineNumber": 65
+        },
+        {
+          "caller": "apply_zero_sum_swing",
+          "callee": "state_party_swings.get",
+          "lineNumber": 66
+        },
+        {
+          "caller": "apply_zero_sum_swing",
+          "callee": "(\n        group[\"vote_share\"] + group[\"swing\"]\n    ).clip",
+          "lineNumber": 69
+        },
+        {
+          "caller": "apply_zero_sum_swing",
+          "callee": "group[\"sim_vote_share_raw\"].sum",
+          "lineNumber": 73
+        },
+        {
+          "caller": "apply_zero_sum_swing",
+          "callee": "group[\"sim_vote_share\"].rank",
+          "lineNumber": 82
+        },
+        {
+          "caller": "load_data",
+          "callee": "pd.read_parquet",
+          "lineNumber": 91
+        },
+        {
+          "caller": "load_data",
+          "callee": "pd.read_csv",
+          "lineNumber": 92
+        },
+        {
+          "caller": "load_data",
+          "callee": "load_state_party_swings",
+          "lineNumber": 93
+        },
+        {
+          "caller": "load_data",
+          "callee": "VOLATILITY_PATH.exists",
+          "lineNumber": 96
+        },
+        {
+          "caller": "load_data",
+          "callee": "pd.read_csv",
+          "lineNumber": 97
+        },
+        {
+          "caller": "add_alliances",
+          "callee": "alliances[\n        alliances[\"election_year\"] == BASE_YEAR\n    ][[\"party_id\", \"alliance\"]].copy",
+          "lineNumber": 103
+        },
+        {
+          "caller": "add_alliances",
+          "callee": "df.merge",
+          "lineNumber": 107
+        },
+        {
+          "caller": "simulate",
+          "callee": "results.groupby(\n            [\"state\", \"constituency_id\"],\n            group_keys=False,\n        )\n        .apply",
+          "lineNumber": 116
+        },
+        {
+          "caller": "simulate",
+          "callee": "results.groupby",
+          "lineNumber": 116
+        },
+        {
+          "caller": "simulate",
+          "callee": "simulated[simulated[\"sim_rank\"] == 1].copy",
+          "lineNumber": 123
+        },
+        {
+          "caller": "build_actual_winners",
+          "callee": "results[results[\"winner\"] == True].copy",
+          "lineNumber": 129
+        },
+        {
+          "caller": "build_actual_winners",
+          "callee": "actual[\n        [\n            \"state\",\n            \"constituency_id\",\n            \"constituency\",\n            \"candidate\",\n            \"party_id\",\n            \"vote_share\",\n        ]\n    ].rename",
+          "lineNumber": 131
+        },
+        {
+          "caller": "build_flip_report",
+          "callee": "simulated_winners[\n        [\n            \"state\",\n            \"constituency_id\",\n            \"constituency\",\n            \"candidate\",\n            \"party_id\",\n            \"sim_vote_share\",\n            \"alliance\",\n        ]\n    ].rename",
+          "lineNumber": 150
+        },
+        {
+          "caller": "build_flip_report",
+          "callee": "actual_winners.merge",
+          "lineNumber": 169
+        },
+        {
+          "caller": "build_flip_report",
+          "callee": "flips.sort_values",
+          "lineNumber": 177
+        },
+        {
+          "caller": "build_national_projection",
+          "callee": "simulated_winners.groupby(\"party_id\")\n        .size()\n        .reset_index(name=\"seats\")\n        .sort_values",
+          "lineNumber": 185
+        },
+        {
+          "caller": "build_national_projection",
+          "callee": "simulated_winners.groupby(\"party_id\")\n        .size()\n        .reset_index",
+          "lineNumber": 185
+        },
+        {
+          "caller": "build_national_projection",
+          "callee": "simulated_winners.groupby(\"party_id\")\n        .size",
+          "lineNumber": 185
+        },
+        {
+          "caller": "build_national_projection",
+          "callee": "simulated_winners.groupby",
+          "lineNumber": 185
+        },
+        {
+          "caller": "build_national_projection",
+          "callee": "simulated_winners.groupby(\"alliance\")\n        .size()\n        .reset_index(name=\"seats\")\n        .sort_values",
+          "lineNumber": 192
+        },
+        {
+          "caller": "build_national_projection",
+          "callee": "simulated_winners.groupby(\"alliance\")\n        .size()\n        .reset_index",
+          "lineNumber": 192
+        },
+        {
+          "caller": "build_national_projection",
+          "callee": "simulated_winners.groupby(\"alliance\")\n        .size",
+          "lineNumber": 192
+        },
+        {
+          "caller": "build_national_projection",
+          "callee": "simulated_winners.groupby",
+          "lineNumber": 192
+        },
+        {
+          "caller": "build_state_projection",
+          "callee": "simulated_winners.groupby([\"state\", \"party_id\"])\n        .size()\n        .reset_index(name=\"seats\")\n        .sort_values",
+          "lineNumber": 203
+        },
+        {
+          "caller": "build_state_projection",
+          "callee": "simulated_winners.groupby([\"state\", \"party_id\"])\n        .size()\n        .reset_index",
+          "lineNumber": 203
+        },
+        {
+          "caller": "build_state_projection",
+          "callee": "simulated_winners.groupby([\"state\", \"party_id\"])\n        .size",
+          "lineNumber": 203
+        },
+        {
+          "caller": "build_state_projection",
+          "callee": "simulated_winners.groupby",
+          "lineNumber": 203
+        },
+        {
+          "caller": "build_battlegrounds",
+          "callee": "flip_report.copy",
+          "lineNumber": 211
+        },
+        {
+          "caller": "build_battlegrounds",
+          "callee": "battlegrounds.merge",
+          "lineNumber": 223
+        },
+        {
+          "caller": "build_battlegrounds",
+          "callee": "volatility[keep_cols].drop_duplicates",
+          "lineNumber": 224
+        },
+        {
+          "caller": "build_battlegrounds",
+          "callee": "battlegrounds.sort_values",
+          "lineNumber": 229
+        },
+        {
+          "caller": "save_outputs",
+          "callee": "simulated.to_csv",
+          "lineNumber": 246
+        },
+        {
+          "caller": "save_outputs",
+          "callee": "simulated_winners.to_csv",
+          "lineNumber": 251
+        },
+        {
+          "caller": "save_outputs",
+          "callee": "flip_report.to_csv",
+          "lineNumber": 256
+        },
+        {
+          "caller": "save_outputs",
+          "callee": "party_projection.to_csv",
+          "lineNumber": 261
+        },
+        {
+          "caller": "save_outputs",
+          "callee": "alliance_projection.to_csv",
+          "lineNumber": 266
+        },
+        {
+          "caller": "save_outputs",
+          "callee": "state_projection.to_csv",
+          "lineNumber": 271
+        },
+        {
+          "caller": "save_outputs",
+          "callee": "battlegrounds.to_csv",
+          "lineNumber": 276
+        },
+        {
+          "caller": "main",
+          "callee": "load_data",
+          "lineNumber": 283
+        },
+        {
+          "caller": "main",
+          "callee": "ValueError",
+          "lineNumber": 286
+        },
+        {
+          "caller": "main",
+          "callee": "ValueError",
+          "lineNumber": 289
+        },
+        {
+          "caller": "main",
+          "callee": "add_alliances",
+          "lineNumber": 291
+        },
+        {
+          "caller": "main",
+          "callee": "simulate",
+          "lineNumber": 293
+        },
+        {
+          "caller": "main",
+          "callee": "build_actual_winners",
+          "lineNumber": 295
+        },
+        {
+          "caller": "main",
+          "callee": "build_flip_report",
+          "lineNumber": 297
+        },
+        {
+          "caller": "main",
+          "callee": "build_national_projection",
+          "lineNumber": 302
+        },
+        {
+          "caller": "main",
+          "callee": "build_state_projection",
+          "lineNumber": 306
+        },
+        {
+          "caller": "main",
+          "callee": "build_battlegrounds",
+          "lineNumber": 308
+        },
+        {
+          "caller": "main",
+          "callee": "save_outputs",
+          "lineNumber": 313
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 323
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 324
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 325
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 326
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 327
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 328
+        },
+        {
+          "caller": "main",
+          "callee": "party_projection.head",
+          "lineNumber": 328
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 329
+        },
+        {
+          "caller": "main",
+          "callee": "flip_report[\"flipped\"].sum",
+          "lineNumber": 329
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 330
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 342
+        },
+        {
+          "caller": "main",
+          "callee": "battlegrounds[cols].head",
+          "lineNumber": 342
+        }
+      ],
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 12,
+        "functionCount": 12,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/utils/__init__.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 1,
+      "nonEmptyLines": 0,
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/visualization/build_visualizer_data.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 320,
+      "nonEmptyLines": 276,
+      "functions": [
+        {
+          "name": "clean_json_value",
+          "startLine": 173,
+          "endLine": 180,
+          "params": [
+            "value"
+          ]
+        },
+        {
+          "name": "records",
+          "startLine": 183,
+          "endLine": 187,
+          "params": [
+            "df"
+          ]
+        },
+        {
+          "name": "name_key",
+          "startLine": 190,
+          "endLine": 196,
+          "params": [
+            "value"
+          ]
+        },
+        {
+          "name": "canonical_state_for_district",
+          "startLine": 199,
+          "endLine": 223,
+          "params": [
+            "state_2011",
+            "district"
+          ]
+        },
+        {
+          "name": "add_state_grid",
+          "startLine": 226,
+          "endLine": 231,
+          "params": [
+            "df"
+          ]
+        },
+        {
+          "name": "build_field_catalog",
+          "startLine": 234,
+          "endLine": 253,
+          "params": [
+            "bundle_tables"
+          ]
+        },
+        {
+          "name": "main",
+          "startLine": 256,
+          "endLine": 316,
+          "params": []
+        }
+      ],
+      "exports": [
+        {
+          "name": "clean_json_value",
+          "line": 173,
+          "isDefault": false
+        },
+        {
+          "name": "records",
+          "line": 183,
+          "isDefault": false
+        },
+        {
+          "name": "name_key",
+          "line": 190,
+          "isDefault": false
+        },
+        {
+          "name": "canonical_state_for_district",
+          "line": 199,
+          "isDefault": false
+        },
+        {
+          "name": "add_state_grid",
+          "line": 226,
+          "isDefault": false
+        },
+        {
+          "name": "build_field_catalog",
+          "line": 234,
+          "isDefault": false
+        },
+        {
+          "name": "main",
+          "line": 256,
+          "isDefault": false
+        }
+      ],
+      "callGraph": [
+        {
+          "caller": "clean_json_value",
+          "callee": "pd.isna",
+          "lineNumber": 174
+        },
+        {
+          "caller": "clean_json_value",
+          "callee": "isinstance",
+          "lineNumber": 176
+        },
+        {
+          "caller": "clean_json_value",
+          "callee": "math.isfinite",
+          "lineNumber": 176
+        },
+        {
+          "caller": "clean_json_value",
+          "callee": "hasattr",
+          "lineNumber": 178
+        },
+        {
+          "caller": "clean_json_value",
+          "callee": "value.item",
+          "lineNumber": 179
+        },
+        {
+          "caller": "records",
+          "callee": "df.to_dict",
+          "lineNumber": 185
+        },
+        {
+          "caller": "records",
+          "callee": "out.append",
+          "lineNumber": 186
+        },
+        {
+          "caller": "records",
+          "callee": "clean_json_value",
+          "lineNumber": 186
+        },
+        {
+          "caller": "records",
+          "callee": "row.items",
+          "lineNumber": 186
+        },
+        {
+          "caller": "name_key",
+          "callee": "pd.isna",
+          "lineNumber": 191
+        },
+        {
+          "caller": "name_key",
+          "callee": "str(value).strip().upper",
+          "lineNumber": 193
+        },
+        {
+          "caller": "name_key",
+          "callee": "str(value).strip",
+          "lineNumber": 193
+        },
+        {
+          "caller": "name_key",
+          "callee": "str",
+          "lineNumber": 193
+        },
+        {
+          "caller": "name_key",
+          "callee": "name.replace",
+          "lineNumber": 194
+        },
+        {
+          "caller": "name_key",
+          "callee": "re.sub",
+          "lineNumber": 195
+        },
+        {
+          "caller": "name_key",
+          "callee": "STATE_NAME_ALIASES.get",
+          "lineNumber": 196
+        },
+        {
+          "caller": "canonical_state_for_district",
+          "callee": "name_key",
+          "lineNumber": 200
+        },
+        {
+          "caller": "canonical_state_for_district",
+          "callee": "name_key",
+          "lineNumber": 201
+        },
+        {
+          "caller": "add_state_grid",
+          "callee": "df.copy",
+          "lineNumber": 227
+        },
+        {
+          "caller": "add_state_grid",
+          "callee": "out[\"state\"].map",
+          "lineNumber": 228
+        },
+        {
+          "caller": "add_state_grid",
+          "callee": "out[\"state_key\"].map",
+          "lineNumber": 229
+        },
+        {
+          "caller": "add_state_grid",
+          "callee": "STATE_GRID_POSITIONS.get",
+          "lineNumber": 229
+        },
+        {
+          "caller": "add_state_grid",
+          "callee": "out[\"state_key\"].map",
+          "lineNumber": 230
+        },
+        {
+          "caller": "add_state_grid",
+          "callee": "STATE_GRID_POSITIONS.get",
+          "lineNumber": 230
+        },
+        {
+          "caller": "build_field_catalog",
+          "callee": "FIELD_GROUPS.items",
+          "lineNumber": 236
+        },
+        {
+          "caller": "build_field_catalog",
+          "callee": "int",
+          "lineNumber": 242
+        },
+        {
+          "caller": "build_field_catalog",
+          "callee": "df[field].notna().sum",
+          "lineNumber": 242
+        },
+        {
+          "caller": "build_field_catalog",
+          "callee": "df[field].notna",
+          "lineNumber": 242
+        },
+        {
+          "caller": "build_field_catalog",
+          "callee": "catalog.append",
+          "lineNumber": 243
+        },
+        {
+          "caller": "build_field_catalog",
+          "callee": "FIELD_LABELS.get",
+          "lineNumber": 246
+        },
+        {
+          "caller": "build_field_catalog",
+          "callee": "field.replace(\"_\", \" \").title",
+          "lineNumber": 246
+        },
+        {
+          "caller": "build_field_catalog",
+          "callee": "field.replace",
+          "lineNumber": 246
+        },
+        {
+          "caller": "build_field_catalog",
+          "callee": "int",
+          "lineNumber": 250
+        },
+        {
+          "caller": "build_field_catalog",
+          "callee": "len",
+          "lineNumber": 250
+        },
+        {
+          "caller": "main",
+          "callee": "pd.read_csv",
+          "lineNumber": 257
+        },
+        {
+          "caller": "main",
+          "callee": "pd.read_csv",
+          "lineNumber": 258
+        },
+        {
+          "caller": "main",
+          "callee": "pd.read_csv",
+          "lineNumber": 259
+        },
+        {
+          "caller": "main",
+          "callee": "pd.read_csv",
+          "lineNumber": 260
+        },
+        {
+          "caller": "main",
+          "callee": "pd.read_csv",
+          "lineNumber": 261
+        },
+        {
+          "caller": "main",
+          "callee": "add_state_grid",
+          "lineNumber": 263
+        },
+        {
+          "caller": "main",
+          "callee": "districts.copy",
+          "lineNumber": 265
+        },
+        {
+          "caller": "main",
+          "callee": "districts.apply",
+          "lineNumber": 266
+        },
+        {
+          "caller": "main",
+          "callee": "canonical_state_for_district",
+          "lineNumber": 267
+        },
+        {
+          "caller": "main",
+          "callee": "states.set_index(\"state_key\")[\"state\"].to_dict",
+          "lineNumber": 270
+        },
+        {
+          "caller": "main",
+          "callee": "states.set_index",
+          "lineNumber": 270
+        },
+        {
+          "caller": "main",
+          "callee": "districts[\"state_key\"].map(state_key_to_name).fillna",
+          "lineNumber": 271
+        },
+        {
+          "caller": "main",
+          "callee": "districts[\"state_key\"].map",
+          "lineNumber": 271
+        },
+        {
+          "caller": "main",
+          "callee": "state_party.copy",
+          "lineNumber": 273
+        },
+        {
+          "caller": "main",
+          "callee": "state_party[\"state\"].map",
+          "lineNumber": 274
+        },
+        {
+          "caller": "main",
+          "callee": "constituencies.copy",
+          "lineNumber": 276
+        },
+        {
+          "caller": "main",
+          "callee": "constituencies[\"state\"].map",
+          "lineNumber": 277
+        },
+        {
+          "caller": "main",
+          "callee": "str",
+          "lineNumber": 291
+        },
+        {
+          "caller": "main",
+          "callee": "STATE_ANALYSIS_PATH.relative_to",
+          "lineNumber": 291
+        },
+        {
+          "caller": "main",
+          "callee": "str",
+          "lineNumber": 292
+        },
+        {
+          "caller": "main",
+          "callee": "STATE_PARTY_PATH.relative_to",
+          "lineNumber": 292
+        },
+        {
+          "caller": "main",
+          "callee": "str",
+          "lineNumber": 293
+        },
+        {
+          "caller": "main",
+          "callee": "DISTRICT_PATH.relative_to",
+          "lineNumber": 293
+        },
+        {
+          "caller": "main",
+          "callee": "str",
+          "lineNumber": 294
+        },
+        {
+          "caller": "main",
+          "callee": "CONSTITUENCY_VOLATILITY_PATH.relative_to",
+          "lineNumber": 294
+        },
+        {
+          "caller": "main",
+          "callee": "build_field_catalog",
+          "lineNumber": 302
+        },
+        {
+          "caller": "main",
+          "callee": "records",
+          "lineNumber": 303
+        },
+        {
+          "caller": "main",
+          "callee": "records",
+          "lineNumber": 304
+        },
+        {
+          "caller": "main",
+          "callee": "records",
+          "lineNumber": 305
+        },
+        {
+          "caller": "main",
+          "callee": "records",
+          "lineNumber": 306
+        },
+        {
+          "caller": "main",
+          "callee": "records",
+          "lineNumber": 307
+        },
+        {
+          "caller": "main",
+          "callee": "VISUALIZER_DATA_DIR.mkdir",
+          "lineNumber": 310
+        },
+        {
+          "caller": "main",
+          "callee": "OUT_PATH.write_text",
+          "lineNumber": 311
+        },
+        {
+          "caller": "main",
+          "callee": "json.dumps",
+          "lineNumber": 311
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 312
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 313
+        },
+        {
+          "caller": "main",
+          "callee": "len",
+          "lineNumber": 313
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 314
+        },
+        {
+          "caller": "main",
+          "callee": "len",
+          "lineNumber": 314
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 315
+        },
+        {
+          "caller": "main",
+          "callee": "len",
+          "lineNumber": 315
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 316
+        },
+        {
+          "caller": "main",
+          "callee": "len",
+          "lineNumber": 316
+        }
+      ],
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 7,
+        "functionCount": 7,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "visualizer/app.js",
+      "language": "javascript",
+      "fileCategory": "code",
+      "totalLines": 455,
+      "nonEmptyLines": 412,
+      "functions": [
+        {
+          "name": "el",
+          "startLine": 51,
+          "endLine": 53,
+          "params": [
+            "id"
+          ]
+        },
+        {
+          "name": "fieldLabel",
+          "startLine": 55,
+          "endLine": 58,
+          "params": [
+            "field"
+          ]
+        },
+        {
+          "name": "formatValue",
+          "startLine": 60,
+          "endLine": 67,
+          "params": [
+            "value",
+            "field"
+          ]
+        },
+        {
+          "name": "numericValues",
+          "startLine": 69,
+          "endLine": 74,
+          "params": [
+            "rows",
+            "field"
+          ]
+        },
+        {
+          "name": "colorFor",
+          "startLine": 76,
+          "endLine": 88,
+          "params": [
+            "value",
+            "min",
+            "max"
+          ]
+        },
+        {
+          "name": "stateAbbr",
+          "startLine": 90,
+          "endLine": 94,
+          "params": [
+            "state"
+          ]
+        },
+        {
+          "name": "selectedState",
+          "startLine": 96,
+          "endLine": 98,
+          "params": []
+        },
+        {
+          "name": "initControls",
+          "startLine": 100,
+          "endLine": 165,
+          "params": []
+        },
+        {
+          "name": "setMapMode",
+          "startLine": 167,
+          "endLine": 172,
+          "params": [
+            "mode"
+          ]
+        },
+        {
+          "name": "renderLegend",
+          "startLine": 174,
+          "endLine": 183,
+          "params": []
+        },
+        {
+          "name": "renderMap",
+          "startLine": 185,
+          "endLine": 220,
+          "params": []
+        },
+        {
+          "name": "renderStateSummary",
+          "startLine": 222,
+          "endLine": 247,
+          "params": []
+        },
+        {
+          "name": "renderCoverage",
+          "startLine": 249,
+          "endLine": 264,
+          "params": []
+        },
+        {
+          "name": "renderTable",
+          "startLine": 266,
+          "endLine": 281,
+          "params": [
+            "container",
+            "rows",
+            "columns"
+          ]
+        },
+        {
+          "name": "renderDistricts",
+          "startLine": 283,
+          "endLine": 294,
+          "params": []
+        },
+        {
+          "name": "renderParties",
+          "startLine": 296,
+          "endLine": 308,
+          "params": []
+        },
+        {
+          "name": "renderConstituencies",
+          "startLine": 310,
+          "endLine": 322,
+          "params": []
+        },
+        {
+          "name": "dhsColor",
+          "startLine": 324,
+          "endLine": 329,
+          "params": [
+            "cluster"
+          ]
+        },
+        {
+          "name": "renderDhsMap",
+          "startLine": 331,
+          "endLine": 414,
+          "params": []
+        },
+        {
+          "name": "render",
+          "startLine": 416,
+          "endLine": 425,
+          "params": []
+        },
+        {
+          "name": "loadDhsClusters",
+          "startLine": 427,
+          "endLine": 442,
+          "params": []
+        },
+        {
+          "name": "main",
+          "startLine": 444,
+          "endLine": 451,
+          "params": []
+        }
+      ],
+      "callGraph": [
+        {
+          "caller": "el",
+          "callee": "document.getElementById",
+          "lineNumber": 52
+        },
+        {
+          "caller": "fieldLabel",
+          "callee": "bundle.fields.find",
+          "lineNumber": 56
+        },
+        {
+          "caller": "fieldLabel",
+          "callee": "field.replaceAll",
+          "lineNumber": 57
+        },
+        {
+          "caller": "formatValue",
+          "callee": "Number.isNaN",
+          "lineNumber": 61
+        },
+        {
+          "caller": "formatValue",
+          "callee": "percentFields.has",
+          "lineNumber": 62
+        },
+        {
+          "caller": "formatValue",
+          "callee": "Number(value).toFixed",
+          "lineNumber": 62
+        },
+        {
+          "caller": "formatValue",
+          "callee": "Number",
+          "lineNumber": 62
+        },
+        {
+          "caller": "formatValue",
+          "callee": "field.includes",
+          "lineNumber": 63
+        },
+        {
+          "caller": "formatValue",
+          "callee": "field.includes",
+          "lineNumber": 63
+        },
+        {
+          "caller": "formatValue",
+          "callee": "Number(value).toFixed",
+          "lineNumber": 63
+        },
+        {
+          "caller": "formatValue",
+          "callee": "Number",
+          "lineNumber": 63
+        },
+        {
+          "caller": "formatValue",
+          "callee": "Math.abs",
+          "lineNumber": 64
+        },
+        {
+          "caller": "formatValue",
+          "callee": "Number",
+          "lineNumber": 64
+        },
+        {
+          "caller": "formatValue",
+          "callee": "numberFormat.format",
+          "lineNumber": 64
+        },
+        {
+          "caller": "formatValue",
+          "callee": "Math.round",
+          "lineNumber": 64
+        },
+        {
+          "caller": "formatValue",
+          "callee": "Number",
+          "lineNumber": 64
+        },
+        {
+          "caller": "formatValue",
+          "callee": "Number.isInteger",
+          "lineNumber": 65
+        },
+        {
+          "caller": "formatValue",
+          "callee": "Number",
+          "lineNumber": 65
+        },
+        {
+          "caller": "formatValue",
+          "callee": "numberFormat.format",
+          "lineNumber": 65
+        },
+        {
+          "caller": "formatValue",
+          "callee": "Number",
+          "lineNumber": 65
+        },
+        {
+          "caller": "formatValue",
+          "callee": "Number(value).toFixed",
+          "lineNumber": 66
+        },
+        {
+          "caller": "formatValue",
+          "callee": "Number",
+          "lineNumber": 66
+        },
+        {
+          "caller": "numericValues",
+          "callee": "rows\n    .map((row) => row[field])\n    .filter((value) => value !== null && value !== undefined && Number.isFinite(Number(value)))\n    .map",
+          "lineNumber": 70
+        },
+        {
+          "caller": "numericValues",
+          "callee": "rows\n    .map((row) => row[field])\n    .filter",
+          "lineNumber": 70
+        },
+        {
+          "caller": "numericValues",
+          "callee": "rows\n    .map",
+          "lineNumber": 70
+        },
+        {
+          "caller": "numericValues",
+          "callee": "Number.isFinite",
+          "lineNumber": 72
+        },
+        {
+          "caller": "numericValues",
+          "callee": "Number",
+          "lineNumber": 72
+        },
+        {
+          "caller": "colorFor",
+          "callee": "Number.isFinite",
+          "lineNumber": 77
+        },
+        {
+          "caller": "colorFor",
+          "callee": "Number",
+          "lineNumber": 77
+        },
+        {
+          "caller": "colorFor",
+          "callee": "Math.max",
+          "lineNumber": 79
+        },
+        {
+          "caller": "colorFor",
+          "callee": "Math.min",
+          "lineNumber": 79
+        },
+        {
+          "caller": "colorFor",
+          "callee": "Number",
+          "lineNumber": 79
+        },
+        {
+          "caller": "colorFor",
+          "callee": "left.map",
+          "lineNumber": 86
+        },
+        {
+          "caller": "colorFor",
+          "callee": "Math.round",
+          "lineNumber": 86
+        },
+        {
+          "caller": "colorFor",
+          "callee": "rgb.join",
+          "lineNumber": 87
+        },
+        {
+          "caller": "stateAbbr",
+          "callee": "state.replaceAll(\"&\", \"and\").split(/\\s+/).filter",
+          "lineNumber": 91
+        },
+        {
+          "caller": "stateAbbr",
+          "callee": "state.replaceAll(\"&\", \"and\").split",
+          "lineNumber": 91
+        },
+        {
+          "caller": "stateAbbr",
+          "callee": "state.replaceAll",
+          "lineNumber": 91
+        },
+        {
+          "caller": "stateAbbr",
+          "callee": "words[0].slice(0, 3).toUpperCase",
+          "lineNumber": 92
+        },
+        {
+          "caller": "stateAbbr",
+          "callee": "words[0].slice",
+          "lineNumber": 92
+        },
+        {
+          "caller": "stateAbbr",
+          "callee": "words.map((w) => w[0]).join(\"\").slice(0, 4).toUpperCase",
+          "lineNumber": 93
+        },
+        {
+          "caller": "stateAbbr",
+          "callee": "words.map((w) => w[0]).join(\"\").slice",
+          "lineNumber": 93
+        },
+        {
+          "caller": "stateAbbr",
+          "callee": "words.map((w) => w[0]).join",
+          "lineNumber": 93
+        },
+        {
+          "caller": "stateAbbr",
+          "callee": "words.map",
+          "lineNumber": 93
+        },
+        {
+          "caller": "selectedState",
+          "callee": "bundle.states.find",
+          "lineNumber": 97
+        },
+        {
+          "caller": "initControls",
+          "callee": "el",
+          "lineNumber": 101
+        },
+        {
+          "caller": "initControls",
+          "callee": "bundle.fields\n    .filter((f) => f.table === \"states\")\n    .forEach",
+          "lineNumber": 103
+        },
+        {
+          "caller": "initControls",
+          "callee": "bundle.fields\n    .filter",
+          "lineNumber": 103
+        },
+        {
+          "caller": "initControls",
+          "callee": "grouped[field.group].push",
+          "lineNumber": 107
+        },
+        {
+          "caller": "initControls",
+          "callee": "Object.entries(grouped).forEach",
+          "lineNumber": 110
+        },
+        {
+          "caller": "initControls",
+          "callee": "Object.entries",
+          "lineNumber": 110
+        },
+        {
+          "caller": "initControls",
+          "callee": "document.createElement",
+          "lineNumber": 111
+        },
+        {
+          "caller": "initControls",
+          "callee": "fields.forEach",
+          "lineNumber": 113
+        },
+        {
+          "caller": "initControls",
+          "callee": "document.createElement",
+          "lineNumber": 114
+        },
+        {
+          "caller": "initControls",
+          "callee": "optGroup.appendChild",
+          "lineNumber": 117
+        },
+        {
+          "caller": "initControls",
+          "callee": "metricSelect.appendChild",
+          "lineNumber": 119
+        },
+        {
+          "caller": "initControls",
+          "callee": "metricSelect.addEventListener",
+          "lineNumber": 122
+        },
+        {
+          "caller": "initControls",
+          "callee": "render",
+          "lineNumber": 124
+        },
+        {
+          "caller": "initControls",
+          "callee": "el",
+          "lineNumber": 127
+        },
+        {
+          "caller": "initControls",
+          "callee": "bundle.states\n    .slice()\n    .sort((a, b) => a.state.localeCompare(b.state))\n    .forEach",
+          "lineNumber": 128
+        },
+        {
+          "caller": "initControls",
+          "callee": "bundle.states\n    .slice()\n    .sort",
+          "lineNumber": 128
+        },
+        {
+          "caller": "initControls",
+          "callee": "bundle.states\n    .slice",
+          "lineNumber": 128
+        },
+        {
+          "caller": "initControls",
+          "callee": "a.state.localeCompare",
+          "lineNumber": 130
+        },
+        {
+          "caller": "initControls",
+          "callee": "document.createElement",
+          "lineNumber": 132
+        },
+        {
+          "caller": "initControls",
+          "callee": "stateSelect.appendChild",
+          "lineNumber": 135
+        },
+        {
+          "caller": "initControls",
+          "callee": "stateSelect.addEventListener",
+          "lineNumber": 137
+        },
+        {
+          "caller": "initControls",
+          "callee": "render",
+          "lineNumber": 139
+        },
+        {
+          "caller": "initControls",
+          "callee": "el",
+          "lineNumber": 142
+        },
+        {
+          "caller": "initControls",
+          "callee": "[\"population_total\", \"urban_pct\", \"sc_pct\", \"st_pct\", \"literacy_rate\", \"worker_pct\"].forEach",
+          "lineNumber": 143
+        },
+        {
+          "caller": "initControls",
+          "callee": "document.createElement",
+          "lineNumber": 144
+        },
+        {
+          "caller": "initControls",
+          "callee": "fieldLabel",
+          "lineNumber": 146
+        },
+        {
+          "caller": "initControls",
+          "callee": "districtSort.appendChild",
+          "lineNumber": 147
+        },
+        {
+          "caller": "initControls",
+          "callee": "districtSort.addEventListener",
+          "lineNumber": 149
+        },
+        {
+          "caller": "initControls",
+          "callee": "el(\"minSeats\").addEventListener",
+          "lineNumber": 151
+        },
+        {
+          "caller": "initControls",
+          "callee": "el",
+          "lineNumber": 151
+        },
+        {
+          "caller": "initControls",
+          "callee": "el(\"constituencyFilter\").addEventListener",
+          "lineNumber": 152
+        },
+        {
+          "caller": "initControls",
+          "callee": "el",
+          "lineNumber": 152
+        },
+        {
+          "caller": "initControls",
+          "callee": "el(\"gridMode\").addEventListener",
+          "lineNumber": 154
+        },
+        {
+          "caller": "initControls",
+          "callee": "el",
+          "lineNumber": 154
+        },
+        {
+          "caller": "initControls",
+          "callee": "setMapMode",
+          "lineNumber": 154
+        },
+        {
+          "caller": "initControls",
+          "callee": "el(\"tableMode\").addEventListener",
+          "lineNumber": 155
+        },
+        {
+          "caller": "initControls",
+          "callee": "el",
+          "lineNumber": 155
+        },
+        {
+          "caller": "initControls",
+          "callee": "setMapMode",
+          "lineNumber": 155
+        },
+        {
+          "caller": "initControls",
+          "callee": "el(\"showDhsClusters\").addEventListener",
+          "lineNumber": 157
+        },
+        {
+          "caller": "initControls",
+          "callee": "el",
+          "lineNumber": 157
+        },
+        {
+          "caller": "initControls",
+          "callee": "renderDhsMap",
+          "lineNumber": 159
+        },
+        {
+          "caller": "initControls",
+          "callee": "el(\"dhsColorMode\").addEventListener",
+          "lineNumber": 161
+        },
+        {
+          "caller": "initControls",
+          "callee": "el",
+          "lineNumber": 161
+        },
+        {
+          "caller": "initControls",
+          "callee": "renderDhsMap",
+          "lineNumber": 163
+        },
+        {
+          "caller": "setMapMode",
+          "callee": "el(\"gridMode\").classList.toggle",
+          "lineNumber": 168
+        },
+        {
+          "caller": "setMapMode",
+          "callee": "el",
+          "lineNumber": 168
+        },
+        {
+          "caller": "setMapMode",
+          "callee": "el(\"tableMode\").classList.toggle",
+          "lineNumber": 169
+        },
+        {
+          "caller": "setMapMode",
+          "callee": "el",
+          "lineNumber": 169
+        },
+        {
+          "caller": "setMapMode",
+          "callee": "el(\"mapGrid\").classList.toggle",
+          "lineNumber": 170
+        },
+        {
+          "caller": "setMapMode",
+          "callee": "el",
+          "lineNumber": 170
+        },
+        {
+          "caller": "setMapMode",
+          "callee": "el(\"stateTableWrap\").classList.toggle",
+          "lineNumber": 171
+        },
+        {
+          "caller": "setMapMode",
+          "callee": "el",
+          "lineNumber": 171
+        },
+        {
+          "caller": "renderLegend",
+          "callee": "numericValues",
+          "lineNumber": 175
+        },
+        {
+          "caller": "renderLegend",
+          "callee": "Math.min",
+          "lineNumber": 176
+        },
+        {
+          "caller": "renderLegend",
+          "callee": "Math.max",
+          "lineNumber": 177
+        },
+        {
+          "caller": "renderLegend",
+          "callee": "el",
+          "lineNumber": 178
+        },
+        {
+          "caller": "renderLegend",
+          "callee": "fieldLabel",
+          "lineNumber": 179
+        },
+        {
+          "caller": "renderLegend",
+          "callee": "formatValue",
+          "lineNumber": 181
+        },
+        {
+          "caller": "renderLegend",
+          "callee": "formatValue",
+          "lineNumber": 181
+        },
+        {
+          "caller": "renderMap",
+          "callee": "numericValues",
+          "lineNumber": 186
+        },
+        {
+          "caller": "renderMap",
+          "callee": "Math.min",
+          "lineNumber": 187
+        },
+        {
+          "caller": "renderMap",
+          "callee": "Math.max",
+          "lineNumber": 188
+        },
+        {
+          "caller": "renderMap",
+          "callee": "el",
+          "lineNumber": 189
+        },
+        {
+          "caller": "renderMap",
+          "callee": "bundle.states.forEach",
+          "lineNumber": 192
+        },
+        {
+          "caller": "renderMap",
+          "callee": "document.createElement",
+          "lineNumber": 193
+        },
+        {
+          "caller": "renderMap",
+          "callee": "colorFor",
+          "lineNumber": 196
+        },
+        {
+          "caller": "renderMap",
+          "callee": "tile.classList.add",
+          "lineNumber": 201
+        },
+        {
+          "caller": "renderMap",
+          "callee": "formatValue",
+          "lineNumber": 202
+        },
+        {
+          "caller": "renderMap",
+          "callee": "stateAbbr",
+          "lineNumber": 204
+        },
+        {
+          "caller": "renderMap",
+          "callee": "formatValue",
+          "lineNumber": 205
+        },
+        {
+          "caller": "renderMap",
+          "callee": "tile.addEventListener",
+          "lineNumber": 207
+        },
+        {
+          "caller": "renderMap",
+          "callee": "render",
+          "lineNumber": 209
+        },
+        {
+          "caller": "renderMap",
+          "callee": "grid.appendChild",
+          "lineNumber": 211
+        },
+        {
+          "caller": "renderMap",
+          "callee": "renderTable",
+          "lineNumber": 214
+        },
+        {
+          "caller": "renderMap",
+          "callee": "el",
+          "lineNumber": 215
+        },
+        {
+          "caller": "renderMap",
+          "callee": "bundle.states.slice().sort",
+          "lineNumber": 216
+        },
+        {
+          "caller": "renderMap",
+          "callee": "bundle.states.slice",
+          "lineNumber": 216
+        },
+        {
+          "caller": "renderMap",
+          "callee": "Number",
+          "lineNumber": 216
+        },
+        {
+          "caller": "renderMap",
+          "callee": "Number",
+          "lineNumber": 216
+        },
+        {
+          "caller": "renderStateSummary",
+          "callee": "selectedState",
+          "lineNumber": 223
+        },
+        {
+          "caller": "renderStateSummary",
+          "callee": "el",
+          "lineNumber": 224
+        },
+        {
+          "caller": "renderStateSummary",
+          "callee": "el",
+          "lineNumber": 225
+        },
+        {
+          "caller": "renderStateSummary",
+          "callee": "el",
+          "lineNumber": 226
+        },
+        {
+          "caller": "renderStateSummary",
+          "callee": "metricCards\n    .map(([field, label]) => `\n      <div class=\"metric-card\">\n        <div class=\"metric-label\">${label}</div>\n        <div class=\"metric-value\">${formatValue(state[field], field)}</div>\n      </div>\n    `)\n    .join",
+          "lineNumber": 226
+        },
+        {
+          "caller": "renderStateSummary",
+          "callee": "metricCards\n    .map",
+          "lineNumber": 226
+        },
+        {
+          "caller": "renderStateSummary",
+          "callee": "formatValue",
+          "lineNumber": 230
+        },
+        {
+          "caller": "renderStateSummary",
+          "callee": "el",
+          "lineNumber": 244
+        },
+        {
+          "caller": "renderStateSummary",
+          "callee": "signals\n    .map(([label, value]) => `<div class=\"signal-row\"><span>${label}</span><strong>${value ?? \"NA\"}</strong></div>`)\n    .join",
+          "lineNumber": 244
+        },
+        {
+          "caller": "renderStateSummary",
+          "callee": "signals\n    .map",
+          "lineNumber": 244
+        },
+        {
+          "caller": "renderCoverage",
+          "callee": "bundle.fields\n    .filter((f) => f.table === \"states\")\n    .sort",
+          "lineNumber": 250
+        },
+        {
+          "caller": "renderCoverage",
+          "callee": "bundle.fields\n    .filter",
+          "lineNumber": 250
+        },
+        {
+          "caller": "renderCoverage",
+          "callee": "a.group.localeCompare",
+          "lineNumber": 252
+        },
+        {
+          "caller": "renderCoverage",
+          "callee": "a.label.localeCompare",
+          "lineNumber": 252
+        },
+        {
+          "caller": "renderCoverage",
+          "callee": "el",
+          "lineNumber": 253
+        },
+        {
+          "caller": "renderCoverage",
+          "callee": "fields\n    .map((field) => {\n      const pct = field.total_rows ? Math.round((field.available_rows / field.total_rows) * 100) : 0;\n      return `\n        <div class=\"coverage-item\">\n          <div class=\"coverage-label\"><span>${field.label}</span><span>${field.available_rows}/${field.total_rows}</span></div>\n          <div class=\"coverage-bar\"><div class=\"coverage-fill\" style=\"width:${pct}%\"></div></div>\n        </div>\n      `;\n    })\n    .join",
+          "lineNumber": 253
+        },
+        {
+          "caller": "renderCoverage",
+          "callee": "fields\n    .map",
+          "lineNumber": 253
+        },
+        {
+          "caller": "renderCoverage",
+          "callee": "Math.round",
+          "lineNumber": 255
+        },
+        {
+          "caller": "renderTable",
+          "callee": "rows.slice",
+          "lineNumber": 267
+        },
+        {
+          "caller": "renderTable",
+          "callee": "columns.map((col) => `<th>${fieldLabel(col)}</th>`).join",
+          "lineNumber": 272
+        },
+        {
+          "caller": "renderTable",
+          "callee": "columns.map",
+          "lineNumber": 272
+        },
+        {
+          "caller": "renderTable",
+          "callee": "fieldLabel",
+          "lineNumber": 272
+        },
+        {
+          "caller": "renderTable",
+          "callee": "visibleRows\n    .map((row) => `\n      <tr>\n        ${columns.map((col) => `<td>${formatValue(row[col], col)}</td>`).join(\"\")}\n      </tr>\n    `)\n    .join",
+          "lineNumber": 273
+        },
+        {
+          "caller": "renderTable",
+          "callee": "visibleRows\n    .map",
+          "lineNumber": 273
+        },
+        {
+          "caller": "renderTable",
+          "callee": "columns.map((col) => `<td>${formatValue(row[col], col)}</td>`).join",
+          "lineNumber": 276
+        },
+        {
+          "caller": "renderTable",
+          "callee": "columns.map",
+          "lineNumber": 276
+        },
+        {
+          "caller": "renderTable",
+          "callee": "formatValue",
+          "lineNumber": 276
+        },
+        {
+          "caller": "renderDistricts",
+          "callee": "el",
+          "lineNumber": 284
+        },
+        {
+          "caller": "renderDistricts",
+          "callee": "bundle.districts\n    .filter((district) => district.state_key === selectedStateKey)\n    .sort",
+          "lineNumber": 285
+        },
+        {
+          "caller": "renderDistricts",
+          "callee": "bundle.districts\n    .filter",
+          "lineNumber": 285
+        },
+        {
+          "caller": "renderDistricts",
+          "callee": "Number",
+          "lineNumber": 287
+        },
+        {
+          "caller": "renderDistricts",
+          "callee": "Number",
+          "lineNumber": 287
+        },
+        {
+          "caller": "renderDistricts",
+          "callee": "renderTable",
+          "lineNumber": 288
+        },
+        {
+          "caller": "renderDistricts",
+          "callee": "el",
+          "lineNumber": 289
+        },
+        {
+          "caller": "renderParties",
+          "callee": "Number",
+          "lineNumber": 297
+        },
+        {
+          "caller": "renderParties",
+          "callee": "el",
+          "lineNumber": 297
+        },
+        {
+          "caller": "renderParties",
+          "callee": "bundle.state_party_swings\n    .filter((row) => row.state_key === selectedStateKey)\n    .filter((row) => Math.max(Number(row.seats_2019 || 0), Number(row.seats_2024 || 0)) >= minSeats)\n    .sort",
+          "lineNumber": 298
+        },
+        {
+          "caller": "renderParties",
+          "callee": "bundle.state_party_swings\n    .filter((row) => row.state_key === selectedStateKey)\n    .filter",
+          "lineNumber": 298
+        },
+        {
+          "caller": "renderParties",
+          "callee": "bundle.state_party_swings\n    .filter",
+          "lineNumber": 298
+        },
+        {
+          "caller": "renderParties",
+          "callee": "Math.max",
+          "lineNumber": 300
+        },
+        {
+          "caller": "renderParties",
+          "callee": "Number",
+          "lineNumber": 300
+        },
+        {
+          "caller": "renderParties",
+          "callee": "Number",
+          "lineNumber": 300
+        },
+        {
+          "caller": "renderParties",
+          "callee": "Number",
+          "lineNumber": 301
+        },
+        {
+          "caller": "renderParties",
+          "callee": "Number",
+          "lineNumber": 301
+        },
+        {
+          "caller": "renderParties",
+          "callee": "Math.abs",
+          "lineNumber": 301
+        },
+        {
+          "caller": "renderParties",
+          "callee": "Number",
+          "lineNumber": 301
+        },
+        {
+          "caller": "renderParties",
+          "callee": "Math.abs",
+          "lineNumber": 301
+        },
+        {
+          "caller": "renderParties",
+          "callee": "Number",
+          "lineNumber": 301
+        },
+        {
+          "caller": "renderParties",
+          "callee": "renderTable",
+          "lineNumber": 302
+        },
+        {
+          "caller": "renderParties",
+          "callee": "el",
+          "lineNumber": 303
+        },
+        {
+          "caller": "renderConstituencies",
+          "callee": "el",
+          "lineNumber": 311
+        },
+        {
+          "caller": "renderConstituencies",
+          "callee": "bundle.constituencies.filter",
+          "lineNumber": 312
+        },
+        {
+          "caller": "renderConstituencies",
+          "callee": "rows.filter",
+          "lineNumber": 313
+        },
+        {
+          "caller": "renderConstituencies",
+          "callee": "rows.filter",
+          "lineNumber": 314
+        },
+        {
+          "caller": "renderConstituencies",
+          "callee": "Number",
+          "lineNumber": 314
+        },
+        {
+          "caller": "renderConstituencies",
+          "callee": "rows.sort",
+          "lineNumber": 315
+        },
+        {
+          "caller": "renderConstituencies",
+          "callee": "Number",
+          "lineNumber": 315
+        },
+        {
+          "caller": "renderConstituencies",
+          "callee": "Number",
+          "lineNumber": 315
+        },
+        {
+          "caller": "renderConstituencies",
+          "callee": "renderTable",
+          "lineNumber": 316
+        },
+        {
+          "caller": "renderConstituencies",
+          "callee": "el",
+          "lineNumber": 317
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "el",
+          "lineNumber": 332
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "el",
+          "lineNumber": 333
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "mapEl.classList.add",
+          "lineNumber": 335
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "legendEl.classList.add",
+          "lineNumber": 336
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "mapEl.classList.remove",
+          "lineNumber": 342
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "legendEl.classList.remove",
+          "lineNumber": 343
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "selectedState",
+          "lineNumber": 345
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "dhsClusters.filter",
+          "lineNumber": 347
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "String(row.state_or_region || \"\").toLowerCase().includes",
+          "lineNumber": 349
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "String(row.state_or_region || \"\").toLowerCase",
+          "lineNumber": 349
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "String",
+          "lineNumber": 349
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "stateName.split(\" \")[0].toLowerCase",
+          "lineNumber": 349
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "stateName.split",
+          "lineNumber": 349
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "visible.map((p) => Number(p.latitude)).filter",
+          "lineNumber": 353
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "visible.map",
+          "lineNumber": 353
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "Number",
+          "lineNumber": 353
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "visible.map((p) => Number(p.longitude)).filter",
+          "lineNumber": 354
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "visible.map",
+          "lineNumber": 354
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "Number",
+          "lineNumber": 354
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "Math.min",
+          "lineNumber": 355
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "Math.max",
+          "lineNumber": 356
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "Math.min",
+          "lineNumber": 357
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "Math.max",
+          "lineNumber": 358
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "visible\n    .map((cluster) => {\n      const { x, y } = project(Number(cluster.latitude), Number(cluster.longitude));\n      return `<circle cx=\"${x}%\" cy=\"${y}%\" r=\"2.2\" fill=\"${dhsColor(cluster)}\" opacity=\"0.75\" data-cluster=\"${cluster.cluster_id}\"></circle>`;\n    })\n    .join",
+          "lineNumber": 367
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "visible\n    .map",
+          "lineNumber": 367
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "project",
+          "lineNumber": 369
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "Number",
+          "lineNumber": 369
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "Number",
+          "lineNumber": 369
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "dhsColor",
+          "lineNumber": 370
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "legendItems\n    .map(([label, color]) => `\n      <span class=\"dhs-legend-item\">\n        <span class=\"dhs-legend-swatch\" style=\"background:${color}\"></span>\n        ${label}\n      </span>\n    `)\n    .join",
+          "lineNumber": 384
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "legendItems\n    .map",
+          "lineNumber": 384
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "el",
+          "lineNumber": 393
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "mapEl.querySelectorAll(\"circle\").forEach",
+          "lineNumber": 394
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "mapEl.querySelectorAll",
+          "lineNumber": 394
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "node.addEventListener",
+          "lineNumber": 395
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "tooltip.classList.remove",
+          "lineNumber": 397
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "node.addEventListener",
+          "lineNumber": 407
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "mapEl.getBoundingClientRect",
+          "lineNumber": 408
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "node.addEventListener",
+          "lineNumber": 412
+        },
+        {
+          "caller": "renderDhsMap",
+          "callee": "tooltip.classList.add",
+          "lineNumber": 412
+        },
+        {
+          "caller": "render",
+          "callee": "renderLegend",
+          "lineNumber": 417
+        },
+        {
+          "caller": "render",
+          "callee": "renderMap",
+          "lineNumber": 418
+        },
+        {
+          "caller": "render",
+          "callee": "renderStateSummary",
+          "lineNumber": 419
+        },
+        {
+          "caller": "render",
+          "callee": "renderCoverage",
+          "lineNumber": 420
+        },
+        {
+          "caller": "render",
+          "callee": "renderDistricts",
+          "lineNumber": 421
+        },
+        {
+          "caller": "render",
+          "callee": "renderParties",
+          "lineNumber": 422
+        },
+        {
+          "caller": "render",
+          "callee": "renderConstituencies",
+          "lineNumber": 423
+        },
+        {
+          "caller": "render",
+          "callee": "renderDhsMap",
+          "lineNumber": 424
+        },
+        {
+          "caller": "loadDhsClusters",
+          "callee": "fetch",
+          "lineNumber": 429
+        },
+        {
+          "caller": "loadDhsClusters",
+          "callee": "response.text",
+          "lineNumber": 431
+        },
+        {
+          "caller": "loadDhsClusters",
+          "callee": "text.trim().split",
+          "lineNumber": 432
+        },
+        {
+          "caller": "loadDhsClusters",
+          "callee": "text.trim",
+          "lineNumber": 432
+        },
+        {
+          "caller": "loadDhsClusters",
+          "callee": "lines[0].split",
+          "lineNumber": 434
+        },
+        {
+          "caller": "loadDhsClusters",
+          "callee": "lines.slice(1).map",
+          "lineNumber": 435
+        },
+        {
+          "caller": "loadDhsClusters",
+          "callee": "lines.slice",
+          "lineNumber": 435
+        },
+        {
+          "caller": "loadDhsClusters",
+          "callee": "line.split",
+          "lineNumber": 436
+        },
+        {
+          "caller": "loadDhsClusters",
+          "callee": "Object.fromEntries",
+          "lineNumber": 437
+        },
+        {
+          "caller": "loadDhsClusters",
+          "callee": "headers.map",
+          "lineNumber": 437
+        },
+        {
+          "caller": "main",
+          "callee": "fetch",
+          "lineNumber": 445
+        },
+        {
+          "caller": "main",
+          "callee": "response.json",
+          "lineNumber": 446
+        },
+        {
+          "caller": "main",
+          "callee": "loadDhsClusters",
+          "lineNumber": 447
+        },
+        {
+          "caller": "main",
+          "callee": "bundle.states.find",
+          "lineNumber": 448
+        },
+        {
+          "caller": "main",
+          "callee": "initControls",
+          "lineNumber": 449
+        },
+        {
+          "caller": "main",
+          "callee": "render",
+          "lineNumber": 450
+        }
+      ],
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 0,
+        "functionCount": 22,
+        "classCount": 0
+      }
+    }
+  ]
+}

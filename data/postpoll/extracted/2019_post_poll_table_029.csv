@@ -1,0 +1,16 @@
+col_0,col_1,N,(%),Valid (%)
+Valid,01: Local Political Leader,128,.5,4.2
+,02: Husband/wife,941,3.9,30.9
+,03: Other family members,959,4.0,31.5
+,04: Caste/community leaders,60,.2,2.0
+,05: Friends/neighbors,186,.8,6.1
+,06: Co-workers/colleagues,7,.0,.2
+,07: Social media,9,.0,.3
+,08: Internet,4,.0,.1
+,10: TV/TV debates,12,.0,.4
+,96: Others,35,.1,1.2
+,97: Can't say,163,.7,5.3
+,98: No response,539,2.2,17.7
+,Total,3044,12.6,100.0
+Missing,99: N.A.,21191,87.4,
+Total,,24235,100.0,

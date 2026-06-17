@@ -1,0 +1,3 @@
+year,geography_level,state,voter_group_type,voter_group,party_or_alliance,pre_poll_vote_share,post_poll_vote_share,pre_to_post_shift,absolute_shift,shift_direction,pre_source_file,pre_source_page,post_source_file,post_source_page,confidence,notes
+2019,state,Delhi,electorate,all voters,BJP,32.1,33.8,1.7,1.7,increased_post_poll,pre-poll/2019/prepoll_2019_results.pdf,113.0,post-poll/2019/postpoll_results_2019.pdf,21.0,high,
+2019,state,Madhya Pradesh,electorate,all voters,BSP,40.0,0.0,-40.0,40.0,decreased_post_poll,pre-poll/2019/prepoll_2019_results.pdf,94.0,post-poll/2019/postpoll_results_2019.pdf,183.0,high,

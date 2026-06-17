@@ -1,0 +1,1357 @@
+{
+  "schemaVersion": 1,
+  "algorithm": "louvain",
+  "totalFiles": 69,
+  "totalBatches": 7,
+  "exportsByPath": {
+    "src/__init__.py": [],
+    "src/analysis/__init__.py": [],
+    "src/analysis/build_constituency_volatality.py": [
+      "load_data",
+      "build_party_swing_features",
+      "build_volatility_table",
+      "main"
+    ],
+    "src/analysis/build_state_election_demographic_analysis.py": [
+      "normalise_state_name",
+      "load_inputs",
+      "weighted_average",
+      "build_demographic_lookup",
+      "add_alliance_columns",
+      "most_common",
+      "build_state_outcomes",
+      "build_state_party_swings",
+      "add_key_party_swing_columns",
+      "main"
+    ],
+    "src/analysis/compare_2019_2024.py": [
+      "load_results",
+      "add_comparison_key",
+      "build_unmatched_constituencies",
+      "build_winner_comparison",
+      "build_party_swing_table",
+      "build_state_swing_summary",
+      "main"
+    ],
+    "src/analysis/constituency_similarity.py": [
+      "build_similarity",
+      "main"
+    ],
+    "src/analysis/seat_flip_report.py": [
+      "main"
+    ],
+    "src/analysis/state_swing_sensitivity.py": [
+      "main"
+    ],
+    "src/analysis/vote_seat_distortion.py": [
+      "main"
+    ],
+    "src/clean/__init__.py": [],
+    "src/clean/clean_eci_2019.py": [
+      "clean_col",
+      "detect_header_row",
+      "load_excel_file",
+      "remove_junk_rows",
+      "standardize_results",
+      "standardize_party_file",
+      "standardize_summary_file",
+      "main"
+    ],
+    "src/clean/clean_eci.py": [
+      "clean_col",
+      "detect_header_row",
+      "load_excel_file",
+      "remove_junk_rows",
+      "standardize_results",
+      "standardize_party_file",
+      "standardize_summary_file",
+      "main"
+    ],
+    "src/config.py": [],
+    "src/data_io.py": [
+      "load_candidate_results",
+      "load_party_metadata",
+      "load_winners",
+      "load_constituency_features",
+      "_resolve_base",
+      "save_csv",
+      "save_parquet",
+      "save_table",
+      "load_table"
+    ],
+    "src/database/__init__.py": [],
+    "src/database/database_layer.py": [
+      "make_constituency_id",
+      "load_data",
+      "build_results_table",
+      "build_party_table",
+      "build_constituency_table",
+      "build_alliance_table",
+      "build_candidate_table",
+      "main"
+    ],
+    "src/database/query_database.py": [
+      "closest_wins",
+      "most_fragmented",
+      "seats_by_state_and_party",
+      "vulnerable_seats",
+      "alliance_seat_counts",
+      "main"
+    ],
+    "src/demographics/__init__.py": [],
+    "src/demographics/audit_demographic_coverage.py": [
+      "list_raw_files",
+      "raw_roots_for_source",
+      "match_raw_file",
+      "list_processed_files",
+      "processed_column_ready",
+      "audit_variables",
+      "print_summary",
+      "main"
+    ],
+    "src/demographics/audit_dhs_downloads.py": [],
+    "src/demographics/build_constituency_demographics.py": [],
+    "src/demographics/build_demographic_catalog.py": [
+      "ensure_folders",
+      "main"
+    ],
+    "src/demographics/build_state_demographic_master.py": [
+      "main"
+    ],
+    "src/demographics/build_state_demographics_2011.py": [
+      "main"
+    ],
+    "src/demographics/census_manifest.py": [
+      "expected_basename",
+      "find_uploaded_file",
+      "tables_by_priority"
+    ],
+    "src/demographics/clean_census_district_2011.py": [
+      "clean_name",
+      "find_raw_file",
+      "ratio",
+      "load_pca",
+      "build_district_table",
+      "assign_post_2011_state",
+      "aggregate_group",
+      "build_state_from_districts",
+      "update_state_master",
+      "print_validation",
+      "main"
+    ],
+    "src/demographics/clean_census_state_2011.py": [
+      "_raw_search_roots",
+      "find_file",
+      "clean_state_name",
+      "safe_read_excel",
+      "standardize_columns",
+      "_find_column",
+      "_to_numeric",
+      "_warn_missing",
+      "_diagnose_df",
+      "clean_population_file",
+      "clean_religion_file",
+      "_clean_religion_wide_fallback",
+      "clean_pca_age_file",
+      "merge_census_tables",
+      "save_output",
+      "update_state_master",
+      "print_validation",
+      "main"
+    ],
+    "src/demographics/demographic_catalog.py": [],
+    "src/demographics/dhs_filename_parser.py": [
+      "DhsFilenameInfo",
+      "_describe_dhs_phase",
+      "describe_survey",
+      "parse_dhs_filename"
+    ],
+    "src/demographics/dhs/__init__.py": [],
+    "src/demographics/dhs/audit_dhs_downloads.py": [
+      "_list_zip_members",
+      "audit_download",
+      "main"
+    ],
+    "src/demographics/dhs/build_dhs_geospatial_layer.py": [
+      "extract_ge_shapefile",
+      "anonymize_cluster_id",
+      "build_from_shapefile",
+      "export_public",
+      "main"
+    ],
+    "src/demographics/dhs/build_nfhs_district_features.py": [
+      "load_ge_lookup",
+      "attach_district_from_ge",
+      "aggregate_district_frame",
+      "main"
+    ],
+    "src/demographics/dhs/build_nfhs_state_features.py": [
+      "build_survey_features",
+      "add_trends",
+      "print_validation",
+      "main"
+    ],
+    "src/demographics/dhs/extract_dhs_zips.py": [
+      "extract_stata_from_zip",
+      "main"
+    ],
+    "src/demographics/dhs/feature_utils.py": [
+      "load_inventory",
+      "read_metadata",
+      "find_column",
+      "normalize_weight",
+      "clean_state_label",
+      "state_labels_from_meta",
+      "weighted_pct",
+      "weighted_mean",
+      "resolve_dta_path",
+      "compute_tfr",
+      "derive_hh_indicators",
+      "aggregate_hh_features",
+      "aggregate_ir_features",
+      "aggregate_mr_features",
+      "count_persons",
+      "find_district_column",
+      "print_missing_warnings"
+    ],
+    "src/demographics/dhs/filename_parser.py": [],
+    "src/demographics/dhs/inspect_dhs_variables.py": [
+      "inspect_dta",
+      "main"
+    ],
+    "src/demographics/dhs/paths.py": [],
+    "src/demographics/merge_nfhs.py": [
+      "main"
+    ],
+    "src/demographics/national_demographics.py": [],
+    "src/features/__init__.py": [],
+    "src/features/build_constituency_features.py": [
+      "build_features"
+    ],
+    "src/features/build_constituency_top2.py": [
+      "build_top2"
+    ],
+    "src/features/build_winners_table.py": [
+      "build_winners"
+    ],
+    "src/metadata/__init__.py": [],
+    "src/metadata/build_party_alliances.py": [
+      "load_party_master",
+      "build_party_alliance_table",
+      "main"
+    ],
+    "src/metadata/build_party_metadata.py": [
+      "build_party_counts",
+      "build_party_metadata",
+      "main"
+    ],
+    "src/normalisation/__init__.py": [],
+    "src/normalisation/normalise_candidates.py": [
+      "clean_text",
+      "slugify",
+      "build_candidate_election_id",
+      "main"
+    ],
+    "src/normalisation/normalise_parties.py": [
+      "clean_text",
+      "slugify",
+      "normalise_party",
+      "main"
+    ],
+    "src/simulation/__init__.py": [],
+    "src/simulation/election_simulator_v1.py": [
+      "load_state_party_swings",
+      "apply_zero_sum_swing",
+      "load_data",
+      "add_alliances",
+      "simulate",
+      "build_actual_winners",
+      "build_flip_report",
+      "build_national_projection",
+      "build_state_projection",
+      "build_battlegrounds",
+      "save_outputs",
+      "main"
+    ],
+    "src/simulation/simple_swing_simulator.py": [
+      "main"
+    ],
+    "src/simulation/state_swing_simulator.py": [
+      "main"
+    ],
+    "src/simulation/zero_sum_state_swing_simulator.py": [
+      "apply_zero_sum_swing",
+      "main"
+    ],
+    "src/utils/__init__.py": [],
+    "src/utils/election_metrics.py": [
+      "effective_number_of_parties",
+      "calculate_vote_share",
+      "calculate_top2_margin",
+      "calculate_seat_counts",
+      "calculate_vote_seat_distortion"
+    ],
+    "src/utils/validation.py": [
+      "check_expected_winners",
+      "check_required_columns",
+      "check_no_duplicate_winners",
+      "check_vote_share_bounds",
+      "print_basic_dataset_summary"
+    ],
+    "src/visualization/build_visualizer_data.py": [
+      "clean_json_value",
+      "records",
+      "name_key",
+      "canonical_state_for_district",
+      "add_state_grid",
+      "build_field_catalog",
+      "main"
+    ],
+    "visualizer/app.js": []
+  },
+  "batches": [
+    {
+      "batchIndex": 1,
+      "files": [
+        {
+          "path": "src/analysis/seat_flip_report.py",
+          "language": "python",
+          "sizeLines": 93,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/analysis/state_swing_sensitivity.py",
+          "language": "python",
+          "sizeLines": 89,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/clean/clean_eci.py",
+          "language": "python",
+          "sizeLines": 262,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/clean/clean_eci_2019.py",
+          "language": "python",
+          "sizeLines": 249,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/config.py",
+          "language": "python",
+          "sizeLines": 103,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/data_io.py",
+          "language": "python",
+          "sizeLines": 134,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/database/database_layer.py",
+          "language": "python",
+          "sizeLines": 162,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/database/query_database.py",
+          "language": "python",
+          "sizeLines": 87,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/build_state_demographics_2011.py",
+          "language": "python",
+          "sizeLines": 86,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/census_manifest.py",
+          "language": "python",
+          "sizeLines": 115,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/metadata/build_party_alliances.py",
+          "language": "python",
+          "sizeLines": 138,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/metadata/build_party_metadata.py",
+          "language": "python",
+          "sizeLines": 145,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/normalisation/normalise_candidates.py",
+          "language": "python",
+          "sizeLines": 121,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/normalisation/normalise_parties.py",
+          "language": "python",
+          "sizeLines": 125,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/simulation/simple_swing_simulator.py",
+          "language": "python",
+          "sizeLines": 61,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/simulation/state_swing_simulator.py",
+          "language": "python",
+          "sizeLines": 67,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/simulation/zero_sum_state_swing_simulator.py",
+          "language": "python",
+          "sizeLines": 93,
+          "fileCategory": "code"
+        }
+      ],
+      "batchImportData": {
+        "src/analysis/seat_flip_report.py": [
+          "src/config.py",
+          "src/data_io.py"
+        ],
+        "src/analysis/state_swing_sensitivity.py": [
+          "src/config.py",
+          "src/data_io.py"
+        ],
+        "src/clean/clean_eci.py": [
+          "src/config.py",
+          "src/data_io.py"
+        ],
+        "src/clean/clean_eci_2019.py": [
+          "src/config.py",
+          "src/data_io.py"
+        ],
+        "src/config.py": [],
+        "src/data_io.py": [
+          "src/config.py"
+        ],
+        "src/database/database_layer.py": [
+          "src/config.py",
+          "src/data_io.py"
+        ],
+        "src/database/query_database.py": [
+          "src/config.py",
+          "src/data_io.py"
+        ],
+        "src/demographics/build_state_demographics_2011.py": [
+          "src/config.py",
+          "src/demographics/census_manifest.py"
+        ],
+        "src/demographics/census_manifest.py": [],
+        "src/metadata/build_party_alliances.py": [
+          "src/config.py"
+        ],
+        "src/metadata/build_party_metadata.py": [
+          "src/config.py",
+          "src/data_io.py"
+        ],
+        "src/normalisation/normalise_candidates.py": [
+          "src/config.py"
+        ],
+        "src/normalisation/normalise_parties.py": [
+          "src/config.py"
+        ],
+        "src/simulation/simple_swing_simulator.py": [
+          "src/data_io.py"
+        ],
+        "src/simulation/state_swing_simulator.py": [
+          "src/config.py",
+          "src/data_io.py"
+        ],
+        "src/simulation/zero_sum_state_swing_simulator.py": [
+          "src/data_io.py"
+        ]
+      },
+      "neighborMap": {
+        "src/config.py": [
+          {
+            "path": "src/demographics/audit_demographic_coverage.py",
+            "batchIndex": 3,
+            "symbols": [
+              "list_raw_files",
+              "raw_roots_for_source",
+              "match_raw_file",
+              "list_processed_files",
+              "processed_column_ready",
+              "audit_variables",
+              "print_summary",
+              "main"
+            ]
+          },
+          {
+            "path": "src/demographics/build_demographic_catalog.py",
+            "batchIndex": 3,
+            "symbols": [
+              "ensure_folders",
+              "main"
+            ]
+          },
+          {
+            "path": "src/demographics/build_state_demographic_master.py",
+            "batchIndex": 3,
+            "symbols": [
+              "main"
+            ]
+          },
+          {
+            "path": "src/demographics/clean_census_district_2011.py",
+            "batchIndex": 3,
+            "symbols": [
+              "clean_name",
+              "find_raw_file",
+              "ratio",
+              "load_pca",
+              "build_district_table",
+              "assign_post_2011_state",
+              "aggregate_group",
+              "build_state_from_districts",
+              "update_state_master",
+              "print_validation",
+              "main"
+            ]
+          },
+          {
+            "path": "src/demographics/clean_census_state_2011.py",
+            "batchIndex": 3,
+            "symbols": [
+              "_raw_search_roots",
+              "find_file",
+              "clean_state_name",
+              "safe_read_excel",
+              "standardize_columns",
+              "_find_column",
+              "_to_numeric",
+              "_warn_missing",
+              "_diagnose_df",
+              "clean_population_file",
+              "clean_religion_file",
+              "_clean_religion_wide_fallback",
+              "clean_pca_age_file",
+              "merge_census_tables",
+              "save_output",
+              "update_state_master",
+              "print_validation",
+              "main"
+            ]
+          },
+          {
+            "path": "src/demographics/dhs/audit_dhs_downloads.py",
+            "batchIndex": 5,
+            "symbols": [
+              "_list_zip_members",
+              "audit_download",
+              "main"
+            ]
+          },
+          {
+            "path": "src/demographics/dhs/build_dhs_geospatial_layer.py",
+            "batchIndex": 5,
+            "symbols": [
+              "extract_ge_shapefile",
+              "anonymize_cluster_id",
+              "build_from_shapefile",
+              "export_public",
+              "main"
+            ]
+          },
+          {
+            "path": "src/demographics/dhs/build_nfhs_district_features.py",
+            "batchIndex": 4,
+            "symbols": [
+              "load_ge_lookup",
+              "attach_district_from_ge",
+              "aggregate_district_frame",
+              "main"
+            ]
+          },
+          {
+            "path": "src/demographics/dhs/build_nfhs_state_features.py",
+            "batchIndex": 4,
+            "symbols": [
+              "build_survey_features",
+              "add_trends",
+              "print_validation",
+              "main"
+            ]
+          },
+          {
+            "path": "src/demographics/dhs/extract_dhs_zips.py",
+            "batchIndex": 4,
+            "symbols": [
+              "extract_stata_from_zip",
+              "main"
+            ]
+          },
+          {
+            "path": "src/demographics/dhs/inspect_dhs_variables.py",
+            "batchIndex": 4,
+            "symbols": [
+              "inspect_dta",
+              "main"
+            ]
+          },
+          {
+            "path": "src/demographics/dhs/paths.py",
+            "batchIndex": 4,
+            "symbols": []
+          },
+          {
+            "path": "src/demographics/merge_nfhs.py",
+            "batchIndex": 3,
+            "symbols": [
+              "main"
+            ]
+          },
+          {
+            "path": "src/features/build_constituency_features.py",
+            "batchIndex": 2,
+            "symbols": [
+              "build_features"
+            ]
+          },
+          {
+            "path": "src/features/build_winners_table.py",
+            "batchIndex": 2,
+            "symbols": [
+              "build_winners"
+            ]
+          }
+        ],
+        "src/data_io.py": [
+          {
+            "path": "src/analysis/constituency_similarity.py",
+            "batchIndex": 2,
+            "symbols": [
+              "build_similarity",
+              "main"
+            ]
+          },
+          {
+            "path": "src/analysis/vote_seat_distortion.py",
+            "batchIndex": 2,
+            "symbols": [
+              "main"
+            ]
+          },
+          {
+            "path": "src/features/build_constituency_features.py",
+            "batchIndex": 2,
+            "symbols": [
+              "build_features"
+            ]
+          },
+          {
+            "path": "src/features/build_constituency_top2.py",
+            "batchIndex": 2,
+            "symbols": [
+              "build_top2"
+            ]
+          },
+          {
+            "path": "src/features/build_winners_table.py",
+            "batchIndex": 2,
+            "symbols": [
+              "build_winners"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batchIndex": 2,
+      "files": [
+        {
+          "path": "src/analysis/constituency_similarity.py",
+          "language": "python",
+          "sizeLines": 104,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/analysis/vote_seat_distortion.py",
+          "language": "python",
+          "sizeLines": 60,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/features/build_constituency_features.py",
+          "language": "python",
+          "sizeLines": 84,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/features/build_constituency_top2.py",
+          "language": "python",
+          "sizeLines": 44,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/features/build_winners_table.py",
+          "language": "python",
+          "sizeLines": 72,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/utils/election_metrics.py",
+          "language": "python",
+          "sizeLines": 107,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/utils/validation.py",
+          "language": "python",
+          "sizeLines": 64,
+          "fileCategory": "code"
+        }
+      ],
+      "batchImportData": {
+        "src/analysis/constituency_similarity.py": [
+          "src/data_io.py",
+          "src/utils/validation.py"
+        ],
+        "src/analysis/vote_seat_distortion.py": [
+          "src/data_io.py",
+          "src/utils/election_metrics.py"
+        ],
+        "src/features/build_constituency_features.py": [
+          "src/config.py",
+          "src/data_io.py",
+          "src/utils/election_metrics.py",
+          "src/utils/validation.py"
+        ],
+        "src/features/build_constituency_top2.py": [
+          "src/data_io.py",
+          "src/utils/validation.py"
+        ],
+        "src/features/build_winners_table.py": [
+          "src/config.py",
+          "src/data_io.py",
+          "src/utils/validation.py"
+        ],
+        "src/utils/election_metrics.py": [],
+        "src/utils/validation.py": []
+      },
+      "neighborMap": {
+        "src/analysis/constituency_similarity.py": [
+          {
+            "path": "src/data_io.py",
+            "batchIndex": 1,
+            "symbols": [
+              "load_candidate_results",
+              "load_party_metadata",
+              "load_winners",
+              "load_constituency_features",
+              "_resolve_base",
+              "save_csv",
+              "save_parquet",
+              "save_table",
+              "load_table"
+            ]
+          }
+        ],
+        "src/analysis/vote_seat_distortion.py": [
+          {
+            "path": "src/data_io.py",
+            "batchIndex": 1,
+            "symbols": [
+              "load_candidate_results",
+              "load_party_metadata",
+              "load_winners",
+              "load_constituency_features",
+              "_resolve_base",
+              "save_csv",
+              "save_parquet",
+              "save_table",
+              "load_table"
+            ]
+          }
+        ],
+        "src/features/build_constituency_features.py": [
+          {
+            "path": "src/config.py",
+            "batchIndex": 1,
+            "symbols": []
+          },
+          {
+            "path": "src/data_io.py",
+            "batchIndex": 1,
+            "symbols": [
+              "load_candidate_results",
+              "load_party_metadata",
+              "load_winners",
+              "load_constituency_features",
+              "_resolve_base",
+              "save_csv",
+              "save_parquet",
+              "save_table",
+              "load_table"
+            ]
+          }
+        ],
+        "src/features/build_constituency_top2.py": [
+          {
+            "path": "src/data_io.py",
+            "batchIndex": 1,
+            "symbols": [
+              "load_candidate_results",
+              "load_party_metadata",
+              "load_winners",
+              "load_constituency_features",
+              "_resolve_base",
+              "save_csv",
+              "save_parquet",
+              "save_table",
+              "load_table"
+            ]
+          }
+        ],
+        "src/features/build_winners_table.py": [
+          {
+            "path": "src/config.py",
+            "batchIndex": 1,
+            "symbols": []
+          },
+          {
+            "path": "src/data_io.py",
+            "batchIndex": 1,
+            "symbols": [
+              "load_candidate_results",
+              "load_party_metadata",
+              "load_winners",
+              "load_constituency_features",
+              "_resolve_base",
+              "save_csv",
+              "save_parquet",
+              "save_table",
+              "load_table"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batchIndex": 3,
+      "files": [
+        {
+          "path": "src/demographics/audit_demographic_coverage.py",
+          "language": "python",
+          "sizeLines": 230,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/build_demographic_catalog.py",
+          "language": "python",
+          "sizeLines": 62,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/build_state_demographic_master.py",
+          "language": "python",
+          "sizeLines": 47,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/clean_census_district_2011.py",
+          "language": "python",
+          "sizeLines": 354,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/clean_census_state_2011.py",
+          "language": "python",
+          "sizeLines": 591,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/demographic_catalog.py",
+          "language": "python",
+          "sizeLines": 481,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/merge_nfhs.py",
+          "language": "python",
+          "sizeLines": 66,
+          "fileCategory": "code"
+        }
+      ],
+      "batchImportData": {
+        "src/demographics/audit_demographic_coverage.py": [
+          "src/config.py",
+          "src/demographics/demographic_catalog.py"
+        ],
+        "src/demographics/build_demographic_catalog.py": [
+          "src/config.py",
+          "src/demographics/demographic_catalog.py"
+        ],
+        "src/demographics/build_state_demographic_master.py": [
+          "src/config.py",
+          "src/demographics/demographic_catalog.py"
+        ],
+        "src/demographics/clean_census_district_2011.py": [
+          "src/config.py",
+          "src/demographics/demographic_catalog.py"
+        ],
+        "src/demographics/clean_census_state_2011.py": [
+          "src/config.py",
+          "src/demographics/demographic_catalog.py"
+        ],
+        "src/demographics/demographic_catalog.py": [],
+        "src/demographics/merge_nfhs.py": [
+          "src/config.py",
+          "src/demographics/audit_demographic_coverage.py",
+          "src/demographics/demographic_catalog.py"
+        ]
+      },
+      "neighborMap": {
+        "src/demographics/audit_demographic_coverage.py": [
+          {
+            "path": "src/config.py",
+            "batchIndex": 1,
+            "symbols": []
+          }
+        ],
+        "src/demographics/build_demographic_catalog.py": [
+          {
+            "path": "src/config.py",
+            "batchIndex": 1,
+            "symbols": []
+          }
+        ],
+        "src/demographics/build_state_demographic_master.py": [
+          {
+            "path": "src/config.py",
+            "batchIndex": 1,
+            "symbols": []
+          }
+        ],
+        "src/demographics/clean_census_district_2011.py": [
+          {
+            "path": "src/config.py",
+            "batchIndex": 1,
+            "symbols": []
+          }
+        ],
+        "src/demographics/clean_census_state_2011.py": [
+          {
+            "path": "src/config.py",
+            "batchIndex": 1,
+            "symbols": []
+          }
+        ],
+        "src/demographics/merge_nfhs.py": [
+          {
+            "path": "src/config.py",
+            "batchIndex": 1,
+            "symbols": []
+          }
+        ]
+      }
+    },
+    {
+      "batchIndex": 4,
+      "files": [
+        {
+          "path": "src/demographics/dhs/build_nfhs_district_features.py",
+          "language": "python",
+          "sizeLines": 210,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/dhs/build_nfhs_state_features.py",
+          "language": "python",
+          "sizeLines": 150,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/dhs/extract_dhs_zips.py",
+          "language": "python",
+          "sizeLines": 58,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/dhs/feature_utils.py",
+          "language": "python",
+          "sizeLines": 449,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/dhs/inspect_dhs_variables.py",
+          "language": "python",
+          "sizeLines": 62,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/dhs/paths.py",
+          "language": "python",
+          "sizeLines": 80,
+          "fileCategory": "code"
+        }
+      ],
+      "batchImportData": {
+        "src/demographics/dhs/build_nfhs_district_features.py": [
+          "src/config.py",
+          "src/demographics/dhs/feature_utils.py",
+          "src/demographics/dhs/paths.py"
+        ],
+        "src/demographics/dhs/build_nfhs_state_features.py": [
+          "src/config.py",
+          "src/demographics/dhs/feature_utils.py",
+          "src/demographics/dhs/paths.py"
+        ],
+        "src/demographics/dhs/extract_dhs_zips.py": [
+          "src/config.py",
+          "src/demographics/dhs/feature_utils.py"
+        ],
+        "src/demographics/dhs/feature_utils.py": [
+          "src/demographics/dhs/paths.py"
+        ],
+        "src/demographics/dhs/inspect_dhs_variables.py": [
+          "src/config.py",
+          "src/demographics/dhs/paths.py"
+        ],
+        "src/demographics/dhs/paths.py": [
+          "src/config.py"
+        ]
+      },
+      "neighborMap": {
+        "src/demographics/dhs/build_nfhs_district_features.py": [
+          {
+            "path": "src/config.py",
+            "batchIndex": 1,
+            "symbols": []
+          }
+        ],
+        "src/demographics/dhs/build_nfhs_state_features.py": [
+          {
+            "path": "src/config.py",
+            "batchIndex": 1,
+            "symbols": []
+          }
+        ],
+        "src/demographics/dhs/extract_dhs_zips.py": [
+          {
+            "path": "src/config.py",
+            "batchIndex": 1,
+            "symbols": []
+          }
+        ],
+        "src/demographics/dhs/inspect_dhs_variables.py": [
+          {
+            "path": "src/config.py",
+            "batchIndex": 1,
+            "symbols": []
+          }
+        ],
+        "src/demographics/dhs/paths.py": [
+          {
+            "path": "src/config.py",
+            "batchIndex": 1,
+            "symbols": []
+          },
+          {
+            "path": "src/demographics/dhs/build_dhs_geospatial_layer.py",
+            "batchIndex": 5,
+            "symbols": [
+              "extract_ge_shapefile",
+              "anonymize_cluster_id",
+              "build_from_shapefile",
+              "export_public",
+              "main"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "batchIndex": 5,
+      "files": [
+        {
+          "path": "src/demographics/audit_dhs_downloads.py",
+          "language": "python",
+          "sizeLines": 6,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/dhs/audit_dhs_downloads.py",
+          "language": "python",
+          "sizeLines": 95,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/dhs/build_dhs_geospatial_layer.py",
+          "language": "python",
+          "sizeLines": 142,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/dhs/filename_parser.py",
+          "language": "python",
+          "sizeLines": 11,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/dhs_filename_parser.py",
+          "language": "python",
+          "sizeLines": 185,
+          "fileCategory": "code"
+        }
+      ],
+      "batchImportData": {
+        "src/demographics/audit_dhs_downloads.py": [
+          "src/demographics/dhs/audit_dhs_downloads.py"
+        ],
+        "src/demographics/dhs/audit_dhs_downloads.py": [
+          "src/config.py",
+          "src/demographics/dhs/filename_parser.py"
+        ],
+        "src/demographics/dhs/build_dhs_geospatial_layer.py": [
+          "src/config.py",
+          "src/demographics/dhs/filename_parser.py",
+          "src/demographics/dhs/paths.py"
+        ],
+        "src/demographics/dhs/filename_parser.py": [
+          "src/demographics/dhs_filename_parser.py"
+        ],
+        "src/demographics/dhs_filename_parser.py": []
+      },
+      "neighborMap": {
+        "src/demographics/dhs/audit_dhs_downloads.py": [
+          {
+            "path": "src/config.py",
+            "batchIndex": 1,
+            "symbols": []
+          }
+        ],
+        "src/demographics/dhs/build_dhs_geospatial_layer.py": [
+          {
+            "path": "src/config.py",
+            "batchIndex": 1,
+            "symbols": []
+          },
+          {
+            "path": "src/demographics/dhs/paths.py",
+            "batchIndex": 4,
+            "symbols": []
+          }
+        ]
+      }
+    },
+    {
+      "batchIndex": 6,
+      "files": [
+        {
+          "path": "visualizer/README.md",
+          "language": "markdown",
+          "sizeLines": 59,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "visualizer/index.html",
+          "language": "html",
+          "sizeLines": 136,
+          "fileCategory": "markup"
+        },
+        {
+          "path": "visualizer/styles.css",
+          "language": "css",
+          "sizeLines": 413,
+          "fileCategory": "markup"
+        }
+      ],
+      "batchImportData": {
+        "visualizer/README.md": [],
+        "visualizer/index.html": [],
+        "visualizer/styles.css": []
+      },
+      "neighborMap": {}
+    },
+    {
+      "batchIndex": 7,
+      "files": [
+        {
+          "path": "docs/PROJECT_GUIDE.md",
+          "language": "markdown",
+          "sizeLines": 219,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "README.md",
+          "language": "markdown",
+          "sizeLines": 299,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "requirements.txt",
+          "language": "txt",
+          "sizeLines": 11,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "src/__init__.py",
+          "language": "python",
+          "sizeLines": 0,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/analysis/__init__.py",
+          "language": "python",
+          "sizeLines": 0,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/analysis/build_constituency_volatality.py",
+          "language": "python",
+          "sizeLines": 136,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/analysis/build_state_election_demographic_analysis.py",
+          "language": "python",
+          "sizeLines": 354,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/analysis/compare_2019_2024.py",
+          "language": "python",
+          "sizeLines": 431,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/clean/__init__.py",
+          "language": "python",
+          "sizeLines": 0,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/database/__init__.py",
+          "language": "python",
+          "sizeLines": 0,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/__init__.py",
+          "language": "python",
+          "sizeLines": 0,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/build_constituency_demographics.py",
+          "language": "python",
+          "sizeLines": 0,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/dhs/__init__.py",
+          "language": "python",
+          "sizeLines": 1,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/dhs/README.md",
+          "language": "markdown",
+          "sizeLines": 49,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "src/demographics/national_demographics.py",
+          "language": "python",
+          "sizeLines": 0,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/demographics/README.md",
+          "language": "markdown",
+          "sizeLines": 127,
+          "fileCategory": "docs"
+        },
+        {
+          "path": "src/features/__init__.py",
+          "language": "python",
+          "sizeLines": 0,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/metadata/__init__.py",
+          "language": "python",
+          "sizeLines": 0,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/normalisation/__init__.py",
+          "language": "python",
+          "sizeLines": 0,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/simulation/__init__.py",
+          "language": "python",
+          "sizeLines": 0,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/simulation/election_simulator_v1.py",
+          "language": "python",
+          "sizeLines": 346,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/utils/__init__.py",
+          "language": "python",
+          "sizeLines": 0,
+          "fileCategory": "code"
+        },
+        {
+          "path": "src/visualization/build_visualizer_data.py",
+          "language": "python",
+          "sizeLines": 320,
+          "fileCategory": "code"
+        },
+        {
+          "path": "visualizer/app.js",
+          "language": "javascript",
+          "sizeLines": 455,
+          "fileCategory": "code"
+        }
+      ],
+      "batchImportData": {
+        "docs/PROJECT_GUIDE.md": [],
+        "README.md": [],
+        "requirements.txt": [],
+        "src/__init__.py": [],
+        "src/analysis/__init__.py": [],
+        "src/analysis/build_constituency_volatality.py": [],
+        "src/analysis/build_state_election_demographic_analysis.py": [],
+        "src/analysis/compare_2019_2024.py": [],
+        "src/clean/__init__.py": [],
+        "src/database/__init__.py": [],
+        "src/demographics/__init__.py": [],
+        "src/demographics/build_constituency_demographics.py": [],
+        "src/demographics/dhs/__init__.py": [],
+        "src/demographics/dhs/README.md": [],
+        "src/demographics/national_demographics.py": [],
+        "src/demographics/README.md": [],
+        "src/features/__init__.py": [],
+        "src/metadata/__init__.py": [],
+        "src/normalisation/__init__.py": [],
+        "src/simulation/__init__.py": [],
+        "src/simulation/election_simulator_v1.py": [],
+        "src/utils/__init__.py": [],
+        "src/visualization/build_visualizer_data.py": [],
+        "visualizer/app.js": []
+      },
+      "neighborMap": {}
+    }
+  ]
+}

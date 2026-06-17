@@ -1,0 +1,441 @@
+state,nfhs4_state_raw,sdist_code,district_code_nfhs4,census_district,district_resolved,nfhs5_state,mapping_method,match_cost,confidence,state_key,district_key_resolved
+Andhra Pradesh,Andhra Pradesh,1,1,ADILABAD,Adilabad,Andhra Pradesh,census_rank,,medium,ANDHRA PRADESH,ADILABAD
+Andhra Pradesh,Andhra Pradesh,2,2,NIZAMABAD,Nizamabad,Andhra Pradesh,census_rank,,medium,ANDHRA PRADESH,NIZAMABAD
+Andhra Pradesh,Andhra Pradesh,3,3,KARIMNAGAR,Karimnagar,Andhra Pradesh,census_rank,,medium,ANDHRA PRADESH,KARIMNAGAR
+Andhra Pradesh,Andhra Pradesh,4,4,MEDAK,Medak,Andhra Pradesh,census_rank,,medium,ANDHRA PRADESH,MEDAK
+Andhra Pradesh,Andhra Pradesh,5,5,HYDERABAD,Hyderabad,Andhra Pradesh,census_rank,,medium,ANDHRA PRADESH,HYDERABAD
+Andhra Pradesh,Andhra Pradesh,6,6,RANGAREDDY,Rangareddy,Andhra Pradesh,census_rank,,medium,ANDHRA PRADESH,RANGAREDDY
+Andhra Pradesh,Andhra Pradesh,7,7,MAHBUBNAGAR,Mahbubnagar,Andhra Pradesh,census_rank,,medium,ANDHRA PRADESH,MAHBUBNAGAR
+Andhra Pradesh,Andhra Pradesh,8,8,NALGONDA,Nalgonda,Andhra Pradesh,census_rank,,medium,ANDHRA PRADESH,NALGONDA
+Andhra Pradesh,Andhra Pradesh,9,9,WARANGAL,Warangal,Andhra Pradesh,census_rank,,medium,ANDHRA PRADESH,WARANGAL
+Andhra Pradesh,Andhra Pradesh,10,10,KHAMMAM,Khammam,Andhra Pradesh,census_rank,,medium,ANDHRA PRADESH,KHAMMAM
+Andhra Pradesh,Andhra Pradesh,11,11,SRIKAKULAM,Srikakulam,Andhra Pradesh,census_rank_nfhs5,16.2723742344999,medium,ANDHRA PRADESH,SRIKAKULAM
+Andhra Pradesh,Andhra Pradesh,12,12,VIZIANAGARAM,Vizianagaram,Andhra Pradesh,census_rank_nfhs5,27.73090654651953,medium,ANDHRA PRADESH,VIZIANAGARAM
+Andhra Pradesh,Andhra Pradesh,13,13,VISAKHAPATNAM,Visakhapatnam,Andhra Pradesh,census_rank_nfhs5,26.415305459777265,medium,ANDHRA PRADESH,VISAKHAPATNAM
+Andhra Pradesh,Andhra Pradesh,14,14,EAST GODAVARI,East Godavari,Andhra Pradesh,census_rank_nfhs5,25.047312260008557,medium,ANDHRA PRADESH,EAST GODAVARI
+Andhra Pradesh,Andhra Pradesh,15,15,WEST GODAVARI,West Godavari,Andhra Pradesh,census_rank_nfhs5,18.560650463427375,medium,ANDHRA PRADESH,WEST GODAVARI
+Andhra Pradesh,Andhra Pradesh,16,16,KRISHNA,Krishna,Andhra Pradesh,census_rank_nfhs5,36.64174233288186,medium,ANDHRA PRADESH,KRISHNA
+Andhra Pradesh,Andhra Pradesh,17,17,GUNTUR,Guntur,Andhra Pradesh,census_rank_nfhs5,21.498553049569548,medium,ANDHRA PRADESH,GUNTUR
+Andhra Pradesh,Andhra Pradesh,18,18,PRAKASAM,Prakasam,Andhra Pradesh,census_rank_nfhs5,20.348780635509005,medium,ANDHRA PRADESH,PRAKASAM
+Andhra Pradesh,Andhra Pradesh,19,19,SRI POTTI SRIRAMULU NELLORE,Sri Potti Sriramulu Nellore,Andhra Pradesh,census_rank_nfhs5,27.622970285041482,medium,ANDHRA PRADESH,SRI POTTI SRIRAMULU NELLORE
+Andhra Pradesh,Andhra Pradesh,20,20,Y.S.R.,Y.S.R.,Andhra Pradesh,census_rank_nfhs5,25.802334605925342,medium,ANDHRA PRADESH,Y S R
+Andhra Pradesh,Andhra Pradesh,21,21,KURNOOL,Kurnool,Andhra Pradesh,census_rank_nfhs5,20.011819942639995,medium,ANDHRA PRADESH,KURNOOL
+Andhra Pradesh,Andhra Pradesh,22,22,ANANTAPUR,Anantapur,Andhra Pradesh,census_rank_nfhs5,25.398595866501296,medium,ANDHRA PRADESH,ANANTAPUR
+Andhra Pradesh,Andhra Pradesh,23,23,CHITTOOR,Chittoor,Andhra Pradesh,census_rank_nfhs5,20.492413850498036,medium,ANDHRA PRADESH,CHITTOOR
+Arunachalpradesh,Arunachalpradesh,1,1,TAWANG,Tawang,Arunachal Pradesh,census_rank_nfhs5,29.477097698859403,medium,ARUNACHALPRADESH,TAWANG
+Arunachalpradesh,Arunachalpradesh,2,2,WEST KAMENG,West Kameng,Arunachal Pradesh,census_rank_nfhs5,17.59166122318543,medium,ARUNACHALPRADESH,WEST KAMENG
+Arunachalpradesh,Arunachalpradesh,3,3,EAST KAMENG,East Kameng,Arunachal Pradesh,census_rank_nfhs5,24.45873020539434,medium,ARUNACHALPRADESH,EAST KAMENG
+Arunachalpradesh,Arunachalpradesh,4,4,PAPUM PARE,Papumpare,Arunachal Pradesh,census_rank_fuzzy_nfhs5,,medium,ARUNACHALPRADESH,PAPUMPARE
+Arunachalpradesh,Arunachalpradesh,5,5,UPPER SUBANSIRI,Upper Subansiri,Arunachal Pradesh,census_rank_nfhs5,23.629476775494346,medium,ARUNACHALPRADESH,UPPER SUBANSIRI
+Arunachalpradesh,Arunachalpradesh,6,6,WEST SIANG,West Siang,Arunachal Pradesh,census_rank_nfhs5,32.436580403077166,medium,ARUNACHALPRADESH,WEST SIANG
+Arunachalpradesh,Arunachalpradesh,7,7,EAST SIANG,East Siang,Arunachal Pradesh,census_rank_nfhs5,20.588508285118657,medium,ARUNACHALPRADESH,EAST SIANG
+Arunachalpradesh,Arunachalpradesh,8,8,UPPER SIANG,Upper Siang,Arunachal Pradesh,census_rank_nfhs5,13.966361884286508,high,ARUNACHALPRADESH,UPPER SIANG
+Arunachalpradesh,Arunachalpradesh,9,9,CHANGLANG,Changlang,Arunachal Pradesh,census_rank_nfhs5,17.797712778619715,medium,ARUNACHALPRADESH,CHANGLANG
+Arunachalpradesh,Arunachalpradesh,10,10,TIRAP,Tirap,Arunachal Pradesh,census_rank_nfhs5,23.415639671588906,medium,ARUNACHALPRADESH,TIRAP
+Arunachalpradesh,Arunachalpradesh,11,11,LOWER SUBANSIRI,Lower Subansiri,Arunachal Pradesh,census_rank_nfhs5,35.219610377295076,medium,ARUNACHALPRADESH,LOWER SUBANSIRI
+Assam,Assam,1,1,KOKRAJHAR,Kokrajhar,Assam,census_rank,,medium,ASSAM,KOKRAJHAR
+Assam,Assam,3,3,GOALPARA,Goalpara,Assam,census_rank,,medium,ASSAM,GOALPARA
+Assam,Assam,4,4,BARPETA,Barpeta,Assam,census_rank,,medium,ASSAM,BARPETA
+Assam,Assam,5,5,MORIGAON,Morigaon,Assam,census_rank,,medium,ASSAM,MORIGAON
+Assam,Assam,6,6,NAGAON,Nagaon,Assam,census_rank,,medium,ASSAM,NAGAON
+Assam,Assam,7,7,SONITPUR,Sonitpur,Assam,census_rank,,medium,ASSAM,SONITPUR
+Assam,Assam,8,8,LAKHIMPUR,Lakhimpur,Assam,census_rank,,medium,ASSAM,LAKHIMPUR
+Assam,Assam,9,9,DHEMAJI,Dhemaji,Assam,census_rank,,medium,ASSAM,DHEMAJI
+Assam,Assam,10,10,TINSUKIA,Tinsukia,Assam,census_rank,,medium,ASSAM,TINSUKIA
+Assam,Assam,11,11,DIBRUGARH,Dibrugarh,Assam,census_rank,,medium,ASSAM,DIBRUGARH
+Assam,Assam,12,12,SIVASAGAR,Sivasagar,Assam,census_rank,,medium,ASSAM,SIVASAGAR
+Assam,Assam,13,13,JORHAT,Jorhat,Assam,census_rank,,medium,ASSAM,JORHAT
+Assam,Assam,14,14,GOLAGHAT,Golaghat,Assam,census_rank,,medium,ASSAM,GOLAGHAT
+Assam,Assam,15,15,KARBI ANGLONG,Karbi Anglong,Assam,census_rank,,medium,ASSAM,KARBI ANGLONG
+Assam,Assam,16,16,DIMA HASAO,Dima Hasao,Assam,census_rank,,medium,ASSAM,DIMA HASAO
+Assam,Assam,17,17,CACHAR,Cachar,Assam,census_rank,,medium,ASSAM,CACHAR
+Assam,Assam,18,18,KARIMGANJ,Karimganj,Assam,census_rank,,medium,ASSAM,KARIMGANJ
+Assam,Assam,19,19,HAILAKANDI,Hailakandi,Assam,census_rank,,medium,ASSAM,HAILAKANDI
+Assam,Assam,21,21,CHIRANG,Chirang,Assam,census_rank,,medium,ASSAM,CHIRANG
+Assam,Assam,23,23,KAMRUP METROPOLITAN,Kamrup Metropolitan,Assam,census_rank,,medium,ASSAM,KAMRUP METROPOLITAN
+Bihar,Bihar,1,1,PASHCHIM CHAMPARAN,Pashchim Champaran,Bihar,census_rank_nfhs5,19.225850311288447,medium,BIHAR,PASHCHIM CHAMPARAN
+Bihar,Bihar,2,2,PURBA CHAMPARAN,Purba Champaran,Bihar,census_rank_nfhs5,32.76455243430968,medium,BIHAR,PURBA CHAMPARAN
+Bihar,Bihar,3,3,SHEOHAR,Sheohar,Bihar,census_rank_nfhs5,34.17672323343897,medium,BIHAR,SHEOHAR
+Bihar,Bihar,4,4,SITAMARHI,Sitamarhi,Bihar,census_rank_nfhs5,37.369479955502776,medium,BIHAR,SITAMARHI
+Bihar,Bihar,5,5,MADHUBANI,Madhubani,Bihar,census_rank_nfhs5,28.646335689195432,medium,BIHAR,MADHUBANI
+Bihar,Bihar,6,6,SUPAUL,Supaul,Bihar,census_rank_nfhs5,24.367532350704998,medium,BIHAR,SUPAUL
+Bihar,Bihar,7,7,ARARIA,Araria,Bihar,census_rank_nfhs5,35.926454186267186,medium,BIHAR,ARARIA
+Bihar,Bihar,8,8,KISHANGANJ,Kishanganj,Bihar,census_rank_nfhs5,31.692532416460843,medium,BIHAR,KISHANGANJ
+Bihar,Bihar,9,9,PURNIA,Purnia,Bihar,census_rank_nfhs5,25.096395275825422,medium,BIHAR,PURNIA
+Bihar,Bihar,10,10,KATIHAR,Katihar,Bihar,census_rank_nfhs5,51.6308102213206,medium,BIHAR,KATIHAR
+Bihar,Bihar,11,11,MADHEPURA,Madhepura,Bihar,census_rank_nfhs5,39.56490621316308,medium,BIHAR,MADHEPURA
+Bihar,Bihar,12,12,SAHARSA,Saharsa,Bihar,census_rank_nfhs5,22.168882477228912,medium,BIHAR,SAHARSA
+Bihar,Bihar,13,13,DARBHANGA,Darbhanga,Bihar,census_rank_nfhs5,45.36549233988152,medium,BIHAR,DARBHANGA
+Bihar,Bihar,14,14,MUZAFFARPUR,Muzaffarpur,Bihar,census_rank_nfhs5,28.461482550119417,medium,BIHAR,MUZAFFARPUR
+Bihar,Bihar,15,15,GOPALGANJ,Gopalganj,Bihar,census_rank_nfhs5,34.21733857304938,medium,BIHAR,GOPALGANJ
+Bihar,Bihar,16,16,SIWAN,Siwan,Bihar,census_rank_nfhs5,30.282121546000496,medium,BIHAR,SIWAN
+Bihar,Bihar,17,17,SARAN,Saran,Bihar,census_rank_nfhs5,22.066466932191588,medium,BIHAR,SARAN
+Bihar,Bihar,18,18,VAISHALI,Vaishali,Bihar,census_rank_nfhs5,43.53425502111404,medium,BIHAR,VAISHALI
+Bihar,Bihar,19,19,SAMASTIPUR,Samastipur,Bihar,census_rank_nfhs5,32.3161540363249,medium,BIHAR,SAMASTIPUR
+Bihar,Bihar,20,20,BEGUSARAI,Begusarai,Bihar,census_rank_nfhs5,37.002775614810574,medium,BIHAR,BEGUSARAI
+Bihar,Bihar,21,21,KHAGARIA,Khagaria,Bihar,census_rank_nfhs5,34.38483873244474,medium,BIHAR,KHAGARIA
+Bihar,Bihar,22,22,BHAGALPUR,Bhagalpur,Bihar,census_rank_nfhs5,31.735662097438365,medium,BIHAR,BHAGALPUR
+Bihar,Bihar,23,23,BANKA,Banka,Bihar,census_rank_nfhs5,37.36627073636721,medium,BIHAR,BANKA
+Bihar,Bihar,24,24,MUNGER,Munger,Bihar,census_rank_nfhs5,36.70966212452407,medium,BIHAR,MUNGER
+Bihar,Bihar,25,25,LAKHISARAI,Lakhisarai,Bihar,census_rank_nfhs5,44.258635582133955,medium,BIHAR,LAKHISARAI
+Bihar,Bihar,26,26,SHEIKHPURA,Sheikhpura,Bihar,census_rank_nfhs5,35.04554284947286,medium,BIHAR,SHEIKHPURA
+Bihar,Bihar,27,27,NALANDA,Nalanda,Bihar,census_rank_nfhs5,38.06738664515579,medium,BIHAR,NALANDA
+Bihar,Bihar,28,28,PATNA,Patna,Bihar,census_rank_nfhs5,34.73028523311084,medium,BIHAR,PATNA
+Bihar,Bihar,29,29,BHOJPUR,Bhojpur,Bihar,census_rank_nfhs5,32.87108704939101,medium,BIHAR,BHOJPUR
+Bihar,Bihar,30,30,BUXAR,Buxar,Bihar,census_rank_nfhs5,32.79070431673357,medium,BIHAR,BUXAR
+Bihar,Bihar,31,31,KAIMUR (BHABUA),Kaimur (Bhabua),Bihar,census_rank_nfhs5,42.018513632125675,medium,BIHAR,KAIMUR BHABUA
+Bihar,Bihar,32,32,ROHTAS,Rohtas,Bihar,census_rank_nfhs5,17.809803269105508,medium,BIHAR,ROHTAS
+Bihar,Bihar,33,33,AURANGABAD,Aurangabad,Bihar,census_rank_nfhs5,34.32682227300883,medium,BIHAR,AURANGABAD
+Bihar,Bihar,34,34,GAYA,Gaya,Bihar,census_rank_nfhs5,15.287617725320104,medium,BIHAR,GAYA
+Bihar,Bihar,35,35,NAWADA,Nawada,Bihar,census_rank_nfhs5,41.17748379299933,medium,BIHAR,NAWADA
+Bihar,Bihar,37,37,JEHANABAD,Jehanabad,Bihar,census_rank_nfhs5,33.082541262194475,medium,BIHAR,JEHANABAD
+Bihar,Bihar,38,38,ARWAL,Arwal,Bihar,census_rank_nfhs5,32.44665817866008,medium,BIHAR,ARWAL
+Bihar,Bihar,39,39,,Katihar,Bihar,feature_match,25.134662920567504,low,BIHAR,KATIHAR
+Bihar,Bihar,40,40,,Gaya,Bihar,feature_match,24.852113083409478,medium,BIHAR,GAYA
+Bihar,Bihar,41,41,,,Bihar,unmapped,,low,BIHAR,
+Bihar,Bihar,42,42,,Pashchim Champaran,Bihar,feature_match,22.89487416660699,medium,BIHAR,PASHCHIM CHAMPARAN
+Goa,Goa,1,1,NORTH GOA,North Goa,Goa,census_rank_nfhs5,33.74142895465105,medium,GOA,NORTH GOA
+Goa,Goa,2,2,SOUTH GOA,South Goa,Goa,census_rank_nfhs5,44.61999422720065,medium,GOA,SOUTH GOA
+Gujarat,Gujarat,1,1,KACHCHH,Kachchh,Gujarat,census_rank_nfhs5,47.66431952170499,medium,GUJARAT,KACHCHH
+Gujarat,Gujarat,2,2,BANAS KANTHA,Banaskantha,Gujarat,census_rank_fuzzy_nfhs5,,medium,GUJARAT,BANASKANTHA
+Gujarat,Gujarat,3,3,PATAN,Patan,Gujarat,census_rank_nfhs5,13.555270980391246,high,GUJARAT,PATAN
+Gujarat,Gujarat,4,4,MAHESANA,Mahesana,Gujarat,census_rank_nfhs5,21.840670514942047,medium,GUJARAT,MAHESANA
+Gujarat,Gujarat,5,5,SABAR KANTHA,Sabarkantha,Gujarat,census_rank_fuzzy_nfhs5,,medium,GUJARAT,SABARKANTHA
+Gujarat,Gujarat,6,6,GANDHINAGAR,Gandhinagar,Gujarat,census_rank_nfhs5,32.89005620846915,medium,GUJARAT,GANDHINAGAR
+Gujarat,Gujarat,7,7,AHMADABAD,Ahmadabad,Gujarat,census_rank_nfhs5,21.48080302648209,medium,GUJARAT,AHMADABAD
+Gujarat,Gujarat,8,8,SURENDRANAGAR,Surendranagar,Gujarat,census_rank_nfhs5,34.90142762896507,medium,GUJARAT,SURENDRANAGAR
+Gujarat,Gujarat,9,9,RAJKOT,Rajkot,Gujarat,census_rank_nfhs5,12.400340136089074,high,GUJARAT,RAJKOT
+Gujarat,Gujarat,10,10,JAMNAGAR,Jamnagar,Gujarat,census_rank_nfhs5,30.298892380771427,medium,GUJARAT,JAMNAGAR
+Gujarat,Gujarat,11,11,PORBANDAR,Porbandar,Gujarat,census_rank_nfhs5,31.86466859927115,medium,GUJARAT,PORBANDAR
+Gujarat,Gujarat,12,12,JUNAGADH,Junagadh,Gujarat,census_rank_nfhs5,23.154124011689063,medium,GUJARAT,JUNAGADH
+Gujarat,Gujarat,13,13,AMRELI,Amreli,Gujarat,census_rank_nfhs5,30.8648903991685,medium,GUJARAT,AMRELI
+Gujarat,Gujarat,14,14,BHAVNAGAR,Bhavnagar,Gujarat,census_rank_nfhs5,21.220742075441386,medium,GUJARAT,BHAVNAGAR
+Gujarat,Gujarat,15,15,ANAND,Anand,Gujarat,census_rank_nfhs5,16.90649703038771,medium,GUJARAT,ANAND
+Gujarat,Gujarat,16,16,KHEDA,Kheda,Gujarat,census_rank_nfhs5,27.073683463010696,medium,GUJARAT,KHEDA
+Gujarat,Gujarat,17,17,PANCH MAHALS,Panchmahal,Gujarat,census_rank_fuzzy_nfhs5,,medium,GUJARAT,PANCHMAHAL
+Gujarat,Gujarat,18,18,DOHAD,Dohad,Gujarat,census_rank_nfhs5,21.123373818546494,medium,GUJARAT,DOHAD
+Gujarat,Gujarat,19,19,VADODARA,Vadodara,Gujarat,census_rank_nfhs5,53.25234389195905,medium,GUJARAT,VADODARA
+Haryana,Haryana,1,1,PANCHKULA,Panchkula,Haryana,census_rank_nfhs5,21.03492927967048,medium,HARYANA,PANCHKULA
+Haryana,Haryana,2,2,AMBALA,Ambala,Haryana,census_rank_nfhs5,15.17924175763207,medium,HARYANA,AMBALA
+Haryana,Haryana,3,3,YAMUNANAGAR,Yamunanagar,Haryana,census_rank_nfhs5,8.332032316778193,high,HARYANA,YAMUNANAGAR
+Haryana,Haryana,4,4,KURUKSHETRA,Kurukshetra,Haryana,census_rank_nfhs5,12.18432224886277,high,HARYANA,KURUKSHETRA
+Haryana,Haryana,5,5,KAITHAL,Kaithal,Haryana,census_rank_nfhs5,15.002367374731842,medium,HARYANA,KAITHAL
+Haryana,Haryana,6,6,KARNAL,Karnal,Haryana,census_rank_nfhs5,5.910172195256056,high,HARYANA,KARNAL
+Haryana,Haryana,7,7,PANIPAT,Panipat,Haryana,census_rank_nfhs5,5.018182566360255,high,HARYANA,PANIPAT
+Haryana,Haryana,8,8,SONIPAT,Sonipat,Haryana,census_rank_nfhs5,7.522397570638022,high,HARYANA,SONIPAT
+Haryana,Haryana,9,9,JIND,Jind,Haryana,census_rank_nfhs5,29.315288030052308,medium,HARYANA,JIND
+Haryana,Haryana,10,10,FATEHABAD,Fatehabad,Haryana,census_rank_nfhs5,15.06236064134852,medium,HARYANA,FATEHABAD
+Haryana,Haryana,11,11,SIRSA,Sirsa,Haryana,census_rank_nfhs5,17.260573191627927,medium,HARYANA,SIRSA
+Haryana,Haryana,12,12,HISAR,Hisar,Haryana,census_rank_nfhs5,14.64143921099711,high,HARYANA,HISAR
+Haryana,Haryana,13,13,BHIWANI,Bhiwani,Haryana,census_rank_nfhs5,9.064123427529296,high,HARYANA,BHIWANI
+Haryana,Haryana,14,14,ROHTAK,Rohtak,Haryana,census_rank_nfhs5,8.178759588876444,high,HARYANA,ROHTAK
+Haryana,Haryana,15,15,JHAJJAR,Jhajjar,Haryana,census_rank_nfhs5,8.01859280405579,high,HARYANA,JHAJJAR
+Haryana,Haryana,16,16,MAHENDRAGARH,Mahendragarh,Haryana,census_rank_nfhs5,11.073085689735803,high,HARYANA,MAHENDRAGARH
+Himachal Pradesh,Himachal Pradesh,1,1,CHAMBA,Chamba,Himachal Pradesh,census_rank_nfhs5,16.554533965542984,medium,HIMACHAL PRADESH,CHAMBA
+Himachal Pradesh,Himachal Pradesh,2,2,KANGRA,Kangra,Himachal Pradesh,census_rank_nfhs5,21.41459011878256,medium,HIMACHAL PRADESH,KANGRA
+Himachal Pradesh,Himachal Pradesh,3,3,LAHUL & SPITI,Lahul and Spiti,Himachal Pradesh,census_rank_nfhs5,17.042195595441513,medium,HIMACHAL PRADESH,LAHUL AND SPITI
+Himachal Pradesh,Himachal Pradesh,4,4,KULLU,Kullu,Himachal Pradesh,census_rank_nfhs5,21.194840339230375,medium,HIMACHAL PRADESH,KULLU
+Himachal Pradesh,Himachal Pradesh,5,5,MANDI,Mandi,Himachal Pradesh,census_rank_nfhs5,13.271067146542952,high,HIMACHAL PRADESH,MANDI
+Himachal Pradesh,Himachal Pradesh,6,6,HAMIRPUR,Hamirpur,Himachal Pradesh,census_rank_nfhs5,14.911296135412599,high,HIMACHAL PRADESH,HAMIRPUR
+Himachal Pradesh,Himachal Pradesh,7,7,UNA,Una,Himachal Pradesh,census_rank_nfhs5,15.838499013625466,medium,HIMACHAL PRADESH,UNA
+Himachal Pradesh,Himachal Pradesh,8,8,BILASPUR,Bilaspur,Himachal Pradesh,census_rank_nfhs5,31.81072511280214,medium,HIMACHAL PRADESH,BILASPUR
+Himachal Pradesh,Himachal Pradesh,9,9,SOLAN,Solan,Himachal Pradesh,census_rank_nfhs5,21.683943882723078,medium,HIMACHAL PRADESH,SOLAN
+Himachal Pradesh,Himachal Pradesh,10,10,SIRMAUR,Sirmaur,Himachal Pradesh,census_rank_nfhs5,11.717415786492442,high,HIMACHAL PRADESH,SIRMAUR
+Himachal Pradesh,Himachal Pradesh,11,11,SHIMLA,Shimla,Himachal Pradesh,census_rank_nfhs5,16.572102002344018,medium,HIMACHAL PRADESH,SHIMLA
+Jammu,Jammu,1,1,KUPWARA,Kupwara,Jammu & Kashmir,census_rank_nfhs5,14.1118397648327,high,JAMMU,KUPWARA
+Jammu,Jammu,2,2,BADGAM,Badgam,Jammu & Kashmir,census_rank_nfhs5,11.722596080549364,high,JAMMU,BADGAM
+Jammu,Jammu,3,3,LEH(LADAKH),Leh,Jammu & Kashmir,census_rank_fuzzy_nfhs5,,medium,JAMMU,LEH
+Jammu,Jammu,4,4,KARGIL,Kargil,Jammu & Kashmir,census_rank_nfhs5,21.679437008295203,medium,JAMMU,KARGIL
+Jammu,Jammu,5,5,PUNCH,Punch,Jammu & Kashmir,census_rank_nfhs5,15.75798210283545,medium,JAMMU,PUNCH
+Jammu,Jammu,6,6,RAJOURI,Rajouri,Jammu & Kashmir,census_rank_nfhs5,20.96331622770814,medium,JAMMU,RAJOURI
+Jammu,Jammu,10,10,SRINAGAR,Srinagar,Jammu & Kashmir,census_rank_nfhs5,18.336099159683187,medium,JAMMU,SRINAGAR
+Jammu,Jammu,11,11,GANDERBAL,Ganderbal,Jammu & Kashmir,census_rank_nfhs5,17.22057568512485,medium,JAMMU,GANDERBAL
+Jammu,Jammu,12,12,PULWAMA,Pulwama,Jammu & Kashmir,census_rank_nfhs5,13.457648178122486,high,JAMMU,PULWAMA
+Karnataka,Karnataka,1,1,BELGAUM,Belgaum,Karnataka,census_rank_nfhs5,39.79195653766423,medium,KARNATAKA,BELGAUM
+Karnataka,Karnataka,2,2,BAGALKOT,Bagalkot,Karnataka,census_rank_nfhs5,19.82147800136486,medium,KARNATAKA,BAGALKOT
+Karnataka,Karnataka,3,3,BIJAPUR,Bijapur,Karnataka,census_rank_nfhs5,20.21948810313672,medium,KARNATAKA,BIJAPUR
+Karnataka,Karnataka,4,4,BIDAR,Bidar,Karnataka,census_rank_nfhs5,23.14136389518304,medium,KARNATAKA,BIDAR
+Karnataka,Karnataka,5,5,RAICHUR,Raichur,Karnataka,census_rank_nfhs5,30.243337041791328,medium,KARNATAKA,RAICHUR
+Karnataka,Karnataka,6,6,KOPPAL,Koppal,Karnataka,census_rank_nfhs5,24.058285917853844,medium,KARNATAKA,KOPPAL
+Karnataka,Karnataka,7,7,GADAG,Gadag,Karnataka,census_rank_nfhs5,23.727118292855486,medium,KARNATAKA,GADAG
+Karnataka,Karnataka,8,8,DHARWAD,Dharwad,Karnataka,census_rank_nfhs5,29.572005080906443,medium,KARNATAKA,DHARWAD
+Karnataka,Karnataka,9,9,UTTARA KANNADA,Uttara Kannada,Karnataka,census_rank_nfhs5,16.63851412033528,medium,KARNATAKA,UTTARA KANNADA
+Karnataka,Karnataka,10,10,HAVERI,Haveri,Karnataka,census_rank_nfhs5,21.149492687045438,medium,KARNATAKA,HAVERI
+Karnataka,Karnataka,11,11,BELLARY,Bellary,Karnataka,census_rank_nfhs5,21.507802682973164,medium,KARNATAKA,BELLARY
+Karnataka,Karnataka,12,12,CHITRADURGA,Chitradurga,Karnataka,census_rank_nfhs5,18.900696928065372,medium,KARNATAKA,CHITRADURGA
+Karnataka,Karnataka,13,13,DAVANAGERE,Davanagere,Karnataka,census_rank_nfhs5,27.059630849632374,medium,KARNATAKA,DAVANAGERE
+Karnataka,Karnataka,14,14,SHIMOGA,Shimoga,Karnataka,census_rank_nfhs5,21.264727305602225,medium,KARNATAKA,SHIMOGA
+Karnataka,Karnataka,15,15,UDUPI,Udupi,Karnataka,census_rank_nfhs5,25.840133684727277,medium,KARNATAKA,UDUPI
+Karnataka,Karnataka,16,16,CHIKMAGALUR,Chikmagalur,Karnataka,census_rank_nfhs5,11.70461914191527,high,KARNATAKA,CHIKMAGALUR
+Karnataka,Karnataka,17,17,TUMKUR,Tumkur,Karnataka,census_rank_nfhs5,13.846051947043014,high,KARNATAKA,TUMKUR
+Karnataka,Karnataka,18,18,BANGALORE,Bangalore,Karnataka,census_rank_nfhs5,30.831737324785507,medium,KARNATAKA,BANGALORE
+Karnataka,Karnataka,19,19,MANDYA,Mandya,Karnataka,census_rank_nfhs5,27.045679960247433,medium,KARNATAKA,MANDYA
+Karnataka,Karnataka,20,20,HASSAN,Hassan,Karnataka,census_rank_nfhs5,23.88499665749854,medium,KARNATAKA,HASSAN
+Kerala,Kerala,1,1,KASARAGOD,Kasaragod,Kerala,census_rank_nfhs5,15.547206096493785,medium,KERALA,KASARAGOD
+Kerala,Kerala,2,2,KANNUR,Kannur,Kerala,census_rank_nfhs5,20.449373191181103,medium,KERALA,KANNUR
+Kerala,Kerala,3,3,WAYANAD,Wayanad,Kerala,census_rank_nfhs5,20.142338258136963,medium,KERALA,WAYANAD
+Kerala,Kerala,4,4,KOZHIKODE,Kozhikode,Kerala,census_rank_nfhs5,12.728334615994447,high,KERALA,KOZHIKODE
+Kerala,Kerala,5,5,MALAPPURAM,Malappuram,Kerala,census_rank_nfhs5,21.668657686849475,medium,KERALA,MALAPPURAM
+Kerala,Kerala,6,6,PALAKKAD,Palakkad,Kerala,census_rank_nfhs5,8.441827090332508,high,KERALA,PALAKKAD
+Kerala,Kerala,7,7,THRISSUR,Thrissur,Kerala,census_rank_nfhs5,22.951600952310876,medium,KERALA,THRISSUR
+Kerala,Kerala,8,8,ERNAKULAM,Ernakulam,Kerala,census_rank_nfhs5,15.609169186718692,medium,KERALA,ERNAKULAM
+Kerala,Kerala,9,9,IDUKKI,Idukki,Kerala,census_rank_nfhs5,10.889623487534797,high,KERALA,IDUKKI
+Kerala,Kerala,10,10,KOTTAYAM,Kottayam,Kerala,census_rank_nfhs5,19.747075846891686,medium,KERALA,KOTTAYAM
+Kerala,Kerala,11,11,ALAPPUZHA,Alappuzha,Kerala,census_rank_nfhs5,15.62349447115302,medium,KERALA,ALAPPUZHA
+Kerala,Kerala,12,12,PATHANAMTHITTA,Pathanamthitta,Kerala,census_rank_nfhs5,14.270112554401067,high,KERALA,PATHANAMTHITTA
+Kerala,Kerala,13,13,KOLLAM,Kollam,Kerala,census_rank_nfhs5,9.023606606250727,high,KERALA,KOLLAM
+Kerala,Kerala,14,14,THIRUVANANTHAPURAM,Thiruvananthapuram,Kerala,census_rank_nfhs5,15.69299160688684,medium,KERALA,THIRUVANANTHAPURAM
+Madhya Pradesh,Madhya Pradesh,1,1,SHEOPUR,Sheopur,Madhya Pradesh,census_rank_nfhs5,28.052155029827123,medium,MADHYA PRADESH,SHEOPUR
+Madhya Pradesh,Madhya Pradesh,2,2,MORENA,Morena,Madhya Pradesh,census_rank_nfhs5,13.004880576950214,high,MADHYA PRADESH,MORENA
+Madhya Pradesh,Madhya Pradesh,3,3,BHIND,Bhind,Madhya Pradesh,census_rank_nfhs5,14.474421175829061,high,MADHYA PRADESH,BHIND
+Madhya Pradesh,Madhya Pradesh,4,4,GWALIOR,Gwalior,Madhya Pradesh,census_rank_nfhs5,28.615820307763222,medium,MADHYA PRADESH,GWALIOR
+Madhya Pradesh,Madhya Pradesh,5,5,DATIA,Datia,Madhya Pradesh,census_rank_nfhs5,19.040373701063025,medium,MADHYA PRADESH,DATIA
+Madhya Pradesh,Madhya Pradesh,6,6,SHIVPURI,Shivpuri,Madhya Pradesh,census_rank_nfhs5,12.35663020381844,high,MADHYA PRADESH,SHIVPURI
+Madhya Pradesh,Madhya Pradesh,7,7,TIKAMGARH,Tikamgarh,Madhya Pradesh,census_rank_nfhs5,21.173533998320146,medium,MADHYA PRADESH,TIKAMGARH
+Madhya Pradesh,Madhya Pradesh,8,8,CHHATARPUR,Chhatarpur,Madhya Pradesh,census_rank_nfhs5,14.643104438928798,high,MADHYA PRADESH,CHHATARPUR
+Madhya Pradesh,Madhya Pradesh,10,10,SAGAR,Sagar,Madhya Pradesh,census_rank_nfhs5,12.11565819511409,high,MADHYA PRADESH,SAGAR
+Madhya Pradesh,Madhya Pradesh,11,11,DAMOH,Damoh,Madhya Pradesh,census_rank_nfhs5,30.525046415077185,medium,MADHYA PRADESH,DAMOH
+Madhya Pradesh,Madhya Pradesh,12,12,SATNA,Satna,Madhya Pradesh,census_rank_nfhs5,20.15558401309149,medium,MADHYA PRADESH,SATNA
+Madhya Pradesh,Madhya Pradesh,13,13,REWA,Rewa,Madhya Pradesh,census_rank_nfhs5,30.310991203612197,medium,MADHYA PRADESH,REWA
+Madhya Pradesh,Madhya Pradesh,14,14,UMARIA,Umaria,Madhya Pradesh,census_rank_nfhs5,5.978033877026751,high,MADHYA PRADESH,UMARIA
+Madhya Pradesh,Madhya Pradesh,15,15,NEEMUCH,Neemuch,Madhya Pradesh,census_rank_nfhs5,30.473509095812393,medium,MADHYA PRADESH,NEEMUCH
+Madhya Pradesh,Madhya Pradesh,16,16,MANDSAUR,Mandsaur,Madhya Pradesh,census_rank_nfhs5,23.71874386973355,medium,MADHYA PRADESH,MANDSAUR
+Madhya Pradesh,Madhya Pradesh,17,17,RATLAM,Ratlam,Madhya Pradesh,census_rank_nfhs5,19.324357176247588,medium,MADHYA PRADESH,RATLAM
+Madhya Pradesh,Madhya Pradesh,18,18,UJJAIN,Ujjain,Madhya Pradesh,census_rank_nfhs5,15.543751654353931,medium,MADHYA PRADESH,UJJAIN
+Madhya Pradesh,Madhya Pradesh,19,19,SHAJAPUR,Shajapur,Madhya Pradesh,census_rank_nfhs5,32.136870493502364,medium,MADHYA PRADESH,SHAJAPUR
+Madhya Pradesh,Madhya Pradesh,20,20,DEWAS,Dewas,Madhya Pradesh,census_rank_nfhs5,17.856588311055976,medium,MADHYA PRADESH,DEWAS
+Madhya Pradesh,Madhya Pradesh,21,21,DHAR,Dhar,Madhya Pradesh,census_rank_nfhs5,16.490224127800833,medium,MADHYA PRADESH,DHAR
+Madhya Pradesh,Madhya Pradesh,22,22,INDORE,Indore,Madhya Pradesh,census_rank_nfhs5,26.377207550913322,medium,MADHYA PRADESH,INDORE
+Madhya Pradesh,Madhya Pradesh,23,23,KHARGONE (WEST NIMAR),Khargone (West Nimar),Madhya Pradesh,census_rank_nfhs5,32.45490764831801,medium,MADHYA PRADESH,KHARGONE WEST NIMAR
+Madhya Pradesh,Madhya Pradesh,24,24,BARWANI,Barwani,Madhya Pradesh,census_rank_nfhs5,19.710519071255277,medium,MADHYA PRADESH,BARWANI
+Madhya Pradesh,Madhya Pradesh,25,25,RAJGARH,Rajgarh,Madhya Pradesh,census_rank_nfhs5,27.795495829283844,medium,MADHYA PRADESH,RAJGARH
+Madhya Pradesh,Madhya Pradesh,26,26,VIDISHA,Vidisha,Madhya Pradesh,census_rank_nfhs5,41.392743125009915,medium,MADHYA PRADESH,VIDISHA
+Madhya Pradesh,Madhya Pradesh,27,27,BHOPAL,Bhopal,Madhya Pradesh,census_rank_nfhs5,22.527853789351724,medium,MADHYA PRADESH,BHOPAL
+Madhya Pradesh,Madhya Pradesh,28,28,SEHORE,Sehore,Madhya Pradesh,census_rank_nfhs5,37.122060814163916,medium,MADHYA PRADESH,SEHORE
+Madhya Pradesh,Madhya Pradesh,29,29,RAISEN,Raisen,Madhya Pradesh,census_rank_nfhs5,31.130026048833855,medium,MADHYA PRADESH,RAISEN
+Madhya Pradesh,Madhya Pradesh,30,30,BETUL,Betul,Madhya Pradesh,census_rank_nfhs5,14.830479804524705,high,MADHYA PRADESH,BETUL
+Madhya Pradesh,Madhya Pradesh,31,31,HARDA,Harda,Madhya Pradesh,census_rank_nfhs5,19.015200237409637,medium,MADHYA PRADESH,HARDA
+Madhya Pradesh,Madhya Pradesh,32,32,HOSHANGABAD,Hoshangabad,Madhya Pradesh,census_rank_nfhs5,25.09355259528946,medium,MADHYA PRADESH,HOSHANGABAD
+Madhya Pradesh,Madhya Pradesh,33,33,KATNI,Katni,Madhya Pradesh,census_rank_nfhs5,12.273857466713142,high,MADHYA PRADESH,KATNI
+Madhya Pradesh,Madhya Pradesh,34,34,JABALPUR,Jabalpur,Madhya Pradesh,census_rank_nfhs5,25.894187234375238,medium,MADHYA PRADESH,JABALPUR
+Madhya Pradesh,Madhya Pradesh,35,35,NARSIMHAPUR,Narsimhapur,Madhya Pradesh,census_rank_nfhs5,29.915215380855663,medium,MADHYA PRADESH,NARSIMHAPUR
+Madhya Pradesh,Madhya Pradesh,36,36,DINDORI,Dindori,Madhya Pradesh,census_rank_nfhs5,18.650884922797427,medium,MADHYA PRADESH,DINDORI
+Madhya Pradesh,Madhya Pradesh,37,37,MANDLA,Mandla,Madhya Pradesh,census_rank_nfhs5,30.732615234621836,medium,MADHYA PRADESH,MANDLA
+Madhya Pradesh,Madhya Pradesh,38,38,CHHINDWARA,Chhindwara,Madhya Pradesh,census_rank_nfhs5,28.54954247936154,medium,MADHYA PRADESH,CHHINDWARA
+Madhya Pradesh,Madhya Pradesh,39,39,SEONI,Seoni,Madhya Pradesh,census_rank_nfhs5,11.779148670772367,high,MADHYA PRADESH,SEONI
+Madhya Pradesh,Madhya Pradesh,40,40,BALAGHAT,Balaghat,Madhya Pradesh,census_rank_nfhs5,25.509843513528637,medium,MADHYA PRADESH,BALAGHAT
+Madhya Pradesh,Madhya Pradesh,41,41,GUNA,Guna,Madhya Pradesh,census_rank_nfhs5,34.031113028899306,medium,MADHYA PRADESH,GUNA
+Madhya Pradesh,Madhya Pradesh,42,42,ASHOKNAGAR,Ashoknagar,Madhya Pradesh,census_rank_nfhs5,32.37381539341987,medium,MADHYA PRADESH,ASHOKNAGAR
+Madhya Pradesh,Madhya Pradesh,43,43,SHAHDOL,Shahdol,Madhya Pradesh,census_rank_nfhs5,29.64947409105066,medium,MADHYA PRADESH,SHAHDOL
+Madhya Pradesh,Madhya Pradesh,44,44,ANUPPUR,Anuppur,Madhya Pradesh,census_rank_nfhs5,26.70459042566883,medium,MADHYA PRADESH,ANUPPUR
+Madhya Pradesh,Madhya Pradesh,45,45,SIDHI,Sidhi,Madhya Pradesh,census_rank_nfhs5,20.17875043061011,medium,MADHYA PRADESH,SIDHI
+Maharashtra,Maharashtra,1,1,NANDURBAR,Nandurbar,Maharashtra,census_rank_nfhs5,46.151080674449034,medium,MAHARASHTRA,NANDURBAR
+Maharashtra,Maharashtra,2,2,DHULE,Dhule,Maharashtra,census_rank_nfhs5,21.63454136168952,medium,MAHARASHTRA,DHULE
+Maharashtra,Maharashtra,3,3,JALGAON,Jalgaon,Maharashtra,census_rank_nfhs5,22.66345685159521,medium,MAHARASHTRA,JALGAON
+Maharashtra,Maharashtra,4,4,BULDANA,Buldana,Maharashtra,census_rank_nfhs5,18.665351528468896,medium,MAHARASHTRA,BULDANA
+Maharashtra,Maharashtra,5,5,AKOLA,Akola,Maharashtra,census_rank_nfhs5,31.595051863395685,medium,MAHARASHTRA,AKOLA
+Maharashtra,Maharashtra,6,6,WASHIM,Washim,Maharashtra,census_rank_nfhs5,24.173212903821444,medium,MAHARASHTRA,WASHIM
+Maharashtra,Maharashtra,7,7,AMRAVATI,Amravati,Maharashtra,census_rank_nfhs5,19.548688071870387,medium,MAHARASHTRA,AMRAVATI
+Maharashtra,Maharashtra,8,8,WARDHA,Wardha,Maharashtra,census_rank_nfhs5,15.19031029481763,medium,MAHARASHTRA,WARDHA
+Maharashtra,Maharashtra,9,9,NAGPUR,Nagpur,Maharashtra,census_rank_nfhs5,14.037765034748205,high,MAHARASHTRA,NAGPUR
+Maharashtra,Maharashtra,10,10,BHANDARA,Bhandara,Maharashtra,census_rank_nfhs5,42.91871104480378,medium,MAHARASHTRA,BHANDARA
+Maharashtra,Maharashtra,11,11,GONDIYA,Gondiya,Maharashtra,census_rank_nfhs5,21.10736397254961,medium,MAHARASHTRA,GONDIYA
+Maharashtra,Maharashtra,12,12,GADCHIROLI,Gadchiroli,Maharashtra,census_rank_nfhs5,21.395574555811866,medium,MAHARASHTRA,GADCHIROLI
+Maharashtra,Maharashtra,13,13,CHANDRAPUR,Chandrapur,Maharashtra,census_rank_nfhs5,4.792323430154039,high,MAHARASHTRA,CHANDRAPUR
+Maharashtra,Maharashtra,14,14,YAVATMAL,Yavatmal,Maharashtra,census_rank_nfhs5,23.366816442416514,medium,MAHARASHTRA,YAVATMAL
+Maharashtra,Maharashtra,15,15,NANDED,Nanded,Maharashtra,census_rank_nfhs5,16.853659839686888,medium,MAHARASHTRA,NANDED
+Maharashtra,Maharashtra,16,16,HINGOLI,Hingoli,Maharashtra,census_rank_nfhs5,11.221233071076945,high,MAHARASHTRA,HINGOLI
+Maharashtra,Maharashtra,17,17,PARBHANI,Parbhani,Maharashtra,census_rank_nfhs5,16.333842174582617,medium,MAHARASHTRA,PARBHANI
+Maharashtra,Maharashtra,18,18,JALNA,Jalna,Maharashtra,census_rank_nfhs5,18.621681207335516,medium,MAHARASHTRA,JALNA
+Maharashtra,Maharashtra,19,19,AURANGABAD,Aurangabad,Maharashtra,census_rank_nfhs5,17.27524765535353,medium,MAHARASHTRA,AURANGABAD
+Maharashtra,Maharashtra,21,21,THANE,Thane,Maharashtra,census_rank_nfhs5,19.110228528387672,medium,MAHARASHTRA,THANE
+Maharashtra,Maharashtra,22,22,MUMBAI SUBURBAN,Mumbai Suburban,Maharashtra,census_rank_nfhs5,15.183833954350785,medium,MAHARASHTRA,MUMBAI SUBURBAN
+Maharashtra,Maharashtra,23,23,MUMBAI,Mumbai,Maharashtra,census_rank_nfhs5,23.6302008354998,medium,MAHARASHTRA,MUMBAI
+Maharashtra,Maharashtra,24,24,RAIGARH,Raigarh,Maharashtra,census_rank_nfhs5,13.932018839748054,high,MAHARASHTRA,RAIGARH
+Maharashtra,Maharashtra,25,25,PUNE,Pune,Maharashtra,census_rank_nfhs5,9.66401985816336,high,MAHARASHTRA,PUNE
+Maharashtra,Maharashtra,26,26,AHMADNAGAR,Ahmadnagar,Maharashtra,census_rank_nfhs5,19.219054436470948,medium,MAHARASHTRA,AHMADNAGAR
+Maharashtra,Maharashtra,27,27,BID,Bid,Maharashtra,census_rank_nfhs5,39.38920542711185,medium,MAHARASHTRA,BID
+Maharashtra,Maharashtra,28,28,LATUR,Latur,Maharashtra,census_rank_nfhs5,19.69652287051632,medium,MAHARASHTRA,LATUR
+Maharashtra,Maharashtra,29,29,OSMANABAD,Osmanabad,Maharashtra,census_rank_nfhs5,16.660474134493768,medium,MAHARASHTRA,OSMANABAD
+Manipur,Manipur,1,1,SENAPATI,Senapati (Excluding 3 Sub-Divisions),Manipur,census_rank_fuzzy_nfhs5,,medium,MANIPUR,SENAPATI EXCLUDING 3 SUB DIVISIONS
+Manipur,Manipur,2,2,TAMENGLONG,Tamenglong,Manipur,census_rank_nfhs5,20.521339923607403,medium,MANIPUR,TAMENGLONG
+Manipur,Manipur,3,3,CHURACHANDPUR,Churachandpur,Manipur,census_rank_nfhs5,26.180387315977157,medium,MANIPUR,CHURACHANDPUR
+Manipur,Manipur,4,4,BISHNUPUR,Bishnupur,Manipur,census_rank_nfhs5,23.537493710583053,medium,MANIPUR,BISHNUPUR
+Manipur,Manipur,5,5,THOUBAL,Thoubal,Manipur,census_rank_nfhs5,27.025614246722473,medium,MANIPUR,THOUBAL
+Manipur,Manipur,6,6,IMPHAL WEST,Imphal West,Manipur,census_rank_nfhs5,24.963301985144785,medium,MANIPUR,IMPHAL WEST
+Manipur,Manipur,7,7,IMPHAL EAST,Imphal East,Manipur,census_rank_nfhs5,36.52119876589813,medium,MANIPUR,IMPHAL EAST
+Manipur,Manipur,8,8,UKHRUL,Ukhrul,Manipur,census_rank_nfhs5,19.86081615716845,medium,MANIPUR,UKHRUL
+Meghalaya,Meghalaya,1,1,WEST GARO HILLS,West Garo Hills,Meghalaya,census_rank_nfhs5,14.096861700175353,high,MEGHALAYA,WEST GARO HILLS
+Meghalaya,Meghalaya,2,2,EAST GARO HILLS,East Garo Hills,Meghalaya,census_rank_nfhs5,20.58173419173969,medium,MEGHALAYA,EAST GARO HILLS
+Meghalaya,Meghalaya,3,3,SOUTH GARO HILLS,South Garo Hills,Meghalaya,census_rank_nfhs5,16.78710888941448,medium,MEGHALAYA,SOUTH GARO HILLS
+Meghalaya,Meghalaya,4,4,WEST KHASI HILLS,West Khasi Hills,Meghalaya,census_rank_nfhs5,23.386256741087887,medium,MEGHALAYA,WEST KHASI HILLS
+Meghalaya,Meghalaya,5,5,RIBHOI,Ribhoi,Meghalaya,census_rank_nfhs5,20.828878191595198,medium,MEGHALAYA,RIBHOI
+Mizoram,Mizoram,1,1,MAMIT,Mamit,Mizoram,census_rank_nfhs5,40.223661064032434,medium,MIZORAM,MAMIT
+Mizoram,Mizoram,2,2,KOLASIB,Kolasib,Mizoram,census_rank_nfhs5,35.62832392939157,medium,MIZORAM,KOLASIB
+Mizoram,Mizoram,3,3,AIZAWL,Aizawl,Mizoram,census_rank_nfhs5,19.14352331840748,medium,MIZORAM,AIZAWL
+Nagaland,Nagaland,1,1,MON,Mon,Nagaland,census_rank_nfhs5,17.74513763365099,medium,NAGALAND,MON
+Nagaland,Nagaland,2,2,MOKOKCHUNG,Mokokchung,Nagaland,census_rank_nfhs5,19.474378651044127,medium,NAGALAND,MOKOKCHUNG
+Nagaland,Nagaland,3,3,ZUNHEBOTO,Zunheboto,Nagaland,census_rank_nfhs5,25.477175194710107,medium,NAGALAND,ZUNHEBOTO
+Nagaland,Nagaland,4,4,WOKHA,Wokha,Nagaland,census_rank_nfhs5,37.170804382453056,medium,NAGALAND,WOKHA
+Nagaland,Nagaland,5,5,DIMAPUR,Dimapur,Nagaland,census_rank_nfhs5,30.578283447151343,medium,NAGALAND,DIMAPUR
+Nagaland,Nagaland,6,6,PHEK,Phek,Nagaland,census_rank_nfhs5,31.16943843751981,medium,NAGALAND,PHEK
+Nagaland,Nagaland,7,7,TUENSANG,Tuensang,Nagaland,census_rank_nfhs5,24.24405677981417,medium,NAGALAND,TUENSANG
+New Delhi,New Delhi,1,1,NORTH WEST,North West,Delhi,census_rank,,medium,NEW DELHI,NORTH WEST
+Orissa,Orissa,1,1,BARGARH,Bargarh,Odisha,census_rank,,medium,ORISSA,BARGARH
+Orissa,Orissa,2,2,JHARSUGUDA,Jharsuguda,Odisha,census_rank,,medium,ORISSA,JHARSUGUDA
+Orissa,Orissa,3,3,SAMBALPUR,Sambalpur,Odisha,census_rank,,medium,ORISSA,SAMBALPUR
+Orissa,Orissa,4,4,DEBAGARH,Debagarh,Odisha,census_rank,,medium,ORISSA,DEBAGARH
+Orissa,Orissa,5,5,SUNDARGARH,Sundargarh,Odisha,census_rank,,medium,ORISSA,SUNDARGARH
+Orissa,Orissa,6,6,KENDUJHAR,Kendujhar,Odisha,census_rank,,medium,ORISSA,KENDUJHAR
+Orissa,Orissa,7,7,MAYURBHANJ,Mayurbhanj,Odisha,census_rank,,medium,ORISSA,MAYURBHANJ
+Orissa,Orissa,8,8,BALESHWAR,Baleshwar,Odisha,census_rank,,medium,ORISSA,BALESHWAR
+Orissa,Orissa,9,9,BHADRAK,Bhadrak,Odisha,census_rank,,medium,ORISSA,BHADRAK
+Orissa,Orissa,10,10,KENDRAPARA,Kendrapara,Odisha,census_rank,,medium,ORISSA,KENDRAPARA
+Orissa,Orissa,11,11,JAGATSINGHAPUR,Jagatsinghapur,Odisha,census_rank,,medium,ORISSA,JAGATSINGHAPUR
+Orissa,Orissa,12,12,CUTTACK,Cuttack,Odisha,census_rank,,medium,ORISSA,CUTTACK
+Orissa,Orissa,13,13,JAJAPUR,Jajapur,Odisha,census_rank,,medium,ORISSA,JAJAPUR
+Punjab,Punjab,1,1,GURDASPUR,Gurdaspur,Punjab,census_rank_nfhs5,9.281935905829073,high,PUNJAB,GURDASPUR
+Punjab,Punjab,2,2,KAPURTHALA,Kapurthala,Punjab,census_rank_nfhs5,16.61073258739871,medium,PUNJAB,KAPURTHALA
+Punjab,Punjab,3,3,JALANDHAR,Jalandhar,Punjab,census_rank_nfhs5,14.016575779562606,high,PUNJAB,JALANDHAR
+Punjab,Punjab,4,4,HOSHIARPUR,Hoshiarpur,Punjab,census_rank_nfhs5,13.824804251510315,high,PUNJAB,HOSHIARPUR
+Punjab,Punjab,5,5,SHAHID BHAGAT SINGH NAGAR,Shahid Bhagat Singh Nagar,Punjab,census_rank_nfhs5,14.435891294793056,high,PUNJAB,SHAHID BHAGAT SINGH NAGAR
+Punjab,Punjab,6,6,FATEHGARH SAHIB,Fatehgarh Sahib,Punjab,census_rank_nfhs5,11.257303738970219,high,PUNJAB,FATEHGARH SAHIB
+Punjab,Punjab,7,7,LUDHIANA,Ludhiana,Punjab,census_rank_nfhs5,3.541107750159256,high,PUNJAB,LUDHIANA
+Punjab,Punjab,8,8,MOGA,Moga,Punjab,census_rank_nfhs5,6.873057215435149,high,PUNJAB,MOGA
+Punjab,Punjab,9,9,FIROZPUR,Firozpur,Punjab,census_rank_nfhs5,13.663826639144125,high,PUNJAB,FIROZPUR
+Punjab,Punjab,10,10,MUKTSAR,Muktsar,Punjab,census_rank_nfhs5,7.089224093270613,high,PUNJAB,MUKTSAR
+Punjab,Punjab,11,11,FARIDKOT,Faridkot,Punjab,census_rank_nfhs5,3.797003778980156,high,PUNJAB,FARIDKOT
+Punjab,Punjab,12,12,BATHINDA,Bathinda,Punjab,census_rank_nfhs5,8.762363082535089,high,PUNJAB,BATHINDA
+Rajasthan,Rajasthan,1,1,GANGANAGAR,Ganganagar,Rajasthan,census_rank_nfhs5,23.571151081835804,medium,RAJASTHAN,GANGANAGAR
+Rajasthan,Rajasthan,2,2,HANUMANGARH,Hanumangarh,Rajasthan,census_rank_nfhs5,20.195568052489357,medium,RAJASTHAN,HANUMANGARH
+Rajasthan,Rajasthan,3,3,BIKANER,Bikaner,Rajasthan,census_rank_nfhs5,15.283664446777937,medium,RAJASTHAN,BIKANER
+Rajasthan,Rajasthan,4,4,CHURU,Churu,Rajasthan,census_rank_nfhs5,7.938261571986355,high,RAJASTHAN,CHURU
+Rajasthan,Rajasthan,5,5,JHUNJHUNUN,Jhunjhunun,Rajasthan,census_rank_nfhs5,20.239527301443125,medium,RAJASTHAN,JHUNJHUNUN
+Rajasthan,Rajasthan,6,6,ALWAR,Alwar,Rajasthan,census_rank_nfhs5,17.66221904355672,medium,RAJASTHAN,ALWAR
+Rajasthan,Rajasthan,7,7,BHARATPUR,Bharatpur,Rajasthan,census_rank_nfhs5,12.280539961928058,high,RAJASTHAN,BHARATPUR
+Rajasthan,Rajasthan,8,8,DHAULPUR,Dhaulpur,Rajasthan,census_rank_nfhs5,31.328368655368116,medium,RAJASTHAN,DHAULPUR
+Rajasthan,Rajasthan,9,9,KARAULI,Karauli,Rajasthan,census_rank_nfhs5,14.314020159517927,high,RAJASTHAN,KARAULI
+Rajasthan,Rajasthan,10,10,SAWAI MADHOPUR,Sawai Madhopur,Rajasthan,census_rank_nfhs5,14.195233749825771,high,RAJASTHAN,SAWAI MADHOPUR
+Rajasthan,Rajasthan,11,11,DAUSA,Dausa,Rajasthan,census_rank_nfhs5,14.005872687972962,high,RAJASTHAN,DAUSA
+Rajasthan,Rajasthan,12,12,JAIPUR,Jaipur,Rajasthan,census_rank_nfhs5,27.276545673451675,medium,RAJASTHAN,JAIPUR
+Rajasthan,Rajasthan,13,13,SIKAR,Sikar,Rajasthan,census_rank_nfhs5,40.257570215807675,medium,RAJASTHAN,SIKAR
+Rajasthan,Rajasthan,14,14,NAGAUR,Nagaur,Rajasthan,census_rank_nfhs5,14.274835479100341,high,RAJASTHAN,NAGAUR
+Rajasthan,Rajasthan,15,15,JODHPUR,Jodhpur,Rajasthan,census_rank_nfhs5,16.337968643826677,medium,RAJASTHAN,JODHPUR
+Rajasthan,Rajasthan,16,16,JAISALMER,Jaisalmer,Rajasthan,census_rank_nfhs5,20.404781868857345,medium,RAJASTHAN,JAISALMER
+Rajasthan,Rajasthan,17,17,BARMER,Barmer,Rajasthan,census_rank_nfhs5,40.775037261436765,medium,RAJASTHAN,BARMER
+Rajasthan,Rajasthan,18,18,JALOR,Jalor,Rajasthan,census_rank_nfhs5,25.370562248280596,medium,RAJASTHAN,JALOR
+Rajasthan,Rajasthan,19,19,SIROHI,Sirohi,Rajasthan,census_rank_nfhs5,40.90834903886627,medium,RAJASTHAN,SIROHI
+Rajasthan,Rajasthan,20,20,PALI,Pali,Rajasthan,census_rank_nfhs5,24.94582039495424,medium,RAJASTHAN,PALI
+Rajasthan,Rajasthan,21,21,AJMER,Ajmer,Rajasthan,census_rank_nfhs5,22.38376438282492,medium,RAJASTHAN,AJMER
+Rajasthan,Rajasthan,22,22,TONK,Tonk,Rajasthan,census_rank_nfhs5,13.029391056133235,high,RAJASTHAN,TONK
+Rajasthan,Rajasthan,23,23,BUNDI,Bundi,Rajasthan,census_rank_nfhs5,36.72717323217459,medium,RAJASTHAN,BUNDI
+Rajasthan,Rajasthan,24,24,BHILWARA,Bhilwara,Rajasthan,census_rank_nfhs5,25.51305778587831,medium,RAJASTHAN,BHILWARA
+Rajasthan,Rajasthan,25,25,RAJSAMAND,Rajsamand,Rajasthan,census_rank_nfhs5,26.10943418042798,medium,RAJASTHAN,RAJSAMAND
+Rajasthan,Rajasthan,26,26,DUNGARPUR,Dungarpur,Rajasthan,census_rank_nfhs5,23.00252696527408,medium,RAJASTHAN,DUNGARPUR
+Rajasthan,Rajasthan,27,27,BANSWARA,Banswara,Rajasthan,census_rank_nfhs5,25.68550634527394,medium,RAJASTHAN,BANSWARA
+Sikkim,Sikkim,1,1,NORTH DISTRICT,North District,Sikkim,census_rank_nfhs5,27.322239771212065,medium,SIKKIM,NORTH DISTRICT
+Sikkim,Sikkim,2,2,WEST DISTRICT,West District,Sikkim,census_rank_nfhs5,20.441215193529267,medium,SIKKIM,WEST DISTRICT
+Sikkim,Sikkim,3,3,SOUTH DISTRICT,South District,Sikkim,census_rank_nfhs5,32.873097918100676,medium,SIKKIM,SOUTH DISTRICT
+Sikkim,Sikkim,4,4,EAST DISTRICT,East District,Sikkim,census_rank_nfhs5,30.45902269221142,medium,SIKKIM,EAST DISTRICT
+Tamil Nadu,Tamil Nadu,1,1,THIRUVALLUR,Thiruvallur,Tamil Nadu,census_rank,,medium,TAMIL NADU,THIRUVALLUR
+Tamil Nadu,Tamil Nadu,2,2,CHENNAI,Chennai,Tamil Nadu,census_rank,,medium,TAMIL NADU,CHENNAI
+Tamil Nadu,Tamil Nadu,3,3,KANCHEEPURAM,Kancheepuram,Tamil Nadu,census_rank,,medium,TAMIL NADU,KANCHEEPURAM
+Tamil Nadu,Tamil Nadu,4,4,VELLORE,Vellore,Tamil Nadu,census_rank,,medium,TAMIL NADU,VELLORE
+Tamil Nadu,Tamil Nadu,5,5,TIRUVANNAMALAI,Tiruvannamalai,Tamil Nadu,census_rank,,medium,TAMIL NADU,TIRUVANNAMALAI
+Tamil Nadu,Tamil Nadu,6,6,VILUPPURAM,Viluppuram,Tamil Nadu,census_rank,,medium,TAMIL NADU,VILUPPURAM
+Tamil Nadu,Tamil Nadu,7,7,SALEM,Salem,Tamil Nadu,census_rank,,medium,TAMIL NADU,SALEM
+Tamil Nadu,Tamil Nadu,8,8,NAMAKKAL,Namakkal,Tamil Nadu,census_rank,,medium,TAMIL NADU,NAMAKKAL
+Tamil Nadu,Tamil Nadu,9,9,ERODE,Erode,Tamil Nadu,census_rank,,medium,TAMIL NADU,ERODE
+Tamil Nadu,Tamil Nadu,10,10,THE NILGIRIS,The Nilgiris,Tamil Nadu,census_rank,,medium,TAMIL NADU,THE NILGIRIS
+Tamil Nadu,Tamil Nadu,11,11,DINDIGUL,Dindigul,Tamil Nadu,census_rank,,medium,TAMIL NADU,DINDIGUL
+Tamil Nadu,Tamil Nadu,12,12,KARUR,Karur,Tamil Nadu,census_rank,,medium,TAMIL NADU,KARUR
+Tamil Nadu,Tamil Nadu,13,13,TIRUCHIRAPPALLI,Tiruchirappalli,Tamil Nadu,census_rank,,medium,TAMIL NADU,TIRUCHIRAPPALLI
+Tamil Nadu,Tamil Nadu,14,14,PERAMBALUR,Perambalur,Tamil Nadu,census_rank,,medium,TAMIL NADU,PERAMBALUR
+Tamil Nadu,Tamil Nadu,15,15,ARIYALUR,Ariyalur,Tamil Nadu,census_rank,,medium,TAMIL NADU,ARIYALUR
+Tamil Nadu,Tamil Nadu,16,16,CUDDALORE,Cuddalore,Tamil Nadu,census_rank,,medium,TAMIL NADU,CUDDALORE
+Tamil Nadu,Tamil Nadu,17,17,NAGAPATTINAM,Nagapattinam,Tamil Nadu,census_rank,,medium,TAMIL NADU,NAGAPATTINAM
+Tamil Nadu,Tamil Nadu,18,18,THIRUVARUR,Thiruvarur,Tamil Nadu,census_rank,,medium,TAMIL NADU,THIRUVARUR
+Tamil Nadu,Tamil Nadu,19,19,THANJAVUR,Thanjavur,Tamil Nadu,census_rank,,medium,TAMIL NADU,THANJAVUR
+Tamil Nadu,Tamil Nadu,20,20,PUDUKKOTTAI,Pudukkottai,Tamil Nadu,census_rank,,medium,TAMIL NADU,PUDUKKOTTAI
+Tamil Nadu,Tamil Nadu,21,21,SIVAGANGA,Sivaganga,Tamil Nadu,census_rank,,medium,TAMIL NADU,SIVAGANGA
+Tripura,Tripura,1,1,WEST TRIPURA,West Tripura,Tripura,census_rank_nfhs5,15.113482163783061,medium,TRIPURA,WEST TRIPURA
+Tripura,Tripura,2,2,SOUTH TRIPURA,South Tripura,Tripura,census_rank_nfhs5,18.848979398562896,medium,TRIPURA,SOUTH TRIPURA
+Tripura,Tripura,3,3,DHALAI,Dhalai,Tripura,census_rank_nfhs5,15.448831264195622,medium,TRIPURA,DHALAI
+Uttar Pradesh,Uttar Pradesh,2,2,MUZAFFARNAGAR,Muzaffarnagar,Uttar Pradesh,census_rank_nfhs5,26.85065735265369,medium,UTTAR PRADESH,MUZAFFARNAGAR
+Uttar Pradesh,Uttar Pradesh,3,3,BIJNOR,Bijnor,Uttar Pradesh,census_rank_nfhs5,27.77786470464161,medium,UTTAR PRADESH,BIJNOR
+Uttar Pradesh,Uttar Pradesh,4,4,MORADABAD,Moradabad,Uttar Pradesh,census_rank_nfhs5,19.59644593489252,medium,UTTAR PRADESH,MORADABAD
+Uttar Pradesh,Uttar Pradesh,5,5,RAMPUR,Rampur,Uttar Pradesh,census_rank_nfhs5,16.175117530180437,medium,UTTAR PRADESH,RAMPUR
+Uttar Pradesh,Uttar Pradesh,6,6,JYOTIBA PHULE NAGAR,Jyotiba Phule Nagar,Uttar Pradesh,census_rank_nfhs5,28.214113181828047,medium,UTTAR PRADESH,JYOTIBA PHULE NAGAR
+Uttar Pradesh,Uttar Pradesh,7,7,MEERUT,Meerut,Uttar Pradesh,census_rank_nfhs5,27.2068346478195,medium,UTTAR PRADESH,MEERUT
+Uttar Pradesh,Uttar Pradesh,8,8,BAGHPAT,Baghpat,Uttar Pradesh,census_rank_nfhs5,18.21803859675744,medium,UTTAR PRADESH,BAGHPAT
+Uttar Pradesh,Uttar Pradesh,9,9,GHAZIABAD,Ghaziabad,Uttar Pradesh,census_rank_nfhs5,20.15955663742944,medium,UTTAR PRADESH,GHAZIABAD
+Uttar Pradesh,Uttar Pradesh,10,10,GAUTAM BUDDHA NAGAR,Gautam Buddha Nagar,Uttar Pradesh,census_rank_nfhs5,21.022673569827294,medium,UTTAR PRADESH,GAUTAM BUDDHA NAGAR
+Uttar Pradesh,Uttar Pradesh,11,11,BULANDSHAHR,Bulandshahr,Uttar Pradesh,census_rank_nfhs5,26.04050792715746,medium,UTTAR PRADESH,BULANDSHAHR
+Uttar Pradesh,Uttar Pradesh,12,12,ALIGARH,Aligarh,Uttar Pradesh,census_rank_nfhs5,19.47404279253926,medium,UTTAR PRADESH,ALIGARH
+Uttar Pradesh,Uttar Pradesh,13,13,MAHAMAYA NAGAR,Mahamaya Nagar,Uttar Pradesh,census_rank_nfhs5,21.4666129280054,medium,UTTAR PRADESH,MAHAMAYA NAGAR
+Uttar Pradesh,Uttar Pradesh,14,14,MATHURA,Mathura,Uttar Pradesh,census_rank_nfhs5,15.554701877685744,medium,UTTAR PRADESH,MATHURA
+Uttar Pradesh,Uttar Pradesh,15,15,AGRA,Agra,Uttar Pradesh,census_rank_nfhs5,13.967194694946304,high,UTTAR PRADESH,AGRA
+Uttar Pradesh,Uttar Pradesh,16,16,FIROZABAD,Firozabad,Uttar Pradesh,census_rank_nfhs5,16.91793729247129,medium,UTTAR PRADESH,FIROZABAD
+Uttar Pradesh,Uttar Pradesh,17,17,MAINPURI,Mainpuri,Uttar Pradesh,census_rank_nfhs5,19.09805886170335,medium,UTTAR PRADESH,MAINPURI
+Uttar Pradesh,Uttar Pradesh,18,18,BUDAUN,Budaun,Uttar Pradesh,census_rank_nfhs5,25.72876271928336,medium,UTTAR PRADESH,BUDAUN
+Uttar Pradesh,Uttar Pradesh,19,19,BAREILLY,Bareilly,Uttar Pradesh,census_rank_nfhs5,29.28324181679265,medium,UTTAR PRADESH,BAREILLY
+Uttar Pradesh,Uttar Pradesh,20,20,PILIBHIT,Pilibhit,Uttar Pradesh,census_rank_nfhs5,19.82960360580413,medium,UTTAR PRADESH,PILIBHIT
+Uttar Pradesh,Uttar Pradesh,21,21,SHAHJAHANPUR,Shahjahanpur,Uttar Pradesh,census_rank_nfhs5,26.524602590906415,medium,UTTAR PRADESH,SHAHJAHANPUR
+Uttar Pradesh,Uttar Pradesh,22,22,KHERI,Kheri,Uttar Pradesh,census_rank_nfhs5,45.85956155066751,medium,UTTAR PRADESH,KHERI
+Uttar Pradesh,Uttar Pradesh,23,23,SITAPUR,Sitapur,Uttar Pradesh,census_rank_nfhs5,24.030175192402588,medium,UTTAR PRADESH,SITAPUR
+Uttar Pradesh,Uttar Pradesh,24,24,HARDOI,Hardoi,Uttar Pradesh,census_rank_nfhs5,27.121593717831228,medium,UTTAR PRADESH,HARDOI
+Uttar Pradesh,Uttar Pradesh,25,25,UNNAO,Unnao,Uttar Pradesh,census_rank_nfhs5,20.972432167093586,medium,UTTAR PRADESH,UNNAO
+Uttar Pradesh,Uttar Pradesh,26,26,LUCKNOW,Lucknow,Uttar Pradesh,census_rank_nfhs5,38.33384822502124,medium,UTTAR PRADESH,LUCKNOW
+Uttar Pradesh,Uttar Pradesh,27,27,RAE BARELI,Rae Bareli,Uttar Pradesh,census_rank_nfhs5,28.37675778643354,medium,UTTAR PRADESH,RAE BARELI
+Uttar Pradesh,Uttar Pradesh,28,28,FARRUKHABAD,Farrukhabad,Uttar Pradesh,census_rank_nfhs5,49.04130511731821,medium,UTTAR PRADESH,FARRUKHABAD
+Uttar Pradesh,Uttar Pradesh,29,29,KANNAUJ,Kannauj,Uttar Pradesh,census_rank_nfhs5,51.36856401447293,medium,UTTAR PRADESH,KANNAUJ
+Uttar Pradesh,Uttar Pradesh,30,30,ETAWAH,Etawah,Uttar Pradesh,census_rank_nfhs5,19.5707255389082,medium,UTTAR PRADESH,ETAWAH
+Uttar Pradesh,Uttar Pradesh,31,31,AURAIYA,Auraiya,Uttar Pradesh,census_rank_nfhs5,42.56179982025461,medium,UTTAR PRADESH,AURAIYA
+Uttar Pradesh,Uttar Pradesh,32,32,KANPUR DEHAT,Kanpur Dehat,Uttar Pradesh,census_rank_nfhs5,49.260795142927996,medium,UTTAR PRADESH,KANPUR DEHAT
+Uttar Pradesh,Uttar Pradesh,33,33,KANPUR NAGAR,Kanpur Nagar,Uttar Pradesh,census_rank_nfhs5,15.775868139685613,medium,UTTAR PRADESH,KANPUR NAGAR
+Uttar Pradesh,Uttar Pradesh,34,34,JALAUN,Jalaun,Uttar Pradesh,census_rank_nfhs5,21.705035936096856,medium,UTTAR PRADESH,JALAUN
+Uttar Pradesh,Uttar Pradesh,35,35,JHANSI,Jhansi,Uttar Pradesh,census_rank_nfhs5,15.991793694119389,medium,UTTAR PRADESH,JHANSI
+Uttar Pradesh,Uttar Pradesh,36,36,LALITPUR,Lalitpur,Uttar Pradesh,census_rank_nfhs5,34.374774622610644,medium,UTTAR PRADESH,LALITPUR
+Uttar Pradesh,Uttar Pradesh,37,37,HAMIRPUR,Hamirpur,Uttar Pradesh,census_rank_nfhs5,26.163744549854773,medium,UTTAR PRADESH,HAMIRPUR
+Uttar Pradesh,Uttar Pradesh,38,38,MAHOBA,Mahoba,Uttar Pradesh,census_rank_nfhs5,35.76235773908037,medium,UTTAR PRADESH,MAHOBA
+Uttar Pradesh,Uttar Pradesh,39,39,BANDA,Banda,Uttar Pradesh,census_rank_nfhs5,27.581364436317635,medium,UTTAR PRADESH,BANDA
+Uttar Pradesh,Uttar Pradesh,41,41,FATEHPUR,Fatehpur,Uttar Pradesh,census_rank_nfhs5,27.981107501629975,medium,UTTAR PRADESH,FATEHPUR
+Uttar Pradesh,Uttar Pradesh,42,42,PRATAPGARH,Pratapgarh,Uttar Pradesh,census_rank_nfhs5,37.747836281472914,medium,UTTAR PRADESH,PRATAPGARH
+Uttar Pradesh,Uttar Pradesh,43,43,KAUSHAMBI,Kaushambi,Uttar Pradesh,census_rank_nfhs5,39.478183505291454,medium,UTTAR PRADESH,KAUSHAMBI
+Uttar Pradesh,Uttar Pradesh,44,44,ALLAHABAD,Allahabad,Uttar Pradesh,census_rank_nfhs5,19.79017059989014,medium,UTTAR PRADESH,ALLAHABAD
+Uttar Pradesh,Uttar Pradesh,45,45,BARA BANKI,Bara Banki,Uttar Pradesh,census_rank_nfhs5,19.481763074163382,medium,UTTAR PRADESH,BARA BANKI
+Uttar Pradesh,Uttar Pradesh,46,46,FAIZABAD,Faizabad,Uttar Pradesh,census_rank_nfhs5,43.90991182081093,medium,UTTAR PRADESH,FAIZABAD
+Uttar Pradesh,Uttar Pradesh,47,47,AMBEDKAR NAGAR,Ambedkar Nagar,Uttar Pradesh,census_rank_nfhs5,27.591327470122508,medium,UTTAR PRADESH,AMBEDKAR NAGAR
+Uttar Pradesh,Uttar Pradesh,48,48,SULTANPUR,Sultanpur,Uttar Pradesh,census_rank_nfhs5,35.521904453362495,medium,UTTAR PRADESH,SULTANPUR
+Uttar Pradesh,Uttar Pradesh,49,49,BAHRAICH,Bahraich,Uttar Pradesh,census_rank_nfhs5,37.04764459871987,medium,UTTAR PRADESH,BAHRAICH
+Uttar Pradesh,Uttar Pradesh,50,50,SHRAWASTI,Shrawasti,Uttar Pradesh,census_rank_nfhs5,57.085584845486025,medium,UTTAR PRADESH,SHRAWASTI
+Uttar Pradesh,Uttar Pradesh,51,51,BALRAMPUR,Balrampur,Uttar Pradesh,census_rank_nfhs5,37.509358253779524,medium,UTTAR PRADESH,BALRAMPUR
+Uttar Pradesh,Uttar Pradesh,52,52,GONDA,Gonda,Uttar Pradesh,census_rank_nfhs5,20.06295748326972,medium,UTTAR PRADESH,GONDA
+Uttar Pradesh,Uttar Pradesh,53,53,SIDDHARTHNAGAR,Siddharth Nagar,Uttar Pradesh,census_rank_fuzzy_nfhs5,,medium,UTTAR PRADESH,SIDDHARTH NAGAR
+Uttar Pradesh,Uttar Pradesh,54,54,BASTI,Basti,Uttar Pradesh,census_rank_nfhs5,19.54008243216239,medium,UTTAR PRADESH,BASTI
+Uttar Pradesh,Uttar Pradesh,55,55,SANT KABIR NAGAR,Sant Kabir Nagar,Uttar Pradesh,census_rank_nfhs5,20.18220046469029,medium,UTTAR PRADESH,SANT KABIR NAGAR
+Uttar Pradesh,Uttar Pradesh,56,56,MAHRAJGANJ,Mahrajganj,Uttar Pradesh,census_rank_nfhs5,35.50461284110982,medium,UTTAR PRADESH,MAHRAJGANJ
+Uttar Pradesh,Uttar Pradesh,57,57,GORAKHPUR,Gorakhpur,Uttar Pradesh,census_rank_nfhs5,27.167817066338028,medium,UTTAR PRADESH,GORAKHPUR
+Uttar Pradesh,Uttar Pradesh,58,58,KUSHINAGAR,Kushinagar,Uttar Pradesh,census_rank_nfhs5,41.610943692687066,medium,UTTAR PRADESH,KUSHINAGAR
+Uttar Pradesh,Uttar Pradesh,59,59,DEORIA,Deoria,Uttar Pradesh,census_rank_nfhs5,37.54962669115106,medium,UTTAR PRADESH,DEORIA
+Uttar Pradesh,Uttar Pradesh,60,60,AZAMGARH,Azamgarh,Uttar Pradesh,census_rank_nfhs5,25.595413054063407,medium,UTTAR PRADESH,AZAMGARH
+Uttar Pradesh,Uttar Pradesh,61,61,MAU,Mau,Uttar Pradesh,census_rank_nfhs5,7.648989918545924,high,UTTAR PRADESH,MAU
+Uttar Pradesh,Uttar Pradesh,62,62,BALLIA,Ballia,Uttar Pradesh,census_rank_nfhs5,34.00944074171809,medium,UTTAR PRADESH,BALLIA
+Uttar Pradesh,Uttar Pradesh,63,63,JAUNPUR,Jaunpur,Uttar Pradesh,census_rank_nfhs5,37.81756275609901,medium,UTTAR PRADESH,JAUNPUR
+West Bengal,West Bengal,1,1,DARJILING,Darjiling,West Bengal,census_rank,,medium,WEST BENGAL,DARJILING
+West Bengal,West Bengal,2,2,JALPAIGURI,Jalpaiguri,West Bengal,census_rank,,medium,WEST BENGAL,JALPAIGURI
+West Bengal,West Bengal,3,3,KOCH BIHAR,Koch Bihar,West Bengal,census_rank,,medium,WEST BENGAL,KOCH BIHAR
+West Bengal,West Bengal,4,4,UTTAR DINAJPUR,Uttar Dinajpur,West Bengal,census_rank,,medium,WEST BENGAL,UTTAR DINAJPUR
+West Bengal,West Bengal,5,5,DAKSHIN DINAJPUR,Dakshin Dinajpur,West Bengal,census_rank,,medium,WEST BENGAL,DAKSHIN DINAJPUR
+West Bengal,West Bengal,6,6,MALDAH,Maldah,West Bengal,census_rank,,medium,WEST BENGAL,MALDAH
+West Bengal,West Bengal,7,7,MURSHIDABAD,Murshidabad,West Bengal,census_rank,,medium,WEST BENGAL,MURSHIDABAD
+West Bengal,West Bengal,8,8,BIRBHUM,Birbhum,West Bengal,census_rank,,medium,WEST BENGAL,BIRBHUM
+West Bengal,West Bengal,9,9,BARDDHAMAN,Barddhaman,West Bengal,census_rank,,medium,WEST BENGAL,BARDDHAMAN
+West Bengal,West Bengal,10,10,NADIA,Nadia,West Bengal,census_rank,,medium,WEST BENGAL,NADIA
+West Bengal,West Bengal,11,11,NORTH TWENTY FOUR PARGANAS,North Twenty Four Parganas,West Bengal,census_rank,,medium,WEST BENGAL,NORTH TWENTY FOUR PARGANAS
+West Bengal,West Bengal,12,12,HUGLI,Hugli,West Bengal,census_rank,,medium,WEST BENGAL,HUGLI
+West Bengal,West Bengal,13,13,BANKURA,Bankura,West Bengal,census_rank,,medium,WEST BENGAL,BANKURA
+West Bengal,West Bengal,14,14,PURULIYA,Puruliya,West Bengal,census_rank,,medium,WEST BENGAL,PURULIYA
+West Bengal,West Bengal,15,15,HAORA,Haora,West Bengal,census_rank,,medium,WEST BENGAL,HAORA
+West Bengal,West Bengal,16,16,KOLKATA,Kolkata,West Bengal,census_rank,,medium,WEST BENGAL,KOLKATA
+West Bengal,West Bengal,17,17,SOUTH TWENTY FOUR PARGANAS,South Twenty Four Parganas,West Bengal,census_rank,,medium,WEST BENGAL,SOUTH TWENTY FOUR PARGANAS

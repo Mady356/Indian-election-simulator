@@ -1,0 +1,2711 @@
+state,constituency,neighbor_state,neighbor_constituency,distance
+Andaman & Nicobar Islands,Andaman & Nicobar Islands,Bihar,Aurangabad,0.5325133281570198
+Andaman & Nicobar Islands,Andaman & Nicobar Islands,Uttar Pradesh,Rampur,0.5433830107606011
+Andaman & Nicobar Islands,Andaman & Nicobar Islands,Bihar,Banka,0.5768441149731159
+Andaman & Nicobar Islands,Andaman & Nicobar Islands,Manipur,Outer Manipur,0.5799966183570797
+Andaman & Nicobar Islands,Andaman & Nicobar Islands,Uttar Pradesh,Kaushambi,0.5894746599809216
+Andhra Pradesh,Amalapuram,Uttarakhand,Nainital-Udhamsingh Nagar,0.07321914288759708
+Andhra Pradesh,Amalapuram,Andhra Pradesh,Srikakulam,0.11327601720121573
+Andhra Pradesh,Amalapuram,Karnataka,Uttara Kannada,0.1348293251379359
+Andhra Pradesh,Amalapuram,Rajasthan,BHILWARA,0.15397886460257035
+Andhra Pradesh,Amalapuram,Rajasthan,AJMER,0.20233171957210366
+Andhra Pradesh,Anakapalle,Andhra Pradesh,Narsapuram,0.13674514514763603
+Andhra Pradesh,Anakapalle,Uttar Pradesh,Ghaziabad,0.3052544467085411
+Andhra Pradesh,Anakapalle,Andhra Pradesh,Vijayawada,0.3056739058962798
+Andhra Pradesh,Anakapalle,Maharashtra,Chandrapur,0.3216011463386136
+Andhra Pradesh,Anakapalle,Jharkhand,Jamshedpur,0.32399745834379323
+Andhra Pradesh,Ananthapur,Andhra Pradesh,Eluru,0.14987413851495618
+Andhra Pradesh,Ananthapur,Chhattisgarh,BILASPUR,0.19663763510642288
+Andhra Pradesh,Ananthapur,West Bengal,Ghatal,0.20278710664029223
+Andhra Pradesh,Ananthapur,Haryana,FARIDABAD,0.22052441287593832
+Andhra Pradesh,Ananthapur,Uttar Pradesh,Kannauj,0.22686088075192332
+Andhra Pradesh,Araku,Maharashtra,Bhiwandi,0.2066222862530162
+Andhra Pradesh,Araku,Kerala,Chalakudy,0.23918648014186236
+Andhra Pradesh,Araku,Tamil Nadu,NAMAKKAL,0.25295553029671314
+Andhra Pradesh,Araku,Tamil Nadu,VILUPPURAM,0.25995777574197093
+Andhra Pradesh,Araku,Bihar,Buxar,0.2682758879558987
+Andhra Pradesh,Bapatla,Andhra Pradesh,Chittoor,0.10786586147400393
+Andhra Pradesh,Bapatla,Uttar Pradesh,Barabanki,0.1282494443592234
+Andhra Pradesh,Bapatla,Andhra Pradesh,Machilipatnam,0.1549687608302822
+Andhra Pradesh,Bapatla,Assam,Lakhimpur,0.15538000193449777
+Andhra Pradesh,Bapatla,Maharashtra,Thane,0.18306254262721433
+Andhra Pradesh,Chittoor,Andhra Pradesh,Bapatla,0.10786586147400393
+Andhra Pradesh,Chittoor,Andhra Pradesh,Machilipatnam,0.14707882594707766
+Andhra Pradesh,Chittoor,Uttar Pradesh,Barabanki,0.18507605814133918
+Andhra Pradesh,Chittoor,Assam,Lakhimpur,0.19054858787069182
+Andhra Pradesh,Chittoor,Chhattisgarh,RAIGARH,0.2039766920619218
+Andhra Pradesh,Eluru,Andhra Pradesh,Ananthapur,0.14987413851495618
+Andhra Pradesh,Eluru,Haryana,FARIDABAD,0.15347637850052737
+Andhra Pradesh,Eluru,Karnataka,Chamarajanagar,0.1698475523069219
+Andhra Pradesh,Eluru,Chhattisgarh,BILASPUR,0.18996298371021045
+Andhra Pradesh,Eluru,Uttar Pradesh,Varanasi,0.20759508465312396
+Andhra Pradesh,Guntur,Rajasthan,JAIPUR,0.17868692703759811
+Andhra Pradesh,Guntur,Andhra Pradesh,Amalapuram,0.20634010110430717
+Andhra Pradesh,Guntur,Uttarakhand,Nainital-Udhamsingh Nagar,0.2283553309781549
+Andhra Pradesh,Guntur,Andhra Pradesh,Srikakulam,0.2558101135866431
+Andhra Pradesh,Guntur,Rajasthan,JHALAWAR-BARAN,0.2622368902392571
+Andhra Pradesh,Hindupur,Maharashtra,Shirur,0.20136505862324358
+Andhra Pradesh,Hindupur,Uttar Pradesh,Gorakhpur,0.21770395730995448
+Andhra Pradesh,Hindupur,Jammu and Kashmir,UDHAMPUR,0.2278726801962979
+Andhra Pradesh,Hindupur,Bihar,Gaya,0.25415315050881915
+Andhra Pradesh,Hindupur,Bihar,Jamui,0.2584739458773318
+Andhra Pradesh,Kadapa,West Bengal,Hooghly,0.13243182942527817
+Andhra Pradesh,Kadapa,Telangana,Secunderabad,0.15401109750676165
+Andhra Pradesh,Kadapa,Uttar Pradesh,Domariyaganj,0.1635769639638674
+Andhra Pradesh,Kadapa,West Bengal,Asansol,0.16361724009539985
+Andhra Pradesh,Kadapa,West Bengal,Barrackpur,0.1954141062067471
+Andhra Pradesh,Kakinada,Haryana,KARNAL,0.026051598262333504
+Andhra Pradesh,Kakinada,Andhra Pradesh,Machilipatnam,0.10626034394437876
+Andhra Pradesh,Kakinada,Andhra Pradesh,Rajahmundry,0.11610528574890379
+Andhra Pradesh,Kakinada,Andhra Pradesh,Nellore,0.20168602061913507
+Andhra Pradesh,Kakinada,Assam,Lakhimpur,0.2050616217234007
+Andhra Pradesh,Kurnoolu,Madhya Pradesh,CHHINDWARA,0.07313458900519526
+Andhra Pradesh,Kurnoolu,Uttar Pradesh,Moradabad,0.08200235543175612
+Andhra Pradesh,Kurnoolu,Andhra Pradesh,Nandyal,0.12423321243875485
+Andhra Pradesh,Kurnoolu,Jharkhand,Godda,0.14673512980967598
+Andhra Pradesh,Kurnoolu,Uttar Pradesh,Firozabad,0.16754226929572585
+Andhra Pradesh,Machilipatnam,Haryana,KARNAL,0.1053217496177729
+Andhra Pradesh,Machilipatnam,Andhra Pradesh,Kakinada,0.10626034394437876
+Andhra Pradesh,Machilipatnam,Andhra Pradesh,Chittoor,0.14707882594707766
+Andhra Pradesh,Machilipatnam,Andhra Pradesh,Bapatla,0.1549687608302822
+Andhra Pradesh,Machilipatnam,Uttar Pradesh,Barabanki,0.15538773334195033
+Andhra Pradesh,Nandyal,Uttar Pradesh,Moradabad,0.07011839007137792
+Andhra Pradesh,Nandyal,Jharkhand,Godda,0.10538374511874894
+Andhra Pradesh,Nandyal,Uttar Pradesh,Jhansi,0.10763580333822076
+Andhra Pradesh,Nandyal,Andhra Pradesh,Kurnoolu,0.12423321243875485
+Andhra Pradesh,Nandyal,Uttar Pradesh,Gorakhpur,0.17127546331157012
+Andhra Pradesh,Narsapuram,Andhra Pradesh,Anakapalle,0.13674514514763603
+Andhra Pradesh,Narsapuram,Maharashtra,Jalgaon,0.21944719819152303
+Andhra Pradesh,Narsapuram,Jharkhand,Jamshedpur,0.24140767452324605
+Andhra Pradesh,Narsapuram,Maharashtra,Chandrapur,0.24952001221320347
+Andhra Pradesh,Narsapuram,Andhra Pradesh,Vijayawada,0.3097290131946417
+Andhra Pradesh,Narsaraopet,Karnataka,Chikkballapur,0.042519972548260086
+Andhra Pradesh,Narsaraopet,Maharashtra,Kolhapur,0.06456840550736159
+Andhra Pradesh,Narsaraopet,Karnataka,Dakshina Kannada,0.07807313966191705
+Andhra Pradesh,Narsaraopet,Assam,Jorhat,0.11978369619625581
+Andhra Pradesh,Narsaraopet,Maharashtra,Nandurbar,0.14541059288269942
+Andhra Pradesh,Nellore,Rajasthan,PALI,0.041979119619379335
+Andhra Pradesh,Nellore,Chhattisgarh,RAIGARH,0.1440942531437421
+Andhra Pradesh,Nellore,Haryana,KARNAL,0.17818487233071517
+Andhra Pradesh,Nellore,Karnataka,Shimoga,0.18730089282348475
+Andhra Pradesh,Nellore,Andhra Pradesh,Machilipatnam,0.18824674728344878
+Andhra Pradesh,Ongole,Haryana,AMBALA,0.02844333940799066
+Andhra Pradesh,Ongole,Chhattisgarh,RAJNANDGAON,0.06219421141731035
+Andhra Pradesh,Ongole,Haryana,BHIWANI-MAHENDRAGARH,0.10592031201138144
+Andhra Pradesh,Ongole,Karnataka,Hassan,0.11498261947927714
+Andhra Pradesh,Ongole,Karnataka,Koppal,0.1312103465966113
+Andhra Pradesh,Rajahmundry,Haryana,KARNAL,0.11316733157057697
+Andhra Pradesh,Rajahmundry,Andhra Pradesh,Kakinada,0.11610528574890379
+Andhra Pradesh,Rajahmundry,Odisha,Bargarh,0.15477266264851738
+Andhra Pradesh,Rajahmundry,Andhra Pradesh,Machilipatnam,0.21188331571646427
+Andhra Pradesh,Rajahmundry,Andhra Pradesh,Nellore,0.21820191811121106
+Andhra Pradesh,Rajampet,West Bengal,Bangaon,0.08479196822511352
+Andhra Pradesh,Rajampet,Odisha,Kendrapara,0.09905816536584057
+Andhra Pradesh,Rajampet,West Bengal,Jalpaiguri,0.10319264808820913
+Andhra Pradesh,Rajampet,Maharashtra,Ramtek,0.10569264428166418
+Andhra Pradesh,Rajampet,Bihar,Arrah,0.11515545412935965
+Andhra Pradesh,Srikakulam,Uttarakhand,Nainital-Udhamsingh Nagar,0.04703997836694361
+Andhra Pradesh,Srikakulam,Andhra Pradesh,Amalapuram,0.11327601720121573
+Andhra Pradesh,Srikakulam,Karnataka,Uttara Kannada,0.18824863331186117
+Andhra Pradesh,Srikakulam,Rajasthan,AJMER,0.21682531761610985
+Andhra Pradesh,Srikakulam,Rajasthan,BHILWARA,0.24359477571430105
+Andhra Pradesh,Thirupathi,Bihar,Saran,0.08187819844792733
+Andhra Pradesh,Thirupathi,West Bengal,Arambag,0.11132417750950205
+Andhra Pradesh,Thirupathi,Jharkhand,Dumka,0.11378613394926555
+Andhra Pradesh,Thirupathi,Uttar Pradesh,Bansgaon,0.11513675930173523
+Andhra Pradesh,Thirupathi,Uttar Pradesh,Aonla,0.11537779958196404
+Andhra Pradesh,Vijayawada,NCT OF Delhi,North-West Delhi,0.14108963377493136
+Andhra Pradesh,Vijayawada,Karnataka,Mandya,0.1444954964719366
+Andhra Pradesh,Vijayawada,Maharashtra,Chandrapur,0.17450370303871618
+Andhra Pradesh,Vijayawada,Maharashtra,Jalgaon,0.27518352217179015
+Andhra Pradesh,Vijayawada,Gujarat,Surendranagar,0.2907007185456037
+Andhra Pradesh,Visakhapatnam,Madhya Pradesh,MANDSOUR,0.20231729893552974
+Andhra Pradesh,Visakhapatnam,Madhya Pradesh,BHOPAL,0.2906793532387961
+Andhra Pradesh,Visakhapatnam,Gujarat,Rajkot,0.3793824930156887
+Andhra Pradesh,Visakhapatnam,Madhya Pradesh,GUNA,0.45399547010765506
+Andhra Pradesh,Visakhapatnam,Chhattisgarh,RAIPUR,0.5115273183639025
+Andhra Pradesh,Vizianagaram,Karnataka,Shimoga,0.16327918198022023
+Andhra Pradesh,Vizianagaram,Jharkhand,Jamshedpur,0.1952617473957972
+Andhra Pradesh,Vizianagaram,Madhya Pradesh,KHANDWA,0.1971036377970201
+Andhra Pradesh,Vizianagaram,Maharashtra,Chandrapur,0.1977631048545209
+Andhra Pradesh,Vizianagaram,Maharashtra,Jalgaon,0.22904293500426373
+Arunachal Pradesh,Arunachal East,Kerala,Kottayam,0.4421203934360575
+Arunachal Pradesh,Arunachal East,Madhya Pradesh,SATNA,0.45332768046900923
+Arunachal Pradesh,Arunachal East,Tamil Nadu,SALEM,0.5078669897328216
+Arunachal Pradesh,Arunachal East,Kerala,Kasaragod,0.5665631959039674
+Arunachal Pradesh,Arunachal East,Maharashtra,Jalna,0.5729854509564181
+Arunachal Pradesh,Arunachal West,Assam,Diphu,0.5513706725990603
+Arunachal Pradesh,Arunachal West,Jammu and Kashmir,SRINAGAR,0.6849235810781615
+Arunachal Pradesh,Arunachal West,Ladakh,Ladakh,0.8203118858845561
+Arunachal Pradesh,Arunachal West,Madhya Pradesh,REWA,0.9181983724584885
+Arunachal Pradesh,Arunachal West,Kerala,Kollam,1.0004697485054999
+Assam,Barpeta,Assam,Nagaon,0.08664897740170684
+Assam,Barpeta,West Bengal,Mathurapur,0.19707878611907564
+Assam,Barpeta,Madhya Pradesh,RATLAM,0.21345664465810324
+Assam,Barpeta,West Bengal,Uluberia,0.2682903789320894
+Assam,Barpeta,West Bengal,Ranaghat,0.2760190350886933
+Assam,Darrang-Udalguri,Rajasthan,UDAIPUR,0.5662845123771262
+Assam,Darrang-Udalguri,West Bengal,Jadavpur,0.6963083802073159
+Assam,Darrang-Udalguri,Tamil Nadu,THENI,0.7283276585248526
+Assam,Darrang-Udalguri,Tamil Nadu,POLLACHI,0.7360610098615679
+Assam,Darrang-Udalguri,Tamil Nadu,TIRUVANNAMALAI,0.7802374399779672
+Assam,Dhubri,West Bengal,Diamond harbour,2.541495958822684
+Assam,Dhubri,Telangana,Nalgonda,3.123143696677269
+Assam,Dhubri,Uttar Pradesh,Gautam Buddha Nagar,3.1279538419423685
+Assam,Dhubri,Tamil Nadu,TIRUVALLUR,3.1454104043445095
+Assam,Dhubri,Madhya Pradesh,VIDISHA,3.2493438949962665
+Assam,Dibrugarh,Haryana,SIRSA,0.2033683931224124
+Assam,Dibrugarh,Jharkhand,Palamu,0.2640835584943358
+Assam,Dibrugarh,Uttar Pradesh,Agra,0.32479581885611836
+Assam,Dibrugarh,Kerala,Ponnani,0.3286122027366387
+Assam,Dibrugarh,Maharashtra,Raver,0.33186026622568593
+Assam,Diphu,Bihar,Jhanjharpur,0.49903390795088776
+Assam,Diphu,Arunachal Pradesh,Arunachal West,0.5513706725990603
+Assam,Diphu,Kerala,Kollam,0.5627250964388056
+Assam,Diphu,Bihar,Jahanabad,0.5798936760104412
+Assam,Diphu,Tamil Nadu,NAGAPATTINAM,0.5940133048521441
+Assam,Guwahati,Karnataka,Bangalore North,0.15537669953411457
+Assam,Guwahati,Chhattisgarh,RAIGARH,0.16211122467081918
+Assam,Guwahati,Assam,Kaziranga,0.17883925938618234
+Assam,Guwahati,Karnataka,Shimoga,0.20424731552977474
+Assam,Guwahati,Madhya Pradesh,DHAR,0.22730749430741715
+Assam,Jorhat,Karnataka,Dakshina Kannada,0.04322025189356049
+Assam,Jorhat,Maharashtra,Kolhapur,0.10642157972678896
+Assam,Jorhat,Karnataka,Mysore,0.11247365489385192
+Assam,Jorhat,Maharashtra,Nagpur,0.119609402144255
+Assam,Jorhat,Andhra Pradesh,Narsaraopet,0.11978369619625581
+Assam,Karimganj,Bihar,Purnia,0.07060223523600058
+Assam,Karimganj,West Bengal,Medinipur,0.07704805816861138
+Assam,Karimganj,Bihar,Araria,0.08775152620117573
+Assam,Karimganj,Karnataka,Davanagere,0.0963006884124518
+Assam,Karimganj,Maharashtra,Satara,0.1621336310848032
+Assam,Kaziranga,Chhattisgarh,RAIGARH,0.14993503713087755
+Assam,Kaziranga,Assam,Guwahati,0.17883925938618234
+Assam,Kaziranga,Andhra Pradesh,Chittoor,0.2061011428691225
+Assam,Kaziranga,Andhra Pradesh,Machilipatnam,0.25441686909591327
+Assam,Kaziranga,Andhra Pradesh,Nellore,0.2560168071428202
+Assam,Kokrajhar,Maharashtra,Bhiwandi,0.42175092533738406
+Assam,Kokrajhar,Uttar Pradesh,Banda,0.44275921025205983
+Assam,Kokrajhar,Andhra Pradesh,Araku,0.4942019694629009
+Assam,Kokrajhar,Odisha,Nabarangpur,0.5190280079278307
+Assam,Kokrajhar,West Bengal,Maldaha Uttar,0.5254074388069279
+Assam,Lakhimpur,Andhra Pradesh,Bapatla,0.15538000193449777
+Assam,Lakhimpur,Andhra Pradesh,Machilipatnam,0.17610835525357738
+Assam,Lakhimpur,Andhra Pradesh,Chittoor,0.19054858787069182
+Assam,Lakhimpur,Bihar,Darbhanga,0.19570611223646445
+Assam,Lakhimpur,Andhra Pradesh,Kakinada,0.2050616217234007
+Assam,Nagaon,Assam,Barpeta,0.08664897740170684
+Assam,Nagaon,West Bengal,Mathurapur,0.13227186588816278
+Assam,Nagaon,Madhya Pradesh,RATLAM,0.2122841095377279
+Assam,Nagaon,West Bengal,Darjeeling,0.23919514874976833
+Assam,Nagaon,West Bengal,Ranaghat,0.24557010674276422
+Assam,Silchar,Gujarat,Kachchh,0.06989839203701745
+Assam,Silchar,Gujarat,Surendranagar,0.14364252018017817
+Assam,Silchar,Himachal Pradesh,KANGRA,0.24397113258606734
+Assam,Silchar,Karnataka,Bangalore South,0.25838247204195164
+Assam,Silchar,Gujarat,Jamnagar,0.26463185460046484
+Assam,Sonitpur,Madhya Pradesh,BETUL,0.21254894609699376
+Assam,Sonitpur,Rajasthan,CHITTORGARH,0.29725866854147137
+Assam,Sonitpur,Rajasthan,JHALAWAR-BARAN,0.29782662776613245
+Assam,Sonitpur,Gujarat,Dahod,0.3313331925784641
+Assam,Sonitpur,Uttarakhand,Nainital-Udhamsingh Nagar,0.33985960094706597
+Bihar,Araria,Karnataka,Davanagere,0.0577435873547516
+Bihar,Araria,Assam,Karimganj,0.08775152620117573
+Bihar,Araria,Bihar,Purnia,0.13917479241357292
+Bihar,Araria,West Bengal,Medinipur,0.13929306105302128
+Bihar,Araria,Goa,South Goa,0.1483062956704599
+Bihar,Arrah,Odisha,Kendrapara,0.07970293284244684
+Bihar,Arrah,Haryana,HISAR,0.0846978273142517
+Bihar,Arrah,Uttar Pradesh,Allahabad,0.11100421649741211
+Bihar,Arrah,Andhra Pradesh,Rajampet,0.11515545412935965
+Bihar,Arrah,West Bengal,Bangaon,0.11588567305989408
+Bihar,Aurangabad,Uttar Pradesh,Firozabad,0.09447409602659568
+Bihar,Aurangabad,Maharashtra,Wardha,0.113060202302188
+Bihar,Aurangabad,Uttar Pradesh,Shrawasti,0.11338245129289266
+Bihar,Aurangabad,Uttar Pradesh,Rampur,0.15025551542211754
+Bihar,Aurangabad,Maharashtra,Sangli,0.1655420586739454
+Bihar,Banka,Kerala,Vadakara,0.09059801980863098
+Bihar,Banka,Odisha,Sambalpur,0.13290421304851868
+Bihar,Banka,Bihar,Bhagalpur,0.13345535354078988
+Bihar,Banka,Uttar Pradesh,Kaushambi,0.14472886600227322
+Bihar,Banka,Madhya Pradesh,CHHINDWARA,0.1715738906992153
+Bihar,Begusarai,Odisha,Dhenkanal,0.038833555552006634
+Bihar,Begusarai,Gujarat,Bharuch,0.11501123129039557
+Bihar,Begusarai,Bihar,Patliputra,0.13654244644380845
+Bihar,Begusarai,Madhya Pradesh,GWALIOR,0.14052468581367256
+Bihar,Begusarai,Rajasthan,SIKAR,0.18870189545607655
+Bihar,Bhagalpur,Uttar Pradesh,Kaushambi,0.044546772696978626
+Bihar,Bhagalpur,Bihar,Banka,0.13345535354078988
+Bihar,Bhagalpur,Kerala,Vadakara,0.14559010586084586
+Bihar,Bhagalpur,Uttar Pradesh,Rampur,0.16361978094795773
+Bihar,Bhagalpur,Uttar Pradesh,Moradabad,0.17746847392545445
+Bihar,Buxar,Tamil Nadu,NAMAKKAL,0.1127973229949731
+Bihar,Buxar,West Bengal,Purulia,0.1960390199890255
+Bihar,Buxar,Uttar Pradesh,Bijnor,0.21776801690553405
+Bihar,Buxar,Andhra Pradesh,Araku,0.2682758879558987
+Bihar,Buxar,Maharashtra,Hatkanangale,0.26940744864976734
+Bihar,Darbhanga,Uttar Pradesh,Amethi,0.0982927185930924
+Bihar,Darbhanga,Assam,Lakhimpur,0.19570611223646445
+Bihar,Darbhanga,Jharkhand,Khunti,0.25167469788108243
+Bihar,Darbhanga,Andhra Pradesh,Bapatla,0.2536481165395089
+Bihar,Darbhanga,Uttar Pradesh,Barabanki,0.3021908067329709
+Bihar,Gaya,Bihar,Jamui,0.1450532289590506
+Bihar,Gaya,Uttar Pradesh,Kaushambi,0.16571416535781178
+Bihar,Gaya,Uttar Pradesh,Gorakhpur,0.168251635777635
+Bihar,Gaya,Jammu and Kashmir,UDHAMPUR,0.17550712271270175
+Bihar,Gaya,Bihar,Bhagalpur,0.19364912125228403
+Bihar,Gopalganj,Uttar Pradesh,Ghazipur,0.20558688657690485
+Bihar,Gopalganj,Kerala,Kozhikode,0.21521351379664647
+Bihar,Gopalganj,Uttar Pradesh,Ambedkar Nagar,0.2578881032920129
+Bihar,Gopalganj,Manipur,Inner Manipur,0.27770353269923387
+Bihar,Gopalganj,Uttar Pradesh,Sambhal,0.3272428723395132
+Bihar,Hajipur,Bihar,Madhepura,0.07278531948295659
+Bihar,Hajipur,Uttar Pradesh,Kannauj,0.09662216613237967
+Bihar,Hajipur,Bihar,Madhubani,0.17289614123831173
+Bihar,Hajipur,Uttar Pradesh,Pilibhit,0.17571164678442475
+Bihar,Hajipur,Uttar Pradesh,Kaiserganj,0.2322250667914642
+Bihar,Jahanabad,Tamil Nadu,KARUR,0.19626942063381747
+Bihar,Jahanabad,Tamil Nadu,TIRUNELVELI,0.2502263515307005
+Bihar,Jahanabad,Bihar,Supaul,0.3108876835826953
+Bihar,Jahanabad,Bihar,Nalanda,0.3109246726926666
+Bihar,Jahanabad,Bihar,Jhanjharpur,0.33433859138131744
+Bihar,Jamui,Bihar,Gaya,0.1450532289590506
+Bihar,Jamui,Jammu and Kashmir,UDHAMPUR,0.16644544564111546
+Bihar,Jamui,Bihar,Maharajganj,0.21066089624008089
+Bihar,Jamui,Maharashtra,Pune,0.2518704528515819
+Bihar,Jamui,Andhra Pradesh,Hindupur,0.2584739458773318
+Bihar,Jhanjharpur,Bihar,Nalanda,0.2758460744754807
+Bihar,Jhanjharpur,Tamil Nadu,KARUR,0.2992496377446884
+Bihar,Jhanjharpur,Bihar,Jahanabad,0.33433859138131744
+Bihar,Jhanjharpur,Bihar,Supaul,0.3357863607596859
+Bihar,Jhanjharpur,Tamil Nadu,TIRUNELVELI,0.3389977769965151
+Bihar,Karakat,Bihar,Siwan,0.3571819898387046
+Bihar,Karakat,Maharashtra,Aurangabad,0.40381617939288567
+Bihar,Karakat,Punjab,Gurdaspur,0.6394806616904775
+Bihar,Karakat,Jharkhand,Giridih,0.6501340229785978
+Bihar,Karakat,Bihar,Kishanganj,0.7222695082924971
+Bihar,Katihar,Uttar Pradesh,Faizabad,0.06223925897468332
+Bihar,Katihar,Chhattisgarh,JANJGIR-CHAMPA,0.10080728516579042
+Bihar,Katihar,Rajasthan,NAGAUR,0.10437262571937794
+Bihar,Katihar,Maharashtra,Ratnagiri- Sindhudurg,0.1297052440788803
+Bihar,Katihar,Uttar Pradesh,Akbarpur,0.15302784836138644
+Bihar,Khagaria,Jharkhand,Rajmahal,0.14099950344839937
+Bihar,Khagaria,Jharkhand,Singhbhum,0.1996019588384613
+Bihar,Khagaria,Maharashtra,Nashik,0.21820578991809683
+Bihar,Khagaria,Jharkhand,Lohardaga,0.21937178134645374
+Bihar,Khagaria,Uttar Pradesh,Nagina,0.22714494388141598
+Bihar,Kishanganj,Jharkhand,Giridih,0.22760234196608076
+Bihar,Kishanganj,Telangana,Medak,0.37857810590832247
+Bihar,Kishanganj,Tamil Nadu,DHARMAPURI,0.41532468476031836
+Bihar,Kishanganj,Tamil Nadu,VIRUDHUNAGAR,0.6116964041574326
+Bihar,Kishanganj,Assam,Kokrajhar,0.6316537998661904
+Bihar,Madhepura,Uttar Pradesh,Kannauj,0.05700906270888492
+Bihar,Madhepura,Bihar,Hajipur,0.07278531948295659
+Bihar,Madhepura,Uttar Pradesh,Pilibhit,0.12616599003571882
+Bihar,Madhepura,Bihar,Madhubani,0.2395700098305291
+Bihar,Madhepura,Andhra Pradesh,Ananthapur,0.24001065993633625
+Bihar,Madhubani,Uttar Pradesh,Kaiserganj,0.09497626205662059
+Bihar,Madhubani,Jharkhand,Khunti,0.15701957471953606
+Bihar,Madhubani,Bihar,Hajipur,0.17289614123831173
+Bihar,Madhubani,Uttar Pradesh,Varanasi,0.21441430404173764
+Bihar,Madhubani,Bihar,Patna Sahib,0.22143423826394912
+Bihar,Maharajganj,Maharashtra,Pune,0.19804084033191524
+Bihar,Maharajganj,Bihar,Jamui,0.21066089624008089
+Bihar,Maharajganj,Odisha,Puri,0.21708423680851902
+Bihar,Maharajganj,Bihar,Gaya,0.2347681723574345
+Bihar,Maharajganj,Jammu and Kashmir,JAMMU,0.25215627286438014
+Bihar,Munger,Maharashtra,Wardha,0.07485304882311777
+Bihar,Munger,Bihar,Vaishali,0.08401420829883313
+Bihar,Munger,Maharashtra,Yavatmal- Washim,0.11280528232103348
+Bihar,Munger,Uttar Pradesh,Sitapur,0.1181514675929923
+Bihar,Munger,Uttar Pradesh,Kushi Nagar,0.13766324401296937
+Bihar,Muzaffarpur,Odisha,Bargarh,0.24482245171521172
+Bihar,Muzaffarpur,Kerala,Ponnani,0.2564713124341351
+Bihar,Muzaffarpur,Uttar Pradesh,Mainpuri,0.292957596947486
+Bihar,Muzaffarpur,Maharashtra,Kalyan,0.3034360604694767
+Bihar,Muzaffarpur,Andhra Pradesh,Rajahmundry,0.3069259466611715
+Bihar,Nalanda,Bihar,Supaul,0.11455443550451477
+Bihar,Nalanda,Odisha,Berhampur,0.20836037836443355
+Bihar,Nalanda,Uttar Pradesh,Azamgarh,0.22144048152921605
+Bihar,Nalanda,Kerala,Kollam,0.2714584004808411
+Bihar,Nalanda,Bihar,Jhanjharpur,0.2758460744754807
+Bihar,Nawada,Uttar Pradesh,Pratapgarh,0.10120552319495178
+Bihar,Nawada,Uttar Pradesh,Kushi Nagar,0.21300207033293514
+Bihar,Nawada,West Bengal,Kolkata Uttar,0.2418706462383031
+Bihar,Nawada,Bihar,Valmiki Nagar,0.2527446646585578
+Bihar,Nawada,Telangana,Adilabad,0.2587685581234785
+Bihar,Paschim Champaran,Maharashtra,Gadchiroli - Chimur,0.09417306889846518
+Bihar,Paschim Champaran,Gujarat,Sabarkantha,0.13524095519112758
+Bihar,Paschim Champaran,Uttar Pradesh,Lucknow,0.16248803809572304
+Bihar,Paschim Champaran,Uttar Pradesh,Kaiserganj,0.1643723672810747
+Bihar,Paschim Champaran,Chhattisgarh,MAHASAMUND,0.17289988738569959
+Bihar,Patliputra,Maharashtra,Raigad,0.1270247413187447
+Bihar,Patliputra,Uttar Pradesh,Jhansi,0.12991090414842715
+Bihar,Patliputra,Bihar,Begusarai,0.13654244644380845
+Bihar,Patliputra,Bihar,Purvi Champaran,0.14505758416051015
+Bihar,Patliputra,Jharkhand,Godda,0.151425437215709
+Bihar,Patna Sahib,Uttar Pradesh,Varanasi,0.09520731379377033
+Bihar,Patna Sahib,Uttar Pradesh,Kaiserganj,0.17792698865382559
+Bihar,Patna Sahib,Jharkhand,Khunti,0.20249582117992124
+Bihar,Patna Sahib,Bihar,Madhubani,0.22143423826394912
+Bihar,Patna Sahib,Gujarat,Junagadh,0.22498473564440158
+Bihar,Purnia,West Bengal,Medinipur,0.029662373457798843
+Bihar,Purnia,Assam,Karimganj,0.07060223523600058
+Bihar,Purnia,Maharashtra,Satara,0.09881018836484362
+Bihar,Purnia,Maharashtra,Ahmednagar,0.09899882736648084
+Bihar,Purnia,Karnataka,Davanagere,0.11588636433104967
+Bihar,Purvi Champaran,Maharashtra,Raigad,0.07903386983516532
+Bihar,Purvi Champaran,Uttar Pradesh,Gorakhpur,0.12846170432831866
+Bihar,Purvi Champaran,Uttar Pradesh,Jhansi,0.13762025810118264
+Bihar,Purvi Champaran,Bihar,Patliputra,0.14505758416051015
+Bihar,Purvi Champaran,Gujarat,Bharuch,0.1702446599473986
+Bihar,Samastipur,Tamil Nadu,KANNIYAKUMARI,0.0653635461744059
+Bihar,Samastipur,Uttar Pradesh,Baghpat,0.20920478212245885
+Bihar,Samastipur,West Bengal,Uluberia,0.2763896641387998
+Bihar,Samastipur,Jharkhand,Singhbhum,0.3270146325569615
+Bihar,Samastipur,Bihar,Madhepura,0.333156877660629
+Bihar,Saran,Andhra Pradesh,Thirupathi,0.08187819844792733
+Bihar,Saran,Jharkhand,Dumka,0.09502297830287426
+Bihar,Saran,Uttar Pradesh,Meerut,0.10981868458975322
+Bihar,Saran,West Bengal,Arambag,0.11796358084704094
+Bihar,Saran,Bihar,Sasaram,0.12794045859479863
+Bihar,Sasaram,Maharashtra,Ahmednagar,0.09521895176053416
+Bihar,Sasaram,West Bengal,Balurghat,0.11243912686016426
+Bihar,Sasaram,Uttar Pradesh,Etah,0.11866618175963012
+Bihar,Sasaram,Uttar Pradesh,Meerut,0.12031675607073485
+Bihar,Sasaram,Bihar,Saran,0.12794045859479863
+Bihar,Sheohar,Haryana,KURUKSHETRA,0.048478864179759044
+Bihar,Sheohar,Uttar Pradesh,Fatehpur,0.058011974024622937
+Bihar,Sheohar,Uttar Pradesh,Misrikh,0.08832543019022703
+Bihar,Sheohar,Uttar Pradesh,Hardoi,0.1284373580819038
+Bihar,Sheohar,West Bengal,Bankura,0.14667603141743993
+Bihar,Sitamarhi,Uttar Pradesh,Jalaun,0.04071160946866186
+Bihar,Sitamarhi,Odisha,Cuttack,0.09414549925451327
+Bihar,Sitamarhi,Maharashtra,Nanded,0.10052112920052791
+Bihar,Sitamarhi,West Bengal,Asansol,0.11442169848975958
+Bihar,Sitamarhi,Uttar Pradesh,Etawah,0.12154383253784387
+Bihar,Siwan,Bihar,Karakat,0.3571819898387046
+Bihar,Siwan,Jharkhand,Giridih,0.5503997895390063
+Bihar,Siwan,Tamil Nadu,TIRUPPUR,0.63203582625995
+Bihar,Siwan,Odisha,Koraput,0.6544398951371714
+Bihar,Siwan,Bihar,Kishanganj,0.6699372951770588
+Bihar,Supaul,Bihar,Nalanda,0.11455443550451477
+Bihar,Supaul,Uttar Pradesh,Azamgarh,0.25102056829082525
+Bihar,Supaul,Tamil Nadu,KARUR,0.26989893918311203
+Bihar,Supaul,West Bengal,Birbhum,0.2729547571275763
+Bihar,Supaul,Odisha,Berhampur,0.29133387447333237
+Bihar,Ujiarpur,Maharashtra,Latur,0.0846676392072443
+Bihar,Ujiarpur,Maharashtra,Mumbai South Central,0.1083986078751152
+Bihar,Ujiarpur,Uttar Pradesh,Baharaich,0.11403014107377869
+Bihar,Ujiarpur,Maharashtra,Ratnagiri- Sindhudurg,0.119314576606372
+Bihar,Ujiarpur,Chhattisgarh,SURGUJA,0.1399035896798664
+Bihar,Vaishali,Uttar Pradesh,Sitapur,0.05057136932048818
+Bihar,Vaishali,Maharashtra,Yavatmal- Washim,0.05288104061188296
+Bihar,Vaishali,Bihar,Munger,0.08401420829883313
+Bihar,Vaishali,Maharashtra,Wardha,0.10246632316219736
+Bihar,Vaishali,Uttar Pradesh,Kushi Nagar,0.12561798758724213
+Bihar,Valmiki Nagar,West Bengal,Kolkata Uttar,0.10889611712104601
+Bihar,Valmiki Nagar,Uttar Pradesh,Jaunpur,0.18042934033815491
+Bihar,Valmiki Nagar,Telangana,Nizamabad,0.2160533764409672
+Bihar,Valmiki Nagar,Uttar Pradesh,Sambhal,0.23515794221614753
+Bihar,Valmiki Nagar,Maharashtra,Dindori,0.23968165449482806
+Chandigarh,Chandigarh,Maharashtra,Dhule,0.06351772938414857
+Chandigarh,Chandigarh,Maharashtra,Mumbai North West,0.15539401017298693
+Chandigarh,Chandigarh,Maharashtra,Mumbai North Central,0.17495788318769645
+Chandigarh,Chandigarh,Rajasthan,JAIPUR RURAL,0.19375700313735653
+Chandigarh,Chandigarh,Chhattisgarh,KANKER,0.19791795612490556
+Chhattisgarh,BASTAR,Maharashtra,Shirdi,0.09938454924597714
+Chhattisgarh,BASTAR,West Bengal,Barrackpur,0.1060880869491386
+Chhattisgarh,BASTAR,Tamil Nadu,KALLAKURICHI,0.13683535367346036
+Chhattisgarh,BASTAR,Uttar Pradesh,Saharanpur,0.1510545083655942
+Chhattisgarh,BASTAR,Telangana,Secunderabad,0.18420702254148288
+Chhattisgarh,BILASPUR,Gujarat,Sabarkantha,0.06520324359499456
+Chhattisgarh,BILASPUR,Haryana,FARIDABAD,0.11989833518501528
+Chhattisgarh,BILASPUR,Maharashtra,Nandurbar,0.13015603799874423
+Chhattisgarh,BILASPUR,Maharashtra,Gadchiroli - Chimur,0.17005701440176005
+Chhattisgarh,BILASPUR,Chhattisgarh,MAHASAMUND,0.17600779660034907
+Chhattisgarh,DURG,Madhya Pradesh,DEWAS,0.24587867568308036
+Chhattisgarh,DURG,Gujarat,Chhota Udaipur,0.400907688989666
+Chhattisgarh,DURG,Madhya Pradesh,BETUL,0.4636470169617431
+Chhattisgarh,DURG,Madhya Pradesh,UJJAIN,0.469800889278473
+Chhattisgarh,DURG,Rajasthan,JHALAWAR-BARAN,0.5289464436154253
+Chhattisgarh,JANJGIR-CHAMPA,Chhattisgarh,SURGUJA,0.06451856348268929
+Chhattisgarh,JANJGIR-CHAMPA,Uttar Pradesh,Faizabad,0.08511396484518526
+Chhattisgarh,JANJGIR-CHAMPA,Maharashtra,Latur,0.08722923355187152
+Chhattisgarh,JANJGIR-CHAMPA,Bihar,Katihar,0.10080728516579042
+Chhattisgarh,JANJGIR-CHAMPA,Maharashtra,Ratnagiri- Sindhudurg,0.12837839275928106
+Chhattisgarh,KANKER,Uttar Pradesh,Farrukhabad,0.011767925786821634
+Chhattisgarh,KANKER,Maharashtra,Mumbai North West,0.053629150947450174
+Chhattisgarh,KANKER,Maharashtra,Dhule,0.13748075694887807
+Chhattisgarh,KANKER,Assam,Karimganj,0.1930309655599578
+Chhattisgarh,KANKER,Chandigarh,Chandigarh,0.19791795612490556
+Chhattisgarh,KORBA,Uttar Pradesh,Ballia,0.08868030419936003
+Chhattisgarh,KORBA,Uttar Pradesh,Badaun,0.09863009882813786
+Chhattisgarh,KORBA,Odisha,Jagatsinghpur,0.10745746827819319
+Chhattisgarh,KORBA,Uttar Pradesh,Kheri,0.11971195870297809
+Chhattisgarh,KORBA,Bihar,Sitamarhi,0.14234996681249992
+Chhattisgarh,MAHASAMUND,Jammu and Kashmir,JAMMU,0.0916087040602689
+Chhattisgarh,MAHASAMUND,Madhya Pradesh,RAJGARH,0.09284939651721082
+Chhattisgarh,MAHASAMUND,Maharashtra,Nandurbar,0.12810398462509512
+Chhattisgarh,MAHASAMUND,Gujarat,Sabarkantha,0.14859007916374764
+Chhattisgarh,MAHASAMUND,Maharashtra,Gadchiroli - Chimur,0.15331513399081845
+Chhattisgarh,RAIGARH,Andhra Pradesh,Nellore,0.1440942531437421
+Chhattisgarh,RAIGARH,Assam,Kaziranga,0.14993503713087755
+Chhattisgarh,RAIGARH,Rajasthan,PALI,0.16086707434204783
+Chhattisgarh,RAIGARH,Assam,Guwahati,0.16211122467081918
+Chhattisgarh,RAIGARH,Andhra Pradesh,Machilipatnam,0.17162885963156174
+Chhattisgarh,RAIPUR,Madhya Pradesh,GUNA,0.388996492447078
+Chhattisgarh,RAIPUR,Andhra Pradesh,Visakhapatnam,0.5115273183639025
+Chhattisgarh,RAIPUR,Madhya Pradesh,MANDSOUR,0.5291490238846924
+Chhattisgarh,RAIPUR,Madhya Pradesh,BHOPAL,0.5739269287377256
+Chhattisgarh,RAIPUR,Gujarat,Rajkot,0.6700582368988705
+Chhattisgarh,RAJNANDGAON,Andhra Pradesh,Ongole,0.06219421141731035
+Chhattisgarh,RAJNANDGAON,Haryana,AMBALA,0.07529050021791098
+Chhattisgarh,RAJNANDGAON,Karnataka,Hassan,0.08515045407024095
+Chhattisgarh,RAJNANDGAON,Haryana,BHIWANI-MAHENDRAGARH,0.09060684388205716
+Chhattisgarh,RAJNANDGAON,Uttar Pradesh,Maharajganj,0.10075464848535524
+Chhattisgarh,SURGUJA,Maharashtra,Latur,0.05793249486458784
+Chhattisgarh,SURGUJA,Chhattisgarh,JANJGIR-CHAMPA,0.06451856348268929
+Chhattisgarh,SURGUJA,Uttar Pradesh,Faizabad,0.13649369575044173
+Chhattisgarh,SURGUJA,Bihar,Ujiarpur,0.1399035896798664
+Chhattisgarh,SURGUJA,West Bengal,Alipurduars,0.1404731920545542
+Dadra & Nagar Haveli and Daman & Diu,Dadar & Nagar Haveli,Goa,North Goa,0.6051217439440003
+Dadra & Nagar Haveli and Daman & Diu,Dadar & Nagar Haveli,Meghalaya,Tura,0.8449207372172541
+Dadra & Nagar Haveli and Daman & Diu,Dadar & Nagar Haveli,Uttarakhand,Garhwal,0.9430712743010706
+Dadra & Nagar Haveli and Daman & Diu,Dadar & Nagar Haveli,Maharashtra,Kalyan,1.3081120333359917
+Dadra & Nagar Haveli and Daman & Diu,Dadar & Nagar Haveli,Uttar Pradesh,Mainpuri,1.322315060783063
+Dadra & Nagar Haveli and Daman & Diu,Daman & Diu,Uttar Pradesh,Domariyaganj,0.35005483775998564
+Dadra & Nagar Haveli and Daman & Diu,Daman & Diu,Telangana,Secunderabad,0.3669327754058684
+Dadra & Nagar Haveli and Daman & Diu,Daman & Diu,Chhattisgarh,BASTAR,0.39020485318565523
+Dadra & Nagar Haveli and Daman & Diu,Daman & Diu,Maharashtra,Shirdi,0.3972101712369557
+Dadra & Nagar Haveli and Daman & Diu,Daman & Diu,Bihar,Sheohar,0.4098341417585422
+Goa,North Goa,Meghalaya,Tura,0.4103696754928235
+Goa,North Goa,Dadra & Nagar Haveli and Daman & Diu,Dadar & Nagar Haveli,0.6051217439440003
+Goa,North Goa,Uttarakhand,Garhwal,0.728537599751385
+Goa,North Goa,Maharashtra,Kalyan,0.8488096737533696
+Goa,North Goa,Uttar Pradesh,Mainpuri,0.8822185589752591
+Goa,South Goa,Maharashtra,Mumbai North East,0.12445823615984496
+Goa,South Goa,Karnataka,Davanagere,0.13718486261276291
+Goa,South Goa,Bihar,Araria,0.1483062956704599
+Goa,South Goa,Uttar Pradesh,Deoria,0.15243175387405766
+Goa,South Goa,Assam,Karimganj,0.17270540188422065
+Gujarat,Ahmedabad East,Madhya Pradesh,SAGAR,0.07507163504996768
+Gujarat,Ahmedabad East,Madhya Pradesh,JABALPUR,0.20335719001652305
+Gujarat,Ahmedabad East,Gujarat,Bhavnagar,0.24283547523860358
+Gujarat,Ahmedabad East,Tripura,Tripura East,0.2529165145500258
+Gujarat,Ahmedabad East,Gujarat,Rajkot,0.3244337646862487
+Gujarat,Ahmedabad West,Gujarat,Mahesana,0.30318430589109907
+Gujarat,Ahmedabad West,Rajasthan,AJMER,0.3847853158584628
+Gujarat,Ahmedabad West,Haryana,ROHTAK,0.44788274351498714
+Gujarat,Ahmedabad West,Karnataka,Uttara Kannada,0.4713177627358912
+Gujarat,Ahmedabad West,Gujarat,Dahod,0.47365308023574876
+Gujarat,Amreli,Maharashtra,Mumbai North,0.32335099068966444
+Gujarat,Amreli,Uttar Pradesh,Rae Bareli,0.4846183017990217
+Gujarat,Amreli,Madhya Pradesh,TIKAMGARH,0.6094420265964611
+Gujarat,Amreli,Madhya Pradesh,DAMOH,0.6350599901695334
+Gujarat,Amreli,Gujarat,Mahesana,0.6484305774075964
+Gujarat,Anand,NCT OF Delhi,East Delhi,0.06325002658295327
+Gujarat,Anand,Karnataka,Dharwad,0.08261591982876967
+Gujarat,Anand,Karnataka,Bellary,0.10716262695881963
+Gujarat,Anand,Odisha,Puri,0.1505389634646705
+Gujarat,Anand,Himachal Pradesh,MANDI,0.15589721754821084
+Gujarat,Banaskantha,Haryana,SONIPAT,0.06708589538423337
+Gujarat,Banaskantha,Uttar Pradesh,Maharajganj,0.09222376282941229
+Gujarat,Banaskantha,West Bengal,Coochbehar,0.0970814990075652
+Gujarat,Banaskantha,Maharashtra,Mumbai North Central,0.11499851587378267
+Gujarat,Banaskantha,Chhattisgarh,RAJNANDGAON,0.13571100907147732
+Gujarat,Bardoli,Karnataka,Shimoga,0.1692900932045647
+Gujarat,Bardoli,Maharashtra,Thane,0.20227795879368318
+Gujarat,Bardoli,Gujarat,Valsad,0.2379881512880841
+Gujarat,Bardoli,Andhra Pradesh,Vizianagaram,0.24842203433390359
+Gujarat,Bardoli,Assam,Guwahati,0.2547723796023175
+Gujarat,Bharuch,Odisha,Dhenkanal,0.1121523577241899
+Gujarat,Bharuch,Bihar,Begusarai,0.11501123129039557
+Gujarat,Bharuch,Karnataka,Chikkodi,0.16856579376307945
+Gujarat,Bharuch,Bihar,Purvi Champaran,0.1702446599473986
+Gujarat,Bharuch,Bihar,Patliputra,0.1872692856971968
+Gujarat,Bhavnagar,Tripura,Tripura East,0.2251525118095985
+Gujarat,Bhavnagar,Gujarat,Ahmedabad East,0.24283547523860358
+Gujarat,Bhavnagar,Madhya Pradesh,JABALPUR,0.25567302519762514
+Gujarat,Bhavnagar,Madhya Pradesh,SAGAR,0.2671068073371759
+Gujarat,Bhavnagar,Gujarat,Panchmahal,0.490125345621487
+Gujarat,Chhota Udaipur,Rajasthan,RAJSAMAND,0.2880914952973525
+Gujarat,Chhota Udaipur,Gujarat,Kheda,0.3262321243711
+Gujarat,Chhota Udaipur,Madhya Pradesh,DEWAS,0.34525659105862305
+Gujarat,Chhota Udaipur,Madhya Pradesh,UJJAIN,0.36673178073202806
+Gujarat,Chhota Udaipur,Chhattisgarh,DURG,0.400907688989666
+Gujarat,Dahod,Telangana,Hyderabad,0.17632124155002232
+Gujarat,Dahod,Rajasthan,AJMER,0.3164338368419148
+Gujarat,Dahod,Andhra Pradesh,Srikakulam,0.3193398496769904
+Gujarat,Dahod,Uttarakhand,Nainital-Udhamsingh Nagar,0.3276389654453552
+Gujarat,Dahod,Assam,Sonitpur,0.3313331925784641
+Gujarat,Gandhinagar,Gujarat,Navsari,0.2501764738616963
+Gujarat,Gandhinagar,Madhya Pradesh,VIDISHA,0.5294024720240207
+Gujarat,Gandhinagar,Tripura,Tripura West,1.1806208779163618
+Gujarat,Gandhinagar,Gujarat,Vadodara,1.4883194028157463
+Gujarat,Gandhinagar,West Bengal,Diamond harbour,1.528331892242845
+Gujarat,Jamnagar,Gujarat,Surendranagar,0.170647003014355
+Gujarat,Jamnagar,Assam,Silchar,0.26463185460046484
+Gujarat,Jamnagar,Maharashtra,Jalgaon,0.26468413012970565
+Gujarat,Jamnagar,Maharashtra,Chandrapur,0.2693491697137414
+Gujarat,Jamnagar,Karnataka,Udupi Chikmagalur,0.28465974689363777
+Gujarat,Junagadh,Maharashtra,Nagpur,0.1423741223428151
+Gujarat,Junagadh,Uttar Pradesh,Lucknow,0.14248494750090954
+Gujarat,Junagadh,Uttar Pradesh,Varanasi,0.19770833552519557
+Gujarat,Junagadh,Maharashtra,Kolhapur,0.206725355671517
+Gujarat,Junagadh,Bihar,Patna Sahib,0.22498473564440158
+Gujarat,Kachchh,Assam,Silchar,0.06989839203701745
+Gujarat,Kachchh,Gujarat,Surendranagar,0.20722965976558025
+Gujarat,Kachchh,Himachal Pradesh,KANGRA,0.2089268093547134
+Gujarat,Kachchh,Karnataka,Bangalore South,0.24879739175463542
+Gujarat,Kachchh,Gujarat,Jamnagar,0.3277126829172149
+Gujarat,Kheda,Gujarat,Mahesana,0.22079752529253185
+Gujarat,Kheda,Madhya Pradesh,UJJAIN,0.23886843144936504
+Gujarat,Kheda,Haryana,ROHTAK,0.2776805546558733
+Gujarat,Kheda,Gujarat,Chhota Udaipur,0.3262321243711
+Gujarat,Kheda,Rajasthan,RAJSAMAND,0.33073809533820475
+Gujarat,Mahesana,Gujarat,Kheda,0.22079752529253185
+Gujarat,Mahesana,Gujarat,Ahmedabad West,0.30318430589109907
+Gujarat,Mahesana,Haryana,ROHTAK,0.3052884192439297
+Gujarat,Mahesana,Rajasthan,AJMER,0.33972124091769257
+Gujarat,Mahesana,Madhya Pradesh,UJJAIN,0.39676390892269137
+Gujarat,Navsari,Gujarat,Gandhinagar,0.2501764738616963
+Gujarat,Navsari,Madhya Pradesh,VIDISHA,0.3548438250952844
+Gujarat,Navsari,Tripura,Tripura West,1.427648417814111
+Gujarat,Navsari,West Bengal,Diamond harbour,1.705307973685398
+Gujarat,Navsari,Madhya Pradesh,INDORE,1.735106915767271
+Gujarat,Panchmahal,Tripura,Tripura East,0.35720375471599597
+Gujarat,Panchmahal,Madhya Pradesh,JABALPUR,0.435476526488151
+Gujarat,Panchmahal,Gujarat,Bhavnagar,0.490125345621487
+Gujarat,Panchmahal,Madhya Pradesh,SAGAR,0.5077016545775609
+Gujarat,Panchmahal,Gujarat,Ahmedabad East,0.5620517118165088
+Gujarat,Patan,Karnataka,Hassan,0.09164258920270166
+Gujarat,Patan,Karnataka,Gulbarga,0.10178373016193965
+Gujarat,Patan,Rajasthan,KOTA,0.10732110810095273
+Gujarat,Patan,Karnataka,Bangalore central,0.10821082007396782
+Gujarat,Patan,Haryana,BHIWANI-MAHENDRAGARH,0.11249502193848067
+Gujarat,Porbandar,Uttar Pradesh,Rae Bareli,0.440401093697811
+Gujarat,Porbandar,Gujarat,Bhavnagar,0.5345867797391898
+Gujarat,Porbandar,Gujarat,Ahmedabad East,0.5402010073017167
+Gujarat,Porbandar,Madhya Pradesh,DAMOH,0.601172400948707
+Gujarat,Porbandar,Madhya Pradesh,SAGAR,0.6081748492180795
+Gujarat,Rajkot,Madhya Pradesh,SAGAR,0.31451745159764205
+Gujarat,Rajkot,Gujarat,Ahmedabad East,0.3244337646862487
+Gujarat,Rajkot,Madhya Pradesh,MANDSOUR,0.3545653013107181
+Gujarat,Rajkot,Madhya Pradesh,JABALPUR,0.37447316547952847
+Gujarat,Rajkot,Andhra Pradesh,Visakhapatnam,0.3793824930156887
+Gujarat,Sabarkantha,Chhattisgarh,BILASPUR,0.06520324359499456
+Gujarat,Sabarkantha,Maharashtra,Gadchiroli - Chimur,0.12502350124940428
+Gujarat,Sabarkantha,Maharashtra,Nandurbar,0.12572504379692492
+Gujarat,Sabarkantha,Bihar,Paschim Champaran,0.13524095519112758
+Gujarat,Sabarkantha,Chhattisgarh,MAHASAMUND,0.14859007916374764
+Gujarat,Surendranagar,Assam,Silchar,0.14364252018017817
+Gujarat,Surendranagar,Gujarat,Jamnagar,0.170647003014355
+Gujarat,Surendranagar,Gujarat,Kachchh,0.20722965976558025
+Gujarat,Surendranagar,Karnataka,Udupi Chikmagalur,0.26189833865866363
+Gujarat,Surendranagar,Karnataka,Bangalore South,0.2671246367300663
+Gujarat,Vadodara,Tripura,Tripura West,0.322290003209523
+Gujarat,Vadodara,Gujarat,Panchmahal,0.6279741302832235
+Gujarat,Vadodara,Madhya Pradesh,KHAJURAHO,0.8071598791539711
+Gujarat,Vadodara,Tripura,Tripura East,0.9574706541341753
+Gujarat,Vadodara,Madhya Pradesh,JABALPUR,1.023260083497817
+Gujarat,Valsad,Madhya Pradesh,DHAR,0.09334301648143845
+Gujarat,Valsad,Maharashtra,Thane,0.13734135071340692
+Gujarat,Valsad,Uttar Pradesh,Barabanki,0.18871061680794773
+Gujarat,Valsad,Gujarat,Bardoli,0.2379881512880841
+Gujarat,Valsad,Andhra Pradesh,Bapatla,0.2390922399036486
+Haryana,AMBALA,Andhra Pradesh,Ongole,0.02844333940799066
+Haryana,AMBALA,Chhattisgarh,RAJNANDGAON,0.07529050021791098
+Haryana,AMBALA,Haryana,BHIWANI-MAHENDRAGARH,0.12417589257996217
+Haryana,AMBALA,Uttar Pradesh,Maharajganj,0.12675569798914627
+Haryana,AMBALA,Uttar Pradesh,Gonda,0.12746856226356496
+Haryana,BHIWANI-MAHENDRAGARH,Karnataka,Hassan,0.03839791411625477
+Haryana,BHIWANI-MAHENDRAGARH,Karnataka,Koppal,0.052977775894479204
+Haryana,BHIWANI-MAHENDRAGARH,West Bengal,Kanthi,0.0785117530157684
+Haryana,BHIWANI-MAHENDRAGARH,Karnataka,Chitradurga,0.08989721120266067
+Haryana,BHIWANI-MAHENDRAGARH,Chhattisgarh,RAJNANDGAON,0.09060684388205716
+Haryana,FARIDABAD,Maharashtra,Nandurbar,0.1008515721477022
+Haryana,FARIDABAD,Chhattisgarh,BILASPUR,0.11989833518501528
+Haryana,FARIDABAD,Andhra Pradesh,Eluru,0.15347637850052737
+Haryana,FARIDABAD,Gujarat,Sabarkantha,0.15452630179698487
+Haryana,FARIDABAD,Karnataka,Chikkballapur,0.157239125844652
+Haryana,GURGAON,Karnataka,Bagalkot,0.09422332516115049
+Haryana,GURGAON,Rajasthan,SIKAR,0.09627890419910078
+Haryana,GURGAON,Rajasthan,TONK-SAWAI MADHOPUR,0.10192401180904992
+Haryana,GURGAON,Karnataka,Kolar,0.1022581218567988
+Haryana,GURGAON,Rajasthan,CHURU,0.119340706263794
+Haryana,HISAR,Odisha,Kendrapara,0.05664069977149126
+Haryana,HISAR,Uttar Pradesh,Mohanlalganj,0.06912402892652332
+Haryana,HISAR,Bihar,Arrah,0.0846978273142517
+Haryana,HISAR,Uttar Pradesh,Allahabad,0.08523003989481788
+Haryana,HISAR,West Bengal,Bangaon,0.10027400746635955
+Haryana,KARNAL,Andhra Pradesh,Kakinada,0.026051598262333504
+Haryana,KARNAL,Andhra Pradesh,Machilipatnam,0.1053217496177729
+Haryana,KARNAL,Andhra Pradesh,Rajahmundry,0.11316733157057697
+Haryana,KARNAL,Andhra Pradesh,Nellore,0.17818487233071517
+Haryana,KARNAL,Andhra Pradesh,Chittoor,0.20825132818693307
+Haryana,KURUKSHETRA,Bihar,Sheohar,0.048478864179759044
+Haryana,KURUKSHETRA,Uttar Pradesh,Fatehpur,0.07023451229481367
+Haryana,KURUKSHETRA,Uttar Pradesh,Misrikh,0.09224873068732888
+Haryana,KURUKSHETRA,Maharashtra,Amravati,0.11359676744397526
+Haryana,KURUKSHETRA,Uttar Pradesh,Hardoi,0.11957144611954793
+Haryana,ROHTAK,Rajasthan,AJMER,0.14494262612862452
+Haryana,ROHTAK,Karnataka,Uttara Kannada,0.15895934351791732
+Haryana,ROHTAK,Rajasthan,BHILWARA,0.16725950538631762
+Haryana,ROHTAK,Madhya Pradesh,UJJAIN,0.21920158689767943
+Haryana,ROHTAK,Andhra Pradesh,Amalapuram,0.2771191538497464
+Haryana,SIRSA,Assam,Dibrugarh,0.2033683931224124
+Haryana,SIRSA,Odisha,Bargarh,0.21075224566540016
+Haryana,SIRSA,Jharkhand,Palamu,0.26446404395306256
+Haryana,SIRSA,Andhra Pradesh,Rajahmundry,0.3526207786268663
+Haryana,SIRSA,Bihar,Muzaffarpur,0.36374288784438735
+Haryana,SONIPAT,Maharashtra,Mumbai North Central,0.051403657633984384
+Haryana,SONIPAT,Gujarat,Banaskantha,0.06708589538423337
+Haryana,SONIPAT,Uttar Pradesh,Maharajganj,0.1500517548393169
+Haryana,SONIPAT,West Bengal,Coochbehar,0.15672922662141106
+Haryana,SONIPAT,Gujarat,Patan,0.16101822901643384
+Himachal Pradesh,HAMIRPUR,Gujarat,Bardoli,0.3752903941992245
+Himachal Pradesh,HAMIRPUR,Gujarat,Valsad,0.38988593536193417
+Himachal Pradesh,HAMIRPUR,Maharashtra,Thane,0.42986384687626517
+Himachal Pradesh,HAMIRPUR,Madhya Pradesh,DHAR,0.4778549058421193
+Himachal Pradesh,HAMIRPUR,Uttar Pradesh,Barabanki,0.48115719769022325
+Himachal Pradesh,KANGRA,Gujarat,Kachchh,0.2089268093547134
+Himachal Pradesh,KANGRA,Rajasthan,DAUSA,0.2409797002117372
+Himachal Pradesh,KANGRA,Assam,Silchar,0.24397113258606734
+Himachal Pradesh,KANGRA,Karnataka,Bangalore South,0.28443731491770485
+Himachal Pradesh,KANGRA,Gujarat,Surendranagar,0.3457197483927336
+Himachal Pradesh,MANDI,NCT OF Delhi,East Delhi,0.1437107501500228
+Himachal Pradesh,MANDI,Gujarat,Anand,0.15589721754821084
+Himachal Pradesh,MANDI,Karnataka,Bellary,0.174744390090425
+Himachal Pradesh,MANDI,Karnataka,Dharwad,0.1771112793517987
+Himachal Pradesh,MANDI,Nagaland,Nagaland,0.1796824397588015
+Himachal Pradesh,SHIMLA,NCT OF Delhi,Chandni Chowk,0.02801365238343645
+Himachal Pradesh,SHIMLA,Rajasthan,KARAULI-DHOLPUR,0.08118956158145264
+Himachal Pradesh,SHIMLA,NCT OF Delhi,New Delhi,0.09277183909163357
+Himachal Pradesh,SHIMLA,Odisha,Puri,0.20666834629316927
+Himachal Pradesh,SHIMLA,NCT OF Delhi,East Delhi,0.22250055220778003
+Jammu and Kashmir,ANANTNAG-RAJOURI,Tamil Nadu,TIRUCHIRAPPALLI,0.303326177174599
+Jammu and Kashmir,ANANTNAG-RAJOURI,Tamil Nadu,THENI,0.30840231462398027
+Jammu and Kashmir,ANANTNAG-RAJOURI,Tamil Nadu,ARAKKONAM,0.4511291883330721
+Jammu and Kashmir,ANANTNAG-RAJOURI,Tamil Nadu,MAYILADUTHURAI,0.5827975059229477
+Jammu and Kashmir,ANANTNAG-RAJOURI,Tamil Nadu,THANJAVUR,0.6490811851438552
+Jammu and Kashmir,BARAMULLA,Tamil Nadu,ARANI,0.27601919786472884
+Jammu and Kashmir,BARAMULLA,Tamil Nadu,CUDDALORE,0.2868191030185131
+Jammu and Kashmir,BARAMULLA,Tamil Nadu,CHENNAI SOUTH,0.3952037819095046
+Jammu and Kashmir,BARAMULLA,Telangana,Karimnagar,0.42720571525010226
+Jammu and Kashmir,BARAMULLA,Tamil Nadu,MADURAI,0.42919550136323803
+Jammu and Kashmir,JAMMU,Chhattisgarh,MAHASAMUND,0.0916087040602689
+Jammu and Kashmir,JAMMU,Madhya Pradesh,RAJGARH,0.1073709330013192
+Jammu and Kashmir,JAMMU,Maharashtra,Pune,0.11277533832685892
+Jammu and Kashmir,JAMMU,Karnataka,Bidar,0.18889978583013384
+Jammu and Kashmir,JAMMU,Madhya Pradesh,KHARGONE,0.1891628780631534
+Jammu and Kashmir,SRINAGAR,Kerala,Ernakulam,0.5266706362166481
+Jammu and Kashmir,SRINAGAR,Arunachal Pradesh,Arunachal West,0.6849235810781615
+Jammu and Kashmir,SRINAGAR,Tamil Nadu,ERODE,0.7008764727823219
+Jammu and Kashmir,SRINAGAR,Uttar Pradesh,Hathras,0.7455639801117253
+Jammu and Kashmir,SRINAGAR,Uttarakhand,Tehri Garhwal,0.7556415661997974
+Jammu and Kashmir,UDHAMPUR,Maharashtra,Shirur,0.1526522451804958
+Jammu and Kashmir,UDHAMPUR,Bihar,Jamui,0.16644544564111546
+Jammu and Kashmir,UDHAMPUR,Bihar,Gaya,0.17550712271270175
+Jammu and Kashmir,UDHAMPUR,Uttar Pradesh,Kaushambi,0.19842469929685028
+Jammu and Kashmir,UDHAMPUR,Bihar,Bhagalpur,0.2241125403284785
+Jharkhand,Chatra,Madhya Pradesh,REWA,0.24031668626996366
+Jharkhand,Chatra,Uttar Pradesh,Hathras,0.38317213128656763
+Jharkhand,Chatra,Tamil Nadu,ERODE,0.41000488023687054
+Jharkhand,Chatra,Madhya Pradesh,SIDHI,0.4203520112963626
+Jharkhand,Chatra,Maharashtra,Raver,0.4547440212128232
+Jharkhand,Dhanbad,West Bengal,Bolpur,0.3401809707970803
+Jharkhand,Dhanbad,Assam,Dibrugarh,0.40162103830446
+Jharkhand,Dhanbad,Jharkhand,Palamu,0.412885665457417
+Jharkhand,Dhanbad,West Bengal,Basirhat,0.5029799638078547
+Jharkhand,Dhanbad,Uttar Pradesh,Bulandshahr,0.5277251187344331
+Jharkhand,Dumka,Bihar,Saran,0.09502297830287426
+Jharkhand,Dumka,Andhra Pradesh,Thirupathi,0.11378613394926555
+Jharkhand,Dumka,Uttar Pradesh,Kheri,0.14075996318578218
+Jharkhand,Dumka,Bihar,Sasaram,0.1597107232857269
+Jharkhand,Dumka,Uttar Pradesh,Aonla,0.1664154732356163
+Jharkhand,Giridih,Bihar,Kishanganj,0.22760234196608076
+Jharkhand,Giridih,Telangana,Medak,0.5023456834610689
+Jharkhand,Giridih,Bihar,Siwan,0.5503997895390063
+Jharkhand,Giridih,Telangana,Nagarkurnool,0.5520494308359365
+Jharkhand,Giridih,West Bengal,Maldaha Uttar,0.5642475708487151
+Jharkhand,Godda,Uttar Pradesh,Moradabad,0.0930194932629637
+Jharkhand,Godda,Andhra Pradesh,Nandyal,0.10538374511874894
+Jharkhand,Godda,Uttar Pradesh,Jhansi,0.10577717406330764
+Jharkhand,Godda,Madhya Pradesh,MANDLA,0.12486093704244082
+Jharkhand,Godda,Andhra Pradesh,Kurnoolu,0.14673512980967598
+Jharkhand,Hazaribagh,Uttar Pradesh,Hathras,0.23910448942588544
+Jharkhand,Hazaribagh,Tamil Nadu,ERODE,0.30932021766814194
+Jharkhand,Hazaribagh,Maharashtra,Raver,0.36089428940197826
+Jharkhand,Hazaribagh,Uttar Pradesh,Agra,0.40881254398793
+Jharkhand,Hazaribagh,West Bengal,Basirhat,0.4346321139367422
+Jharkhand,Jamshedpur,Maharashtra,Jalgaon,0.1748511527046416
+Jharkhand,Jamshedpur,Andhra Pradesh,Vizianagaram,0.1952617473957972
+Jharkhand,Jamshedpur,Maharashtra,Chandrapur,0.20227703526404184
+Jharkhand,Jamshedpur,Andhra Pradesh,Narsapuram,0.24140767452324605
+Jharkhand,Jamshedpur,Rajasthan,PALI,0.24985965677483127
+Jharkhand,Khunti,Bihar,Madhubani,0.15701957471953606
+Jharkhand,Khunti,Uttar Pradesh,Amethi,0.16132567533903788
+Jharkhand,Khunti,Bihar,Patna Sahib,0.20249582117992124
+Jharkhand,Khunti,Uttar Pradesh,Kaiserganj,0.20688190662192485
+Jharkhand,Khunti,Bihar,Darbhanga,0.25167469788108243
+Jharkhand,Kodarma,Rajasthan,CHITTORGARH,0.43496779060824514
+Jharkhand,Kodarma,Maharashtra,Osmanabad,0.43636055039734406
+Jharkhand,Kodarma,Assam,Sonitpur,0.5197100015930013
+Jharkhand,Kodarma,Uttar Pradesh,Ghaziabad,0.6179713133954807
+Jharkhand,Kodarma,Jharkhand,Dhanbad,0.620562419223479
+Jharkhand,Lohardaga,Bihar,Khagaria,0.21937178134645374
+Jharkhand,Lohardaga,Maharashtra,Nashik,0.21997885658137037
+Jharkhand,Lohardaga,West Bengal,Howrah,0.2643514002973098
+Jharkhand,Lohardaga,Jharkhand,Rajmahal,0.28299705092742344
+Jharkhand,Lohardaga,Odisha,Berhampur,0.2836800740273456
+Jharkhand,Palamu,Assam,Dibrugarh,0.2640835584943358
+Jharkhand,Palamu,Haryana,SIRSA,0.26446404395306256
+Jharkhand,Palamu,West Bengal,Bolpur,0.29715841517981945
+Jharkhand,Palamu,Odisha,Bargarh,0.3057116448450603
+Jharkhand,Palamu,Bihar,Muzaffarpur,0.3756007537018095
+Jharkhand,Rajmahal,West Bengal,Kolkata Dakshin,0.13740038574513175
+Jharkhand,Rajmahal,Bihar,Khagaria,0.14099950344839937
+Jharkhand,Rajmahal,Maharashtra,Nashik,0.19222157045626076
+Jharkhand,Rajmahal,West Bengal,Howrah,0.19616762367964738
+Jharkhand,Rajmahal,West Bengal,Mathurapur,0.26410718053710747
+Jharkhand,Ranchi,Maharashtra,Dindori,0.13158865036526668
+Jharkhand,Ranchi,West Bengal,Barasat,0.14749639935163564
+Jharkhand,Ranchi,Odisha,Keonjhar,0.17325608948623508
+Jharkhand,Ranchi,Uttar Pradesh,Sant Kabir Nagar,0.21793426832548607
+Jharkhand,Ranchi,Uttar Pradesh,Jaunpur,0.23580971695509273
+Jharkhand,Singhbhum,Bihar,Khagaria,0.1996019588384613
+Jharkhand,Singhbhum,Uttar Pradesh,Nagina,0.23754055766159285
+Jharkhand,Singhbhum,Uttar Pradesh,Baghpat,0.24210393955296583
+Jharkhand,Singhbhum,Jharkhand,Rajmahal,0.2783187736356409
+Jharkhand,Singhbhum,Kerala,Idukki,0.28679243752175765
+Karnataka,Bagalkot,Karnataka,Kolar,0.026777864426522562
+Karnataka,Bagalkot,Rajasthan,TONK-SAWAI MADHOPUR,0.034484637063546986
+Karnataka,Bagalkot,Rajasthan,CHURU,0.0556503362995758
+Karnataka,Bagalkot,Haryana,GURGAON,0.09422332516115049
+Karnataka,Bagalkot,Rajasthan,SIKAR,0.09689534256773184
+Karnataka,Bangalore North,Karnataka,Bangalore Rural,0.10691599320307785
+Karnataka,Bangalore North,Assam,Guwahati,0.15537669953411457
+Karnataka,Bangalore North,Assam,Kaziranga,0.3002760278545293
+Karnataka,Bangalore North,Madhya Pradesh,KHANDWA,0.30926276079074655
+Karnataka,Bangalore North,Gujarat,Bardoli,0.3117287281674607
+Karnataka,Bangalore Rural,Karnataka,Bangalore North,0.10691599320307785
+Karnataka,Bangalore Rural,Assam,Guwahati,0.2524190023126824
+Karnataka,Bangalore Rural,Assam,Kaziranga,0.3687644388557309
+Karnataka,Bangalore Rural,Madhya Pradesh,KHANDWA,0.3770490300921452
+Karnataka,Bangalore Rural,Madhya Pradesh,DHAR,0.4094807938484789
+Karnataka,Bangalore South,Karnataka,Udupi Chikmagalur,0.17327359965056288
+Karnataka,Bangalore South,Gujarat,Kachchh,0.24879739175463542
+Karnataka,Bangalore South,Assam,Silchar,0.25838247204195164
+Karnataka,Bangalore South,Gujarat,Surendranagar,0.2671246367300663
+Karnataka,Bangalore South,Rajasthan,DAUSA,0.2756829858952472
+Karnataka,Bangalore central,Karnataka,Gulbarga,0.06472499588713049
+Karnataka,Bangalore central,Rajasthan,KOTA,0.07596237183261986
+Karnataka,Bangalore central,Uttar Pradesh,Kanpur,0.08372271752838623
+Karnataka,Bangalore central,Gujarat,Patan,0.10821082007396782
+Karnataka,Bangalore central,Uttar Pradesh,Bareilly,0.11022215903983075
+Karnataka,Belgaum,Karnataka,Tumkur,0.06383276324960044
+Karnataka,Belgaum,Karnataka,Chamarajanagar,0.14487170912419225
+Karnataka,Belgaum,NCT OF Delhi,West Delhi,0.1469119168416255
+Karnataka,Belgaum,Rajasthan,JALORE,0.20790236488095243
+Karnataka,Belgaum,Andhra Pradesh,Eluru,0.2446828785171897
+Karnataka,Bellary,Karnataka,Dharwad,0.037543065146233935
+Karnataka,Bellary,NCT OF Delhi,East Delhi,0.049144396750202005
+Karnataka,Bellary,Gujarat,Anand,0.10716262695881963
+Karnataka,Bellary,Rajasthan,JODHPUR,0.17417129715371904
+Karnataka,Bellary,Himachal Pradesh,MANDI,0.174744390090425
+Karnataka,Bidar,NCT OF Delhi,South Delhi,0.08512208275704483
+Karnataka,Bidar,Maharashtra,Nagpur,0.1211276066688433
+Karnataka,Bidar,Karnataka,Mysore,0.13239741731120233
+Karnataka,Bidar,Assam,Jorhat,0.1376213497191891
+Karnataka,Bidar,Karnataka,Dakshina Kannada,0.15477954585952503
+Karnataka,Bijapur,Karnataka,Raichur,0.07541771450275227
+Karnataka,Bijapur,Maharashtra,Solapur,0.10596528858669559
+Karnataka,Bijapur,Rajasthan,CHURU,0.14768684942119317
+Karnataka,Bijapur,Rajasthan,GANGANAGAR,0.15013655198472192
+Karnataka,Bijapur,Karnataka,Kolar,0.16699413175743527
+Karnataka,Chamarajanagar,Rajasthan,JALORE,0.08912944532614585
+Karnataka,Chamarajanagar,Karnataka,Belgaum,0.14487170912419225
+Karnataka,Chamarajanagar,Karnataka,Tumkur,0.14548024603297569
+Karnataka,Chamarajanagar,NCT OF Delhi,West Delhi,0.16139767161258395
+Karnataka,Chamarajanagar,Andhra Pradesh,Eluru,0.1698475523069219
+Karnataka,Chikkballapur,Andhra Pradesh,Narsaraopet,0.042519972548260086
+Karnataka,Chikkballapur,Maharashtra,Kolhapur,0.09649221196288685
+Karnataka,Chikkballapur,Karnataka,Dakshina Kannada,0.11618096423886909
+Karnataka,Chikkballapur,Maharashtra,Nandurbar,0.11997984255296962
+Karnataka,Chikkballapur,Haryana,FARIDABAD,0.157239125844652
+Karnataka,Chikkodi,Rajasthan,GANGANAGAR,0.06723680652315814
+Karnataka,Chikkodi,Karnataka,Raichur,0.1421600152315586
+Karnataka,Chikkodi,Maharashtra,Solapur,0.14603290752245623
+Karnataka,Chikkodi,Rajasthan,SIKAR,0.16488314456476588
+Karnataka,Chikkodi,Gujarat,Bharuch,0.16856579376307945
+Karnataka,Chitradurga,Karnataka,Koppal,0.03852099796319409
+Karnataka,Chitradurga,West Bengal,Kanthi,0.04951271700611965
+Karnataka,Chitradurga,Rajasthan,ALWAR,0.058412907372195
+Karnataka,Chitradurga,Karnataka,Hassan,0.08835905882715463
+Karnataka,Chitradurga,Haryana,BHIWANI-MAHENDRAGARH,0.08989721120266067
+Karnataka,Dakshina Kannada,Assam,Jorhat,0.04322025189356049
+Karnataka,Dakshina Kannada,Maharashtra,Kolhapur,0.07117996144083029
+Karnataka,Dakshina Kannada,Andhra Pradesh,Narsaraopet,0.07807313966191705
+Karnataka,Dakshina Kannada,Karnataka,Chikkballapur,0.11618096423886909
+Karnataka,Dakshina Kannada,Maharashtra,Nagpur,0.11796305430820314
+Karnataka,Davanagere,Bihar,Araria,0.0577435873547516
+Karnataka,Davanagere,Assam,Karimganj,0.0963006884124518
+Karnataka,Davanagere,West Bengal,Medinipur,0.1138531953426077
+Karnataka,Davanagere,Bihar,Purnia,0.11588636433104967
+Karnataka,Davanagere,Goa,South Goa,0.13718486261276291
+Karnataka,Dharwad,Karnataka,Bellary,0.037543065146233935
+Karnataka,Dharwad,NCT OF Delhi,East Delhi,0.04375755990918273
+Karnataka,Dharwad,Gujarat,Anand,0.08261591982876967
+Karnataka,Dharwad,Himachal Pradesh,MANDI,0.1771112793517987
+Karnataka,Dharwad,Rajasthan,JODHPUR,0.17784748578775747
+Karnataka,Gulbarga,Uttar Pradesh,Kanpur,0.0537861668194285
+Karnataka,Gulbarga,Karnataka,Bangalore central,0.06472499588713049
+Karnataka,Gulbarga,Rajasthan,JHUNJHUNU,0.0882444568275366
+Karnataka,Gulbarga,Gujarat,Patan,0.10178373016193965
+Karnataka,Gulbarga,Rajasthan,KOTA,0.12600671291430474
+Karnataka,Hassan,Haryana,BHIWANI-MAHENDRAGARH,0.03839791411625477
+Karnataka,Hassan,Karnataka,Koppal,0.054917562517407585
+Karnataka,Hassan,West Bengal,Kanthi,0.05665995870450522
+Karnataka,Hassan,Chhattisgarh,RAJNANDGAON,0.08515045407024095
+Karnataka,Hassan,Karnataka,Chitradurga,0.08835905882715463
+Karnataka,Haveri,Uttar Pradesh,Bareilly,0.06450255974264776
+Karnataka,Haveri,Rajasthan,KOTA,0.09668705787123211
+Karnataka,Haveri,Rajasthan,ALWAR,0.11021110007724011
+Karnataka,Haveri,Karnataka,Bangalore central,0.11811037350423655
+Karnataka,Haveri,Karnataka,Chitradurga,0.13277332013007265
+Karnataka,Kolar,Karnataka,Bagalkot,0.026777864426522562
+Karnataka,Kolar,Rajasthan,CHURU,0.03622410339703889
+Karnataka,Kolar,Rajasthan,TONK-SAWAI MADHOPUR,0.05848200104293896
+Karnataka,Kolar,Haryana,GURGAON,0.1022581218567988
+Karnataka,Kolar,Maharashtra,Solapur,0.10273398369044795
+Karnataka,Koppal,Karnataka,Chitradurga,0.03852099796319409
+Karnataka,Koppal,West Bengal,Kanthi,0.04133660669967823
+Karnataka,Koppal,Haryana,BHIWANI-MAHENDRAGARH,0.052977775894479204
+Karnataka,Koppal,Karnataka,Hassan,0.054917562517407585
+Karnataka,Koppal,Rajasthan,ALWAR,0.09288659743952297
+Karnataka,Mandya,NCT OF Delhi,North-West Delhi,0.047335859819563696
+Karnataka,Mandya,Andhra Pradesh,Vijayawada,0.1444954964719366
+Karnataka,Mandya,Madhya Pradesh,KHANDWA,0.2670673334352579
+Karnataka,Mandya,Maharashtra,Chandrapur,0.27928711530122474
+Karnataka,Mandya,Karnataka,Udupi Chikmagalur,0.29136433588506
+Karnataka,Mysore,NCT OF Delhi,North-East Delhi,0.08967303007011353
+Karnataka,Mysore,NCT OF Delhi,South Delhi,0.11231370834398358
+Karnataka,Mysore,Assam,Jorhat,0.11247365489385192
+Karnataka,Mysore,Karnataka,Bidar,0.13239741731120233
+Karnataka,Mysore,Karnataka,Dakshina Kannada,0.13534781748273841
+Karnataka,Raichur,Maharashtra,Solapur,0.04932725803311246
+Karnataka,Raichur,Karnataka,Bijapur,0.07541771450275227
+Karnataka,Raichur,Rajasthan,GANGANAGAR,0.08085063803293457
+Karnataka,Raichur,Rajasthan,CHURU,0.12391041854712802
+Karnataka,Raichur,Karnataka,Kolar,0.12953017832723418
+Karnataka,Shimoga,Rajasthan,PALI,0.16066069586006407
+Karnataka,Shimoga,Andhra Pradesh,Vizianagaram,0.16327918198022023
+Karnataka,Shimoga,Gujarat,Bardoli,0.1692900932045647
+Karnataka,Shimoga,Chhattisgarh,RAIGARH,0.1771895700590526
+Karnataka,Shimoga,Andhra Pradesh,Nellore,0.18730089282348475
+Karnataka,Tumkur,Karnataka,Belgaum,0.06383276324960044
+Karnataka,Tumkur,Karnataka,Chamarajanagar,0.14548024603297569
+Karnataka,Tumkur,NCT OF Delhi,West Delhi,0.16733910841505384
+Karnataka,Tumkur,Rajasthan,JALORE,0.21341427209122182
+Karnataka,Tumkur,Bihar,Patna Sahib,0.24854206996240052
+Karnataka,Udupi Chikmagalur,Karnataka,Bangalore South,0.17327359965056288
+Karnataka,Udupi Chikmagalur,Rajasthan,DAUSA,0.20268711648664103
+Karnataka,Udupi Chikmagalur,Gujarat,Surendranagar,0.26189833865866363
+Karnataka,Udupi Chikmagalur,Gujarat,Jamnagar,0.28465974689363777
+Karnataka,Udupi Chikmagalur,Karnataka,Mandya,0.29136433588506
+Karnataka,Uttara Kannada,Rajasthan,AJMER,0.09096123116198214
+Karnataka,Uttara Kannada,Rajasthan,BHILWARA,0.12958499256798883
+Karnataka,Uttara Kannada,Andhra Pradesh,Amalapuram,0.1348293251379359
+Karnataka,Uttara Kannada,Haryana,ROHTAK,0.15895934351791732
+Karnataka,Uttara Kannada,Uttarakhand,Nainital-Udhamsingh Nagar,0.17717158454537213
+Kerala,Alappuzha,Kerala,Thrissur,0.12147341519357792
+Kerala,Alappuzha,Kerala,Pathanamthitta,0.25793091923963885
+Kerala,Alappuzha,West Bengal,Baharampur,0.2985419913422562
+Kerala,Alappuzha,Maharashtra,Akola,0.29956734839108295
+Kerala,Alappuzha,Uttar Pradesh,Bijnor,0.3211833862018567
+Kerala,Alathur,Odisha,Kandhamal,0.15619023859769932
+Kerala,Alathur,Kerala,Mavelikkara,0.15918345722601762
+Kerala,Alathur,Uttar Pradesh,Dhaurahra,0.23747622110815447
+Kerala,Alathur,Telangana,Mahbubnagar,0.26881209495282754
+Kerala,Alathur,Maharashtra,Hatkanangale,0.30844536641840303
+Kerala,Attingal,Kerala,Thiruvananthapuram,0.5655244876142477
+Kerala,Attingal,Telangana,Medak,0.6703313787031954
+Kerala,Attingal,Tamil Nadu,VIRUDHUNAGAR,0.7727634672222394
+Kerala,Attingal,Tamil Nadu,DHARMAPURI,0.7884840981459814
+Kerala,Attingal,Maharashtra,Akola,0.8734382212497033
+Kerala,Chalakudy,Tamil Nadu,VILUPPURAM,0.13175401638022768
+Kerala,Chalakudy,Andhra Pradesh,Araku,0.23918648014186236
+Kerala,Chalakudy,Maharashtra,Bhiwandi,0.25800970231849063
+Kerala,Chalakudy,Kerala,Pathanamthitta,0.34655390831642224
+Kerala,Chalakudy,Uttar Pradesh,Banda,0.356279796493272
+Kerala,Ernakulam,Uttarakhand,Tehri Garhwal,0.40883123860824966
+Kerala,Ernakulam,Uttar Pradesh,Mathura,0.41200614013135517
+Kerala,Ernakulam,Uttar Pradesh,Agra,0.4472400066728189
+Kerala,Ernakulam,Maharashtra,Raver,0.474249882866109
+Kerala,Ernakulam,Uttar Pradesh,Hathras,0.4793873842941074
+Kerala,Idukki,Uttar Pradesh,Nagina,0.14424617681088214
+Kerala,Idukki,Puducherry,PUDUCHERRY,0.2104377350226716
+Kerala,Idukki,Uttar Pradesh,Baghpat,0.24940798658569
+Kerala,Idukki,Jharkhand,Singhbhum,0.28679243752175765
+Kerala,Idukki,Bihar,Khagaria,0.30281001423497017
+Kerala,Kannur,Uttar Pradesh,Basti,0.10321372324106551
+Kerala,Kannur,Maharashtra,Madha,0.11076369902262864
+Kerala,Kannur,Odisha,Aska,0.11361166985153692
+Kerala,Kannur,Odisha,Sambalpur,0.1566424155157142
+Kerala,Kannur,Maharashtra,Sangli,0.1826087701731937
+Kerala,Kasaragod,Maharashtra,Jalna,0.20702935189318597
+Kerala,Kasaragod,Odisha,Bhadrak,0.2109286576104881
+Kerala,Kasaragod,West Bengal,Barasat,0.21859078557362885
+Kerala,Kasaragod,Odisha,Keonjhar,0.24754738526201073
+Kerala,Kasaragod,Madhya Pradesh,SATNA,0.254913617760919
+Kerala,Kollam,Uttar Pradesh,Azamgarh,0.130605904917311
+Kerala,Kollam,Odisha,Berhampur,0.15133314564180908
+Kerala,Kollam,Bihar,Nalanda,0.2714584004808411
+Kerala,Kollam,Kerala,Kozhikode,0.2912534985363872
+Kerala,Kollam,Jharkhand,Lohardaga,0.3113157198681605
+Kerala,Kottayam,Uttar Pradesh,Lalganj,0.21647573852906274
+Kerala,Kottayam,Madhya Pradesh,SATNA,0.23458719178249887
+Kerala,Kottayam,Tamil Nadu,CHIDAMBARAM,0.2516841104318628
+Kerala,Kottayam,Maharashtra,Jalna,0.31442089375663634
+Kerala,Kottayam,Kerala,Kasaragod,0.3259274387095467
+Kerala,Kozhikode,Uttar Pradesh,Azamgarh,0.2100245831062056
+Kerala,Kozhikode,Bihar,Gopalganj,0.21521351379664647
+Kerala,Kozhikode,Kerala,Kollam,0.2912534985363872
+Kerala,Kozhikode,Uttar Pradesh,Ambedkar Nagar,0.2932503061450952
+Kerala,Kozhikode,Uttar Pradesh,Ghazipur,0.30382592884014675
+Kerala,Malappuram,Maharashtra,Osmanabad,0.30436759459549473
+Kerala,Malappuram,Andhra Pradesh,Srikakulam,0.42701745408427255
+Kerala,Malappuram,Assam,Sonitpur,0.4451749841737764
+Kerala,Malappuram,Uttarakhand,Nainital-Udhamsingh Nagar,0.4534102380914321
+Kerala,Malappuram,Gujarat,Kachchh,0.46390787789203464
+Kerala,Mavelikkara,Telangana,Mahbubnagar,0.11219479753463671
+Kerala,Mavelikkara,Odisha,Kandhamal,0.13953887827308478
+Kerala,Mavelikkara,Kerala,Alathur,0.15918345722601762
+Kerala,Mavelikkara,Uttar Pradesh,Chandauli,0.23074008229096044
+Kerala,Mavelikkara,Uttar Pradesh,Dhaurahra,0.2929859521263719
+Kerala,Palakkad,Kerala,Pathanamthitta,0.12651732001933227
+Kerala,Palakkad,West Bengal,Raiganj,0.21518576909051038
+Kerala,Palakkad,West Bengal,Dum dum,0.2712939040873089
+Kerala,Palakkad,Tamil Nadu,VILUPPURAM,0.2774452333111986
+Kerala,Palakkad,Kerala,Alappuzha,0.3644904010119953
+Kerala,Pathanamthitta,Kerala,Palakkad,0.12651732001933227
+Kerala,Pathanamthitta,West Bengal,Raiganj,0.24105143548322483
+Kerala,Pathanamthitta,Kerala,Alappuzha,0.25793091923963885
+Kerala,Pathanamthitta,Tamil Nadu,VILUPPURAM,0.2720018476897318
+Kerala,Pathanamthitta,Kerala,Thrissur,0.29746754408679354
+Kerala,Ponnani,Bihar,Muzaffarpur,0.2564713124341351
+Kerala,Ponnani,Assam,Dibrugarh,0.3286122027366387
+Kerala,Ponnani,Haryana,SIRSA,0.3701313510700308
+Kerala,Ponnani,Odisha,Bargarh,0.3844458237047413
+Kerala,Ponnani,Uttar Pradesh,Agra,0.4239942528495449
+Kerala,Thiruvananthapuram,Maharashtra,Akola,0.3314687181256844
+Kerala,Thiruvananthapuram,Uttar Pradesh,Bijnor,0.3779087661856055
+Kerala,Thiruvananthapuram,Maharashtra,Hatkanangale,0.3929223638882389
+Kerala,Thiruvananthapuram,West Bengal,Purulia,0.413486918189972
+Kerala,Thiruvananthapuram,Uttar Pradesh,Dhaurahra,0.4417305264042906
+Kerala,Thrissur,Kerala,Alappuzha,0.12147341519357792
+Kerala,Thrissur,West Bengal,Baharampur,0.259480822142356
+Kerala,Thrissur,Kerala,Pathanamthitta,0.29746754408679354
+Kerala,Thrissur,West Bengal,Maldaha Uttar,0.35501770675987326
+Kerala,Thrissur,Odisha,Nabarangpur,0.37198220463977544
+Kerala,Vadakara,Odisha,Sambalpur,0.08253731177712703
+Kerala,Vadakara,Bihar,Banka,0.09059801980863098
+Kerala,Vadakara,Madhya Pradesh,CHHINDWARA,0.13669292728717797
+Kerala,Vadakara,Bihar,Bhagalpur,0.14559010586084586
+Kerala,Vadakara,Uttar Pradesh,Kaushambi,0.16237745239925022
+Kerala,Wayanad,Madhya Pradesh,SHAHDOL,0.3913624770867944
+Kerala,Wayanad,Telangana,Hyderabad,0.434691779447685
+Kerala,Wayanad,Assam,Sonitpur,0.559242451306813
+Kerala,Wayanad,Gujarat,Dahod,0.5989369002782914
+Kerala,Wayanad,Jharkhand,Kodarma,0.6206366830412386
+Ladakh,Ladakh,Arunachal Pradesh,Arunachal West,0.8203118858845561
+Ladakh,Ladakh,Manipur,Inner Manipur,0.8452677999146333
+Ladakh,Ladakh,Assam,Diphu,0.8678198572231043
+Ladakh,Ladakh,Kerala,Kollam,0.925484967657875
+Ladakh,Ladakh,Bihar,Jahanabad,0.9646573758496254
+Lakshadweep,Lakshadweep,Nagaland,Nagaland,0.3605162299874972
+Lakshadweep,Lakshadweep,Uttar Pradesh,Bareilly,0.37884869844568086
+Lakshadweep,Lakshadweep,Rajasthan,BHARATPUR,0.39471888807974437
+Lakshadweep,Lakshadweep,Karnataka,Haveri,0.42827302253569605
+Lakshadweep,Lakshadweep,Uttar Pradesh,Kanpur,0.45373344844102165
+Madhya Pradesh,BALAGHAT,West Bengal,Ranaghat,0.15207454586077349
+Madhya Pradesh,BALAGHAT,West Bengal,Darjeeling,0.1550115862580349
+Madhya Pradesh,BALAGHAT,Uttar Pradesh,Pilibhit,0.19313469135907246
+Madhya Pradesh,BALAGHAT,Maharashtra,Baramati,0.2394936930023412
+Madhya Pradesh,BALAGHAT,Madhya Pradesh,RATLAM,0.2440293049434942
+Madhya Pradesh,BETUL,Rajasthan,JHALAWAR-BARAN,0.14133909736833997
+Madhya Pradesh,BETUL,Assam,Sonitpur,0.21254894609699376
+Madhya Pradesh,BETUL,Rajasthan,BHILWARA,0.29028774271920715
+Madhya Pradesh,BETUL,Rajasthan,CHITTORGARH,0.2917667590628639
+Madhya Pradesh,BETUL,Andhra Pradesh,Amalapuram,0.30560591562398376
+Madhya Pradesh,BHIND,Maharashtra,Solapur,0.0905370780150453
+Madhya Pradesh,BHIND,Rajasthan,TONK-SAWAI MADHOPUR,0.09155655363611832
+Madhya Pradesh,BHIND,Karnataka,Bagalkot,0.10307922907507495
+Madhya Pradesh,BHIND,Karnataka,Kolar,0.10459057276537011
+Madhya Pradesh,BHIND,Rajasthan,SIKAR,0.11120941523983724
+Madhya Pradesh,BHOPAL,Madhya Pradesh,MANDSOUR,0.1450912064981664
+Madhya Pradesh,BHOPAL,Andhra Pradesh,Visakhapatnam,0.2906793532387961
+Madhya Pradesh,BHOPAL,Gujarat,Rajkot,0.4937165139085991
+Madhya Pradesh,BHOPAL,Madhya Pradesh,HOSHANGABAD,0.5079840123599187
+Madhya Pradesh,BHOPAL,Chhattisgarh,RAIPUR,0.5739269287377256
+Madhya Pradesh,CHHINDWARA,Andhra Pradesh,Kurnoolu,0.07313458900519526
+Madhya Pradesh,CHHINDWARA,Kerala,Vadakara,0.13669292728717797
+Madhya Pradesh,CHHINDWARA,Maharashtra,Sangli,0.1415604040955539
+Madhya Pradesh,CHHINDWARA,Odisha,Sambalpur,0.1417083976789901
+Madhya Pradesh,CHHINDWARA,Uttar Pradesh,Moradabad,0.15222836733066158
+Madhya Pradesh,DAMOH,Madhya Pradesh,TIKAMGARH,0.06189074154958596
+Madhya Pradesh,DAMOH,Uttar Pradesh,Rae Bareli,0.21712559076149177
+Madhya Pradesh,DAMOH,Madhya Pradesh,HOSHANGABAD,0.3183497247055127
+Madhya Pradesh,DAMOH,Maharashtra,Mumbai North,0.46465060894556476
+Madhya Pradesh,DAMOH,Rajasthan,RAJSAMAND,0.4807691177889107
+Madhya Pradesh,DEWAS,Chhattisgarh,DURG,0.24587867568308036
+Madhya Pradesh,DEWAS,Gujarat,Chhota Udaipur,0.34525659105862305
+Madhya Pradesh,DEWAS,Madhya Pradesh,UJJAIN,0.34738554865414806
+Madhya Pradesh,DEWAS,Rajasthan,RAJSAMAND,0.40765917710767635
+Madhya Pradesh,DEWAS,Gujarat,Kheda,0.48730016053550596
+Madhya Pradesh,DHAR,Gujarat,Valsad,0.09334301648143845
+Madhya Pradesh,DHAR,Maharashtra,Thane,0.12296157255751587
+Madhya Pradesh,DHAR,Uttar Pradesh,Barabanki,0.15128596910555497
+Madhya Pradesh,DHAR,Andhra Pradesh,Bapatla,0.18592466742648647
+Madhya Pradesh,DHAR,Andhra Pradesh,Chittoor,0.20914281420799827
+Madhya Pradesh,GUNA,Chhattisgarh,RAIPUR,0.388996492447078
+Madhya Pradesh,GUNA,Gujarat,Rajkot,0.41555387196638766
+Madhya Pradesh,GUNA,Andhra Pradesh,Visakhapatnam,0.45399547010765506
+Madhya Pradesh,GUNA,Madhya Pradesh,JABALPUR,0.4610609110555624
+Madhya Pradesh,GUNA,Madhya Pradesh,MANDSOUR,0.510861862290161
+Madhya Pradesh,GWALIOR,Rajasthan,SIKAR,0.1318043392279441
+Madhya Pradesh,GWALIOR,Odisha,Dhenkanal,0.13216770903950983
+Madhya Pradesh,GWALIOR,Bihar,Begusarai,0.14052468581367256
+Madhya Pradesh,GWALIOR,Haryana,GURGAON,0.15594041697701844
+Madhya Pradesh,GWALIOR,Uttar Pradesh,Gonda,0.17115964062697514
+Madhya Pradesh,HOSHANGABAD,Madhya Pradesh,TIKAMGARH,0.28604948730947705
+Madhya Pradesh,HOSHANGABAD,Madhya Pradesh,DAMOH,0.3183497247055127
+Madhya Pradesh,HOSHANGABAD,Rajasthan,RAJSAMAND,0.3453192896938431
+Madhya Pradesh,HOSHANGABAD,Uttar Pradesh,Rae Bareli,0.422728323909107
+Madhya Pradesh,HOSHANGABAD,Gujarat,Chhota Udaipur,0.4832782221233925
+Madhya Pradesh,INDORE,Madhya Pradesh,VIDISHA,1.4957782525287076
+Madhya Pradesh,INDORE,Gujarat,Navsari,1.735106915767271
+Madhya Pradesh,INDORE,Gujarat,Gandhinagar,1.9754669249215895
+Madhya Pradesh,INDORE,West Bengal,Diamond harbour,3.0020092620677996
+Madhya Pradesh,INDORE,Tripura,Tripura West,3.108695221213735
+Madhya Pradesh,JABALPUR,Tripura,Tripura East,0.09303944431013411
+Madhya Pradesh,JABALPUR,Madhya Pradesh,SAGAR,0.16470727515660963
+Madhya Pradesh,JABALPUR,Gujarat,Ahmedabad East,0.20335719001652305
+Madhya Pradesh,JABALPUR,Gujarat,Bhavnagar,0.25567302519762514
+Madhya Pradesh,JABALPUR,Gujarat,Rajkot,0.37447316547952847
+Madhya Pradesh,KHAJURAHO,Gujarat,Panchmahal,0.5899751993359957
+Madhya Pradesh,KHAJURAHO,Tripura,Tripura East,0.6120232655415223
+Madhya Pradesh,KHAJURAHO,Madhya Pradesh,JABALPUR,0.6595413169467023
+Madhya Pradesh,KHAJURAHO,Gujarat,Bhavnagar,0.7284942353719216
+Madhya Pradesh,KHAJURAHO,Madhya Pradesh,GUNA,0.7521170084200153
+Madhya Pradesh,KHANDWA,Andhra Pradesh,Vizianagaram,0.1971036377970201
+Madhya Pradesh,KHANDWA,Karnataka,Shimoga,0.20464526291857113
+Madhya Pradesh,KHANDWA,Karnataka,Mandya,0.2670673334352579
+Madhya Pradesh,KHANDWA,Assam,Guwahati,0.2734099441717733
+Madhya Pradesh,KHANDWA,NCT OF Delhi,North-West Delhi,0.277878755661085
+Madhya Pradesh,KHARGONE,NCT OF Delhi,North-East Delhi,0.09714592907689625
+Madhya Pradesh,KHARGONE,Rajasthan,JODHPUR,0.14619017605322668
+Madhya Pradesh,KHARGONE,NCT OF Delhi,South Delhi,0.17441780333529688
+Madhya Pradesh,KHARGONE,Madhya Pradesh,RAJGARH,0.17569323752788665
+Madhya Pradesh,KHARGONE,Karnataka,Mysore,0.18446670648813876
+Madhya Pradesh,MANDLA,Maharashtra,Maval,0.06171495237654877
+Madhya Pradesh,MANDLA,Jharkhand,Godda,0.12486093704244082
+Madhya Pradesh,MANDLA,Uttar Pradesh,Firozabad,0.15825370440794542
+Madhya Pradesh,MANDLA,Andhra Pradesh,Kurnoolu,0.17020561820545718
+Madhya Pradesh,MANDLA,Uttar Pradesh,Moradabad,0.17441980061960088
+Madhya Pradesh,MANDSOUR,Madhya Pradesh,BHOPAL,0.1450912064981664
+Madhya Pradesh,MANDSOUR,Andhra Pradesh,Visakhapatnam,0.20231729893552974
+Madhya Pradesh,MANDSOUR,Gujarat,Rajkot,0.3545653013107181
+Madhya Pradesh,MANDSOUR,Madhya Pradesh,HOSHANGABAD,0.5076838807125951
+Madhya Pradesh,MANDSOUR,Madhya Pradesh,GUNA,0.510861862290161
+Madhya Pradesh,MORENA,Uttar Pradesh,Sultanpur,0.09773224712387507
+Madhya Pradesh,MORENA,West Bengal,Krishnanagar,0.15764505863674985
+Madhya Pradesh,MORENA,Uttar Pradesh,Fatehpur Sikri,0.18236086618600947
+Madhya Pradesh,MORENA,Telangana,Zahirabad,0.18508575327340268
+Madhya Pradesh,MORENA,Uttar Pradesh,Machhlishahr,0.20929202156296267
+Madhya Pradesh,RAJGARH,Chhattisgarh,MAHASAMUND,0.09284939651721082
+Madhya Pradesh,RAJGARH,Jammu and Kashmir,JAMMU,0.1073709330013192
+Madhya Pradesh,RAJGARH,Maharashtra,Nandurbar,0.15122785217114817
+Madhya Pradesh,RAJGARH,NCT OF Delhi,North-East Delhi,0.16004236916787334
+Madhya Pradesh,RAJGARH,Karnataka,Bidar,0.1603320546443148
+Madhya Pradesh,RATLAM,Assam,Nagaon,0.2122841095377279
+Madhya Pradesh,RATLAM,Assam,Barpeta,0.21345664465810324
+Madhya Pradesh,RATLAM,Madhya Pradesh,BALAGHAT,0.2440293049434942
+Madhya Pradesh,RATLAM,West Bengal,Ranaghat,0.2462991366762088
+Madhya Pradesh,RATLAM,West Bengal,Uluberia,0.24912084191641143
+Madhya Pradesh,REWA,Jharkhand,Chatra,0.24031668626996366
+Madhya Pradesh,REWA,Madhya Pradesh,SIDHI,0.3643721240356937
+Madhya Pradesh,REWA,Tamil Nadu,ERODE,0.40684628723448296
+Madhya Pradesh,REWA,Tamil Nadu,VELLORE,0.4110227712120565
+Madhya Pradesh,REWA,Uttar Pradesh,Hathras,0.42183809326641886
+Madhya Pradesh,SAGAR,Gujarat,Ahmedabad East,0.07507163504996768
+Madhya Pradesh,SAGAR,Madhya Pradesh,JABALPUR,0.16470727515660963
+Madhya Pradesh,SAGAR,Tripura,Tripura East,0.21490286787670812
+Madhya Pradesh,SAGAR,Gujarat,Bhavnagar,0.2671068073371759
+Madhya Pradesh,SAGAR,Gujarat,Rajkot,0.31451745159764205
+Madhya Pradesh,SATNA,Maharashtra,Jalna,0.2320467885286195
+Madhya Pradesh,SATNA,Kerala,Kottayam,0.23458719178249887
+Madhya Pradesh,SATNA,Kerala,Kasaragod,0.254913617760919
+Madhya Pradesh,SATNA,Tamil Nadu,SALEM,0.25611667158212603
+Madhya Pradesh,SATNA,Tamil Nadu,CHIDAMBARAM,0.29955533324670397
+Madhya Pradesh,SHAHDOL,Kerala,Wayanad,0.3913624770867944
+Madhya Pradesh,SHAHDOL,Gujarat,Chhota Udaipur,0.44709397788748223
+Madhya Pradesh,SHAHDOL,Telangana,Hyderabad,0.5133286426348581
+Madhya Pradesh,SHAHDOL,Telangana,Khammam,0.5736418412297207
+Madhya Pradesh,SHAHDOL,West Bengal,Jaynagar,0.595362103663265
+Madhya Pradesh,SIDHI,Tamil Nadu,VELLORE,0.16547374087048908
+Madhya Pradesh,SIDHI,Odisha,Mayurbhanj,0.224959850438713
+Madhya Pradesh,SIDHI,Madhya Pradesh,REWA,0.3643721240356937
+Madhya Pradesh,SIDHI,West Bengal,Kolkata Dakshin,0.37729667166130393
+Madhya Pradesh,SIDHI,Odisha,Berhampur,0.40427526205178416
+Madhya Pradesh,TIKAMGARH,Madhya Pradesh,DAMOH,0.06189074154958596
+Madhya Pradesh,TIKAMGARH,Uttar Pradesh,Rae Bareli,0.2142278261745317
+Madhya Pradesh,TIKAMGARH,Madhya Pradesh,HOSHANGABAD,0.28604948730947705
+Madhya Pradesh,TIKAMGARH,Maharashtra,Mumbai North,0.4155151758855612
+Madhya Pradesh,TIKAMGARH,Rajasthan,RAJSAMAND,0.41995545087203767
+Madhya Pradesh,UJJAIN,Haryana,ROHTAK,0.21920158689767943
+Madhya Pradesh,UJJAIN,Gujarat,Kheda,0.23886843144936504
+Madhya Pradesh,UJJAIN,Rajasthan,BHILWARA,0.2388948206214988
+Madhya Pradesh,UJJAIN,Karnataka,Uttara Kannada,0.33027705313184474
+Madhya Pradesh,UJJAIN,Rajasthan,AJMER,0.34251594893755943
+Madhya Pradesh,VIDISHA,Gujarat,Navsari,0.3548438250952844
+Madhya Pradesh,VIDISHA,Gujarat,Gandhinagar,0.5294024720240207
+Madhya Pradesh,VIDISHA,Madhya Pradesh,INDORE,1.4957782525287076
+Madhya Pradesh,VIDISHA,Tripura,Tripura West,1.639095471837561
+Madhya Pradesh,VIDISHA,West Bengal,Diamond harbour,1.7196683059257276
+Maharashtra,Ahmednagar,Uttar Pradesh,Etah,0.05987050614741534
+Maharashtra,Ahmednagar,Uttar Pradesh,Unnao,0.07309338255881334
+Maharashtra,Ahmednagar,Bihar,Sasaram,0.09521895176053416
+Maharashtra,Ahmednagar,Bihar,Purnia,0.09899882736648084
+Maharashtra,Ahmednagar,West Bengal,Medinipur,0.10114222184384962
+Maharashtra,Akola,Uttar Pradesh,Bijnor,0.09611735330607722
+Maharashtra,Akola,Kerala,Alappuzha,0.29956734839108295
+Maharashtra,Akola,Bihar,Buxar,0.30222376752520297
+Maharashtra,Akola,Tamil Nadu,NAMAKKAL,0.3191936361565458
+Maharashtra,Akola,Maharashtra,Hatkanangale,0.32514907784647307
+Maharashtra,Amravati,Uttar Pradesh,Aligarh,0.08409333790028668
+Maharashtra,Amravati,Haryana,KURUKSHETRA,0.11359676744397526
+Maharashtra,Amravati,Uttar Pradesh,Aonla,0.14956191773773622
+Maharashtra,Amravati,Bihar,Sheohar,0.15432607532416112
+Maharashtra,Amravati,Uttar Pradesh,Fatehpur,0.16393863052725133
+Maharashtra,Aurangabad,Bihar,Karakat,0.40381617939288567
+Maharashtra,Aurangabad,Punjab,Gurdaspur,0.5646369184312569
+Maharashtra,Aurangabad,Bihar,Siwan,0.7152432798044347
+Maharashtra,Aurangabad,Punjab,Jalandhar,0.8153121743991782
+Maharashtra,Aurangabad,Jharkhand,Giridih,0.9965729614424074
+Maharashtra,Baramati,West Bengal,Ghatal,0.20727394200402346
+Maharashtra,Baramati,Maharashtra,Shirur,0.2285142282004353
+Maharashtra,Baramati,Madhya Pradesh,BALAGHAT,0.2394936930023412
+Maharashtra,Baramati,Maharashtra,Gadchiroli - Chimur,0.24567839246021067
+Maharashtra,Baramati,Andhra Pradesh,Hindupur,0.2624821877781753
+Maharashtra,Beed,West Bengal,Bishnupur,0.039953342433334524
+Maharashtra,Beed,Uttar Pradesh,Phulpur,0.04989761883469022
+Maharashtra,Beed,Uttar Pradesh,Aonla,0.12112420810825407
+Maharashtra,Beed,Uttar Pradesh,Salempur,0.132280507780207
+Maharashtra,Beed,Uttar Pradesh,Bansgaon,0.14905091353398614
+Maharashtra,Bhandara Gondiya,Uttar Pradesh,Unnao,0.042139632533912424
+Maharashtra,Bhandara Gondiya,Odisha,Bhubaneswar,0.04837850597758044
+Maharashtra,Bhandara Gondiya,Maharashtra,Satara,0.06802774485060056
+Maharashtra,Bhandara Gondiya,Uttar Pradesh,Etah,0.09512450130140783
+Maharashtra,Bhandara Gondiya,Maharashtra,Ahmednagar,0.11007483093506708
+Maharashtra,Bhiwandi,Uttar Pradesh,Banda,0.1918494717873476
+Maharashtra,Bhiwandi,Andhra Pradesh,Araku,0.2066222862530162
+Maharashtra,Bhiwandi,Kerala,Chalakudy,0.25800970231849063
+Maharashtra,Bhiwandi,Odisha,Nabarangpur,0.2610049780587209
+Maharashtra,Bhiwandi,Tamil Nadu,VILUPPURAM,0.2929229441970174
+Maharashtra,Buldhana,Punjab,Hoshiarpur,0.33741003780873424
+Maharashtra,Buldhana,Punjab,Ludhiana,0.3638426347647864
+Maharashtra,Buldhana,Punjab,Fatehgarh Sahib,0.3864707054253456
+Maharashtra,Buldhana,Punjab,Bathinda,0.39841420552081613
+Maharashtra,Buldhana,Punjab,Gurdaspur,0.7779725713956567
+Maharashtra,Chandrapur,Maharashtra,Jalgaon,0.10807428237440131
+Maharashtra,Chandrapur,Andhra Pradesh,Vijayawada,0.17450370303871618
+Maharashtra,Chandrapur,Andhra Pradesh,Vizianagaram,0.1977631048545209
+Maharashtra,Chandrapur,Jharkhand,Jamshedpur,0.20227703526404184
+Maharashtra,Chandrapur,Andhra Pradesh,Narsapuram,0.24952001221320347
+Maharashtra,Dhule,Chandigarh,Chandigarh,0.06351772938414857
+Maharashtra,Dhule,Maharashtra,Mumbai North West,0.09530691471610912
+Maharashtra,Dhule,Chhattisgarh,KANKER,0.13748075694887807
+Maharashtra,Dhule,Uttar Pradesh,Farrukhabad,0.13900777807758666
+Maharashtra,Dhule,Bihar,Araria,0.1960111666380717
+Maharashtra,Dindori,Jharkhand,Ranchi,0.13158865036526668
+Maharashtra,Dindori,Uttar Pradesh,Jaunpur,0.1535474333393773
+Maharashtra,Dindori,Uttar Pradesh,Ghazipur,0.19025590139285942
+Maharashtra,Dindori,Uttar Pradesh,Sant Kabir Nagar,0.19322738151816293
+Maharashtra,Dindori,Odisha,Keonjhar,0.20873765070092604
+Maharashtra,Gadchiroli - Chimur,Bihar,Paschim Champaran,0.09417306889846518
+Maharashtra,Gadchiroli - Chimur,Gujarat,Sabarkantha,0.12502350124940428
+Maharashtra,Gadchiroli - Chimur,Chhattisgarh,MAHASAMUND,0.15331513399081845
+Maharashtra,Gadchiroli - Chimur,Chhattisgarh,BILASPUR,0.17005701440176005
+Maharashtra,Gadchiroli - Chimur,Maharashtra,Pune,0.17517504092409386
+Maharashtra,Hatkanangale,West Bengal,Purulia,0.09553691484179443
+Maharashtra,Hatkanangale,Uttar Pradesh,Dhaurahra,0.18744170765515392
+Maharashtra,Hatkanangale,Bihar,Buxar,0.26940744864976734
+Maharashtra,Hatkanangale,Tamil Nadu,NAMAKKAL,0.3044440748774404
+Maharashtra,Hatkanangale,Uttar Pradesh,Bijnor,0.3077911645416767
+Maharashtra,Hingoli,Tamil Nadu,COIMBATORE,0.17585219934365834
+Maharashtra,Hingoli,Odisha,Kalahandi,0.29270062263920066
+Maharashtra,Hingoli,Telangana,Peddapalle,0.35072849239087067
+Maharashtra,Hingoli,Tamil Nadu,TIRUPPUR,0.37366970750921064
+Maharashtra,Hingoli,Rajasthan,BARMER,0.37664207032363106
+Maharashtra,Jalgaon,Maharashtra,Chandrapur,0.10807428237440131
+Maharashtra,Jalgaon,Jharkhand,Jamshedpur,0.1748511527046416
+Maharashtra,Jalgaon,Andhra Pradesh,Narsapuram,0.21944719819152303
+Maharashtra,Jalgaon,Andhra Pradesh,Vizianagaram,0.22904293500426373
+Maharashtra,Jalgaon,Uttar Pradesh,Mainpuri,0.25610629533112794
+Maharashtra,Jalna,West Bengal,Barasat,0.19541085187395052
+Maharashtra,Jalna,Kerala,Kasaragod,0.20702935189318597
+Maharashtra,Jalna,Odisha,Bolangir,0.2205344782168437
+Maharashtra,Jalna,Madhya Pradesh,SATNA,0.2320467885286195
+Maharashtra,Jalna,Odisha,Keonjhar,0.2891830746135518
+Maharashtra,Kalyan,Uttar Pradesh,Mainpuri,0.14029908420034645
+Maharashtra,Kalyan,Bihar,Muzaffarpur,0.3034360604694767
+Maharashtra,Kalyan,Rajasthan,PALI,0.3108388165597861
+Maharashtra,Kalyan,Andhra Pradesh,Machilipatnam,0.32227268915080526
+Maharashtra,Kalyan,Andhra Pradesh,Nellore,0.33121257556436495
+Maharashtra,Kolhapur,Andhra Pradesh,Narsaraopet,0.06456840550736159
+Maharashtra,Kolhapur,Karnataka,Dakshina Kannada,0.07117996144083029
+Maharashtra,Kolhapur,Karnataka,Chikkballapur,0.09649221196288685
+Maharashtra,Kolhapur,Assam,Jorhat,0.10642157972678896
+Maharashtra,Kolhapur,Maharashtra,Nagpur,0.1252945488517492
+Maharashtra,Latur,Chhattisgarh,SURGUJA,0.05793249486458784
+Maharashtra,Latur,Bihar,Ujiarpur,0.0846676392072443
+Maharashtra,Latur,Chhattisgarh,JANJGIR-CHAMPA,0.08722923355187152
+Maharashtra,Latur,Maharashtra,Ratnagiri- Sindhudurg,0.10841110040102421
+Maharashtra,Latur,Uttar Pradesh,Faizabad,0.12251985426585381
+Maharashtra,Madha,Kerala,Kannur,0.11076369902262864
+Maharashtra,Madha,Uttar Pradesh,Basti,0.15094451228699324
+Maharashtra,Madha,Odisha,Sambalpur,0.15555222595012308
+Maharashtra,Madha,Odisha,Aska,0.1619851769826299
+Maharashtra,Madha,Telangana,Nizamabad,0.16263572650393282
+Maharashtra,Maval,Madhya Pradesh,MANDLA,0.06171495237654877
+Maharashtra,Maval,Uttar Pradesh,Firozabad,0.12680886138980513
+Maharashtra,Maval,Uttar Pradesh,Shrawasti,0.1460140566232909
+Maharashtra,Maval,Maharashtra,Wardha,0.1478854758728737
+Maharashtra,Maval,Maharashtra,Yavatmal- Washim,0.1551150819999213
+Maharashtra,Mumbai North,Gujarat,Amreli,0.32335099068966444
+Maharashtra,Mumbai North,Uttar Pradesh,Rae Bareli,0.35916679576240607
+Maharashtra,Mumbai North,Rajasthan,RAJSAMAND,0.36067973083834326
+Maharashtra,Mumbai North,Madhya Pradesh,TIKAMGARH,0.4155151758855612
+Maharashtra,Mumbai North,Madhya Pradesh,DAMOH,0.46465060894556476
+Maharashtra,Mumbai North Central,Haryana,SONIPAT,0.051403657633984384
+Maharashtra,Mumbai North Central,Gujarat,Banaskantha,0.11499851587378267
+Maharashtra,Mumbai North Central,Rajasthan,JHUNJHUNU,0.12523723703486445
+Maharashtra,Mumbai North Central,Gujarat,Patan,0.164946271519936
+Maharashtra,Mumbai North Central,Chandigarh,Chandigarh,0.17495788318769645
+Maharashtra,Mumbai North East,Uttar Pradesh,Deoria,0.07724754044241333
+Maharashtra,Mumbai North East,Uttar Pradesh,Maharajganj,0.08253687157639089
+Maharashtra,Mumbai North East,West Bengal,Coochbehar,0.11212785124769484
+Maharashtra,Mumbai North East,Goa,South Goa,0.12445823615984496
+Maharashtra,Mumbai North East,Rajasthan,NAGAUR,0.14840794281163366
+Maharashtra,Mumbai North West,Chhattisgarh,KANKER,0.053629150947450174
+Maharashtra,Mumbai North West,Uttar Pradesh,Farrukhabad,0.06015939912553519
+Maharashtra,Mumbai North West,Maharashtra,Dhule,0.09530691471610912
+Maharashtra,Mumbai North West,Chandigarh,Chandigarh,0.15539401017298693
+Maharashtra,Mumbai North West,Bihar,Araria,0.21592945528941665
+Maharashtra,Mumbai South,Madhya Pradesh,BHIND,0.11591642543769379
+Maharashtra,Mumbai South,Rajasthan,TONK-SAWAI MADHOPUR,0.17846052551182207
+Maharashtra,Mumbai South,Rajasthan,SIKAR,0.18800775773360015
+Maharashtra,Mumbai South,Rajasthan,BIKANER,0.18804123192711356
+Maharashtra,Mumbai South,Maharashtra,Solapur,0.19645176984711865
+Maharashtra,Mumbai South Central,Bihar,Ujiarpur,0.1083986078751152
+Maharashtra,Mumbai South Central,Uttar Pradesh,Baharaich,0.13557009953606292
+Maharashtra,Mumbai South Central,Maharashtra,Ratnagiri- Sindhudurg,0.1626729170424007
+Maharashtra,Mumbai South Central,Uttar Pradesh,Allahabad,0.18181409520229508
+Maharashtra,Mumbai South Central,Uttar Pradesh,Kairana,0.18339743158175245
+Maharashtra,Nagpur,Uttar Pradesh,Lucknow,0.0872108312031849
+Maharashtra,Nagpur,Karnataka,Dakshina Kannada,0.11796305430820314
+Maharashtra,Nagpur,Assam,Jorhat,0.119609402144255
+Maharashtra,Nagpur,Karnataka,Bidar,0.1211276066688433
+Maharashtra,Nagpur,Maharashtra,Kolhapur,0.1252945488517492
+Maharashtra,Nanded,West Bengal,Asansol,0.07642663469619614
+Maharashtra,Nanded,Bihar,Sitamarhi,0.10052112920052791
+Maharashtra,Nanded,Uttar Pradesh,Jalaun,0.10289494462918868
+Maharashtra,Nanded,Uttar Pradesh,Etawah,0.14177876271318102
+Maharashtra,Nanded,Odisha,Cuttack,0.14562337178034793
+Maharashtra,Nandurbar,Haryana,FARIDABAD,0.1008515721477022
+Maharashtra,Nandurbar,Karnataka,Chikkballapur,0.11997984255296962
+Maharashtra,Nandurbar,Gujarat,Sabarkantha,0.12572504379692492
+Maharashtra,Nandurbar,Chhattisgarh,MAHASAMUND,0.12810398462509512
+Maharashtra,Nandurbar,Chhattisgarh,BILASPUR,0.13015603799874423
+Maharashtra,Nashik,West Bengal,Howrah,0.09453086102387641
+Maharashtra,Nashik,Uttarakhand,Haridwar,0.1769815799619539
+Maharashtra,Nashik,Jharkhand,Rajmahal,0.19222157045626076
+Maharashtra,Nashik,West Bengal,Jhargram,0.21066156256932647
+Maharashtra,Nashik,Bihar,Khagaria,0.21820578991809683
+Maharashtra,Osmanabad,Uttar Pradesh,Ghaziabad,0.2963493809838691
+Maharashtra,Osmanabad,Kerala,Malappuram,0.30436759459549473
+Maharashtra,Osmanabad,Andhra Pradesh,Anakapalle,0.40193323978041123
+Maharashtra,Osmanabad,Assam,Sonitpur,0.4124011198577963
+Maharashtra,Osmanabad,Jharkhand,Kodarma,0.43636055039734406
+Maharashtra,Palghar,Uttar Pradesh,Ghosi,0.18326257828560327
+Maharashtra,Palghar,Tamil Nadu,RAMANATHAPURAM,0.3567900220499032
+Maharashtra,Palghar,Telangana,Peddapalle,0.37874549880179154
+Maharashtra,Palghar,Telangana,Bhongir,0.3853667040300224
+Maharashtra,Palghar,Odisha,Sundargarh,0.4082388128735874
+Maharashtra,Parbhani,Odisha,Bolangir,0.2154890327717129
+Maharashtra,Parbhani,Uttar Pradesh,Lalganj,0.28646346274478796
+Maharashtra,Parbhani,Uttar Pradesh,Robertsganj,0.29588647577773525
+Maharashtra,Parbhani,West Bengal,Murshidabad,0.31925523783985643
+Maharashtra,Parbhani,Maharashtra,Jalna,0.3403237961273586
+Maharashtra,Pune,Jammu and Kashmir,JAMMU,0.11277533832685892
+Maharashtra,Pune,Chhattisgarh,MAHASAMUND,0.1588996189898877
+Maharashtra,Pune,Bihar,Paschim Champaran,0.17324140601226787
+Maharashtra,Pune,Maharashtra,Gadchiroli - Chimur,0.17517504092409386
+Maharashtra,Pune,Uttar Pradesh,Lucknow,0.19782213911499785
+Maharashtra,Raigad,Bihar,Purvi Champaran,0.07903386983516532
+Maharashtra,Raigad,Bihar,Patliputra,0.1270247413187447
+Maharashtra,Raigad,Uttar Pradesh,Rampur,0.1447615869850531
+Maharashtra,Raigad,Uttar Pradesh,Jhansi,0.15961882981950373
+Maharashtra,Raigad,Jharkhand,Godda,0.17717077335680623
+Maharashtra,Ramtek,Uttar Pradesh,Kairana,0.05921034848611819
+Maharashtra,Ramtek,West Bengal,Jalpaiguri,0.10160193967372516
+Maharashtra,Ramtek,Uttar Pradesh,Baharaich,0.10391434663076912
+Maharashtra,Ramtek,West Bengal,Alipurduars,0.10529941250543874
+Maharashtra,Ramtek,Andhra Pradesh,Rajampet,0.10569264428166418
+Maharashtra,Ratnagiri- Sindhudurg,Uttar Pradesh,Faizabad,0.09589227212536634
+Maharashtra,Ratnagiri- Sindhudurg,Maharashtra,Latur,0.10841110040102421
+Maharashtra,Ratnagiri- Sindhudurg,Bihar,Ujiarpur,0.119314576606372
+Maharashtra,Ratnagiri- Sindhudurg,Chhattisgarh,JANJGIR-CHAMPA,0.12837839275928106
+Maharashtra,Ratnagiri- Sindhudurg,Bihar,Katihar,0.1297052440788803
+Maharashtra,Raver,Uttar Pradesh,Agra,0.1351327727718754
+Maharashtra,Raver,Assam,Dibrugarh,0.33186026622568593
+Maharashtra,Raver,Jharkhand,Hazaribagh,0.36089428940197826
+Maharashtra,Raver,Uttar Pradesh,Hathras,0.4064102272834839
+Maharashtra,Raver,Kerala,Ponnani,0.4520881194554941
+Maharashtra,Sangli,Uttar Pradesh,Basti,0.09173310110517587
+Maharashtra,Sangli,Maharashtra,Yavatmal- Washim,0.09852520809274593
+Maharashtra,Sangli,Uttar Pradesh,Sitapur,0.13290776279159291
+Maharashtra,Sangli,Bihar,Vaishali,0.1346148764469495
+Maharashtra,Sangli,Madhya Pradesh,CHHINDWARA,0.1415604040955539
+Maharashtra,Satara,Maharashtra,Bhandara Gondiya,0.06802774485060056
+Maharashtra,Satara,Uttar Pradesh,Unnao,0.07289106988986323
+Maharashtra,Satara,Bihar,Purnia,0.09881018836484362
+Maharashtra,Satara,West Bengal,Medinipur,0.10326266005653834
+Maharashtra,Satara,Maharashtra,Ahmednagar,0.10353474938026329
+Maharashtra,Shirdi,Tamil Nadu,KALLAKURICHI,0.05504321534791474
+Maharashtra,Shirdi,Chhattisgarh,BASTAR,0.09938454924597714
+Maharashtra,Shirdi,Uttar Pradesh,Saharanpur,0.12592397226200058
+Maharashtra,Shirdi,West Bengal,Krishnanagar,0.14269411178107233
+Maharashtra,Shirdi,Telangana,Secunderabad,0.1447923582169719
+Maharashtra,Shirur,Jammu and Kashmir,UDHAMPUR,0.1526522451804958
+Maharashtra,Shirur,Andhra Pradesh,Hindupur,0.20136505862324358
+Maharashtra,Shirur,Maharashtra,Baramati,0.2285142282004353
+Maharashtra,Shirur,Uttar Pradesh,Kaushambi,0.2618580894911957
+Maharashtra,Shirur,Bihar,Bhagalpur,0.2630997557409993
+Maharashtra,Solapur,Karnataka,Raichur,0.04932725803311246
+Maharashtra,Solapur,Madhya Pradesh,BHIND,0.0905370780150453
+Maharashtra,Solapur,Rajasthan,GANGANAGAR,0.09962436561860151
+Maharashtra,Solapur,Karnataka,Kolar,0.10273398369044795
+Maharashtra,Solapur,Karnataka,Bijapur,0.10596528858669559
+Maharashtra,Thane,Uttar Pradesh,Barabanki,0.07087766590031493
+Maharashtra,Thane,Madhya Pradesh,DHAR,0.12296157255751587
+Maharashtra,Thane,Gujarat,Valsad,0.13734135071340692
+Maharashtra,Thane,Andhra Pradesh,Bapatla,0.18306254262721433
+Maharashtra,Thane,Chhattisgarh,RAIGARH,0.18816661893008316
+Maharashtra,Wardha,Bihar,Munger,0.07485304882311777
+Maharashtra,Wardha,Uttar Pradesh,Shrawasti,0.08135235131499519
+Maharashtra,Wardha,Maharashtra,Yavatmal- Washim,0.10127784138856509
+Maharashtra,Wardha,Bihar,Vaishali,0.10246632316219736
+Maharashtra,Wardha,Bihar,Aurangabad,0.113060202302188
+Maharashtra,Yavatmal- Washim,Bihar,Vaishali,0.05288104061188296
+Maharashtra,Yavatmal- Washim,Uttar Pradesh,Sitapur,0.08087157731243176
+Maharashtra,Yavatmal- Washim,Maharashtra,Sangli,0.09852520809274593
+Maharashtra,Yavatmal- Washim,Maharashtra,Wardha,0.10127784138856509
+Maharashtra,Yavatmal- Washim,Bihar,Munger,0.11280528232103348
+Manipur,Inner Manipur,Bihar,Gopalganj,0.27770353269923387
+Manipur,Inner Manipur,Uttar Pradesh,Ambedkar Nagar,0.2854405046387961
+Manipur,Inner Manipur,Uttar Pradesh,Ghazipur,0.3199135162481658
+Manipur,Inner Manipur,Kerala,Kozhikode,0.34198240109503025
+Manipur,Inner Manipur,Odisha,Balasore,0.3639945384738248
+Manipur,Outer Manipur,Odisha,Aska,0.14204478739003154
+Manipur,Outer Manipur,West Bengal,Kolkata Uttar,0.17341018280218948
+Manipur,Outer Manipur,Kerala,Kannur,0.2229737724488975
+Manipur,Outer Manipur,Uttar Pradesh,Basti,0.23713977178232962
+Manipur,Outer Manipur,Telangana,Nizamabad,0.2402767418483852
+Meghalaya,Shillong,Tamil Nadu,CHENNAI NORTH,0.3299522884601271
+Meghalaya,Shillong,Telangana,Mahabubabad,0.4195144252876704
+Meghalaya,Shillong,Tamil Nadu,PERAMBALUR,0.43022405930982494
+Meghalaya,Shillong,Tamil Nadu,THOOTHUKKUDI,0.46716759629989607
+Meghalaya,Shillong,Uttar Pradesh,Mathura,0.7460927747542495
+Meghalaya,Tura,Uttarakhand,Garhwal,0.37882663068051986
+Meghalaya,Tura,Goa,North Goa,0.4103696754928235
+Meghalaya,Tura,Maharashtra,Kalyan,0.46935891229461907
+Meghalaya,Tura,Uttar Pradesh,Mainpuri,0.500382680953243
+Meghalaya,Tura,Bihar,Darbhanga,0.5719272508206987
+Mizoram,MIZORAM,Maharashtra,Hingoli,0.49631810652609365
+Mizoram,MIZORAM,Tamil Nadu,TIRUPPUR,0.5373029724249712
+Mizoram,MIZORAM,Telangana,Peddapalle,0.5412571413644762
+Mizoram,MIZORAM,Tamil Nadu,COIMBATORE,0.6109654928580692
+Mizoram,MIZORAM,Odisha,Kalahandi,0.6221872728309159
+NCT OF Delhi,Chandni Chowk,Himachal Pradesh,SHIMLA,0.02801365238343645
+NCT OF Delhi,Chandni Chowk,NCT OF Delhi,New Delhi,0.07551585904599191
+NCT OF Delhi,Chandni Chowk,Rajasthan,KARAULI-DHOLPUR,0.10164976283789637
+NCT OF Delhi,Chandni Chowk,Odisha,Puri,0.19584811535059402
+NCT OF Delhi,Chandni Chowk,Gujarat,Anand,0.19880502724826699
+NCT OF Delhi,East Delhi,Karnataka,Dharwad,0.04375755990918273
+NCT OF Delhi,East Delhi,Karnataka,Bellary,0.049144396750202005
+NCT OF Delhi,East Delhi,Gujarat,Anand,0.06325002658295327
+NCT OF Delhi,East Delhi,Himachal Pradesh,MANDI,0.1437107501500228
+NCT OF Delhi,East Delhi,Odisha,Puri,0.17602849321663022
+NCT OF Delhi,New Delhi,NCT OF Delhi,Chandni Chowk,0.07551585904599191
+NCT OF Delhi,New Delhi,Himachal Pradesh,SHIMLA,0.09277183909163357
+NCT OF Delhi,New Delhi,Rajasthan,KARAULI-DHOLPUR,0.16141164271760472
+NCT OF Delhi,New Delhi,Himachal Pradesh,MANDI,0.1927368409271919
+NCT OF Delhi,New Delhi,Gujarat,Anand,0.2158574521537809
+NCT OF Delhi,North-East Delhi,Karnataka,Mysore,0.08967303007011353
+NCT OF Delhi,North-East Delhi,Madhya Pradesh,KHARGONE,0.09714592907689625
+NCT OF Delhi,North-East Delhi,NCT OF Delhi,South Delhi,0.1252615942010557
+NCT OF Delhi,North-East Delhi,Madhya Pradesh,RAJGARH,0.16004236916787334
+NCT OF Delhi,North-East Delhi,Karnataka,Bidar,0.16237069505320254
+NCT OF Delhi,North-West Delhi,Karnataka,Mandya,0.047335859819563696
+NCT OF Delhi,North-West Delhi,Andhra Pradesh,Vijayawada,0.14108963377493136
+NCT OF Delhi,North-West Delhi,Madhya Pradesh,KHANDWA,0.277878755661085
+NCT OF Delhi,North-West Delhi,Maharashtra,Chandrapur,0.29365967386389397
+NCT OF Delhi,North-West Delhi,Karnataka,Udupi Chikmagalur,0.3266036430594236
+NCT OF Delhi,South Delhi,Karnataka,Bidar,0.08512208275704483
+NCT OF Delhi,South Delhi,Karnataka,Mysore,0.11231370834398358
+NCT OF Delhi,South Delhi,NCT OF Delhi,North-East Delhi,0.1252615942010557
+NCT OF Delhi,South Delhi,Rajasthan,JODHPUR,0.15715238590584846
+NCT OF Delhi,South Delhi,Madhya Pradesh,KHARGONE,0.17441780333529688
+NCT OF Delhi,West Delhi,Karnataka,Belgaum,0.1469119168416255
+NCT OF Delhi,West Delhi,Rajasthan,JALORE,0.15096658892275713
+NCT OF Delhi,West Delhi,Karnataka,Chamarajanagar,0.16139767161258395
+NCT OF Delhi,West Delhi,Karnataka,Tumkur,0.16733910841505384
+NCT OF Delhi,West Delhi,Gujarat,Valsad,0.2580733036466766
+Nagaland,Nagaland,Himachal Pradesh,MANDI,0.1796824397588015
+Nagaland,Nagaland,Karnataka,Bijapur,0.24651864454149164
+Nagaland,Nagaland,Karnataka,Raichur,0.30206406688122617
+Nagaland,Nagaland,Maharashtra,Solapur,0.3028274635322232
+Nagaland,Nagaland,Rajasthan,BHARATPUR,0.30614349632081916
+Odisha,Aska,Kerala,Kannur,0.11361166985153692
+Odisha,Aska,Uttar Pradesh,Basti,0.12202416497038392
+Odisha,Aska,Telangana,Nizamabad,0.1287713459617645
+Odisha,Aska,Manipur,Outer Manipur,0.14204478739003154
+Odisha,Aska,Maharashtra,Madha,0.1619851769826299
+Odisha,Balasore,Uttar Pradesh,Ambedkar Nagar,0.1626901831275437
+Odisha,Balasore,West Bengal,Sreerampur,0.2236581509311806
+Odisha,Balasore,West Bengal,Murshidabad,0.2926562650632306
+Odisha,Balasore,Uttar Pradesh,Ghazipur,0.3168135762925679
+Odisha,Balasore,Uttar Pradesh,Robertsganj,0.3335218032408608
+Odisha,Bargarh,Andhra Pradesh,Rajahmundry,0.15477266264851738
+Odisha,Bargarh,Haryana,SIRSA,0.21075224566540016
+Odisha,Bargarh,Bihar,Muzaffarpur,0.24482245171521172
+Odisha,Bargarh,Haryana,KARNAL,0.2655213472404775
+Odisha,Bargarh,Andhra Pradesh,Kakinada,0.270425914341749
+Odisha,Berhampur,Uttar Pradesh,Azamgarh,0.1447834525967042
+Odisha,Berhampur,Kerala,Kollam,0.15133314564180908
+Odisha,Berhampur,Bihar,Nalanda,0.20836037836443355
+Odisha,Berhampur,West Bengal,Kolkata Dakshin,0.24770895679973737
+Odisha,Berhampur,Jharkhand,Lohardaga,0.2836800740273456
+Odisha,Bhadrak,Odisha,Keonjhar,0.20700941343483542
+Odisha,Bhadrak,Kerala,Kasaragod,0.2109286576104881
+Odisha,Bhadrak,West Bengal,Barasat,0.2216501479037081
+Odisha,Bhadrak,Uttar Pradesh,Sant Kabir Nagar,0.2421007625143761
+Odisha,Bhadrak,Telangana,Adilabad,0.28466755281439815
+Odisha,Bhubaneswar,Maharashtra,Bhandara Gondiya,0.04837850597758044
+Odisha,Bhubaneswar,Uttar Pradesh,Unnao,0.055652359178515465
+Odisha,Bhubaneswar,Uttar Pradesh,Etah,0.07352062051712137
+Odisha,Bhubaneswar,Uttar Pradesh,Akbarpur,0.10522653562619139
+Odisha,Bhubaneswar,Maharashtra,Satara,0.10549044101362419
+Odisha,Bolangir,Maharashtra,Parbhani,0.2154890327717129
+Odisha,Bolangir,Uttar Pradesh,Lalganj,0.2187632057045096
+Odisha,Bolangir,Maharashtra,Jalna,0.2205344782168437
+Odisha,Bolangir,West Bengal,Murshidabad,0.24715802192139913
+Odisha,Bolangir,Tamil Nadu,CHIDAMBARAM,0.32091245743638813
+Odisha,Cuttack,Uttar Pradesh,Etawah,0.05214375512907223
+Odisha,Cuttack,Uttar Pradesh,Jalaun,0.08155714726216731
+Odisha,Cuttack,Bihar,Sitamarhi,0.09414549925451327
+Odisha,Cuttack,Uttar Pradesh,Shahjahanpur,0.09745827164567104
+Odisha,Cuttack,Maharashtra,Nanded,0.14562337178034793
+Odisha,Dhenkanal,Bihar,Begusarai,0.038833555552006634
+Odisha,Dhenkanal,Gujarat,Bharuch,0.1121523577241899
+Odisha,Dhenkanal,Madhya Pradesh,GWALIOR,0.13216770903950983
+Odisha,Dhenkanal,Bihar,Patliputra,0.15382764131744947
+Odisha,Dhenkanal,Rajasthan,SIKAR,0.17327968777853697
+Odisha,Jagatsinghpur,Uttar Pradesh,Badaun,0.04869894511244189
+Odisha,Jagatsinghpur,Uttar Pradesh,Kheri,0.07748816796256154
+Odisha,Jagatsinghpur,Chhattisgarh,KORBA,0.10745746827819319
+Odisha,Jagatsinghpur,Uttar Pradesh,Ballia,0.12913817271857553
+Odisha,Jagatsinghpur,Uttar Pradesh,Misrikh,0.15298819819805545
+Odisha,Jajpur,West Bengal,Arambag,0.09369716096876025
+Odisha,Jajpur,Uttar Pradesh,Meerut,0.09569023911562856
+Odisha,Jajpur,West Bengal,Balurghat,0.10798981528748117
+Odisha,Jajpur,Uttar Pradesh,Bansgaon,0.1492133592252969
+Odisha,Jajpur,Bihar,Saran,0.17070463068750533
+Odisha,Kalahandi,Tamil Nadu,COIMBATORE,0.18554163853130393
+Odisha,Kalahandi,West Bengal,Jangipur,0.2432740773800141
+Odisha,Kalahandi,Maharashtra,Hingoli,0.29270062263920066
+Odisha,Kalahandi,West Bengal,Maldaha Dakshin,0.3248500508807054
+Odisha,Kalahandi,Tamil Nadu,TIRUPPUR,0.36953658085575974
+Odisha,Kandhamal,Kerala,Mavelikkara,0.13953887827308478
+Odisha,Kandhamal,Kerala,Alathur,0.15619023859769932
+Odisha,Kandhamal,Uttar Pradesh,Machhlishahr,0.1879784998781611
+Odisha,Kandhamal,Uttar Pradesh,Mirzapur,0.19591464905098474
+Odisha,Kandhamal,Uttar Pradesh,Chandauli,0.2113777144541227
+Odisha,Kendrapara,Haryana,HISAR,0.05664069977149126
+Odisha,Kendrapara,West Bengal,Bangaon,0.05732281315567987
+Odisha,Kendrapara,Uttar Pradesh,Mohanlalganj,0.06781892787160496
+Odisha,Kendrapara,Bihar,Arrah,0.07970293284244684
+Odisha,Kendrapara,Andhra Pradesh,Rajampet,0.09905816536584057
+Odisha,Keonjhar,Uttar Pradesh,Sant Kabir Nagar,0.11650195971249361
+Odisha,Keonjhar,West Bengal,Barasat,0.15240708116444765
+Odisha,Keonjhar,Jharkhand,Ranchi,0.17325608948623508
+Odisha,Keonjhar,Telangana,Adilabad,0.197516747551564
+Odisha,Keonjhar,Odisha,Bhadrak,0.20700941343483542
+Odisha,Koraput,Tamil Nadu,TIRUPPUR,0.2715719738197538
+Odisha,Koraput,Tamil Nadu,KRISHNAGIRI,0.48121772293750886
+Odisha,Koraput,Odisha,Kalahandi,0.5653397492465091
+Odisha,Koraput,Maharashtra,Hingoli,0.6291513145542853
+Odisha,Koraput,Uttar Pradesh,Ghosi,0.6324178528974737
+Odisha,Mayurbhanj,Tamil Nadu,VELLORE,0.09303013874050806
+Odisha,Mayurbhanj,Madhya Pradesh,SIDHI,0.224959850438713
+Odisha,Mayurbhanj,Rajasthan,UDAIPUR,0.3301242406023994
+Odisha,Mayurbhanj,Tamil Nadu,ERODE,0.35505805535432505
+Odisha,Mayurbhanj,Bihar,Jhanjharpur,0.4012191094097012
+Odisha,Nabarangpur,Uttar Pradesh,Banda,0.11934518353973919
+Odisha,Nabarangpur,Telangana,Nagarkurnool,0.13930889113094877
+Odisha,Nabarangpur,West Bengal,Baharampur,0.17091963459230217
+Odisha,Nabarangpur,West Bengal,Maldaha Uttar,0.25706309523984344
+Odisha,Nabarangpur,Maharashtra,Bhiwandi,0.2610049780587209
+Odisha,Puri,Rajasthan,JODHPUR,0.10408842236281882
+Odisha,Puri,Gujarat,Anand,0.1505389634646705
+Odisha,Puri,NCT OF Delhi,East Delhi,0.17602849321663022
+Odisha,Puri,Karnataka,Dharwad,0.18278712132006245
+Odisha,Puri,Karnataka,Bellary,0.19532704749482566
+Odisha,Sambalpur,Kerala,Vadakara,0.08253731177712703
+Odisha,Sambalpur,Bihar,Banka,0.13290421304851868
+Odisha,Sambalpur,Madhya Pradesh,CHHINDWARA,0.1417083976789901
+Odisha,Sambalpur,Maharashtra,Madha,0.15555222595012308
+Odisha,Sambalpur,Kerala,Kannur,0.1566424155157142
+Odisha,Sundargarh,Telangana,Peddapalle,0.22349426494019392
+Odisha,Sundargarh,West Bengal,Maldaha Dakshin,0.2782119337457901
+Odisha,Sundargarh,Uttar Pradesh,Lalganj,0.3060504720318334
+Odisha,Sundargarh,Maharashtra,Parbhani,0.36699608200820966
+Odisha,Sundargarh,Odisha,Bolangir,0.3691822400337409
+Puducherry,PUDUCHERRY,Uttar Pradesh,Baghpat,0.16649542086345206
+Puducherry,PUDUCHERRY,Kerala,Idukki,0.2104377350226716
+Puducherry,PUDUCHERRY,Uttar Pradesh,Nagina,0.2886873787458512
+Puducherry,PUDUCHERRY,Tamil Nadu,KANNIYAKUMARI,0.3087927957912454
+Puducherry,PUDUCHERRY,Jharkhand,Singhbhum,0.3472132547204886
+Punjab,Amritsar,Punjab,Patiala,0.43202769001408914
+Punjab,Amritsar,Punjab,Anandpur Sahib,0.523287597069429
+Punjab,Amritsar,Punjab,Ludhiana,0.5922878375072935
+Punjab,Amritsar,Punjab,Hoshiarpur,0.7158434644135843
+Punjab,Amritsar,Punjab,Bathinda,0.7529162516682749
+Punjab,Anandpur Sahib,Punjab,Patiala,0.3782676567289267
+Punjab,Anandpur Sahib,Punjab,Amritsar,0.523287597069429
+Punjab,Anandpur Sahib,Punjab,Firozpur,0.7067641429995509
+Punjab,Anandpur Sahib,Punjab,Ludhiana,0.8246240721815487
+Punjab,Anandpur Sahib,Punjab,Bathinda,1.0227435688660214
+Punjab,Bathinda,Punjab,Hoshiarpur,0.11067743521547548
+Punjab,Bathinda,Maharashtra,Buldhana,0.39841420552081613
+Punjab,Bathinda,Punjab,Ludhiana,0.4145497098253411
+Punjab,Bathinda,Punjab,Fatehgarh Sahib,0.5231871998663977
+Punjab,Bathinda,Punjab,Amritsar,0.7529162516682749
+Punjab,Faridkot,Punjab,Anandpur Sahib,1.0657609805788866
+Punjab,Faridkot,Punjab,Amritsar,1.2309881970320606
+Punjab,Faridkot,Punjab,Patiala,1.2460179017018902
+Punjab,Faridkot,Punjab,Firozpur,1.3595071524928086
+Punjab,Faridkot,Punjab,Bathinda,1.7230245926739218
+Punjab,Fatehgarh Sahib,Maharashtra,Buldhana,0.3864707054253456
+Punjab,Fatehgarh Sahib,Punjab,Hoshiarpur,0.5206411444951842
+Punjab,Fatehgarh Sahib,Punjab,Bathinda,0.5231871998663977
+Punjab,Fatehgarh Sahib,Punjab,Gurdaspur,0.5679269475379338
+Punjab,Fatehgarh Sahib,Punjab,Ludhiana,0.7070020519726442
+Punjab,Firozpur,Punjab,Patiala,0.41657888746664645
+Punjab,Firozpur,Punjab,Anandpur Sahib,0.7067641429995509
+Punjab,Firozpur,Punjab,Amritsar,0.8056243403414736
+Punjab,Firozpur,Punjab,Ludhiana,1.1824373447044971
+Punjab,Firozpur,Punjab,Faridkot,1.3595071524928086
+Punjab,Gurdaspur,Maharashtra,Aurangabad,0.5646369184312569
+Punjab,Gurdaspur,Punjab,Fatehgarh Sahib,0.5679269475379338
+Punjab,Gurdaspur,Bihar,Karakat,0.6394806616904775
+Punjab,Gurdaspur,Maharashtra,Buldhana,0.7779725713956567
+Punjab,Gurdaspur,Punjab,Hoshiarpur,0.8180406532630231
+Punjab,Hoshiarpur,Punjab,Bathinda,0.11067743521547548
+Punjab,Hoshiarpur,Maharashtra,Buldhana,0.33741003780873424
+Punjab,Hoshiarpur,Punjab,Ludhiana,0.36143028278776934
+Punjab,Hoshiarpur,Punjab,Fatehgarh Sahib,0.5206411444951842
+Punjab,Hoshiarpur,Punjab,Amritsar,0.7158434644135843
+Punjab,Jalandhar,Tamil Nadu,SIVAGANGA,0.44929059679424843
+Punjab,Jalandhar,Tamil Nadu,TENKASI,0.5407408576804293
+Punjab,Jalandhar,Punjab,Khadoor Sahib,0.671350712852009
+Punjab,Jalandhar,Maharashtra,Aurangabad,0.8153121743991782
+Punjab,Jalandhar,Tamil Nadu,KRISHNAGIRI,0.9269750602722425
+Punjab,Khadoor Sahib,Punjab,Jalandhar,0.671350712852009
+Punjab,Khadoor Sahib,Punjab,Sangrur,0.6986266601565335
+Punjab,Khadoor Sahib,Tamil Nadu,SIVAGANGA,1.0136771801147402
+Punjab,Khadoor Sahib,Maharashtra,Aurangabad,1.1280019002795314
+Punjab,Khadoor Sahib,Tamil Nadu,TENKASI,1.1544188491541267
+Punjab,Ludhiana,Punjab,Hoshiarpur,0.36143028278776934
+Punjab,Ludhiana,Maharashtra,Buldhana,0.3638426347647864
+Punjab,Ludhiana,Punjab,Bathinda,0.4145497098253411
+Punjab,Ludhiana,Punjab,Amritsar,0.5922878375072935
+Punjab,Ludhiana,Punjab,Fatehgarh Sahib,0.7070020519726442
+Punjab,Patiala,Punjab,Anandpur Sahib,0.3782676567289267
+Punjab,Patiala,Punjab,Firozpur,0.41657888746664645
+Punjab,Patiala,Punjab,Amritsar,0.43202769001408914
+Punjab,Patiala,Punjab,Ludhiana,0.8040117646302166
+Punjab,Patiala,Punjab,Hoshiarpur,1.0539150734639817
+Punjab,Sangrur,Punjab,Khadoor Sahib,0.6986266601565335
+Punjab,Sangrur,Punjab,Jalandhar,1.2886668601726496
+Punjab,Sangrur,Maharashtra,Aurangabad,1.3990979935132914
+Punjab,Sangrur,Punjab,Bathinda,1.5504138617715963
+Punjab,Sangrur,Punjab,Hoshiarpur,1.5904898453252987
+Rajasthan,AJMER,Karnataka,Uttara Kannada,0.09096123116198214
+Rajasthan,AJMER,Haryana,ROHTAK,0.14494262612862452
+Rajasthan,AJMER,Rajasthan,BHILWARA,0.17885643250777886
+Rajasthan,AJMER,Andhra Pradesh,Amalapuram,0.20233171957210366
+Rajasthan,AJMER,Andhra Pradesh,Srikakulam,0.21682531761610985
+Rajasthan,ALWAR,Karnataka,Chitradurga,0.058412907372195
+Rajasthan,ALWAR,Karnataka,Koppal,0.09288659743952297
+Rajasthan,ALWAR,West Bengal,Kanthi,0.10566216242773356
+Rajasthan,ALWAR,Karnataka,Haveri,0.11021110007724011
+Rajasthan,ALWAR,Rajasthan,KOTA,0.11710593600188109
+Rajasthan,BANSWARA,Rajasthan,UDAIPUR,0.324556869236417
+Rajasthan,BANSWARA,Madhya Pradesh,SIDHI,0.40889139307184447
+Rajasthan,BANSWARA,West Bengal,Kolkata Dakshin,0.4230101051225162
+Rajasthan,BANSWARA,West Bengal,Mathurapur,0.43269814219894165
+Rajasthan,BANSWARA,Assam,Nagaon,0.4478331618995082
+Rajasthan,BARMER,West Bengal,Maldaha Dakshin,0.2309753521975495
+Rajasthan,BARMER,Tamil Nadu,COIMBATORE,0.29138152250579297
+Rajasthan,BARMER,Tamil Nadu,CHIDAMBARAM,0.2934027496342444
+Rajasthan,BARMER,West Bengal,Jangipur,0.3243676699919137
+Rajasthan,BARMER,Tamil Nadu,VILUPPURAM,0.3412656034439668
+Rajasthan,BHARATPUR,Rajasthan,ALWAR,0.13982784677518642
+Rajasthan,BHARATPUR,Rajasthan,BIKANER,0.1421171042219566
+Rajasthan,BHARATPUR,Karnataka,Bagalkot,0.15942348201597087
+Rajasthan,BHARATPUR,Rajasthan,CHURU,0.15971309498965747
+Rajasthan,BHARATPUR,Rajasthan,TONK-SAWAI MADHOPUR,0.16364477882698075
+Rajasthan,BHILWARA,Karnataka,Uttara Kannada,0.12958499256798883
+Rajasthan,BHILWARA,Andhra Pradesh,Amalapuram,0.15397886460257035
+Rajasthan,BHILWARA,Haryana,ROHTAK,0.16725950538631762
+Rajasthan,BHILWARA,Rajasthan,AJMER,0.17885643250777886
+Rajasthan,BHILWARA,Uttarakhand,Nainital-Udhamsingh Nagar,0.21331111028620342
+Rajasthan,BIKANER,Rajasthan,TONK-SAWAI MADHOPUR,0.07327025128887744
+Rajasthan,BIKANER,Karnataka,Bagalkot,0.09850496766557257
+Rajasthan,BIKANER,Karnataka,Kolar,0.12479687698435372
+Rajasthan,BIKANER,Rajasthan,ALWAR,0.12801808003701567
+Rajasthan,BIKANER,Haryana,GURGAON,0.13881566804665552
+Rajasthan,CHITTORGARH,Madhya Pradesh,BETUL,0.2917667590628639
+Rajasthan,CHITTORGARH,Assam,Sonitpur,0.29725866854147137
+Rajasthan,CHITTORGARH,Rajasthan,JHALAWAR-BARAN,0.356403523578289
+Rajasthan,CHITTORGARH,Jharkhand,Kodarma,0.43496779060824514
+Rajasthan,CHITTORGARH,Maharashtra,Osmanabad,0.4459178298141963
+Rajasthan,CHURU,Karnataka,Kolar,0.03622410339703889
+Rajasthan,CHURU,Karnataka,Bagalkot,0.0556503362995758
+Rajasthan,CHURU,Rajasthan,TONK-SAWAI MADHOPUR,0.08936995691425796
+Rajasthan,CHURU,Maharashtra,Solapur,0.10870699472257604
+Rajasthan,CHURU,Haryana,GURGAON,0.119340706263794
+Rajasthan,DAUSA,Karnataka,Udupi Chikmagalur,0.20268711648664103
+Rajasthan,DAUSA,Himachal Pradesh,KANGRA,0.2409797002117372
+Rajasthan,DAUSA,Karnataka,Bangalore South,0.2756829858952472
+Rajasthan,DAUSA,Gujarat,Jamnagar,0.28545721990991074
+Rajasthan,DAUSA,Gujarat,Surendranagar,0.3232439602366362
+Rajasthan,GANGANAGAR,Karnataka,Chikkodi,0.06723680652315814
+Rajasthan,GANGANAGAR,Karnataka,Raichur,0.08085063803293457
+Rajasthan,GANGANAGAR,Maharashtra,Solapur,0.09962436561860151
+Rajasthan,GANGANAGAR,Karnataka,Bijapur,0.15013655198472192
+Rajasthan,GANGANAGAR,Karnataka,Kolar,0.15285613274230803
+Rajasthan,JAIPUR,Andhra Pradesh,Guntur,0.17868692703759811
+Rajasthan,JAIPUR,Andhra Pradesh,Amalapuram,0.3585710851060393
+Rajasthan,JAIPUR,Uttarakhand,Nainital-Udhamsingh Nagar,0.37053699556509945
+Rajasthan,JAIPUR,Andhra Pradesh,Srikakulam,0.38174257174905757
+Rajasthan,JAIPUR,Karnataka,Bangalore South,0.38808338457576574
+Rajasthan,JAIPUR RURAL,Rajasthan,JHUNJHUNU,0.19234239731464342
+Rajasthan,JAIPUR RURAL,Chandigarh,Chandigarh,0.19375700313735653
+Rajasthan,JAIPUR RURAL,Maharashtra,Mumbai North Central,0.235511874449554
+Rajasthan,JAIPUR RURAL,Maharashtra,Dhule,0.24761532576158268
+Rajasthan,JAIPUR RURAL,Karnataka,Gulbarga,0.27079769242438917
+Rajasthan,JALORE,Karnataka,Chamarajanagar,0.08912944532614585
+Rajasthan,JALORE,NCT OF Delhi,West Delhi,0.15096658892275713
+Rajasthan,JALORE,Karnataka,Belgaum,0.20790236488095243
+Rajasthan,JALORE,Madhya Pradesh,DHAR,0.21054514894186127
+Rajasthan,JALORE,Karnataka,Tumkur,0.21341427209122182
+Rajasthan,JHALAWAR-BARAN,Madhya Pradesh,BETUL,0.14133909736833997
+Rajasthan,JHALAWAR-BARAN,Andhra Pradesh,Amalapuram,0.20992499345336277
+Rajasthan,JHALAWAR-BARAN,Rajasthan,BHILWARA,0.22302602620734074
+Rajasthan,JHALAWAR-BARAN,Uttarakhand,Nainital-Udhamsingh Nagar,0.253469797736869
+Rajasthan,JHALAWAR-BARAN,Andhra Pradesh,Guntur,0.2622368902392571
+Rajasthan,JHUNJHUNU,Karnataka,Gulbarga,0.0882444568275366
+Rajasthan,JHUNJHUNU,Uttar Pradesh,Kanpur,0.09622457028610792
+Rajasthan,JHUNJHUNU,Maharashtra,Mumbai North Central,0.12523723703486445
+Rajasthan,JHUNJHUNU,Gujarat,Patan,0.14592463402232594
+Rajasthan,JHUNJHUNU,Karnataka,Bangalore central,0.15242294465233408
+Rajasthan,JODHPUR,Odisha,Puri,0.10408842236281882
+Rajasthan,JODHPUR,Madhya Pradesh,KHARGONE,0.14619017605322668
+Rajasthan,JODHPUR,NCT OF Delhi,South Delhi,0.15715238590584846
+Rajasthan,JODHPUR,NCT OF Delhi,North-East Delhi,0.1735920767542628
+Rajasthan,JODHPUR,Karnataka,Bellary,0.17417129715371904
+Rajasthan,KARAULI-DHOLPUR,Himachal Pradesh,SHIMLA,0.08118956158145264
+Rajasthan,KARAULI-DHOLPUR,NCT OF Delhi,Chandni Chowk,0.10164976283789637
+Rajasthan,KARAULI-DHOLPUR,NCT OF Delhi,New Delhi,0.16141164271760472
+Rajasthan,KARAULI-DHOLPUR,NCT OF Delhi,South Delhi,0.18037384241299437
+Rajasthan,KARAULI-DHOLPUR,Odisha,Puri,0.20050611946567862
+Rajasthan,KOTA,Karnataka,Bangalore central,0.07596237183261986
+Rajasthan,KOTA,West Bengal,Kanthi,0.07741108802860726
+Rajasthan,KOTA,Karnataka,Chitradurga,0.0912093538194506
+Rajasthan,KOTA,Karnataka,Haveri,0.09668705787123211
+Rajasthan,KOTA,Karnataka,Koppal,0.10306558170458571
+Rajasthan,NAGAUR,Uttar Pradesh,Deoria,0.07357121808486895
+Rajasthan,NAGAUR,Bihar,Katihar,0.10437262571937794
+Rajasthan,NAGAUR,Maharashtra,Satara,0.11842114313539602
+Rajasthan,NAGAUR,Maharashtra,Bhandara Gondiya,0.13180008999534212
+Rajasthan,NAGAUR,Maharashtra,Mumbai North East,0.14840794281163366
+Rajasthan,PALI,Andhra Pradesh,Nellore,0.041979119619379335
+Rajasthan,PALI,Karnataka,Shimoga,0.16066069586006407
+Rajasthan,PALI,Chhattisgarh,RAIGARH,0.16086707434204783
+Rajasthan,PALI,Andhra Pradesh,Machilipatnam,0.21077150646846657
+Rajasthan,PALI,Haryana,KARNAL,0.21141945338403584
+Rajasthan,RAJSAMAND,Gujarat,Chhota Udaipur,0.2880914952973525
+Rajasthan,RAJSAMAND,Gujarat,Kheda,0.33073809533820475
+Rajasthan,RAJSAMAND,Madhya Pradesh,HOSHANGABAD,0.3453192896938431
+Rajasthan,RAJSAMAND,Maharashtra,Mumbai North,0.36067973083834326
+Rajasthan,RAJSAMAND,Madhya Pradesh,DEWAS,0.40765917710767635
+Rajasthan,SIKAR,Rajasthan,TONK-SAWAI MADHOPUR,0.08642612757188382
+Rajasthan,SIKAR,Haryana,GURGAON,0.09627890419910078
+Rajasthan,SIKAR,Karnataka,Bagalkot,0.09689534256773184
+Rajasthan,SIKAR,Karnataka,Kolar,0.10328040280033657
+Rajasthan,SIKAR,Madhya Pradesh,BHIND,0.11120941523983724
+Rajasthan,TONK-SAWAI MADHOPUR,Karnataka,Bagalkot,0.034484637063546986
+Rajasthan,TONK-SAWAI MADHOPUR,Karnataka,Kolar,0.05848200104293896
+Rajasthan,TONK-SAWAI MADHOPUR,Rajasthan,BIKANER,0.07327025128887744
+Rajasthan,TONK-SAWAI MADHOPUR,Rajasthan,SIKAR,0.08642612757188382
+Rajasthan,TONK-SAWAI MADHOPUR,Rajasthan,CHURU,0.08936995691425796
+Rajasthan,UDAIPUR,Rajasthan,BANSWARA,0.324556869236417
+Rajasthan,UDAIPUR,Odisha,Mayurbhanj,0.3301242406023994
+Rajasthan,UDAIPUR,Tamil Nadu,VELLORE,0.37602773696689146
+Rajasthan,UDAIPUR,Madhya Pradesh,SIDHI,0.4430258810170465
+Rajasthan,UDAIPUR,Tamil Nadu,ERODE,0.49811985833789546
+Sikkim,Sikkim,Tamil Nadu,TENKASI,0.8509032981626254
+Sikkim,Sikkim,Tamil Nadu,KRISHNAGIRI,0.9174415570936881
+Sikkim,Sikkim,Tamil Nadu,SIVAGANGA,0.9354778035976282
+Sikkim,Sikkim,Odisha,Koraput,0.9607686960830478
+Sikkim,Sikkim,Mizoram,MIZORAM,0.9726835214912146
+Tamil Nadu,ARAKKONAM,Tamil Nadu,MAYILADUTHURAI,0.3022388497539236
+Tamil Nadu,ARAKKONAM,Jammu and Kashmir,ANANTNAG-RAJOURI,0.4511291883330721
+Tamil Nadu,ARAKKONAM,Tamil Nadu,THANJAVUR,0.46929360788726443
+Tamil Nadu,ARAKKONAM,Tamil Nadu,THENI,0.4891506650995163
+Tamil Nadu,ARAKKONAM,Tamil Nadu,TIRUCHIRAPPALLI,0.5238440956286715
+Tamil Nadu,ARANI,Tamil Nadu,CUDDALORE,0.16540270065583812
+Tamil Nadu,ARANI,Jammu and Kashmir,BARAMULLA,0.27601919786472884
+Tamil Nadu,ARANI,Telangana,Karimnagar,0.373600630006083
+Tamil Nadu,ARANI,Tamil Nadu,MADURAI,0.3740556956197135
+Tamil Nadu,ARANI,Telangana,Bhongir,0.42112049345358576
+Tamil Nadu,CHENNAI CENTRAL,Uttarakhand,Tehri Garhwal,0.5005090707314471
+Tamil Nadu,CHENNAI CENTRAL,Uttar Pradesh,Mathura,0.6363866604339025
+Tamil Nadu,CHENNAI CENTRAL,Kerala,Ernakulam,0.7516743642588753
+Tamil Nadu,CHENNAI CENTRAL,Telangana,Mahabubabad,0.7903195906578107
+Tamil Nadu,CHENNAI CENTRAL,Uttar Pradesh,Bulandshahr,0.8317981250454661
+Tamil Nadu,CHENNAI NORTH,Meghalaya,Shillong,0.3299522884601271
+Tamil Nadu,CHENNAI NORTH,Tamil Nadu,THOOTHUKKUDI,0.43539306368134045
+Tamil Nadu,CHENNAI NORTH,Tamil Nadu,PERAMBALUR,0.5174822806881847
+Tamil Nadu,CHENNAI NORTH,Telangana,Mahabubabad,0.5760557176035883
+Tamil Nadu,CHENNAI NORTH,Uttarakhand,Tehri Garhwal,0.7545863065753589
+Tamil Nadu,CHENNAI SOUTH,Tamil Nadu,TIRUVANNAMALAI,0.15510024895653426
+Tamil Nadu,CHENNAI SOUTH,Tamil Nadu,NAGAPATTINAM,0.20622305207456154
+Tamil Nadu,CHENNAI SOUTH,Tamil Nadu,KANCHEEPURAM,0.28343034926033056
+Tamil Nadu,CHENNAI SOUTH,Tamil Nadu,POLLACHI,0.2855309616354731
+Tamil Nadu,CHENNAI SOUTH,Tamil Nadu,NILGIRIS,0.3070304223324474
+Tamil Nadu,CHIDAMBARAM,Kerala,Kottayam,0.2516841104318628
+Tamil Nadu,CHIDAMBARAM,West Bengal,Maldaha Dakshin,0.26429862480285254
+Tamil Nadu,CHIDAMBARAM,Rajasthan,BARMER,0.2934027496342444
+Tamil Nadu,CHIDAMBARAM,Madhya Pradesh,SATNA,0.29955533324670397
+Tamil Nadu,CHIDAMBARAM,Odisha,Bolangir,0.32091245743638813
+Tamil Nadu,COIMBATORE,Maharashtra,Hingoli,0.17585219934365834
+Tamil Nadu,COIMBATORE,Odisha,Kalahandi,0.18554163853130393
+Tamil Nadu,COIMBATORE,West Bengal,Jangipur,0.2411167815338652
+Tamil Nadu,COIMBATORE,Rajasthan,BARMER,0.29138152250579297
+Tamil Nadu,COIMBATORE,West Bengal,Maldaha Dakshin,0.3289366400121332
+Tamil Nadu,CUDDALORE,Tamil Nadu,ARANI,0.16540270065583812
+Tamil Nadu,CUDDALORE,Jammu and Kashmir,BARAMULLA,0.2868191030185131
+Tamil Nadu,CUDDALORE,Telangana,Karimnagar,0.41581871019545397
+Tamil Nadu,CUDDALORE,Uttar Pradesh,Ghosi,0.4174808785215631
+Tamil Nadu,CUDDALORE,Telangana,Bhongir,0.4424001956197842
+Tamil Nadu,DHARMAPURI,Telangana,Medak,0.25770973558343296
+Tamil Nadu,DHARMAPURI,Tamil Nadu,VIRUDHUNAGAR,0.27607236120040507
+Tamil Nadu,DHARMAPURI,Bihar,Kishanganj,0.41532468476031836
+Tamil Nadu,DHARMAPURI,Jharkhand,Giridih,0.6017830875069357
+Tamil Nadu,DHARMAPURI,Assam,Kokrajhar,0.7078313938326536
+Tamil Nadu,DINDIGUL,Telangana,Khammam,0.6839980568657916
+Tamil Nadu,DINDIGUL,Tamil Nadu,THOOTHUKKUDI,0.7490907086497623
+Tamil Nadu,DINDIGUL,Meghalaya,Shillong,0.756997141522743
+Tamil Nadu,DINDIGUL,Kerala,Wayanad,0.8955295929815769
+Tamil Nadu,DINDIGUL,Uttar Pradesh,Gautam Buddha Nagar,0.910491924617897
+Tamil Nadu,ERODE,Uttar Pradesh,Hathras,0.23577620498962124
+Tamil Nadu,ERODE,Tamil Nadu,VELLORE,0.3029269443604689
+Tamil Nadu,ERODE,Jharkhand,Hazaribagh,0.30932021766814194
+Tamil Nadu,ERODE,Odisha,Mayurbhanj,0.35505805535432505
+Tamil Nadu,ERODE,Madhya Pradesh,SIDHI,0.4045794913512803
+Tamil Nadu,KALLAKURICHI,Maharashtra,Shirdi,0.05504321534791474
+Tamil Nadu,KALLAKURICHI,West Bengal,Krishnanagar,0.11971749993012289
+Tamil Nadu,KALLAKURICHI,Uttar Pradesh,Saharanpur,0.12301029280526914
+Tamil Nadu,KALLAKURICHI,Telangana,Secunderabad,0.12851668013593773
+Tamil Nadu,KALLAKURICHI,Chhattisgarh,BASTAR,0.13683535367346036
+Tamil Nadu,KANCHEEPURAM,Telangana,Warangal,0.09119945846442688
+Tamil Nadu,KANCHEEPURAM,Telangana,Karimnagar,0.27634099454528877
+Tamil Nadu,KANCHEEPURAM,Telangana,Bhongir,0.2824720536418781
+Tamil Nadu,KANCHEEPURAM,Tamil Nadu,CHENNAI SOUTH,0.28343034926033056
+Tamil Nadu,KANCHEEPURAM,West Bengal,Jadavpur,0.28703983098568897
+Tamil Nadu,KANNIYAKUMARI,Bihar,Samastipur,0.0653635461744059
+Tamil Nadu,KANNIYAKUMARI,Uttar Pradesh,Baghpat,0.1798614073469333
+Tamil Nadu,KANNIYAKUMARI,Puducherry,PUDUCHERRY,0.3087927957912454
+Tamil Nadu,KANNIYAKUMARI,Bihar,Madhepura,0.33807754321084826
+Tamil Nadu,KANNIYAKUMARI,Jharkhand,Singhbhum,0.3389147998762779
+Tamil Nadu,KARUR,Tamil Nadu,TIRUNELVELI,0.15907957923384397
+Tamil Nadu,KARUR,Bihar,Jahanabad,0.19626942063381747
+Tamil Nadu,KARUR,Bihar,Supaul,0.26989893918311203
+Tamil Nadu,KARUR,Bihar,Jhanjharpur,0.2992496377446884
+Tamil Nadu,KARUR,Bihar,Nalanda,0.31196121841839575
+Tamil Nadu,KRISHNAGIRI,Tamil Nadu,TENKASI,0.45308837018756165
+Tamil Nadu,KRISHNAGIRI,Tamil Nadu,ARANI,0.47967440344400936
+Tamil Nadu,KRISHNAGIRI,Odisha,Koraput,0.48121772293750886
+Tamil Nadu,KRISHNAGIRI,Tamil Nadu,MADURAI,0.48467115682234296
+Tamil Nadu,KRISHNAGIRI,Tamil Nadu,CUDDALORE,0.49908842400288195
+Tamil Nadu,MADURAI,Tamil Nadu,ARANI,0.3740556956197135
+Tamil Nadu,MADURAI,Jammu and Kashmir,BARAMULLA,0.42919550136323803
+Tamil Nadu,MADURAI,Tamil Nadu,CUDDALORE,0.44624620663241504
+Tamil Nadu,MADURAI,Tamil Nadu,KRISHNAGIRI,0.48467115682234296
+Tamil Nadu,MADURAI,Tamil Nadu,TENKASI,0.6327264719000977
+Tamil Nadu,MAYILADUTHURAI,Tamil Nadu,NILGIRIS,0.2917781099507362
+Tamil Nadu,MAYILADUTHURAI,Tamil Nadu,ARAKKONAM,0.3022388497539236
+Tamil Nadu,MAYILADUTHURAI,Tamil Nadu,POLLACHI,0.36195828646482764
+Tamil Nadu,MAYILADUTHURAI,Tamil Nadu,CHENNAI SOUTH,0.5180525507908256
+Tamil Nadu,MAYILADUTHURAI,Tamil Nadu,TIRUVANNAMALAI,0.5223831100731817
+Tamil Nadu,NAGAPATTINAM,Tamil Nadu,TIRUVANNAMALAI,0.19675247113541652
+Tamil Nadu,NAGAPATTINAM,Tamil Nadu,CHENNAI SOUTH,0.20622305207456154
+Tamil Nadu,NAGAPATTINAM,Tamil Nadu,POLLACHI,0.31473590222690023
+Tamil Nadu,NAGAPATTINAM,Tamil Nadu,NILGIRIS,0.3798056096385567
+Tamil Nadu,NAGAPATTINAM,Tamil Nadu,KANCHEEPURAM,0.395763842107328
+Tamil Nadu,NAMAKKAL,Bihar,Buxar,0.1127973229949731
+Tamil Nadu,NAMAKKAL,West Bengal,Purulia,0.21885517627597512
+Tamil Nadu,NAMAKKAL,Uttar Pradesh,Bijnor,0.23871862332719584
+Tamil Nadu,NAMAKKAL,Andhra Pradesh,Araku,0.25295553029671314
+Tamil Nadu,NAMAKKAL,Maharashtra,Hatkanangale,0.3044440748774404
+Tamil Nadu,NILGIRIS,Tamil Nadu,POLLACHI,0.27535968935741684
+Tamil Nadu,NILGIRIS,Tamil Nadu,MAYILADUTHURAI,0.2917781099507362
+Tamil Nadu,NILGIRIS,Tamil Nadu,CHENNAI SOUTH,0.3070304223324474
+Tamil Nadu,NILGIRIS,Tamil Nadu,TIRUVANNAMALAI,0.3772632522717106
+Tamil Nadu,NILGIRIS,Tamil Nadu,NAGAPATTINAM,0.3798056096385567
+Tamil Nadu,PERAMBALUR,Meghalaya,Shillong,0.43022405930982494
+Tamil Nadu,PERAMBALUR,Tamil Nadu,CHENNAI NORTH,0.5174822806881847
+Tamil Nadu,PERAMBALUR,Telangana,Mahabubabad,0.5569757685092993
+Tamil Nadu,PERAMBALUR,Tamil Nadu,THOOTHUKKUDI,0.5729604660004587
+Tamil Nadu,PERAMBALUR,Tamil Nadu,SRIPERUMBUDUR,0.6976249914287621
+Tamil Nadu,POLLACHI,Tamil Nadu,TIRUVANNAMALAI,0.2248059478705035
+Tamil Nadu,POLLACHI,Tamil Nadu,NILGIRIS,0.27535968935741684
+Tamil Nadu,POLLACHI,Tamil Nadu,CHENNAI SOUTH,0.2855309616354731
+Tamil Nadu,POLLACHI,Tamil Nadu,NAGAPATTINAM,0.31473590222690023
+Tamil Nadu,POLLACHI,Tamil Nadu,MAYILADUTHURAI,0.36195828646482764
+Tamil Nadu,RAMANATHAPURAM,Tamil Nadu,TIRUNELVELI,0.2812584306575316
+Tamil Nadu,RAMANATHAPURAM,Uttar Pradesh,Ghosi,0.3439295186968405
+Tamil Nadu,RAMANATHAPURAM,Maharashtra,Palghar,0.3567900220499032
+Tamil Nadu,RAMANATHAPURAM,Telangana,Bhongir,0.4138199631604735
+Tamil Nadu,RAMANATHAPURAM,Tamil Nadu,KARUR,0.4145135492850148
+Tamil Nadu,SALEM,West Bengal,Dum dum,0.18853716881386628
+Tamil Nadu,SALEM,Uttar Pradesh,Fatehpur Sikri,0.2476847105280097
+Tamil Nadu,SALEM,Uttar Pradesh,Bhadohi,0.253884386701846
+Tamil Nadu,SALEM,Madhya Pradesh,SATNA,0.25611667158212603
+Tamil Nadu,SALEM,Telangana,Zahirabad,0.2763008325110238
+Tamil Nadu,SIVAGANGA,Tamil Nadu,TENKASI,0.168789519870759
+Tamil Nadu,SIVAGANGA,Punjab,Jalandhar,0.44929059679424843
+Tamil Nadu,SIVAGANGA,Tamil Nadu,KRISHNAGIRI,0.6136026591246296
+Tamil Nadu,SIVAGANGA,Tamil Nadu,MADURAI,0.7463651400620379
+Tamil Nadu,SIVAGANGA,Odisha,Koraput,0.9201595493412021
+Tamil Nadu,SRIPERUMBUDUR,Tamil Nadu,PERAMBALUR,0.6976249914287621
+Tamil Nadu,SRIPERUMBUDUR,Tamil Nadu,THOOTHUKKUDI,0.959000983784742
+Tamil Nadu,SRIPERUMBUDUR,Meghalaya,Shillong,0.9890654383067663
+Tamil Nadu,SRIPERUMBUDUR,Tamil Nadu,TIRUVALLUR,1.0560694486227005
+Tamil Nadu,SRIPERUMBUDUR,Telangana,Mahabubabad,1.1283206612948549
+Tamil Nadu,TENKASI,Tamil Nadu,SIVAGANGA,0.168789519870759
+Tamil Nadu,TENKASI,Tamil Nadu,KRISHNAGIRI,0.45308837018756165
+Tamil Nadu,TENKASI,Punjab,Jalandhar,0.5407408576804293
+Tamil Nadu,TENKASI,Tamil Nadu,MADURAI,0.6327264719000977
+Tamil Nadu,TENKASI,Odisha,Koraput,0.7695307062078893
+Tamil Nadu,THANJAVUR,Tamil Nadu,ARAKKONAM,0.46929360788726443
+Tamil Nadu,THANJAVUR,Tamil Nadu,TIRUCHIRAPPALLI,0.5113879156575514
+Tamil Nadu,THANJAVUR,Jammu and Kashmir,ANANTNAG-RAJOURI,0.6490811851438552
+Tamil Nadu,THANJAVUR,Tamil Nadu,MAYILADUTHURAI,0.6651979214937709
+Tamil Nadu,THANJAVUR,Tamil Nadu,THENI,0.8589194219679993
+Tamil Nadu,THENI,Jammu and Kashmir,ANANTNAG-RAJOURI,0.30840231462398027
+Tamil Nadu,THENI,Tamil Nadu,POLLACHI,0.47914021057783596
+Tamil Nadu,THENI,Tamil Nadu,ARAKKONAM,0.4891506650995163
+Tamil Nadu,THENI,Tamil Nadu,MAYILADUTHURAI,0.5441020343468386
+Tamil Nadu,THENI,Tamil Nadu,TIRUCHIRAPPALLI,0.5715524350111978
+Tamil Nadu,THOOTHUKKUDI,Tamil Nadu,CHENNAI NORTH,0.43539306368134045
+Tamil Nadu,THOOTHUKKUDI,Meghalaya,Shillong,0.46716759629989607
+Tamil Nadu,THOOTHUKKUDI,Tamil Nadu,PERAMBALUR,0.5729604660004587
+Tamil Nadu,THOOTHUKKUDI,Tamil Nadu,DINDIGUL,0.7490907086497623
+Tamil Nadu,THOOTHUKKUDI,Telangana,Mahabubabad,0.8551469498241422
+Tamil Nadu,TIRUCHIRAPPALLI,Jammu and Kashmir,ANANTNAG-RAJOURI,0.303326177174599
+Tamil Nadu,TIRUCHIRAPPALLI,Tamil Nadu,THANJAVUR,0.5113879156575514
+Tamil Nadu,TIRUCHIRAPPALLI,Tamil Nadu,ARAKKONAM,0.5238440956286715
+Tamil Nadu,TIRUCHIRAPPALLI,Tamil Nadu,THENI,0.5715524350111978
+Tamil Nadu,TIRUCHIRAPPALLI,Tamil Nadu,MAYILADUTHURAI,0.7533610264712917
+Tamil Nadu,TIRUNELVELI,Tamil Nadu,KARUR,0.15907957923384397
+Tamil Nadu,TIRUNELVELI,Bihar,Jahanabad,0.2502263515307005
+Tamil Nadu,TIRUNELVELI,Tamil Nadu,RAMANATHAPURAM,0.2812584306575316
+Tamil Nadu,TIRUNELVELI,Bihar,Jhanjharpur,0.3389977769965151
+Tamil Nadu,TIRUNELVELI,Uttar Pradesh,Robertsganj,0.3750215197960435
+Tamil Nadu,TIRUPPUR,Odisha,Koraput,0.2715719738197538
+Tamil Nadu,TIRUPPUR,Odisha,Kalahandi,0.36953658085575974
+Tamil Nadu,TIRUPPUR,Maharashtra,Hingoli,0.37366970750921064
+Tamil Nadu,TIRUPPUR,Tamil Nadu,COIMBATORE,0.3955714886196777
+Tamil Nadu,TIRUPPUR,Telangana,Peddapalle,0.53704726287689
+Tamil Nadu,TIRUVALLUR,Uttar Pradesh,Gautam Buddha Nagar,0.8476805760559897
+Tamil Nadu,TIRUVALLUR,Telangana,Nalgonda,0.8919208706174856
+Tamil Nadu,TIRUVALLUR,Tamil Nadu,DINDIGUL,0.9843672114941341
+Tamil Nadu,TIRUVALLUR,Tamil Nadu,SRIPERUMBUDUR,1.0560694486227005
+Tamil Nadu,TIRUVALLUR,Tamil Nadu,THOOTHUKKUDI,1.2604446070407271
+Tamil Nadu,TIRUVANNAMALAI,Tamil Nadu,CHENNAI SOUTH,0.15510024895653426
+Tamil Nadu,TIRUVANNAMALAI,Tamil Nadu,NAGAPATTINAM,0.19675247113541652
+Tamil Nadu,TIRUVANNAMALAI,Tamil Nadu,POLLACHI,0.2248059478705035
+Tamil Nadu,TIRUVANNAMALAI,Tamil Nadu,KANCHEEPURAM,0.31240452230391524
+Tamil Nadu,TIRUVANNAMALAI,Tamil Nadu,NILGIRIS,0.3772632522717106
+Tamil Nadu,VELLORE,Odisha,Mayurbhanj,0.09303013874050806
+Tamil Nadu,VELLORE,Madhya Pradesh,SIDHI,0.16547374087048908
+Tamil Nadu,VELLORE,Tamil Nadu,ERODE,0.3029269443604689
+Tamil Nadu,VELLORE,Rajasthan,UDAIPUR,0.37602773696689146
+Tamil Nadu,VELLORE,Madhya Pradesh,REWA,0.4110227712120565
+Tamil Nadu,VILUPPURAM,Kerala,Chalakudy,0.13175401638022768
+Tamil Nadu,VILUPPURAM,West Bengal,Raiganj,0.2456970912798205
+Tamil Nadu,VILUPPURAM,Andhra Pradesh,Araku,0.25995777574197093
+Tamil Nadu,VILUPPURAM,Kerala,Pathanamthitta,0.2720018476897318
+Tamil Nadu,VILUPPURAM,Kerala,Palakkad,0.2774452333111986
+Tamil Nadu,VIRUDHUNAGAR,Tamil Nadu,DHARMAPURI,0.27607236120040507
+Tamil Nadu,VIRUDHUNAGAR,Telangana,Medak,0.45221806407165
+Tamil Nadu,VIRUDHUNAGAR,Bihar,Kishanganj,0.6116964041574326
+Tamil Nadu,VIRUDHUNAGAR,Assam,Kokrajhar,0.6266615481960014
+Tamil Nadu,VIRUDHUNAGAR,Jharkhand,Giridih,0.7553784438871023
+Telangana,Adilabad,Uttar Pradesh,Sant Kabir Nagar,0.14199758194951131
+Telangana,Adilabad,Uttar Pradesh,Jaunpur,0.16489380126011585
+Telangana,Adilabad,Odisha,Keonjhar,0.197516747551564
+Telangana,Adilabad,Uttar Pradesh,Pratapgarh,0.22875220720473322
+Telangana,Adilabad,West Bengal,Barrackpur,0.2460433148828452
+Telangana,Bhongir,Telangana,Karimnagar,0.12567489248337416
+Telangana,Bhongir,Telangana,Warangal,0.20886767680003734
+Telangana,Bhongir,Tamil Nadu,KANCHEEPURAM,0.2824720536418781
+Telangana,Bhongir,West Bengal,Jadavpur,0.3079606328345557
+Telangana,Bhongir,Maharashtra,Palghar,0.3853667040300224
+Telangana,Chevella,West Bengal,Bardhaman Purba,0.11337533326160369
+Telangana,Chevella,West Bengal,Jhargram,0.2554696565629296
+Telangana,Chevella,West Bengal,Bardhaman-Durgapur,0.2660745229579824
+Telangana,Chevella,West Bengal,Howrah,0.2982877562512993
+Telangana,Chevella,Maharashtra,Nashik,0.3276940257008647
+Telangana,Hyderabad,Gujarat,Dahod,0.17632124155002232
+Telangana,Hyderabad,Assam,Sonitpur,0.3597499641353843
+Telangana,Hyderabad,Kerala,Wayanad,0.434691779447685
+Telangana,Hyderabad,Gujarat,Kheda,0.45504771290858353
+Telangana,Hyderabad,Andhra Pradesh,Srikakulam,0.47575461057736607
+Telangana,Karimnagar,Telangana,Bhongir,0.12567489248337416
+Telangana,Karimnagar,Telangana,Warangal,0.19320771682324042
+Telangana,Karimnagar,Tamil Nadu,KANCHEEPURAM,0.27634099454528877
+Telangana,Karimnagar,West Bengal,Jadavpur,0.309196374735689
+Telangana,Karimnagar,Tamil Nadu,ARANI,0.373600630006083
+Telangana,Khammam,West Bengal,Jaynagar,0.5268531129468083
+Telangana,Khammam,Madhya Pradesh,SHAHDOL,0.5736418412297207
+Telangana,Khammam,Tamil Nadu,DINDIGUL,0.6839980568657916
+Telangana,Khammam,Uttar Pradesh,Gautam Buddha Nagar,0.6903230799936692
+Telangana,Khammam,Kerala,Wayanad,0.8159347990689012
+Telangana,Mahabubabad,Meghalaya,Shillong,0.4195144252876704
+Telangana,Mahabubabad,Uttar Pradesh,Mathura,0.4680873340739036
+Telangana,Mahabubabad,Tamil Nadu,PERAMBALUR,0.5569757685092993
+Telangana,Mahabubabad,Uttarakhand,Tehri Garhwal,0.5683759219201718
+Telangana,Mahabubabad,Tamil Nadu,CHENNAI NORTH,0.5760557176035883
+Telangana,Mahbubnagar,Kerala,Mavelikkara,0.11219479753463671
+Telangana,Mahbubnagar,Odisha,Kandhamal,0.22343068095420374
+Telangana,Mahbubnagar,Uttar Pradesh,Chandauli,0.22967859849026542
+Telangana,Mahbubnagar,Kerala,Alathur,0.26881209495282754
+Telangana,Mahbubnagar,Uttar Pradesh,Amroha,0.3304628112902611
+Telangana,Malkajgiri,West Bengal,Basirhat,0.4689412647667318
+Telangana,Malkajgiri,Jharkhand,Dhanbad,0.8044947612639202
+Telangana,Malkajgiri,Jharkhand,Hazaribagh,0.8183023644266637
+Telangana,Malkajgiri,Assam,Darrang-Udalguri,0.8196124367665453
+Telangana,Malkajgiri,Maharashtra,Raver,0.9302765531067158
+Telangana,Medak,Tamil Nadu,DHARMAPURI,0.25770973558343296
+Telangana,Medak,Bihar,Kishanganj,0.37857810590832247
+Telangana,Medak,Tamil Nadu,VIRUDHUNAGAR,0.45221806407165
+Telangana,Medak,Jharkhand,Giridih,0.5023456834610689
+Telangana,Medak,West Bengal,Maldaha Uttar,0.6658521786025368
+Telangana,Nagarkurnool,Odisha,Nabarangpur,0.13930889113094877
+Telangana,Nagarkurnool,Uttar Pradesh,Banda,0.21626191433983172
+Telangana,Nagarkurnool,West Bengal,Baharampur,0.24340361999433985
+Telangana,Nagarkurnool,West Bengal,Maldaha Uttar,0.2831021551384675
+Telangana,Nagarkurnool,West Bengal,Jangipur,0.3379937078891348
+Telangana,Nalgonda,Uttar Pradesh,Gautam Buddha Nagar,0.39989707468878793
+Telangana,Nalgonda,Telangana,Khammam,0.8454297675142624
+Telangana,Nalgonda,Tamil Nadu,TIRUVALLUR,0.8919208706174856
+Telangana,Nalgonda,Tamil Nadu,DINDIGUL,1.0036431205258791
+Telangana,Nalgonda,West Bengal,Jaynagar,1.2228185935473737
+Telangana,Nizamabad,Odisha,Aska,0.1287713459617645
+Telangana,Nizamabad,Uttar Pradesh,Sambhal,0.15890931168761296
+Telangana,Nizamabad,Maharashtra,Madha,0.16263572650393282
+Telangana,Nizamabad,Uttar Pradesh,Basti,0.16736661574842998
+Telangana,Nizamabad,Kerala,Kannur,0.18359969698767908
+Telangana,Peddapalle,Odisha,Sundargarh,0.22349426494019392
+Telangana,Peddapalle,Uttar Pradesh,Ghosi,0.31099296522563535
+Telangana,Peddapalle,Maharashtra,Hingoli,0.35072849239087067
+Telangana,Peddapalle,West Bengal,Maldaha Dakshin,0.364499253380956
+Telangana,Peddapalle,Maharashtra,Palghar,0.37874549880179154
+Telangana,Secunderabad,Uttar Pradesh,Domariyaganj,0.0896213042583834
+Telangana,Secunderabad,Tamil Nadu,KALLAKURICHI,0.12851668013593773
+Telangana,Secunderabad,Maharashtra,Shirdi,0.1447923582169719
+Telangana,Secunderabad,Andhra Pradesh,Kadapa,0.15401109750676165
+Telangana,Secunderabad,West Bengal,Barrackpur,0.1586301394772444
+Telangana,Warangal,Tamil Nadu,KANCHEEPURAM,0.09119945846442688
+Telangana,Warangal,Telangana,Karimnagar,0.19320771682324042
+Telangana,Warangal,Telangana,Bhongir,0.20886767680003734
+Telangana,Warangal,West Bengal,Jadavpur,0.274010495753095
+Telangana,Warangal,Tamil Nadu,CHENNAI SOUTH,0.330071609423836
+Telangana,Zahirabad,Uttar Pradesh,Mirzapur,0.06559523867117845
+Telangana,Zahirabad,Uttar Pradesh,Fatehpur Sikri,0.06886035078018478
+Telangana,Zahirabad,Uttar Pradesh,Machhlishahr,0.09197333979655922
+Telangana,Zahirabad,Uttar Pradesh,Sultanpur,0.11436887376216423
+Telangana,Zahirabad,Uttar Pradesh,Bhadohi,0.12155234698304067
+Tripura,Tripura East,Madhya Pradesh,JABALPUR,0.09303944431013411
+Tripura,Tripura East,Madhya Pradesh,SAGAR,0.21490286787670812
+Tripura,Tripura East,Gujarat,Bhavnagar,0.2251525118095985
+Tripura,Tripura East,Gujarat,Ahmedabad East,0.2529165145500258
+Tripura,Tripura East,Gujarat,Panchmahal,0.35720375471599597
+Tripura,Tripura West,Gujarat,Vadodara,0.322290003209523
+Tripura,Tripura West,Gujarat,Panchmahal,0.9373946983331198
+Tripura,Tripura West,Madhya Pradesh,KHAJURAHO,1.0171191948337526
+Tripura,Tripura West,West Bengal,Diamond harbour,1.0407256594912335
+Tripura,Tripura West,Gujarat,Gandhinagar,1.1806208779163618
+Uttar Pradesh,Agra,Maharashtra,Raver,0.1351327727718754
+Uttar Pradesh,Agra,Assam,Dibrugarh,0.32479581885611836
+Uttar Pradesh,Agra,Uttar Pradesh,Hathras,0.4068969671745167
+Uttar Pradesh,Agra,Jharkhand,Hazaribagh,0.40881254398793
+Uttar Pradesh,Agra,Kerala,Ponnani,0.4239942528495449
+Uttar Pradesh,Akbarpur,Uttar Pradesh,Shahjahanpur,0.09601082419661115
+Uttar Pradesh,Akbarpur,Odisha,Bhubaneswar,0.10522653562619139
+Uttar Pradesh,Akbarpur,Maharashtra,Bhandara Gondiya,0.11912470768965472
+Uttar Pradesh,Akbarpur,Uttar Pradesh,Unnao,0.14857950257297756
+Uttar Pradesh,Akbarpur,Bihar,Katihar,0.15302784836138644
+Uttar Pradesh,Aligarh,Maharashtra,Amravati,0.08409333790028668
+Uttar Pradesh,Aligarh,Uttar Pradesh,Salempur,0.12835280843560098
+Uttar Pradesh,Aligarh,Uttar Pradesh,Hamirpur,0.1410020711359194
+Uttar Pradesh,Aligarh,Uttar Pradesh,Phulpur,0.16466120963874736
+Uttar Pradesh,Aligarh,Haryana,KURUKSHETRA,0.16666218314042455
+Uttar Pradesh,Allahabad,Uttar Pradesh,Kairana,0.078512854705901
+Uttar Pradesh,Allahabad,Haryana,HISAR,0.08523003989481788
+Uttar Pradesh,Allahabad,Uttar Pradesh,Baharaich,0.0885625155230996
+Uttar Pradesh,Allahabad,Bihar,Arrah,0.11100421649741211
+Uttar Pradesh,Allahabad,Maharashtra,Ramtek,0.1263276474051718
+Uttar Pradesh,Ambedkar Nagar,Uttar Pradesh,Ghazipur,0.1614875327709181
+Uttar Pradesh,Ambedkar Nagar,Odisha,Balasore,0.1626901831275437
+Uttar Pradesh,Ambedkar Nagar,Bihar,Gopalganj,0.2578881032920129
+Uttar Pradesh,Ambedkar Nagar,Maharashtra,Dindori,0.28314069452615764
+Uttar Pradesh,Ambedkar Nagar,Manipur,Inner Manipur,0.2854405046387961
+Uttar Pradesh,Amethi,Bihar,Darbhanga,0.0982927185930924
+Uttar Pradesh,Amethi,Jharkhand,Khunti,0.16132567533903788
+Uttar Pradesh,Amethi,Assam,Lakhimpur,0.24043614840486052
+Uttar Pradesh,Amethi,Bihar,Madhubani,0.2752186549038091
+Uttar Pradesh,Amethi,Bihar,Patna Sahib,0.3007129699755985
+Uttar Pradesh,Amroha,Uttar Pradesh,Chandauli,0.10094797470675172
+Uttar Pradesh,Amroha,Uttar Pradesh,Muzaffarnagar,0.18451434384522727
+Uttar Pradesh,Amroha,Uttar Pradesh,Machhlishahr,0.19936367455102394
+Uttar Pradesh,Amroha,Uttar Pradesh,Sultanpur,0.21127886651879932
+Uttar Pradesh,Amroha,West Bengal,Bankura,0.2464709445901121
+Uttar Pradesh,Aonla,Andhra Pradesh,Thirupathi,0.11537779958196404
+Uttar Pradesh,Aonla,Maharashtra,Beed,0.12112420810825407
+Uttar Pradesh,Aonla,West Bengal,Bishnupur,0.12938367309897758
+Uttar Pradesh,Aonla,Maharashtra,Amravati,0.14956191773773622
+Uttar Pradesh,Aonla,Uttar Pradesh,Phulpur,0.1527997781032874
+Uttar Pradesh,Azamgarh,Kerala,Kollam,0.130605904917311
+Uttar Pradesh,Azamgarh,Odisha,Berhampur,0.1447834525967042
+Uttar Pradesh,Azamgarh,Kerala,Kozhikode,0.2100245831062056
+Uttar Pradesh,Azamgarh,Bihar,Nalanda,0.22144048152921605
+Uttar Pradesh,Azamgarh,Bihar,Supaul,0.25102056829082525
+Uttar Pradesh,Badaun,Odisha,Jagatsinghpur,0.04869894511244189
+Uttar Pradesh,Badaun,Uttar Pradesh,Kheri,0.04921349306830881
+Uttar Pradesh,Badaun,Chhattisgarh,KORBA,0.09863009882813786
+Uttar Pradesh,Badaun,Uttar Pradesh,Ballia,0.13117169751979235
+Uttar Pradesh,Badaun,Uttar Pradesh,Misrikh,0.17255885816041253
+Uttar Pradesh,Baghpat,Puducherry,PUDUCHERRY,0.16649542086345206
+Uttar Pradesh,Baghpat,Tamil Nadu,KANNIYAKUMARI,0.1798614073469333
+Uttar Pradesh,Baghpat,Bihar,Samastipur,0.20920478212245885
+Uttar Pradesh,Baghpat,Jharkhand,Singhbhum,0.24210393955296583
+Uttar Pradesh,Baghpat,Uttar Pradesh,Nagina,0.24873804137804
+Uttar Pradesh,Baharaich,Uttar Pradesh,Kairana,0.06750424346341666
+Uttar Pradesh,Baharaich,Uttar Pradesh,Allahabad,0.0885625155230996
+Uttar Pradesh,Baharaich,Maharashtra,Ramtek,0.10391434663076912
+Uttar Pradesh,Baharaich,Haryana,HISAR,0.10597536450231874
+Uttar Pradesh,Baharaich,West Bengal,Alipurduars,0.10836665471594274
+Uttar Pradesh,Ballia,Chhattisgarh,KORBA,0.08868030419936003
+Uttar Pradesh,Ballia,West Bengal,Asansol,0.11610645919493263
+Uttar Pradesh,Ballia,Odisha,Jagatsinghpur,0.12913817271857553
+Uttar Pradesh,Ballia,Uttar Pradesh,Badaun,0.13117169751979235
+Uttar Pradesh,Ballia,Bihar,Sitamarhi,0.13533238355471972
+Uttar Pradesh,Banda,Odisha,Nabarangpur,0.11934518353973919
+Uttar Pradesh,Banda,Maharashtra,Bhiwandi,0.1918494717873476
+Uttar Pradesh,Banda,West Bengal,Baharampur,0.21592282151813888
+Uttar Pradesh,Banda,Telangana,Nagarkurnool,0.21626191433983172
+Uttar Pradesh,Banda,West Bengal,Maldaha Uttar,0.2656016538017129
+Uttar Pradesh,Bansgaon,West Bengal,Arambag,0.06879501033838309
+Uttar Pradesh,Bansgaon,West Bengal,Bishnupur,0.11365682184697934
+Uttar Pradesh,Bansgaon,Andhra Pradesh,Thirupathi,0.11513675930173523
+Uttar Pradesh,Bansgaon,Maharashtra,Beed,0.14905091353398614
+Uttar Pradesh,Bansgaon,Odisha,Jajpur,0.1492133592252969
+Uttar Pradesh,Barabanki,Maharashtra,Thane,0.07087766590031493
+Uttar Pradesh,Barabanki,Andhra Pradesh,Bapatla,0.1282494443592234
+Uttar Pradesh,Barabanki,Madhya Pradesh,DHAR,0.15128596910555497
+Uttar Pradesh,Barabanki,Andhra Pradesh,Machilipatnam,0.15538773334195033
+Uttar Pradesh,Barabanki,Chhattisgarh,RAIGARH,0.17304244569726593
+Uttar Pradesh,Bareilly,Karnataka,Haveri,0.06450255974264776
+Uttar Pradesh,Bareilly,Karnataka,Bangalore central,0.11022215903983075
+Uttar Pradesh,Bareilly,Rajasthan,KOTA,0.1283286251759158
+Uttar Pradesh,Bareilly,Rajasthan,ALWAR,0.15448254009301718
+Uttar Pradesh,Bareilly,Uttar Pradesh,Kanpur,0.16196718377210056
+Uttar Pradesh,Basti,Maharashtra,Sangli,0.09173310110517587
+Uttar Pradesh,Basti,Kerala,Kannur,0.10321372324106551
+Uttar Pradesh,Basti,Odisha,Aska,0.12202416497038392
+Uttar Pradesh,Basti,Uttar Pradesh,Sitapur,0.1456758747985153
+Uttar Pradesh,Basti,Maharashtra,Madha,0.15094451228699324
+Uttar Pradesh,Bhadohi,Telangana,Zahirabad,0.12155234698304067
+Uttar Pradesh,Bhadohi,Uttar Pradesh,Mirzapur,0.12656279394521913
+Uttar Pradesh,Bhadohi,Uttar Pradesh,Fatehpur Sikri,0.12693114099640188
+Uttar Pradesh,Bhadohi,Uttar Pradesh,Machhlishahr,0.17545790789156873
+Uttar Pradesh,Bhadohi,Uttar Pradesh,Sultanpur,0.22263774104898806
+Uttar Pradesh,Bijnor,Maharashtra,Akola,0.09611735330607722
+Uttar Pradesh,Bijnor,Bihar,Buxar,0.21776801690553405
+Uttar Pradesh,Bijnor,Tamil Nadu,NAMAKKAL,0.23871862332719584
+Uttar Pradesh,Bijnor,West Bengal,Purulia,0.28493613361418807
+Uttar Pradesh,Bijnor,Maharashtra,Hatkanangale,0.3077911645416767
+Uttar Pradesh,Bulandshahr,Andhra Pradesh,Narsapuram,0.43681290396245775
+Uttar Pradesh,Bulandshahr,Kerala,Ponnani,0.47078557384910186
+Uttar Pradesh,Bulandshahr,Andhra Pradesh,Anakapalle,0.47794659891512054
+Uttar Pradesh,Bulandshahr,Maharashtra,Osmanabad,0.5040239068450004
+Uttar Pradesh,Bulandshahr,Jharkhand,Palamu,0.5122624772790911
+Uttar Pradesh,Chandauli,Uttar Pradesh,Amroha,0.10094797470675172
+Uttar Pradesh,Chandauli,Uttar Pradesh,Machhlishahr,0.21078020045351306
+Uttar Pradesh,Chandauli,Odisha,Kandhamal,0.2113777144541227
+Uttar Pradesh,Chandauli,Telangana,Mahbubnagar,0.22967859849026542
+Uttar Pradesh,Chandauli,Kerala,Mavelikkara,0.23074008229096044
+Uttar Pradesh,Deoria,Rajasthan,NAGAUR,0.07357121808486895
+Uttar Pradesh,Deoria,Maharashtra,Mumbai North East,0.07724754044241333
+Uttar Pradesh,Deoria,Maharashtra,Satara,0.13635174379693646
+Uttar Pradesh,Deoria,Uttar Pradesh,Maharajganj,0.1400386846274679
+Uttar Pradesh,Deoria,West Bengal,Coochbehar,0.14360088764728884
+Uttar Pradesh,Dhaurahra,Maharashtra,Hatkanangale,0.18744170765515392
+Uttar Pradesh,Dhaurahra,Kerala,Alathur,0.23747622110815447
+Uttar Pradesh,Dhaurahra,West Bengal,Purulia,0.2815621536443896
+Uttar Pradesh,Dhaurahra,Kerala,Mavelikkara,0.2929859521263719
+Uttar Pradesh,Dhaurahra,Telangana,Mahbubnagar,0.3505346681989185
+Uttar Pradesh,Domariyaganj,Telangana,Secunderabad,0.0896213042583834
+Uttar Pradesh,Domariyaganj,Uttar Pradesh,Fatehpur,0.14313672076677866
+Uttar Pradesh,Domariyaganj,Uttar Pradesh,Misrikh,0.1480595758079794
+Uttar Pradesh,Domariyaganj,Andhra Pradesh,Kadapa,0.1635769639638674
+Uttar Pradesh,Domariyaganj,Bihar,Sheohar,0.16441340440013505
+Uttar Pradesh,Etah,Maharashtra,Ahmednagar,0.05987050614741534
+Uttar Pradesh,Etah,Uttar Pradesh,Unnao,0.0664451190967415
+Uttar Pradesh,Etah,Odisha,Bhubaneswar,0.07352062051712137
+Uttar Pradesh,Etah,Maharashtra,Bhandara Gondiya,0.09512450130140783
+Uttar Pradesh,Etah,Maharashtra,Satara,0.11385821077342832
+Uttar Pradesh,Etawah,Odisha,Cuttack,0.05214375512907223
+Uttar Pradesh,Etawah,Uttar Pradesh,Jalaun,0.11122181322063932
+Uttar Pradesh,Etawah,Bihar,Sitamarhi,0.12154383253784387
+Uttar Pradesh,Etawah,Uttar Pradesh,Shahjahanpur,0.140869587866566
+Uttar Pradesh,Etawah,Maharashtra,Nanded,0.14177876271318102
+Uttar Pradesh,Faizabad,Bihar,Katihar,0.06223925897468332
+Uttar Pradesh,Faizabad,Chhattisgarh,JANJGIR-CHAMPA,0.08511396484518526
+Uttar Pradesh,Faizabad,Maharashtra,Ratnagiri- Sindhudurg,0.09589227212536634
+Uttar Pradesh,Faizabad,Haryana,HISAR,0.10626531974313289
+Uttar Pradesh,Faizabad,Uttar Pradesh,Mohanlalganj,0.11609435298131325
+Uttar Pradesh,Farrukhabad,Chhattisgarh,KANKER,0.011767925786821634
+Uttar Pradesh,Farrukhabad,Maharashtra,Mumbai North West,0.06015939912553519
+Uttar Pradesh,Farrukhabad,Maharashtra,Dhule,0.13900777807758666
+Uttar Pradesh,Farrukhabad,Assam,Karimganj,0.18375178137453665
+Uttar Pradesh,Farrukhabad,Bihar,Araria,0.19359806171093777
+Uttar Pradesh,Fatehpur,Uttar Pradesh,Misrikh,0.03343299248266594
+Uttar Pradesh,Fatehpur,Bihar,Sheohar,0.058011974024622937
+Uttar Pradesh,Fatehpur,Haryana,KURUKSHETRA,0.07023451229481367
+Uttar Pradesh,Fatehpur,Uttar Pradesh,Domariyaganj,0.14313672076677866
+Uttar Pradesh,Fatehpur,Maharashtra,Amravati,0.16393863052725133
+Uttar Pradesh,Fatehpur Sikri,Telangana,Zahirabad,0.06886035078018478
+Uttar Pradesh,Fatehpur Sikri,Uttar Pradesh,Mirzapur,0.09757425801772318
+Uttar Pradesh,Fatehpur Sikri,Uttar Pradesh,Sultanpur,0.12120118211935337
+Uttar Pradesh,Fatehpur Sikri,Uttar Pradesh,Bhadohi,0.12693114099640188
+Uttar Pradesh,Fatehpur Sikri,Uttar Pradesh,Machhlishahr,0.13001638385756745
+Uttar Pradesh,Firozabad,Bihar,Aurangabad,0.09447409602659568
+Uttar Pradesh,Firozabad,Uttar Pradesh,Shrawasti,0.11349739670974535
+Uttar Pradesh,Firozabad,Maharashtra,Wardha,0.1227102848755797
+Uttar Pradesh,Firozabad,Maharashtra,Maval,0.12680886138980513
+Uttar Pradesh,Firozabad,Uttar Pradesh,Rampur,0.1367422936983161
+Uttar Pradesh,Gautam Buddha Nagar,Telangana,Nalgonda,0.39989707468878793
+Uttar Pradesh,Gautam Buddha Nagar,Telangana,Khammam,0.6903230799936692
+Uttar Pradesh,Gautam Buddha Nagar,Tamil Nadu,TIRUVALLUR,0.8476805760559897
+Uttar Pradesh,Gautam Buddha Nagar,Tamil Nadu,DINDIGUL,0.910491924617897
+Uttar Pradesh,Gautam Buddha Nagar,West Bengal,Jaynagar,0.9144754369276914
+Uttar Pradesh,Ghaziabad,Maharashtra,Osmanabad,0.2963493809838691
+Uttar Pradesh,Ghaziabad,Andhra Pradesh,Anakapalle,0.3052544467085411
+Uttar Pradesh,Ghaziabad,West Bengal,Bolpur,0.4087547202979855
+Uttar Pradesh,Ghaziabad,Andhra Pradesh,Narsapuram,0.4355649339509556
+Uttar Pradesh,Ghaziabad,Andhra Pradesh,Vijayawada,0.4511182762086938
+Uttar Pradesh,Ghazipur,Uttar Pradesh,Ambedkar Nagar,0.1614875327709181
+Uttar Pradesh,Ghazipur,Maharashtra,Dindori,0.19025590139285942
+Uttar Pradesh,Ghazipur,Bihar,Gopalganj,0.20558688657690485
+Uttar Pradesh,Ghazipur,Uttar Pradesh,Jaunpur,0.25544138814628137
+Uttar Pradesh,Ghazipur,Uttar Pradesh,Sambhal,0.27624179452452097
+Uttar Pradesh,Ghosi,Maharashtra,Palghar,0.18326257828560327
+Uttar Pradesh,Ghosi,Telangana,Peddapalle,0.31099296522563535
+Uttar Pradesh,Ghosi,Tamil Nadu,RAMANATHAPURAM,0.3439295186968405
+Uttar Pradesh,Ghosi,Odisha,Sundargarh,0.41379733410868474
+Uttar Pradesh,Ghosi,Tamil Nadu,CUDDALORE,0.4174808785215631
+Uttar Pradesh,Gonda,Haryana,AMBALA,0.12746856226356496
+Uttar Pradesh,Gonda,Andhra Pradesh,Ongole,0.13701239450989178
+Uttar Pradesh,Gonda,Haryana,BHIWANI-MAHENDRAGARH,0.16235906578576098
+Uttar Pradesh,Gonda,Madhya Pradesh,GWALIOR,0.17115964062697514
+Uttar Pradesh,Gonda,Chhattisgarh,RAJNANDGAON,0.18113088759708718
+Uttar Pradesh,Gorakhpur,Bihar,Purvi Champaran,0.12846170432831866
+Uttar Pradesh,Gorakhpur,Uttar Pradesh,Jhansi,0.16822560041434464
+Uttar Pradesh,Gorakhpur,Bihar,Gaya,0.168251635777635
+Uttar Pradesh,Gorakhpur,Andhra Pradesh,Nandyal,0.17127546331157012
+Uttar Pradesh,Gorakhpur,Maharashtra,Raigad,0.1849483019760561
+Uttar Pradesh,Hamirpur,Uttar Pradesh,Salempur,0.04632240888532985
+Uttar Pradesh,Hamirpur,Uttar Pradesh,Phulpur,0.13218888720557992
+Uttar Pradesh,Hamirpur,Uttar Pradesh,Aligarh,0.1410020711359194
+Uttar Pradesh,Hamirpur,Maharashtra,Beed,0.17690619683881664
+Uttar Pradesh,Hamirpur,West Bengal,Bishnupur,0.20481626286535715
+Uttar Pradesh,Hardoi,West Bengal,Bankura,0.058751134662379106
+Uttar Pradesh,Hardoi,Uttar Pradesh,Muzaffarnagar,0.09567474183666928
+Uttar Pradesh,Hardoi,Haryana,KURUKSHETRA,0.11957144611954793
+Uttar Pradesh,Hardoi,Bihar,Sheohar,0.1284373580819038
+Uttar Pradesh,Hardoi,Uttar Pradesh,Fatehpur,0.16433819464313065
+Uttar Pradesh,Hathras,Tamil Nadu,ERODE,0.23577620498962124
+Uttar Pradesh,Hathras,Jharkhand,Hazaribagh,0.23910448942588544
+Uttar Pradesh,Hathras,Jharkhand,Chatra,0.38317213128656763
+Uttar Pradesh,Hathras,Maharashtra,Raver,0.4064102272834839
+Uttar Pradesh,Hathras,Uttar Pradesh,Agra,0.4068969671745167
+Uttar Pradesh,Jalaun,Bihar,Sitamarhi,0.04071160946866186
+Uttar Pradesh,Jalaun,Odisha,Cuttack,0.08155714726216731
+Uttar Pradesh,Jalaun,Maharashtra,Nanded,0.10289494462918868
+Uttar Pradesh,Jalaun,Uttar Pradesh,Etawah,0.11122181322063932
+Uttar Pradesh,Jalaun,West Bengal,Asansol,0.11173978685908609
+Uttar Pradesh,Jaunpur,Uttar Pradesh,Sant Kabir Nagar,0.12457805100895937
+Uttar Pradesh,Jaunpur,Maharashtra,Dindori,0.1535474333393773
+Uttar Pradesh,Jaunpur,Telangana,Adilabad,0.16489380126011585
+Uttar Pradesh,Jaunpur,Bihar,Valmiki Nagar,0.18042934033815491
+Uttar Pradesh,Jaunpur,Odisha,Keonjhar,0.21694865842008282
+Uttar Pradesh,Jhansi,Jharkhand,Godda,0.10577717406330764
+Uttar Pradesh,Jhansi,Andhra Pradesh,Nandyal,0.10763580333822076
+Uttar Pradesh,Jhansi,Bihar,Patliputra,0.12991090414842715
+Uttar Pradesh,Jhansi,Bihar,Purvi Champaran,0.13762025810118264
+Uttar Pradesh,Jhansi,Uttar Pradesh,Moradabad,0.13901424333927848
+Uttar Pradesh,Kairana,Maharashtra,Ramtek,0.05921034848611819
+Uttar Pradesh,Kairana,Uttar Pradesh,Baharaich,0.06750424346341666
+Uttar Pradesh,Kairana,Uttar Pradesh,Allahabad,0.078512854705901
+Uttar Pradesh,Kairana,Haryana,HISAR,0.10668055610264351
+Uttar Pradesh,Kairana,West Bengal,Alipurduars,0.12497942454299424
+Uttar Pradesh,Kaiserganj,Bihar,Madhubani,0.09497626205662059
+Uttar Pradesh,Kaiserganj,Uttar Pradesh,Varanasi,0.1373325497873967
+Uttar Pradesh,Kaiserganj,Bihar,Paschim Champaran,0.1643723672810747
+Uttar Pradesh,Kaiserganj,Bihar,Patna Sahib,0.17792698865382559
+Uttar Pradesh,Kaiserganj,Gujarat,Sabarkantha,0.1780708638797013
+Uttar Pradesh,Kannauj,Bihar,Madhepura,0.05700906270888492
+Uttar Pradesh,Kannauj,Bihar,Hajipur,0.09662216613237967
+Uttar Pradesh,Kannauj,Uttar Pradesh,Pilibhit,0.11193738115688302
+Uttar Pradesh,Kannauj,Andhra Pradesh,Ananthapur,0.22686088075192332
+Uttar Pradesh,Kannauj,Bihar,Madhubani,0.23482471635868152
+Uttar Pradesh,Kanpur,Karnataka,Gulbarga,0.0537861668194285
+Uttar Pradesh,Kanpur,Karnataka,Bangalore central,0.08372271752838623
+Uttar Pradesh,Kanpur,Rajasthan,JHUNJHUNU,0.09622457028610792
+Uttar Pradesh,Kanpur,Gujarat,Patan,0.1206426417702596
+Uttar Pradesh,Kanpur,Rajasthan,KOTA,0.15174389738941588
+Uttar Pradesh,Kaushambi,Bihar,Bhagalpur,0.044546772696978626
+Uttar Pradesh,Kaushambi,Bihar,Banka,0.14472886600227322
+Uttar Pradesh,Kaushambi,Kerala,Vadakara,0.16237745239925022
+Uttar Pradesh,Kaushambi,Bihar,Gaya,0.16571416535781178
+Uttar Pradesh,Kaushambi,Uttar Pradesh,Rampur,0.1891895552763064
+Uttar Pradesh,Kheri,Uttar Pradesh,Badaun,0.04921349306830881
+Uttar Pradesh,Kheri,Odisha,Jagatsinghpur,0.07748816796256154
+Uttar Pradesh,Kheri,Chhattisgarh,KORBA,0.11971195870297809
+Uttar Pradesh,Kheri,Jharkhand,Dumka,0.14075996318578218
+Uttar Pradesh,Kheri,Uttar Pradesh,Ballia,0.1729246919026458
+Uttar Pradesh,Kushi Nagar,Uttar Pradesh,Sitapur,0.11670202750045833
+Uttar Pradesh,Kushi Nagar,Bihar,Vaishali,0.12561798758724213
+Uttar Pradesh,Kushi Nagar,Bihar,Munger,0.13766324401296937
+Uttar Pradesh,Kushi Nagar,Maharashtra,Yavatmal- Washim,0.17669183755819542
+Uttar Pradesh,Kushi Nagar,Maharashtra,Wardha,0.19654350574927068
+Uttar Pradesh,Lalganj,Kerala,Kottayam,0.21647573852906274
+Uttar Pradesh,Lalganj,Odisha,Bolangir,0.2187632057045096
+Uttar Pradesh,Lalganj,Maharashtra,Parbhani,0.28646346274478796
+Uttar Pradesh,Lalganj,Odisha,Sundargarh,0.3060504720318334
+Uttar Pradesh,Lalganj,Tamil Nadu,CHIDAMBARAM,0.3254133343775268
+Uttar Pradesh,Lucknow,Maharashtra,Nagpur,0.0872108312031849
+Uttar Pradesh,Lucknow,Gujarat,Junagadh,0.14248494750090954
+Uttar Pradesh,Lucknow,Karnataka,Bidar,0.15981120115952477
+Uttar Pradesh,Lucknow,Bihar,Paschim Champaran,0.16248803809572304
+Uttar Pradesh,Lucknow,Chhattisgarh,MAHASAMUND,0.17297026444529512
+Uttar Pradesh,Machhlishahr,Uttar Pradesh,Mirzapur,0.05775348666149242
+Uttar Pradesh,Machhlishahr,Telangana,Zahirabad,0.09197333979655922
+Uttar Pradesh,Machhlishahr,Uttar Pradesh,Sultanpur,0.11710440843753538
+Uttar Pradesh,Machhlishahr,Uttar Pradesh,Fatehpur Sikri,0.13001638385756745
+Uttar Pradesh,Machhlishahr,Uttar Pradesh,Bhadohi,0.17545790789156873
+Uttar Pradesh,Maharajganj,West Bengal,Coochbehar,0.06433987263387103
+Uttar Pradesh,Maharajganj,Maharashtra,Mumbai North East,0.08253687157639089
+Uttar Pradesh,Maharajganj,Gujarat,Banaskantha,0.09222376282941229
+Uttar Pradesh,Maharajganj,Chhattisgarh,RAJNANDGAON,0.10075464848535524
+Uttar Pradesh,Maharajganj,Haryana,AMBALA,0.12675569798914627
+Uttar Pradesh,Mainpuri,Maharashtra,Kalyan,0.14029908420034645
+Uttar Pradesh,Mainpuri,Maharashtra,Jalgaon,0.25610629533112794
+Uttar Pradesh,Mainpuri,Jharkhand,Jamshedpur,0.2708901520176004
+Uttar Pradesh,Mainpuri,Bihar,Muzaffarpur,0.292957596947486
+Uttar Pradesh,Mainpuri,Andhra Pradesh,Vizianagaram,0.3050524794780178
+Uttar Pradesh,Mathura,Uttarakhand,Tehri Garhwal,0.17424027889053603
+Uttar Pradesh,Mathura,Kerala,Ernakulam,0.41200614013135517
+Uttar Pradesh,Mathura,Telangana,Mahabubabad,0.4680873340739036
+Uttar Pradesh,Mathura,Tamil Nadu,CHENNAI CENTRAL,0.6363866604339025
+Uttar Pradesh,Mathura,Uttar Pradesh,Agra,0.659553191510544
+Uttar Pradesh,Meerut,West Bengal,Balurghat,0.039693642948640334
+Uttar Pradesh,Meerut,Odisha,Jajpur,0.09569023911562856
+Uttar Pradesh,Meerut,Bihar,Saran,0.10981868458975322
+Uttar Pradesh,Meerut,West Bengal,Arambag,0.11182257458167867
+Uttar Pradesh,Meerut,Bihar,Sasaram,0.12031675607073485
+Uttar Pradesh,Mirzapur,Uttar Pradesh,Machhlishahr,0.05775348666149242
+Uttar Pradesh,Mirzapur,Telangana,Zahirabad,0.06559523867117845
+Uttar Pradesh,Mirzapur,Uttar Pradesh,Fatehpur Sikri,0.09757425801772318
+Uttar Pradesh,Mirzapur,Uttar Pradesh,Bhadohi,0.12656279394521913
+Uttar Pradesh,Mirzapur,Uttar Pradesh,Sultanpur,0.14098640823040048
+Uttar Pradesh,Misrikh,Uttar Pradesh,Fatehpur,0.03343299248266594
+Uttar Pradesh,Misrikh,Bihar,Sheohar,0.08832543019022703
+Uttar Pradesh,Misrikh,Haryana,KURUKSHETRA,0.09224873068732888
+Uttar Pradesh,Misrikh,Uttar Pradesh,Domariyaganj,0.1480595758079794
+Uttar Pradesh,Misrikh,Odisha,Jagatsinghpur,0.15298819819805545
+Uttar Pradesh,Mohanlalganj,West Bengal,Tamluk,0.05591544043122811
+Uttar Pradesh,Mohanlalganj,Odisha,Kendrapara,0.06781892787160496
+Uttar Pradesh,Mohanlalganj,Haryana,HISAR,0.06912402892652332
+Uttar Pradesh,Mohanlalganj,West Bengal,Alipurduars,0.07721929018272267
+Uttar Pradesh,Mohanlalganj,West Bengal,Bangaon,0.0816275599677256
+Uttar Pradesh,Moradabad,Andhra Pradesh,Nandyal,0.07011839007137792
+Uttar Pradesh,Moradabad,Andhra Pradesh,Kurnoolu,0.08200235543175612
+Uttar Pradesh,Moradabad,Jharkhand,Godda,0.0930194932629637
+Uttar Pradesh,Moradabad,Uttar Pradesh,Jhansi,0.13901424333927848
+Uttar Pradesh,Moradabad,Uttar Pradesh,Rampur,0.1505203108476857
+Uttar Pradesh,Muzaffarnagar,Uttar Pradesh,Hardoi,0.09567474183666928
+Uttar Pradesh,Muzaffarnagar,West Bengal,Bankura,0.1064693534383019
+Uttar Pradesh,Muzaffarnagar,Uttar Pradesh,Amroha,0.18451434384522727
+Uttar Pradesh,Muzaffarnagar,Haryana,KURUKSHETRA,0.2108942766095835
+Uttar Pradesh,Muzaffarnagar,Uttar Pradesh,Aligarh,0.21653949798158365
+Uttar Pradesh,Nagina,Kerala,Idukki,0.14424617681088214
+Uttar Pradesh,Nagina,Bihar,Khagaria,0.22714494388141598
+Uttar Pradesh,Nagina,Jharkhand,Singhbhum,0.23754055766159285
+Uttar Pradesh,Nagina,Uttar Pradesh,Baghpat,0.24873804137804
+Uttar Pradesh,Nagina,West Bengal,Darjeeling,0.24931960582382873
+Uttar Pradesh,Phulpur,Maharashtra,Beed,0.04989761883469022
+Uttar Pradesh,Phulpur,West Bengal,Bishnupur,0.07361092343983955
+Uttar Pradesh,Phulpur,Uttar Pradesh,Salempur,0.0870195228692107
+Uttar Pradesh,Phulpur,Uttar Pradesh,Hamirpur,0.13218888720557992
+Uttar Pradesh,Phulpur,Uttar Pradesh,Aonla,0.1527997781032874
+Uttar Pradesh,Pilibhit,Uttar Pradesh,Kannauj,0.11193738115688302
+Uttar Pradesh,Pilibhit,Bihar,Madhepura,0.12616599003571882
+Uttar Pradesh,Pilibhit,Bihar,Hajipur,0.17571164678442475
+Uttar Pradesh,Pilibhit,Madhya Pradesh,BALAGHAT,0.19313469135907246
+Uttar Pradesh,Pilibhit,West Bengal,Darjeeling,0.26216168039252286
+Uttar Pradesh,Pratapgarh,Bihar,Nawada,0.10120552319495178
+Uttar Pradesh,Pratapgarh,West Bengal,Barrackpur,0.20282857463750442
+Uttar Pradesh,Pratapgarh,Telangana,Adilabad,0.22875220720473322
+Uttar Pradesh,Pratapgarh,West Bengal,Hooghly,0.24065411410827653
+Uttar Pradesh,Pratapgarh,Andhra Pradesh,Kadapa,0.2512854882212609
+Uttar Pradesh,Rae Bareli,Madhya Pradesh,TIKAMGARH,0.2142278261745317
+Uttar Pradesh,Rae Bareli,Madhya Pradesh,DAMOH,0.21712559076149177
+Uttar Pradesh,Rae Bareli,Maharashtra,Mumbai North,0.35916679576240607
+Uttar Pradesh,Rae Bareli,Madhya Pradesh,HOSHANGABAD,0.422728323909107
+Uttar Pradesh,Rae Bareli,Gujarat,Porbandar,0.440401093697811
+Uttar Pradesh,Rampur,Uttar Pradesh,Firozabad,0.1367422936983161
+Uttar Pradesh,Rampur,Maharashtra,Raigad,0.1447615869850531
+Uttar Pradesh,Rampur,Bihar,Aurangabad,0.15025551542211754
+Uttar Pradesh,Rampur,Uttar Pradesh,Moradabad,0.1505203108476857
+Uttar Pradesh,Rampur,Bihar,Bhagalpur,0.16361978094795773
+Uttar Pradesh,Robertsganj,Maharashtra,Parbhani,0.29588647577773525
+Uttar Pradesh,Robertsganj,Odisha,Balasore,0.3335218032408608
+Uttar Pradesh,Robertsganj,Uttar Pradesh,Lalganj,0.3388882169027647
+Uttar Pradesh,Robertsganj,Bihar,Jahanabad,0.3491236661003849
+Uttar Pradesh,Robertsganj,Tamil Nadu,KARUR,0.3501545289488874
+Uttar Pradesh,Saharanpur,Tamil Nadu,KALLAKURICHI,0.12301029280526914
+Uttar Pradesh,Saharanpur,Maharashtra,Shirdi,0.12592397226200058
+Uttar Pradesh,Saharanpur,West Bengal,Barrackpur,0.13597275753082108
+Uttar Pradesh,Saharanpur,West Bengal,Krishnanagar,0.146993122882697
+Uttar Pradesh,Saharanpur,Chhattisgarh,BASTAR,0.1510545083655942
+Uttar Pradesh,Salempur,Uttar Pradesh,Hamirpur,0.04632240888532985
+Uttar Pradesh,Salempur,Uttar Pradesh,Phulpur,0.0870195228692107
+Uttar Pradesh,Salempur,Uttar Pradesh,Aligarh,0.12835280843560098
+Uttar Pradesh,Salempur,Maharashtra,Beed,0.132280507780207
+Uttar Pradesh,Salempur,West Bengal,Bishnupur,0.16032038378598765
+Uttar Pradesh,Sambhal,Telangana,Nizamabad,0.15890931168761296
+Uttar Pradesh,Sambhal,West Bengal,Bardhaman-Durgapur,0.16074558128996913
+Uttar Pradesh,Sambhal,Odisha,Aska,0.1949143812846138
+Uttar Pradesh,Sambhal,Maharashtra,Madha,0.19877240532337312
+Uttar Pradesh,Sambhal,West Bengal,Kolkata Uttar,0.2164653482561362
+Uttar Pradesh,Sant Kabir Nagar,Odisha,Keonjhar,0.11650195971249361
+Uttar Pradesh,Sant Kabir Nagar,Uttar Pradesh,Jaunpur,0.12457805100895937
+Uttar Pradesh,Sant Kabir Nagar,Telangana,Adilabad,0.14199758194951131
+Uttar Pradesh,Sant Kabir Nagar,Maharashtra,Dindori,0.19322738151816293
+Uttar Pradesh,Sant Kabir Nagar,Jharkhand,Ranchi,0.21793426832548607
+Uttar Pradesh,Shahjahanpur,Uttar Pradesh,Akbarpur,0.09601082419661115
+Uttar Pradesh,Shahjahanpur,Odisha,Cuttack,0.09745827164567104
+Uttar Pradesh,Shahjahanpur,Uttar Pradesh,Jalaun,0.13988101275147322
+Uttar Pradesh,Shahjahanpur,Bihar,Arrah,0.1400912428726292
+Uttar Pradesh,Shahjahanpur,Uttar Pradesh,Etawah,0.140869587866566
+Uttar Pradesh,Shrawasti,Maharashtra,Wardha,0.08135235131499519
+Uttar Pradesh,Shrawasti,Bihar,Aurangabad,0.11338245129289266
+Uttar Pradesh,Shrawasti,Uttar Pradesh,Firozabad,0.11349739670974535
+Uttar Pradesh,Shrawasti,Bihar,Munger,0.13915347236950543
+Uttar Pradesh,Shrawasti,Maharashtra,Maval,0.1460140566232909
+Uttar Pradesh,Sitapur,Bihar,Vaishali,0.05057136932048818
+Uttar Pradesh,Sitapur,Maharashtra,Yavatmal- Washim,0.08087157731243176
+Uttar Pradesh,Sitapur,Uttar Pradesh,Kushi Nagar,0.11670202750045833
+Uttar Pradesh,Sitapur,Bihar,Munger,0.1181514675929923
+Uttar Pradesh,Sitapur,Maharashtra,Sangli,0.13290776279159291
+Uttar Pradesh,Sultanpur,Madhya Pradesh,MORENA,0.09773224712387507
+Uttar Pradesh,Sultanpur,Telangana,Zahirabad,0.11436887376216423
+Uttar Pradesh,Sultanpur,Uttar Pradesh,Machhlishahr,0.11710440843753538
+Uttar Pradesh,Sultanpur,Uttar Pradesh,Fatehpur Sikri,0.12120118211935337
+Uttar Pradesh,Sultanpur,Uttar Pradesh,Mirzapur,0.14098640823040048
+Uttar Pradesh,Unnao,Maharashtra,Bhandara Gondiya,0.042139632533912424
+Uttar Pradesh,Unnao,Odisha,Bhubaneswar,0.055652359178515465
+Uttar Pradesh,Unnao,Uttar Pradesh,Etah,0.0664451190967415
+Uttar Pradesh,Unnao,Maharashtra,Satara,0.07289106988986323
+Uttar Pradesh,Unnao,Maharashtra,Ahmednagar,0.07309338255881334
+Uttar Pradesh,Varanasi,Bihar,Patna Sahib,0.09520731379377033
+Uttar Pradesh,Varanasi,Uttar Pradesh,Kaiserganj,0.1373325497873967
+Uttar Pradesh,Varanasi,Gujarat,Sabarkantha,0.17397758427287618
+Uttar Pradesh,Varanasi,Bihar,Paschim Champaran,0.18959678078590794
+Uttar Pradesh,Varanasi,Gujarat,Junagadh,0.19770833552519557
+Uttarakhand,Almora,Gujarat,Ahmedabad West,0.6248939343236692
+Uttarakhand,Almora,Gujarat,Amreli,0.7083453867015806
+Uttarakhand,Almora,Gujarat,Mahesana,0.7805238781354853
+Uttarakhand,Almora,Maharashtra,Mumbai North,0.903144416223565
+Uttarakhand,Almora,Gujarat,Dahod,0.9058638802762758
+Uttarakhand,Garhwal,Meghalaya,Tura,0.37882663068051986
+Uttarakhand,Garhwal,Himachal Pradesh,HAMIRPUR,0.4944292803573111
+Uttarakhand,Garhwal,Uttar Pradesh,Mainpuri,0.518205875800749
+Uttarakhand,Garhwal,Gujarat,Jamnagar,0.5183357387356075
+Uttarakhand,Garhwal,Maharashtra,Kalyan,0.5257285463805089
+Uttarakhand,Haridwar,West Bengal,Jhargram,0.11655561220875976
+Uttarakhand,Haridwar,Maharashtra,Nashik,0.1769815799619539
+Uttarakhand,Haridwar,West Bengal,Darjeeling,0.21234123070977556
+Uttarakhand,Haridwar,West Bengal,Howrah,0.220941449238847
+Uttarakhand,Haridwar,West Bengal,Ranaghat,0.25184249855836577
+Uttarakhand,Nainital-Udhamsingh Nagar,Andhra Pradesh,Srikakulam,0.04703997836694361
+Uttarakhand,Nainital-Udhamsingh Nagar,Andhra Pradesh,Amalapuram,0.07321914288759708
+Uttarakhand,Nainital-Udhamsingh Nagar,Karnataka,Uttara Kannada,0.17717158454537213
+Uttarakhand,Nainital-Udhamsingh Nagar,Rajasthan,BHILWARA,0.21331111028620342
+Uttarakhand,Nainital-Udhamsingh Nagar,Rajasthan,AJMER,0.22161555951860645
+Uttarakhand,Tehri Garhwal,Uttar Pradesh,Mathura,0.17424027889053603
+Uttarakhand,Tehri Garhwal,Kerala,Ernakulam,0.40883123860824966
+Uttarakhand,Tehri Garhwal,Tamil Nadu,CHENNAI CENTRAL,0.5005090707314471
+Uttarakhand,Tehri Garhwal,Telangana,Mahabubabad,0.5683759219201718
+Uttarakhand,Tehri Garhwal,Uttar Pradesh,Agra,0.7180586348364218
+West Bengal,Alipurduars,West Bengal,Tamluk,0.06530684239113586
+West Bengal,Alipurduars,Uttar Pradesh,Mohanlalganj,0.07721929018272267
+West Bengal,Alipurduars,Maharashtra,Ramtek,0.10529941250543874
+West Bengal,Alipurduars,Uttar Pradesh,Baharaich,0.10836665471594274
+West Bengal,Alipurduars,West Bengal,Jalpaiguri,0.1180878858662497
+West Bengal,Arambag,Uttar Pradesh,Bansgaon,0.06879501033838309
+West Bengal,Arambag,Odisha,Jajpur,0.09369716096876025
+West Bengal,Arambag,Andhra Pradesh,Thirupathi,0.11132417750950205
+West Bengal,Arambag,Uttar Pradesh,Meerut,0.11182257458167867
+West Bengal,Arambag,Bihar,Saran,0.11796358084704094
+West Bengal,Asansol,Maharashtra,Nanded,0.07642663469619614
+West Bengal,Asansol,Uttar Pradesh,Jalaun,0.11173978685908609
+West Bengal,Asansol,Bihar,Sitamarhi,0.11442169848975958
+West Bengal,Asansol,Uttar Pradesh,Ballia,0.11610645919493263
+West Bengal,Asansol,West Bengal,Hooghly,0.15232751200826677
+West Bengal,Baharampur,West Bengal,Maldaha Uttar,0.14482507842530082
+West Bengal,Baharampur,Odisha,Nabarangpur,0.17091963459230217
+West Bengal,Baharampur,Uttar Pradesh,Banda,0.21592282151813888
+West Bengal,Baharampur,Telangana,Nagarkurnool,0.24340361999433985
+West Bengal,Baharampur,Kerala,Thrissur,0.259480822142356
+West Bengal,Balurghat,Uttar Pradesh,Meerut,0.039693642948640334
+West Bengal,Balurghat,Odisha,Jajpur,0.10798981528748117
+West Bengal,Balurghat,Bihar,Sasaram,0.11243912686016426
+West Bengal,Balurghat,Bihar,Saran,0.13593291863375498
+West Bengal,Balurghat,West Bengal,Arambag,0.1450433728406176
+West Bengal,Bangaon,Odisha,Kendrapara,0.05732281315567987
+West Bengal,Bangaon,Uttar Pradesh,Mohanlalganj,0.0816275599677256
+West Bengal,Bangaon,Andhra Pradesh,Rajampet,0.08479196822511352
+West Bengal,Bangaon,West Bengal,Tamluk,0.09675297866921592
+West Bengal,Bangaon,Haryana,HISAR,0.10027400746635955
+West Bengal,Bankura,Uttar Pradesh,Hardoi,0.058751134662379106
+West Bengal,Bankura,Uttar Pradesh,Muzaffarnagar,0.1064693534383019
+West Bengal,Bankura,Haryana,KURUKSHETRA,0.1434667411529881
+West Bengal,Bankura,Bihar,Sheohar,0.14667603141743993
+West Bengal,Bankura,Uttar Pradesh,Fatehpur,0.1862236742015292
+West Bengal,Barasat,Jharkhand,Ranchi,0.14749639935163564
+West Bengal,Barasat,Odisha,Keonjhar,0.15240708116444765
+West Bengal,Barasat,Maharashtra,Jalna,0.19541085187395052
+West Bengal,Barasat,Kerala,Kasaragod,0.21859078557362885
+West Bengal,Barasat,Odisha,Bhadrak,0.2216501479037081
+West Bengal,Bardhaman Purba,Telangana,Chevella,0.11337533326160369
+West Bengal,Bardhaman Purba,West Bengal,Bardhaman-Durgapur,0.2239604308147479
+West Bengal,Bardhaman Purba,Uttar Pradesh,Sambhal,0.27709556643831246
+West Bengal,Bardhaman Purba,West Bengal,Howrah,0.28351995173786537
+West Bengal,Bardhaman Purba,West Bengal,Jhargram,0.30837745437302494
+West Bengal,Bardhaman-Durgapur,Uttar Pradesh,Sambhal,0.16074558128996913
+West Bengal,Bardhaman-Durgapur,Maharashtra,Madha,0.1768632314282849
+West Bengal,Bardhaman-Durgapur,Telangana,Nizamabad,0.20040067181496687
+West Bengal,Bardhaman-Durgapur,West Bengal,Bardhaman Purba,0.2239604308147479
+West Bengal,Bardhaman-Durgapur,Kerala,Kannur,0.2574455824782951
+West Bengal,Barrackpur,Chhattisgarh,BASTAR,0.1060880869491386
+West Bengal,Barrackpur,Uttar Pradesh,Saharanpur,0.13597275753082108
+West Bengal,Barrackpur,Maharashtra,Shirdi,0.15766559910077932
+West Bengal,Barrackpur,Telangana,Secunderabad,0.1586301394772444
+West Bengal,Barrackpur,Tamil Nadu,KALLAKURICHI,0.16588686673721362
+West Bengal,Basirhat,Jharkhand,Hazaribagh,0.4346321139367422
+West Bengal,Basirhat,Maharashtra,Raver,0.46611677615285346
+West Bengal,Basirhat,Telangana,Malkajgiri,0.4689412647667318
+West Bengal,Basirhat,Uttar Pradesh,Agra,0.5027439230377244
+West Bengal,Basirhat,Jharkhand,Dhanbad,0.5029799638078547
+West Bengal,Birbhum,Bihar,Supaul,0.2729547571275763
+West Bengal,Birbhum,West Bengal,Sreerampur,0.3000559154776952
+West Bengal,Birbhum,Bihar,Nalanda,0.3556026912575708
+West Bengal,Birbhum,Tamil Nadu,KARUR,0.3713542038677164
+West Bengal,Birbhum,Uttar Pradesh,Azamgarh,0.3959032908532091
+West Bengal,Bishnupur,Maharashtra,Beed,0.039953342433334524
+West Bengal,Bishnupur,Uttar Pradesh,Phulpur,0.07361092343983955
+West Bengal,Bishnupur,Uttar Pradesh,Bansgaon,0.11365682184697934
+West Bengal,Bishnupur,Uttar Pradesh,Aonla,0.12938367309897758
+West Bengal,Bishnupur,Andhra Pradesh,Thirupathi,0.15185010969807064
+West Bengal,Bolpur,Jharkhand,Palamu,0.29715841517981945
+West Bengal,Bolpur,Jharkhand,Dhanbad,0.3401809707970803
+West Bengal,Bolpur,Andhra Pradesh,Anakapalle,0.3502989618442238
+West Bengal,Bolpur,Uttar Pradesh,Ghaziabad,0.4087547202979855
+West Bengal,Bolpur,Andhra Pradesh,Narsapuram,0.4395220263074744
+West Bengal,Coochbehar,Uttar Pradesh,Maharajganj,0.06433987263387103
+West Bengal,Coochbehar,Gujarat,Banaskantha,0.0970814990075652
+West Bengal,Coochbehar,Maharashtra,Mumbai North East,0.11212785124769484
+West Bengal,Coochbehar,Chhattisgarh,RAJNANDGAON,0.1308554931592398
+West Bengal,Coochbehar,Uttar Pradesh,Deoria,0.14360088764728884
+West Bengal,Darjeeling,West Bengal,Ranaghat,0.154080982014038
+West Bengal,Darjeeling,Madhya Pradesh,BALAGHAT,0.1550115862580349
+West Bengal,Darjeeling,Uttarakhand,Haridwar,0.21234123070977556
+West Bengal,Darjeeling,West Bengal,Mathurapur,0.2207739239536833
+West Bengal,Darjeeling,Assam,Nagaon,0.23919514874976833
+West Bengal,Diamond harbour,Tripura,Tripura West,1.0407256594912335
+West Bengal,Diamond harbour,Gujarat,Vadodara,1.0770066680732542
+West Bengal,Diamond harbour,Madhya Pradesh,KHAJURAHO,1.184242888715449
+West Bengal,Diamond harbour,Chhattisgarh,RAIPUR,1.3384502973673136
+West Bengal,Diamond harbour,Madhya Pradesh,GUNA,1.3419409813979022
+West Bengal,Dum dum,Tamil Nadu,SALEM,0.18853716881386628
+West Bengal,Dum dum,West Bengal,Raiganj,0.22027655254707854
+West Bengal,Dum dum,Uttar Pradesh,Bhadohi,0.2411333304837952
+West Bengal,Dum dum,Kerala,Palakkad,0.2712939040873089
+West Bengal,Dum dum,Telangana,Zahirabad,0.3014118687317502
+West Bengal,Ghatal,Andhra Pradesh,Ananthapur,0.20278710664029223
+West Bengal,Ghatal,Chhattisgarh,BILASPUR,0.2035087655248161
+West Bengal,Ghatal,Maharashtra,Baramati,0.20727394200402346
+West Bengal,Ghatal,Haryana,FARIDABAD,0.25445006017536387
+West Bengal,Ghatal,Gujarat,Sabarkantha,0.26025183881012176
+West Bengal,Hooghly,Andhra Pradesh,Kadapa,0.13243182942527817
+West Bengal,Hooghly,West Bengal,Asansol,0.15232751200826677
+West Bengal,Hooghly,Maharashtra,Nanded,0.16403096694203173
+West Bengal,Hooghly,Uttar Pradesh,Pratapgarh,0.24065411410827653
+West Bengal,Hooghly,Uttar Pradesh,Jalaun,0.24585506033705218
+West Bengal,Howrah,Maharashtra,Nashik,0.09453086102387641
+West Bengal,Howrah,Jharkhand,Rajmahal,0.19616762367964738
+West Bengal,Howrah,West Bengal,Kolkata Dakshin,0.20842851307416388
+West Bengal,Howrah,Uttarakhand,Haridwar,0.220941449238847
+West Bengal,Howrah,West Bengal,Jhargram,0.22713935206961702
+West Bengal,Jadavpur,Telangana,Warangal,0.274010495753095
+West Bengal,Jadavpur,Tamil Nadu,KANCHEEPURAM,0.28703983098568897
+West Bengal,Jadavpur,Telangana,Bhongir,0.3079606328345557
+West Bengal,Jadavpur,Telangana,Karimnagar,0.309196374735689
+West Bengal,Jadavpur,Tamil Nadu,CHENNAI SOUTH,0.46193434197676325
+West Bengal,Jalpaiguri,West Bengal,Tamluk,0.09666907505088829
+West Bengal,Jalpaiguri,Maharashtra,Ramtek,0.10160193967372516
+West Bengal,Jalpaiguri,Andhra Pradesh,Rajampet,0.10319264808820913
+West Bengal,Jalpaiguri,West Bengal,Bangaon,0.1166437684249934
+West Bengal,Jalpaiguri,West Bengal,Alipurduars,0.1180878858662497
+West Bengal,Jangipur,Tamil Nadu,COIMBATORE,0.2411167815338652
+West Bengal,Jangipur,Odisha,Kalahandi,0.2432740773800141
+West Bengal,Jangipur,Odisha,Nabarangpur,0.2987440175632323
+West Bengal,Jangipur,Rajasthan,BARMER,0.3243676699919137
+West Bengal,Jangipur,Telangana,Nagarkurnool,0.3379937078891348
+West Bengal,Jaynagar,Telangana,Khammam,0.5268531129468083
+West Bengal,Jaynagar,Madhya Pradesh,SHAHDOL,0.595362103663265
+West Bengal,Jaynagar,Chhattisgarh,DURG,0.6110982257700496
+West Bengal,Jaynagar,Gujarat,Chhota Udaipur,0.7197042456352156
+West Bengal,Jaynagar,Kerala,Wayanad,0.7559213342472654
+West Bengal,Jhargram,Uttarakhand,Haridwar,0.11655561220875976
+West Bengal,Jhargram,Maharashtra,Nashik,0.21066156256932647
+West Bengal,Jhargram,West Bengal,Howrah,0.22713935206961702
+West Bengal,Jhargram,West Bengal,Ranaghat,0.24801678342902062
+West Bengal,Jhargram,Telangana,Chevella,0.2554696565629296
+West Bengal,Kanthi,Karnataka,Koppal,0.04133660669967823
+West Bengal,Kanthi,Karnataka,Chitradurga,0.04951271700611965
+West Bengal,Kanthi,Karnataka,Hassan,0.05665995870450522
+West Bengal,Kanthi,Rajasthan,KOTA,0.07741108802860726
+West Bengal,Kanthi,Haryana,BHIWANI-MAHENDRAGARH,0.0785117530157684
+West Bengal,Kolkata Dakshin,Jharkhand,Rajmahal,0.13740038574513175
+West Bengal,Kolkata Dakshin,West Bengal,Howrah,0.20842851307416388
+West Bengal,Kolkata Dakshin,Odisha,Berhampur,0.24770895679973737
+West Bengal,Kolkata Dakshin,Bihar,Khagaria,0.25058441722027525
+West Bengal,Kolkata Dakshin,Maharashtra,Nashik,0.25956016136541943
+West Bengal,Kolkata Uttar,Bihar,Valmiki Nagar,0.10889611712104601
+West Bengal,Kolkata Uttar,Manipur,Outer Manipur,0.17341018280218948
+West Bengal,Kolkata Uttar,Telangana,Nizamabad,0.19216615037607027
+West Bengal,Kolkata Uttar,Odisha,Aska,0.19992576485827954
+West Bengal,Kolkata Uttar,Uttar Pradesh,Sambhal,0.2164653482561362
+West Bengal,Krishnanagar,Tamil Nadu,KALLAKURICHI,0.11971749993012289
+West Bengal,Krishnanagar,Maharashtra,Shirdi,0.14269411178107233
+West Bengal,Krishnanagar,Uttar Pradesh,Saharanpur,0.146993122882697
+West Bengal,Krishnanagar,Madhya Pradesh,MORENA,0.15764505863674985
+West Bengal,Krishnanagar,Telangana,Secunderabad,0.21897181713372654
+West Bengal,Maldaha Dakshin,Rajasthan,BARMER,0.2309753521975495
+West Bengal,Maldaha Dakshin,Tamil Nadu,CHIDAMBARAM,0.26429862480285254
+West Bengal,Maldaha Dakshin,Odisha,Sundargarh,0.2782119337457901
+West Bengal,Maldaha Dakshin,Odisha,Kalahandi,0.3248500508807054
+West Bengal,Maldaha Dakshin,Tamil Nadu,COIMBATORE,0.3289366400121332
+West Bengal,Maldaha Uttar,West Bengal,Baharampur,0.14482507842530082
+West Bengal,Maldaha Uttar,Odisha,Nabarangpur,0.25706309523984344
+West Bengal,Maldaha Uttar,Uttar Pradesh,Banda,0.2656016538017129
+West Bengal,Maldaha Uttar,Telangana,Nagarkurnool,0.2831021551384675
+West Bengal,Maldaha Uttar,Kerala,Thrissur,0.35501770675987326
+West Bengal,Mathurapur,Assam,Nagaon,0.13227186588816278
+West Bengal,Mathurapur,Assam,Barpeta,0.19707878611907564
+West Bengal,Mathurapur,West Bengal,Darjeeling,0.2207739239536833
+West Bengal,Mathurapur,West Bengal,Ranaghat,0.24904066310884093
+West Bengal,Mathurapur,West Bengal,Jhargram,0.2579854477829001
+West Bengal,Medinipur,Bihar,Purnia,0.029662373457798843
+West Bengal,Medinipur,Assam,Karimganj,0.07704805816861138
+West Bengal,Medinipur,Maharashtra,Ahmednagar,0.10114222184384962
+West Bengal,Medinipur,Maharashtra,Satara,0.10326266005653834
+West Bengal,Medinipur,Karnataka,Davanagere,0.1138531953426077
+West Bengal,Murshidabad,West Bengal,Sreerampur,0.231823673333104
+West Bengal,Murshidabad,Odisha,Bolangir,0.24715802192139913
+West Bengal,Murshidabad,Odisha,Balasore,0.2926562650632306
+West Bengal,Murshidabad,Maharashtra,Parbhani,0.31925523783985643
+West Bengal,Murshidabad,Uttar Pradesh,Lalganj,0.3570515702903039
+West Bengal,Purulia,Maharashtra,Hatkanangale,0.09553691484179443
+West Bengal,Purulia,Bihar,Buxar,0.1960390199890255
+West Bengal,Purulia,Tamil Nadu,NAMAKKAL,0.21885517627597512
+West Bengal,Purulia,Uttar Pradesh,Dhaurahra,0.2815621536443896
+West Bengal,Purulia,Uttar Pradesh,Bijnor,0.28493613361418807
+West Bengal,Raiganj,Kerala,Palakkad,0.21518576909051038
+West Bengal,Raiganj,West Bengal,Dum dum,0.22027655254707854
+West Bengal,Raiganj,Kerala,Pathanamthitta,0.24105143548322483
+West Bengal,Raiganj,Tamil Nadu,VILUPPURAM,0.2456970912798205
+West Bengal,Raiganj,Uttar Pradesh,Bijnor,0.322521271399662
+West Bengal,Ranaghat,Madhya Pradesh,BALAGHAT,0.15207454586077349
+West Bengal,Ranaghat,West Bengal,Darjeeling,0.154080982014038
+West Bengal,Ranaghat,Assam,Nagaon,0.24557010674276422
+West Bengal,Ranaghat,Madhya Pradesh,RATLAM,0.2462991366762088
+West Bengal,Ranaghat,West Bengal,Jhargram,0.24801678342902062
+West Bengal,Sreerampur,Odisha,Balasore,0.2236581509311806
+West Bengal,Sreerampur,West Bengal,Murshidabad,0.231823673333104
+West Bengal,Sreerampur,West Bengal,Birbhum,0.3000559154776952
+West Bengal,Sreerampur,Uttar Pradesh,Ambedkar Nagar,0.3486471732839852
+West Bengal,Sreerampur,Tamil Nadu,KARUR,0.3520070932032038
+West Bengal,Tamluk,Uttar Pradesh,Mohanlalganj,0.05591544043122811
+West Bengal,Tamluk,West Bengal,Alipurduars,0.06530684239113586
+West Bengal,Tamluk,West Bengal,Jalpaiguri,0.09666907505088829
+West Bengal,Tamluk,West Bengal,Bangaon,0.09675297866921592
+West Bengal,Tamluk,Odisha,Kendrapara,0.11234869335053949
+West Bengal,Uluberia,Assam,Nagaon,0.24608725348188662
+West Bengal,Uluberia,Madhya Pradesh,RATLAM,0.24912084191641143
+West Bengal,Uluberia,Assam,Barpeta,0.2682903789320894
+West Bengal,Uluberia,Bihar,Samastipur,0.2763896641387998
+West Bengal,Uluberia,West Bengal,Mathurapur,0.3380026816764011

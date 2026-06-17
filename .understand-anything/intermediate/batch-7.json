@@ -1,0 +1,2428 @@
+{
+  "nodes": [
+    {
+      "id": "document:docs/PROJECT_GUIDE.md",
+      "type": "document",
+      "name": "PROJECT_GUIDE.md",
+      "filePath": "docs/PROJECT_GUIDE.md",
+      "summary": "Onboarding guide for the Lok Sabha research pipeline: current capabilities, pipeline commands, key output CSVs, column glossary, and recommended next milestones toward state-first analysis.",
+      "tags": [
+        "documentation",
+        "onboarding",
+        "pipeline",
+        "analysis",
+        "roadmap"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "document:README.md",
+      "type": "document",
+      "name": "README.md",
+      "filePath": "README.md",
+      "summary": "Top-level project README describing the Indian Election Model architecture, install steps, full pipeline run order, demographic warehouse workflow, visual explorer setup, and planned analyses.",
+      "tags": [
+        "documentation",
+        "entry-point",
+        "overview",
+        "pipeline",
+        "demographics"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "document:src/demographics/README.md",
+      "type": "document",
+      "name": "README.md",
+      "filePath": "src/demographics/README.md",
+      "summary": "Demographic data warehouse guide covering catalog-first Census/NFHS ingestion, folder layout, cleaner commands, geography caveats, and priority next data files.",
+      "tags": [
+        "documentation",
+        "demographics",
+        "census",
+        "data-pipeline",
+        "warehouse"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "document:src/demographics/dhs/README.md",
+      "type": "document",
+      "name": "README.md",
+      "filePath": "src/demographics/dhs/README.md",
+      "summary": "DHS/NFHS microdata pipeline documentation with privacy rules, CLI commands, output file catalog, and visualizer integration for anonymized cluster maps.",
+      "tags": [
+        "documentation",
+        "demographics",
+        "dhs",
+        "nfhs",
+        "privacy"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "config:requirements.txt",
+      "type": "config",
+      "name": "requirements.txt",
+      "filePath": "requirements.txt",
+      "summary": "Python dependency manifest for the research pipeline: pandas/numpy data stack, Excel readers, pyarrow parquet, scikit-learn, Jupyter, pyreadstat for DHS Stata files, and pyshp for geospatial extraction.",
+      "tags": [
+        "configuration",
+        "dependencies",
+        "python",
+        "data-pipeline",
+        "build-system"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/__init__.py",
+      "type": "file",
+      "name": "__init__.py",
+      "filePath": "src/__init__.py",
+      "summary": "Empty root package marker enabling `python -m src.*` module execution.",
+      "tags": [
+        "barrel",
+        "package",
+        "python"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/analysis/__init__.py",
+      "type": "file",
+      "name": "__init__.py",
+      "filePath": "src/analysis/__init__.py",
+      "summary": "Empty analysis subpackage initializer.",
+      "tags": [
+        "barrel",
+        "package",
+        "analysis"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/analysis/build_constituency_volatality.py",
+      "type": "file",
+      "name": "build_constituency_volatality.py",
+      "filePath": "src/analysis/build_constituency_volatality.py",
+      "summary": "Builds constituency_volatility_2019_2024.csv by merging winner comparison, party swing aggregates, and 2024 constituency features into a composite volatility score.",
+      "tags": [
+        "analysis",
+        "volatility",
+        "cross-year",
+        "report",
+        "entry-point"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/analysis/build_constituency_volatality.py:load_data",
+      "type": "function",
+      "name": "load_data",
+      "filePath": "src/analysis/build_constituency_volatality.py",
+      "lineRange": [
+        16,
+        21
+      ],
+      "summary": "Reads winner comparison CSV, party swings CSV, and 2024 constituency features parquet.",
+      "tags": [
+        "data-loading",
+        "io",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/analysis/build_constituency_volatality.py:build_party_swing_features",
+      "type": "function",
+      "name": "build_party_swing_features",
+      "filePath": "src/analysis/build_constituency_volatality.py",
+      "lineRange": [
+        24,
+        40
+      ],
+      "summary": "Aggregates per-constituency max/min/average absolute party swings and swing range.",
+      "tags": [
+        "aggregation",
+        "swing",
+        "constituency"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/analysis/build_constituency_volatality.py:build_volatility_table",
+      "type": "function",
+      "name": "build_volatility_table",
+      "filePath": "src/analysis/build_constituency_volatality.py",
+      "lineRange": [
+        43,
+        99
+      ],
+      "summary": "Merges comparison, swing, and feature columns then computes flip, margin, fragmentation, and composite volatility scores.",
+      "tags": [
+        "aggregation",
+        "volatility",
+        "scoring"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/analysis/build_constituency_volatality.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/analysis/build_constituency_volatality.py",
+      "lineRange": [
+        102,
+        132
+      ],
+      "summary": "CLI entry point writing constituency_volatility_2019_2024.csv and printing top volatile seats.",
+      "tags": [
+        "entry-point",
+        "cli",
+        "utility"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "type": "file",
+      "name": "build_state_election_demographic_analysis.py",
+      "filePath": "src/analysis/build_state_election_demographic_analysis.py",
+      "summary": "State-level bridge script joining Lok Sabha 2019/2024 outcomes, volatility, party swings, and Census demographics with explicit geography match status tags.",
+      "tags": [
+        "analysis",
+        "demographics",
+        "state-level",
+        "report",
+        "entry-point"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/analysis/build_state_election_demographic_analysis.py:normalise_state_name",
+      "type": "function",
+      "name": "normalise_state_name",
+      "filePath": "src/analysis/build_state_election_demographic_analysis.py",
+      "lineRange": [
+        42,
+        51
+      ],
+      "summary": "Normalises state names for Census/ECI key matching with uppercase and ampersand handling.",
+      "tags": [
+        "normalisation",
+        "geography",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/analysis/build_state_election_demographic_analysis.py:load_inputs",
+      "type": "function",
+      "name": "load_inputs",
+      "filePath": "src/analysis/build_state_election_demographic_analysis.py",
+      "lineRange": [
+        54,
+        60
+      ],
+      "summary": "Loads winner comparison, volatility, party swings, alliance map, and state demographics master CSVs.",
+      "tags": [
+        "data-loading",
+        "io",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/analysis/build_state_election_demographic_analysis.py:weighted_average",
+      "type": "function",
+      "name": "weighted_average",
+      "filePath": "src/analysis/build_state_election_demographic_analysis.py",
+      "lineRange": [
+        63,
+        69
+      ],
+      "summary": "Population-weighted mean helper for composite demographic rows.",
+      "tags": [
+        "aggregation",
+        "demographics",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/analysis/build_state_election_demographic_analysis.py:build_demographic_lookup",
+      "type": "function",
+      "name": "build_demographic_lookup",
+      "filePath": "src/analysis/build_state_election_demographic_analysis.py",
+      "lineRange": [
+        72,
+        137
+      ],
+      "summary": "Builds state-keyed demographic lookup with composite UT rows and legacy 2011 geography aliases.",
+      "tags": [
+        "demographics",
+        "normalisation",
+        "geography"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/analysis/build_state_election_demographic_analysis.py:add_alliance_columns",
+      "type": "function",
+      "name": "add_alliance_columns",
+      "filePath": "src/analysis/build_state_election_demographic_analysis.py",
+      "lineRange": [
+        140,
+        158
+      ],
+      "summary": "Joins 2019/2024 alliance labels onto winner rows and flags alliance flips.",
+      "tags": [
+        "metadata",
+        "alliances",
+        "join"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/analysis/build_state_election_demographic_analysis.py:most_common",
+      "type": "function",
+      "name": "most_common",
+      "filePath": "src/analysis/build_state_election_demographic_analysis.py",
+      "lineRange": [
+        161,
+        165
+      ],
+      "summary": "Returns the modal value from a pandas Series for leading party/alliance aggregation.",
+      "tags": [
+        "aggregation",
+        "utility",
+        "statistics"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/analysis/build_state_election_demographic_analysis.py:build_state_outcomes",
+      "type": "function",
+      "name": "build_state_outcomes",
+      "filePath": "src/analysis/build_state_election_demographic_analysis.py",
+      "lineRange": [
+        168,
+        228
+      ],
+      "summary": "Aggregates seat flips, BJP/INC seat changes, volatility metrics, and flip rates per state.",
+      "tags": [
+        "aggregation",
+        "state-level",
+        "election"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/analysis/build_state_election_demographic_analysis.py:build_state_party_swings",
+      "type": "function",
+      "name": "build_state_party_swings",
+      "filePath": "src/analysis/build_state_election_demographic_analysis.py",
+      "lineRange": [
+        231,
+        270
+      ],
+      "summary": "Builds per-state party swing table with seat counts and 2024 alliance labels.",
+      "tags": [
+        "aggregation",
+        "swing",
+        "state-level"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/analysis/build_state_election_demographic_analysis.py:add_key_party_swing_columns",
+      "type": "function",
+      "name": "add_key_party_swing_columns",
+      "filePath": "src/analysis/build_state_election_demographic_analysis.py",
+      "lineRange": [
+        273,
+        286
+      ],
+      "summary": "Pivots BJP and INC average swings onto the state outcomes table.",
+      "tags": [
+        "aggregation",
+        "swing",
+        "join"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/analysis/build_state_election_demographic_analysis.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/analysis/build_state_election_demographic_analysis.py",
+      "lineRange": [
+        289,
+        350
+      ],
+      "summary": "CLI entry point writing state_election_demographic_analysis.csv and state_party_swing_analysis.csv.",
+      "tags": [
+        "entry-point",
+        "cli",
+        "utility"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "file:src/analysis/compare_2019_2024.py",
+      "type": "file",
+      "name": "compare_2019_2024.py",
+      "filePath": "src/analysis/compare_2019_2024.py",
+      "summary": "Cross-year historical comparison: reconciles renamed constituencies via alias map, builds winner comparison, party swing tables, and unmatched constituency audit.",
+      "tags": [
+        "analysis",
+        "cross-year",
+        "comparison",
+        "reconciliation",
+        "entry-point"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/analysis/compare_2019_2024.py:load_results",
+      "type": "function",
+      "name": "load_results",
+      "filePath": "src/analysis/compare_2019_2024.py",
+      "lineRange": [
+        72,
+        76
+      ],
+      "summary": "Loads 2019 and 2024 results_table parquet files from data/database.",
+      "tags": [
+        "data-loading",
+        "io",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/analysis/compare_2019_2024.py:add_comparison_key",
+      "type": "function",
+      "name": "add_comparison_key",
+      "filePath": "src/analysis/compare_2019_2024.py",
+      "lineRange": [
+        79,
+        87
+      ],
+      "summary": "Applies CONSTITUENCY_ID_ALIASES map to align cross-year constituency_id keys.",
+      "tags": [
+        "reconciliation",
+        "constituency",
+        "normalisation"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/analysis/compare_2019_2024.py:build_unmatched_constituencies",
+      "type": "function",
+      "name": "build_unmatched_constituencies",
+      "filePath": "src/analysis/compare_2019_2024.py",
+      "lineRange": [
+        90,
+        123
+      ],
+      "summary": "Identifies winner rows with no cross-year constituency match for audit output.",
+      "tags": [
+        "audit",
+        "reconciliation",
+        "comparison"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/analysis/compare_2019_2024.py:build_winner_comparison",
+      "type": "function",
+      "name": "build_winner_comparison",
+      "filePath": "src/analysis/compare_2019_2024.py",
+      "lineRange": [
+        126,
+        196
+      ],
+      "summary": "Inner-joins 2019 and 2024 winners on reconciled constituency_id and flags seat_flipped.",
+      "tags": [
+        "comparison",
+        "cross-year",
+        "aggregation"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/analysis/compare_2019_2024.py:build_party_swing_table",
+      "type": "function",
+      "name": "build_party_swing_table",
+      "filePath": "src/analysis/compare_2019_2024.py",
+      "lineRange": [
+        199,
+        263
+      ],
+      "summary": "Outer-joins party vote shares by constituency/party and computes swing as 2024 minus 2019.",
+      "tags": [
+        "comparison",
+        "swing",
+        "aggregation"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/analysis/compare_2019_2024.py:build_state_swing_summary",
+      "type": "function",
+      "name": "build_state_swing_summary",
+      "filePath": "src/analysis/compare_2019_2024.py",
+      "lineRange": [
+        266,
+        279
+      ],
+      "summary": "Averages party swings by state and party_id for summary CSV.",
+      "tags": [
+        "aggregation",
+        "swing",
+        "state-level"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/analysis/compare_2019_2024.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/analysis/compare_2019_2024.py",
+      "lineRange": [
+        282,
+        427
+      ],
+      "summary": "CLI orchestrator saving winner comparison, party swings, state summary, and unmatched audit CSVs.",
+      "tags": [
+        "entry-point",
+        "cli",
+        "utility"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "file:src/clean/__init__.py",
+      "type": "file",
+      "name": "__init__.py",
+      "filePath": "src/clean/__init__.py",
+      "summary": "Empty clean subpackage initializer.",
+      "tags": [
+        "barrel",
+        "package",
+        "clean"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/database/__init__.py",
+      "type": "file",
+      "name": "__init__.py",
+      "filePath": "src/database/__init__.py",
+      "summary": "Empty database subpackage initializer.",
+      "tags": [
+        "barrel",
+        "package",
+        "database"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/demographics/__init__.py",
+      "type": "file",
+      "name": "__init__.py",
+      "filePath": "src/demographics/__init__.py",
+      "summary": "Empty demographics subpackage initializer.",
+      "tags": [
+        "barrel",
+        "package",
+        "demographics"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/demographics/build_constituency_demographics.py",
+      "type": "file",
+      "name": "build_constituency_demographics.py",
+      "filePath": "src/demographics/build_constituency_demographics.py",
+      "summary": "Placeholder module for future constituency-level demographic allocation; not yet implemented.",
+      "tags": [
+        "placeholder",
+        "demographics",
+        "constituency"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/demographics/dhs/__init__.py",
+      "type": "file",
+      "name": "__init__.py",
+      "filePath": "src/demographics/dhs/__init__.py",
+      "summary": "DHS/NFHS subpackage docstring marking the microdata aggregation pipeline namespace.",
+      "tags": [
+        "barrel",
+        "package",
+        "demographics",
+        "dhs"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/demographics/national_demographics.py",
+      "type": "file",
+      "name": "national_demographics.py",
+      "filePath": "src/demographics/national_demographics.py",
+      "summary": "Empty placeholder for national-level demographic aggregation.",
+      "tags": [
+        "placeholder",
+        "demographics",
+        "national"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/features/__init__.py",
+      "type": "file",
+      "name": "__init__.py",
+      "filePath": "src/features/__init__.py",
+      "summary": "Empty features subpackage initializer.",
+      "tags": [
+        "barrel",
+        "package",
+        "features"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/metadata/__init__.py",
+      "type": "file",
+      "name": "__init__.py",
+      "filePath": "src/metadata/__init__.py",
+      "summary": "Empty metadata subpackage initializer.",
+      "tags": [
+        "barrel",
+        "package",
+        "metadata"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/normalisation/__init__.py",
+      "type": "file",
+      "name": "__init__.py",
+      "filePath": "src/normalisation/__init__.py",
+      "summary": "Empty normalisation subpackage initializer.",
+      "tags": [
+        "barrel",
+        "package",
+        "normalisation"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/simulation/__init__.py",
+      "type": "file",
+      "name": "__init__.py",
+      "filePath": "src/simulation/__init__.py",
+      "summary": "Empty simulation subpackage initializer.",
+      "tags": [
+        "barrel",
+        "package",
+        "simulation"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/simulation/election_simulator_v1.py",
+      "type": "file",
+      "name": "election_simulator_v1.py",
+      "filePath": "src/simulation/election_simulator_v1.py",
+      "summary": "Full scenario simulator v1: loads editable state/party swings, applies zero-sum renormalisation per constituency, and writes projections, flip reports, and battleground rankings.",
+      "tags": [
+        "simulation",
+        "swing",
+        "scenario",
+        "zero-sum",
+        "entry-point"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/simulation/election_simulator_v1.py:load_state_party_swings",
+      "type": "function",
+      "name": "load_state_party_swings",
+      "filePath": "src/simulation/election_simulator_v1.py",
+      "lineRange": [
+        17,
+        49
+      ],
+      "summary": "Parses and validates scenario CSV into a (state, party_id) to swing lookup dict.",
+      "tags": [
+        "data-loading",
+        "validation",
+        "scenario"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/simulation/election_simulator_v1.py:apply_zero_sum_swing",
+      "type": "function",
+      "name": "apply_zero_sum_swing",
+      "filePath": "src/simulation/election_simulator_v1.py",
+      "lineRange": [
+        52,
+        87
+      ],
+      "summary": "Applies per-party swings within a constituency group and renormalises simulated vote shares to 100%.",
+      "tags": [
+        "simulation",
+        "swing",
+        "zero-sum"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/simulation/election_simulator_v1.py:load_data",
+      "type": "function",
+      "name": "load_data",
+      "filePath": "src/simulation/election_simulator_v1.py",
+      "lineRange": [
+        90,
+        99
+      ],
+      "summary": "Loads 2024 results, alliance map, optional volatility table, and scenario swings.",
+      "tags": [
+        "data-loading",
+        "io",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/simulation/election_simulator_v1.py:add_alliances",
+      "type": "function",
+      "name": "add_alliances",
+      "filePath": "src/simulation/election_simulator_v1.py",
+      "lineRange": [
+        102,
+        111
+      ],
+      "summary": "Joins BASE_YEAR alliance labels onto results rows.",
+      "tags": [
+        "metadata",
+        "alliances",
+        "join"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/simulation/election_simulator_v1.py:simulate",
+      "type": "function",
+      "name": "simulate",
+      "filePath": "src/simulation/election_simulator_v1.py",
+      "lineRange": [
+        114,
+        125
+      ],
+      "summary": "Group-applies zero-sum swing across all constituencies and extracts simulated winners.",
+      "tags": [
+        "simulation",
+        "swing",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/simulation/election_simulator_v1.py:build_actual_winners",
+      "type": "function",
+      "name": "build_actual_winners",
+      "filePath": "src/simulation/election_simulator_v1.py",
+      "lineRange": [
+        128,
+        146
+      ],
+      "summary": "Extracts actual 2024 winner rows with renamed columns for flip comparison.",
+      "tags": [
+        "extraction",
+        "election",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/simulation/election_simulator_v1.py:build_flip_report",
+      "type": "function",
+      "name": "build_flip_report",
+      "filePath": "src/simulation/election_simulator_v1.py",
+      "lineRange": [
+        149,
+        180
+      ],
+      "summary": "Merges actual and simulated winners and flags flipped seats.",
+      "tags": [
+        "report",
+        "simulation",
+        "seat-flip"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/simulation/election_simulator_v1.py:build_national_projection",
+      "type": "function",
+      "name": "build_national_projection",
+      "filePath": "src/simulation/election_simulator_v1.py",
+      "lineRange": [
+        183,
+        198
+      ],
+      "summary": "Counts simulated seats by party and alliance nationally.",
+      "tags": [
+        "aggregation",
+        "simulation",
+        "projection"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/simulation/election_simulator_v1.py:build_state_projection",
+      "type": "function",
+      "name": "build_state_projection",
+      "filePath": "src/simulation/election_simulator_v1.py",
+      "lineRange": [
+        201,
+        207
+      ],
+      "summary": "Counts simulated seats by state and party.",
+      "tags": [
+        "aggregation",
+        "simulation",
+        "state-level"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/simulation/election_simulator_v1.py:build_battlegrounds",
+      "type": "function",
+      "name": "build_battlegrounds",
+      "filePath": "src/simulation/election_simulator_v1.py",
+      "lineRange": [
+        210,
+        234
+      ],
+      "summary": "Enriches flip report with volatility features and sorts battleground seats.",
+      "tags": [
+        "report",
+        "volatility",
+        "simulation"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/simulation/election_simulator_v1.py:save_outputs",
+      "type": "function",
+      "name": "save_outputs",
+      "filePath": "src/simulation/election_simulator_v1.py",
+      "lineRange": [
+        237,
+        279
+      ],
+      "summary": "Writes full simulation CSVs including results, winners, projections, and battlegrounds.",
+      "tags": [
+        "io",
+        "report",
+        "simulation"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/simulation/election_simulator_v1.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/simulation/election_simulator_v1.py",
+      "lineRange": [
+        282,
+        342
+      ],
+      "summary": "CLI entry point running the full v1 scenario simulator and printing projection summary.",
+      "tags": [
+        "entry-point",
+        "cli",
+        "utility"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "file:src/utils/__init__.py",
+      "type": "file",
+      "name": "__init__.py",
+      "filePath": "src/utils/__init__.py",
+      "summary": "Empty utils subpackage initializer.",
+      "tags": [
+        "barrel",
+        "package",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/visualization/build_visualizer_data.py",
+      "type": "file",
+      "name": "build_visualizer_data.py",
+      "filePath": "src/visualization/build_visualizer_data.py",
+      "summary": "ETL script assembling a relational JSON bundle (states, districts, party swings, constituencies) for the static visualizer with grid positions and field catalog metadata.",
+      "tags": [
+        "visualization",
+        "data-pipeline",
+        "json",
+        "demographics",
+        "entry-point"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/visualization/build_visualizer_data.py:clean_json_value",
+      "type": "function",
+      "name": "clean_json_value",
+      "filePath": "src/visualization/build_visualizer_data.py",
+      "lineRange": [
+        173,
+        180
+      ],
+      "summary": "Sanitises pandas/numpy values for JSON serialisation (NaN to null).",
+      "tags": [
+        "serialization",
+        "json",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/visualization/build_visualizer_data.py:records",
+      "type": "function",
+      "name": "records",
+      "filePath": "src/visualization/build_visualizer_data.py",
+      "lineRange": [
+        183,
+        187
+      ],
+      "summary": "Converts a DataFrame to a list of JSON-safe dict records.",
+      "tags": [
+        "serialization",
+        "json",
+        "dataframe"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/visualization/build_visualizer_data.py:name_key",
+      "type": "function",
+      "name": "name_key",
+      "filePath": "src/visualization/build_visualizer_data.py",
+      "lineRange": [
+        190,
+        196
+      ],
+      "summary": "Normalises geographic names to uppercase keys with alias mapping.",
+      "tags": [
+        "normalisation",
+        "geography",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/visualization/build_visualizer_data.py:canonical_state_for_district",
+      "type": "function",
+      "name": "canonical_state_for_district",
+      "filePath": "src/visualization/build_visualizer_data.py",
+      "lineRange": [
+        199,
+        223
+      ],
+      "summary": "Maps 2011 district rows to 2024 election states including Telangana and Ladakh splits.",
+      "tags": [
+        "utility",
+        "data-pipeline",
+        "analysis"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/visualization/build_visualizer_data.py:add_state_grid",
+      "type": "function",
+      "name": "add_state_grid",
+      "filePath": "src/visualization/build_visualizer_data.py",
+      "lineRange": [
+        226,
+        231
+      ],
+      "summary": "Adds cartogram grid_row/grid_col coordinates from STATE_GRID_POSITIONS lookup.",
+      "tags": [
+        "visualization",
+        "cartogram",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/visualization/build_visualizer_data.py:build_field_catalog",
+      "type": "function",
+      "name": "build_field_catalog",
+      "filePath": "src/visualization/build_visualizer_data.py",
+      "lineRange": [
+        234,
+        253
+      ],
+      "summary": "Builds visualizer field metadata with labels, groups, and coverage counts.",
+      "tags": [
+        "utility",
+        "data-pipeline",
+        "analysis"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/visualization/build_visualizer_data.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/visualization/build_visualizer_data.py",
+      "lineRange": [
+        256,
+        316
+      ],
+      "summary": "CLI entry point writing visualizer/data/election_demographics_bundle.json.",
+      "tags": [
+        "entry-point",
+        "cli",
+        "utility"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "file:visualizer/app.js",
+      "type": "file",
+      "name": "app.js",
+      "filePath": "visualizer/app.js",
+      "summary": "Browser-side election and demographics explorer: state grid cartogram, metric choropleth coloring, district/party/constituency drilldown tables, and optional DHS cluster scatter overlay.",
+      "tags": [
+        "visualization",
+        "frontend",
+        "javascript",
+        "dashboard",
+        "entry-point"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:visualizer/app.js:colorFor",
+      "type": "function",
+      "name": "colorFor",
+      "filePath": "visualizer/app.js",
+      "lineRange": [
+        76,
+        88
+      ],
+      "summary": "Maps a numeric metric value to an RGB choropleth color on a three-stop green ramp.",
+      "tags": [
+        "utility",
+        "data-pipeline",
+        "analysis"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:visualizer/app.js:initControls",
+      "type": "function",
+      "name": "initControls",
+      "filePath": "visualizer/app.js",
+      "lineRange": [
+        100,
+        165
+      ],
+      "summary": "Populates metric/state/sort controls and wires UI event listeners.",
+      "tags": [
+        "visualization",
+        "ui",
+        "event-handler"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:visualizer/app.js:renderLegend",
+      "type": "function",
+      "name": "renderLegend",
+      "filePath": "visualizer/app.js",
+      "lineRange": [
+        174,
+        183
+      ],
+      "summary": "Renders the selected metric legend with min/max formatted values.",
+      "tags": [
+        "visualization",
+        "rendering",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:visualizer/app.js:renderMap",
+      "type": "function",
+      "name": "renderMap",
+      "filePath": "visualizer/app.js",
+      "lineRange": [
+        185,
+        220
+      ],
+      "summary": "Renders state grid tiles and sortable state summary table colored by selected metric.",
+      "tags": [
+        "visualization",
+        "rendering",
+        "utility"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:visualizer/app.js:renderStateSummary",
+      "type": "function",
+      "name": "renderStateSummary",
+      "filePath": "visualizer/app.js",
+      "lineRange": [
+        222,
+        247
+      ],
+      "summary": "Displays metric cards and election/demography signal rows for the selected state.",
+      "tags": [
+        "visualization",
+        "rendering",
+        "utility"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:visualizer/app.js:renderCoverage",
+      "type": "function",
+      "name": "renderCoverage",
+      "filePath": "visualizer/app.js",
+      "lineRange": [
+        249,
+        264
+      ],
+      "summary": "Shows field availability bars from the bundle field catalog.",
+      "tags": [
+        "visualization",
+        "rendering",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:visualizer/app.js:renderTable",
+      "type": "function",
+      "name": "renderTable",
+      "filePath": "visualizer/app.js",
+      "lineRange": [
+        266,
+        281
+      ],
+      "summary": "Generic HTML table renderer with formatted values and row limits.",
+      "tags": [
+        "visualization",
+        "rendering",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:visualizer/app.js:renderDistricts",
+      "type": "function",
+      "name": "renderDistricts",
+      "filePath": "visualizer/app.js",
+      "lineRange": [
+        283,
+        294
+      ],
+      "summary": "Filters and sorts district demographics for the selected state.",
+      "tags": [
+        "visualization",
+        "rendering",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:visualizer/app.js:renderParties",
+      "type": "function",
+      "name": "renderParties",
+      "filePath": "visualizer/app.js",
+      "lineRange": [
+        296,
+        308
+      ],
+      "summary": "Shows state party swing table filtered by minimum seat threshold.",
+      "tags": [
+        "visualization",
+        "rendering",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:visualizer/app.js:renderConstituencies",
+      "type": "function",
+      "name": "renderConstituencies",
+      "filePath": "visualizer/app.js",
+      "lineRange": [
+        310,
+        322
+      ],
+      "summary": "Lists constituencies with flip/close filters sorted by volatility score.",
+      "tags": [
+        "visualization",
+        "rendering",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:visualizer/app.js:renderDhsMap",
+      "type": "function",
+      "name": "renderDhsMap",
+      "filePath": "visualizer/app.js",
+      "lineRange": [
+        331,
+        414
+      ],
+      "summary": "Renders SVG scatter map of anonymized DHS cluster points with tooltips.",
+      "tags": [
+        "visualization",
+        "rendering",
+        "utility"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:visualizer/app.js:render",
+      "type": "function",
+      "name": "render",
+      "filePath": "visualizer/app.js",
+      "lineRange": [
+        416,
+        425
+      ],
+      "summary": "Top-level render orchestrator refreshing all dashboard panels.",
+      "tags": [
+        "visualization",
+        "rendering",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:visualizer/app.js:loadDhsClusters",
+      "type": "function",
+      "name": "loadDhsClusters",
+      "filePath": "visualizer/app.js",
+      "lineRange": [
+        427,
+        442
+      ],
+      "summary": "Fetches and parses the public DHS geospatial CSV layer.",
+      "tags": [
+        "data-loading",
+        "fetch",
+        "dhs"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:visualizer/app.js:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "visualizer/app.js",
+      "lineRange": [
+        444,
+        451
+      ],
+      "summary": "Async bootstrap: loads JSON bundle, initializes controls, and renders the dashboard.",
+      "tags": [
+        "entry-point",
+        "bootstrap",
+        "utility"
+      ],
+      "complexity": "simple"
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:src/analysis/build_constituency_volatality.py",
+      "target": "function:src/analysis/build_constituency_volatality.py:load_data",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/build_constituency_volatality.py",
+      "target": "function:src/analysis/build_constituency_volatality.py:load_data",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/build_constituency_volatality.py",
+      "target": "function:src/analysis/build_constituency_volatality.py:build_party_swing_features",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/build_constituency_volatality.py",
+      "target": "function:src/analysis/build_constituency_volatality.py:build_party_swing_features",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/build_constituency_volatality.py",
+      "target": "function:src/analysis/build_constituency_volatality.py:build_volatility_table",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/build_constituency_volatality.py",
+      "target": "function:src/analysis/build_constituency_volatality.py:build_volatility_table",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/build_constituency_volatality.py",
+      "target": "function:src/analysis/build_constituency_volatality.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/build_constituency_volatality.py",
+      "target": "function:src/analysis/build_constituency_volatality.py:main",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:normalise_state_name",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:normalise_state_name",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:load_inputs",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:load_inputs",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:weighted_average",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:weighted_average",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:build_demographic_lookup",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:build_demographic_lookup",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:add_alliance_columns",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:add_alliance_columns",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:most_common",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:most_common",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:build_state_outcomes",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:build_state_outcomes",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:build_state_party_swings",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:build_state_party_swings",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:add_key_party_swing_columns",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:add_key_party_swing_columns",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:main",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/compare_2019_2024.py",
+      "target": "function:src/analysis/compare_2019_2024.py:load_results",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/compare_2019_2024.py",
+      "target": "function:src/analysis/compare_2019_2024.py:load_results",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/compare_2019_2024.py",
+      "target": "function:src/analysis/compare_2019_2024.py:add_comparison_key",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/compare_2019_2024.py",
+      "target": "function:src/analysis/compare_2019_2024.py:add_comparison_key",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/compare_2019_2024.py",
+      "target": "function:src/analysis/compare_2019_2024.py:build_unmatched_constituencies",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/compare_2019_2024.py",
+      "target": "function:src/analysis/compare_2019_2024.py:build_unmatched_constituencies",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/compare_2019_2024.py",
+      "target": "function:src/analysis/compare_2019_2024.py:build_winner_comparison",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/compare_2019_2024.py",
+      "target": "function:src/analysis/compare_2019_2024.py:build_winner_comparison",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/compare_2019_2024.py",
+      "target": "function:src/analysis/compare_2019_2024.py:build_party_swing_table",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/compare_2019_2024.py",
+      "target": "function:src/analysis/compare_2019_2024.py:build_party_swing_table",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/compare_2019_2024.py",
+      "target": "function:src/analysis/compare_2019_2024.py:build_state_swing_summary",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/compare_2019_2024.py",
+      "target": "function:src/analysis/compare_2019_2024.py:build_state_swing_summary",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/compare_2019_2024.py",
+      "target": "function:src/analysis/compare_2019_2024.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/analysis/compare_2019_2024.py",
+      "target": "function:src/analysis/compare_2019_2024.py:main",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:load_state_party_swings",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:load_state_party_swings",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:apply_zero_sum_swing",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:apply_zero_sum_swing",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:load_data",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:load_data",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:add_alliances",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:add_alliances",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:simulate",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:simulate",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:build_actual_winners",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:build_actual_winners",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:build_flip_report",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:build_flip_report",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:build_national_projection",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:build_national_projection",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:build_state_projection",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:build_state_projection",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:build_battlegrounds",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:build_battlegrounds",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:save_outputs",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:save_outputs",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/simulation/election_simulator_v1.py",
+      "target": "function:src/simulation/election_simulator_v1.py:main",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/visualization/build_visualizer_data.py",
+      "target": "function:src/visualization/build_visualizer_data.py:clean_json_value",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/visualization/build_visualizer_data.py",
+      "target": "function:src/visualization/build_visualizer_data.py:clean_json_value",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/visualization/build_visualizer_data.py",
+      "target": "function:src/visualization/build_visualizer_data.py:records",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/visualization/build_visualizer_data.py",
+      "target": "function:src/visualization/build_visualizer_data.py:records",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/visualization/build_visualizer_data.py",
+      "target": "function:src/visualization/build_visualizer_data.py:name_key",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/visualization/build_visualizer_data.py",
+      "target": "function:src/visualization/build_visualizer_data.py:name_key",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/visualization/build_visualizer_data.py",
+      "target": "function:src/visualization/build_visualizer_data.py:canonical_state_for_district",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/visualization/build_visualizer_data.py",
+      "target": "function:src/visualization/build_visualizer_data.py:canonical_state_for_district",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/visualization/build_visualizer_data.py",
+      "target": "function:src/visualization/build_visualizer_data.py:add_state_grid",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/visualization/build_visualizer_data.py",
+      "target": "function:src/visualization/build_visualizer_data.py:add_state_grid",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/visualization/build_visualizer_data.py",
+      "target": "function:src/visualization/build_visualizer_data.py:build_field_catalog",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/visualization/build_visualizer_data.py",
+      "target": "function:src/visualization/build_visualizer_data.py:build_field_catalog",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/visualization/build_visualizer_data.py",
+      "target": "function:src/visualization/build_visualizer_data.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/visualization/build_visualizer_data.py",
+      "target": "function:src/visualization/build_visualizer_data.py:main",
+      "type": "exports",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:visualizer/app.js",
+      "target": "function:visualizer/app.js:colorFor",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:visualizer/app.js",
+      "target": "function:visualizer/app.js:initControls",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:visualizer/app.js",
+      "target": "function:visualizer/app.js:renderLegend",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:visualizer/app.js",
+      "target": "function:visualizer/app.js:renderMap",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:visualizer/app.js",
+      "target": "function:visualizer/app.js:renderStateSummary",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:visualizer/app.js",
+      "target": "function:visualizer/app.js:renderCoverage",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:visualizer/app.js",
+      "target": "function:visualizer/app.js:renderTable",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:visualizer/app.js",
+      "target": "function:visualizer/app.js:renderDistricts",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:visualizer/app.js",
+      "target": "function:visualizer/app.js:renderParties",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:visualizer/app.js",
+      "target": "function:visualizer/app.js:renderConstituencies",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:visualizer/app.js",
+      "target": "function:visualizer/app.js:renderDhsMap",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:visualizer/app.js",
+      "target": "function:visualizer/app.js:render",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:visualizer/app.js",
+      "target": "function:visualizer/app.js:loadDhsClusters",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:visualizer/app.js",
+      "target": "function:visualizer/app.js:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "function:src/analysis/build_constituency_volatality.py:build_volatility_table",
+      "target": "function:src/analysis/build_constituency_volatality.py:build_party_swing_features",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/build_constituency_volatality.py:main",
+      "target": "function:src/analysis/build_constituency_volatality.py:load_data",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/build_constituency_volatality.py:main",
+      "target": "function:src/analysis/build_constituency_volatality.py:build_volatility_table",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/build_state_election_demographic_analysis.py:build_demographic_lookup",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:weighted_average",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/build_state_election_demographic_analysis.py:main",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:load_inputs",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/build_state_election_demographic_analysis.py:main",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:add_alliance_columns",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/build_state_election_demographic_analysis.py:main",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:build_state_outcomes",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/build_state_election_demographic_analysis.py:main",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:build_state_party_swings",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/build_state_election_demographic_analysis.py:main",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:add_key_party_swing_columns",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/build_state_election_demographic_analysis.py:main",
+      "target": "function:src/analysis/build_state_election_demographic_analysis.py:build_demographic_lookup",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/compare_2019_2024.py:main",
+      "target": "function:src/analysis/compare_2019_2024.py:load_results",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/compare_2019_2024.py:main",
+      "target": "function:src/analysis/compare_2019_2024.py:add_comparison_key",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/compare_2019_2024.py:main",
+      "target": "function:src/analysis/compare_2019_2024.py:build_winner_comparison",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/compare_2019_2024.py:main",
+      "target": "function:src/analysis/compare_2019_2024.py:build_party_swing_table",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/compare_2019_2024.py:main",
+      "target": "function:src/analysis/compare_2019_2024.py:build_state_swing_summary",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/analysis/compare_2019_2024.py:main",
+      "target": "function:src/analysis/compare_2019_2024.py:build_unmatched_constituencies",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/simulation/election_simulator_v1.py:load_data",
+      "target": "function:src/simulation/election_simulator_v1.py:load_state_party_swings",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/simulation/election_simulator_v1.py:main",
+      "target": "function:src/simulation/election_simulator_v1.py:load_data",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/simulation/election_simulator_v1.py:main",
+      "target": "function:src/simulation/election_simulator_v1.py:add_alliances",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/simulation/election_simulator_v1.py:main",
+      "target": "function:src/simulation/election_simulator_v1.py:simulate",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/simulation/election_simulator_v1.py:main",
+      "target": "function:src/simulation/election_simulator_v1.py:build_actual_winners",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/simulation/election_simulator_v1.py:main",
+      "target": "function:src/simulation/election_simulator_v1.py:build_flip_report",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/simulation/election_simulator_v1.py:main",
+      "target": "function:src/simulation/election_simulator_v1.py:build_national_projection",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/simulation/election_simulator_v1.py:main",
+      "target": "function:src/simulation/election_simulator_v1.py:build_state_projection",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/simulation/election_simulator_v1.py:main",
+      "target": "function:src/simulation/election_simulator_v1.py:build_battlegrounds",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/simulation/election_simulator_v1.py:main",
+      "target": "function:src/simulation/election_simulator_v1.py:save_outputs",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/visualization/build_visualizer_data.py:records",
+      "target": "function:src/visualization/build_visualizer_data.py:clean_json_value",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/visualization/build_visualizer_data.py:canonical_state_for_district",
+      "target": "function:src/visualization/build_visualizer_data.py:name_key",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/visualization/build_visualizer_data.py:main",
+      "target": "function:src/visualization/build_visualizer_data.py:add_state_grid",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/visualization/build_visualizer_data.py:main",
+      "target": "function:src/visualization/build_visualizer_data.py:canonical_state_for_district",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/visualization/build_visualizer_data.py:main",
+      "target": "function:src/visualization/build_visualizer_data.py:build_field_catalog",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:src/visualization/build_visualizer_data.py:main",
+      "target": "function:src/visualization/build_visualizer_data.py:records",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:initControls",
+      "target": "function:visualizer/app.js:render",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:initControls",
+      "target": "function:visualizer/app.js:renderDhsMap",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:renderMap",
+      "target": "function:visualizer/app.js:colorFor",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:renderMap",
+      "target": "function:visualizer/app.js:render",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:renderMap",
+      "target": "function:visualizer/app.js:renderTable",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:renderDistricts",
+      "target": "function:visualizer/app.js:renderTable",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:renderParties",
+      "target": "function:visualizer/app.js:renderTable",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:renderConstituencies",
+      "target": "function:visualizer/app.js:renderTable",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:render",
+      "target": "function:visualizer/app.js:renderLegend",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:render",
+      "target": "function:visualizer/app.js:renderMap",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:render",
+      "target": "function:visualizer/app.js:renderStateSummary",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:render",
+      "target": "function:visualizer/app.js:renderCoverage",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:render",
+      "target": "function:visualizer/app.js:renderDistricts",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:render",
+      "target": "function:visualizer/app.js:renderParties",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:render",
+      "target": "function:visualizer/app.js:renderConstituencies",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:render",
+      "target": "function:visualizer/app.js:renderDhsMap",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:main",
+      "target": "function:visualizer/app.js:loadDhsClusters",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:main",
+      "target": "function:visualizer/app.js:initControls",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "function:visualizer/app.js:main",
+      "target": "function:visualizer/app.js:render",
+      "type": "calls",
+      "direction": "forward",
+      "weight": 0.8
+    },
+    {
+      "source": "file:src/analysis/compare_2019_2024.py",
+      "target": "file:src/analysis/build_constituency_volatality.py",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "file:src/analysis/build_constituency_volatality.py",
+      "target": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "target": "file:src/visualization/build_visualizer_data.py",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "file:src/analysis/build_constituency_volatality.py",
+      "target": "file:src/simulation/election_simulator_v1.py",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "file:src/visualization/build_visualizer_data.py",
+      "target": "file:visualizer/app.js",
+      "type": "depends_on",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "document:README.md",
+      "target": "document:docs/PROJECT_GUIDE.md",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "document:docs/PROJECT_GUIDE.md",
+      "target": "file:src/analysis/compare_2019_2024.py",
+      "type": "documents",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "document:docs/PROJECT_GUIDE.md",
+      "target": "file:src/simulation/election_simulator_v1.py",
+      "type": "documents",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "document:docs/PROJECT_GUIDE.md",
+      "target": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "type": "documents",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "document:docs/PROJECT_GUIDE.md",
+      "target": "file:src/analysis/build_constituency_volatality.py",
+      "type": "documents",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "document:README.md",
+      "target": "file:src/analysis/compare_2019_2024.py",
+      "type": "documents",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "document:README.md",
+      "target": "file:src/simulation/election_simulator_v1.py",
+      "type": "documents",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "document:README.md",
+      "target": "file:src/visualization/build_visualizer_data.py",
+      "type": "documents",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "document:README.md",
+      "target": "file:visualizer/app.js",
+      "type": "documents",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "document:README.md",
+      "target": "document:src/demographics/README.md",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "document:src/demographics/README.md",
+      "target": "file:src/analysis/build_state_election_demographic_analysis.py",
+      "type": "documents",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "document:src/demographics/dhs/README.md",
+      "target": "file:visualizer/app.js",
+      "type": "documents",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "document:src/demographics/dhs/README.md",
+      "target": "document:src/demographics/README.md",
+      "type": "related",
+      "direction": "forward",
+      "weight": 0.5
+    },
+    {
+      "source": "config:requirements.txt",
+      "target": "file:src/analysis/compare_2019_2024.py",
+      "type": "configures",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "config:requirements.txt",
+      "target": "file:src/simulation/election_simulator_v1.py",
+      "type": "configures",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "config:requirements.txt",
+      "target": "file:src/visualization/build_visualizer_data.py",
+      "type": "configures",
+      "direction": "forward",
+      "weight": 0.6
+    },
+    {
+      "source": "config:requirements.txt",
+      "target": "file:visualizer/app.js",
+      "type": "configures",
+      "direction": "forward",
+      "weight": 0.6
+    }
+  ]
+}

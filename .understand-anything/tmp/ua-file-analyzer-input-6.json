@@ -1,0 +1,13 @@
+{
+  "projectRoot": "/Users/maadhavangupta/Downloads/CS/Projects/Election-simulator",
+  "batchFiles": [
+    {"path": "visualizer/README.md", "language": "markdown", "sizeLines": 59, "fileCategory": "docs"},
+    {"path": "visualizer/index.html", "language": "html", "sizeLines": 136, "fileCategory": "markup"},
+    {"path": "visualizer/styles.css", "language": "css", "sizeLines": 413, "fileCategory": "markup"}
+  ],
+  "batchImportData": {
+    "visualizer/README.md": [],
+    "visualizer/index.html": [],
+    "visualizer/styles.css": []
+  }
+}

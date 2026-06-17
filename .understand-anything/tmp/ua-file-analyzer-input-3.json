@@ -1,0 +1,21 @@
+{
+  "projectRoot": "/Users/maadhavangupta/Downloads/CS/Projects/Election-simulator",
+  "batchFiles": [
+    {"path": "src/demographics/audit_demographic_coverage.py", "language": "python", "sizeLines": 230, "fileCategory": "code"},
+    {"path": "src/demographics/build_demographic_catalog.py", "language": "python", "sizeLines": 62, "fileCategory": "code"},
+    {"path": "src/demographics/build_state_demographic_master.py", "language": "python", "sizeLines": 47, "fileCategory": "code"},
+    {"path": "src/demographics/clean_census_district_2011.py", "language": "python", "sizeLines": 354, "fileCategory": "code"},
+    {"path": "src/demographics/clean_census_state_2011.py", "language": "python", "sizeLines": 591, "fileCategory": "code"},
+    {"path": "src/demographics/demographic_catalog.py", "language": "python", "sizeLines": 481, "fileCategory": "code"},
+    {"path": "src/demographics/merge_nfhs.py", "language": "python", "sizeLines": 66, "fileCategory": "code"}
+  ],
+  "batchImportData": {
+    "src/demographics/audit_demographic_coverage.py": ["src/config.py", "src/demographics/demographic_catalog.py"],
+    "src/demographics/build_demographic_catalog.py": ["src/config.py", "src/demographics/demographic_catalog.py"],
+    "src/demographics/build_state_demographic_master.py": ["src/config.py", "src/demographics/demographic_catalog.py"],
+    "src/demographics/clean_census_district_2011.py": ["src/config.py", "src/demographics/demographic_catalog.py"],
+    "src/demographics/clean_census_state_2011.py": ["src/config.py", "src/demographics/demographic_catalog.py"],
+    "src/demographics/demographic_catalog.py": [],
+    "src/demographics/merge_nfhs.py": ["src/config.py", "src/demographics/audit_demographic_coverage.py", "src/demographics/demographic_catalog.py"]
+  }
+}

@@ -1,0 +1,11 @@
+col_0,col_1,N,(%),Valid (%)
+Valid,0: Non Literate,6076,25.1,25.7
+,1: Below Primary,1641,6.8,6.9
+,2: Primary pass/ Middle fail,2887,11.9,12.2
+,3: Middle pass/Matric Fail,2823,11.6,11.9
+,4: Matric,3497,14.4,14.8
+,5: Intermediate/ College no degree,3071,12.7,13.0
+,6: Graduate or equivalent,2704,11.2,11.4
+,7: Post Graduate,742,3.1,3.1
+,8: Professional Degrees and Higher Research,235,1.0,1.0
+,Total,23675,97.7,100.0

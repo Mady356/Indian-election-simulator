@@ -1,0 +1,10 @@
+col_0,col_1,N,(%),Valid (%)
+Valid,1: Very important,32,4.9,20.7
+,2: Somewhat important,73,11.3,47.9
+,3: Not much important,25,3.8,16.1
+,4: Not at all important,8,1.2,5.1
+,7: Can't say,13,2.0,8.3
+,8: No response,3,.4,1.8
+,Total,153,23.6,100.0
+Missing,9: N.A.,495,76.4,
+Total,,648,100.0,

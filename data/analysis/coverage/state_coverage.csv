@@ -1,0 +1,37 @@
+state,total_election_constituencies,constituencies_with_nfhs5_any,constituencies_with_nfhs5_coverage_share,mean_nfhs5_coverage_share,constituencies_with_change_features,missing_count,coverage_pct
+Tripura,2,2,2,0.8696,2,0,100.0
+Goa,2,2,2,1.0,2,0,100.0
+Meghalaya,2,2,2,1.0,2,0,100.0
+Chhattisgarh,11,10,10,0.96074,0,1,90.91
+Kerala,20,17,17,1.0,17,3,85.0
+Madhya Pradesh,29,24,25,0.9106839999999999,24,5,82.76
+Telangana,17,14,14,1.0,14,3,82.35
+Jharkhand,14,11,12,0.7313000000000001,0,3,78.57
+Karnataka,28,21,23,0.8951913043478261,18,7,75.0
+Punjab,13,8,13,0.40276923076923077,7,5,61.54
+Arunachal Pradesh,2,1,1,0.6896,1,1,50.0
+Gujarat,25,12,23,0.3949260869565217,12,13,48.0
+Bihar,40,19,37,0.41216216216216217,19,21,47.5
+Rajasthan,25,11,11,1.0,10,14,44.0
+Haryana,10,4,9,0.4073888888888889,4,6,40.0
+Uttar Pradesh,80,25,54,0.2617222222222222,25,55,31.25
+Maharashtra,48,13,13,1.0,11,35,27.08
+Andhra Pradesh,25,1,1,1.0,1,24,4.0
+Puducherry,1,0,0,,0,1,0.0
+Tamil Nadu,39,0,0,,0,39,0.0
+Sikkim,1,0,0,,0,1,0.0
+Nagaland,1,0,0,,0,1,0.0
+Uttarakhand,5,0,3,0.0,0,5,0.0
+Odisha,21,0,0,,0,21,0.0
+Andaman & Nicobar Islands,1,0,0,,0,1,0.0
+NCT OF Delhi,7,0,0,,0,7,0.0
+Mizoram,1,0,0,,0,1,0.0
+Manipur,2,0,0,,0,2,0.0
+Lakshadweep,1,0,0,,0,1,0.0
+Ladakh,1,0,0,,0,1,0.0
+Jammu and Kashmir,5,0,0,,0,5,0.0
+Himachal Pradesh,4,0,0,,0,4,0.0
+Dadra & Nagar Haveli and Daman & Diu,2,0,0,,0,2,0.0
+Chandigarh,1,0,0,,0,1,0.0
+Assam,14,0,8,0.0,0,14,0.0
+West Bengal,42,0,31,0.0,0,42,0.0

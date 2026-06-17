@@ -1,0 +1,30 @@
+col_0,col_1,N,(%),Valid (%)
+,07: Haryana,87,.4,1.3
+,08: Himachal Pradesh,29,.1,.5
+,09: Jammu & Kashmir,79,.3,1.2
+,10: Karnataka,235,1.0,3.6
+,11: Kerala,163,.7,2.5
+,12: Madhya Pradesh,166,.7,2.6
+,13: Maharashtra,774,3.2,12.0
+,14: Manipur,14,.1,.2
+,15: Meghalaya,11,.0,.2
+,16: Mizoram,8,.0,.1
+,17: Nagaland,8,.0,.1
+,18: Odisha,261,1.1,4.0
+,19: Punjab,77,.3,1.2
+,20: Rajasthan,381,1.6,5.9
+,21: Sikkim,51,.2,.8
+,22: Tamil Nadu,270,1.1,4.2
+,24: Uttar Pradesh,502,2.1,7.8
+,25: West Bengal,264,1.1,4.1
+,26: Chandigarh,2,.0,.0
+,27: Delhi,30,.1,.5
+,28: Puducherry,2,.0,.0
+,29: Jharkhand,72,.3,1.1
+,30: Chhattisgarh,79,.3,1.2
+,31: Uttarakhand,53,.2,.8
+,32: Telangana,126,.5,2.0
+,98: No response,1316,5.4,20.4
+,Total,6456,26.6,100.0
+Missing,99: N.A.,17779,73.4,
+Total,,24235,100.0,

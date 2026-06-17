@@ -1,0 +1,901 @@
+{
+  "scriptCompleted": true,
+  "filesAnalyzed": 5,
+  "filesSkipped": [],
+  "results": [
+    {
+      "path": "src/demographics/audit_dhs_downloads.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 6,
+      "nonEmptyLines": 4,
+      "metrics": {
+        "importCount": 1,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/demographics/dhs/audit_dhs_downloads.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 95,
+      "nonEmptyLines": 77,
+      "functions": [
+        {
+          "name": "_list_zip_members",
+          "startLine": 26,
+          "endLine": 41,
+          "params": [
+            "path"
+          ]
+        },
+        {
+          "name": "audit_download",
+          "startLine": 44,
+          "endLine": 69,
+          "params": [
+            "path"
+          ]
+        },
+        {
+          "name": "main",
+          "startLine": 72,
+          "endLine": 91,
+          "params": []
+        }
+      ],
+      "exports": [
+        {
+          "name": "_list_zip_members",
+          "line": 26,
+          "isDefault": false
+        },
+        {
+          "name": "audit_download",
+          "line": 44,
+          "isDefault": false
+        },
+        {
+          "name": "main",
+          "line": 72,
+          "isDefault": false
+        }
+      ],
+      "callGraph": [
+        {
+          "caller": "_list_zip_members",
+          "callee": "path.suffix.lower",
+          "lineNumber": 27
+        },
+        {
+          "caller": "_list_zip_members",
+          "callee": "zipfile.ZipFile",
+          "lineNumber": 30
+        },
+        {
+          "caller": "_list_zip_members",
+          "callee": "zf.namelist",
+          "lineNumber": 33
+        },
+        {
+          "caller": "_list_zip_members",
+          "callee": "n.endswith",
+          "lineNumber": 34
+        },
+        {
+          "caller": "_list_zip_members",
+          "callee": "Path(n).suffix.lower",
+          "lineNumber": 35
+        },
+        {
+          "caller": "_list_zip_members",
+          "callee": "Path",
+          "lineNumber": 35
+        },
+        {
+          "caller": "_list_zip_members",
+          "callee": "\", \".join",
+          "lineNumber": 37
+        },
+        {
+          "caller": "_list_zip_members",
+          "callee": "sorted",
+          "lineNumber": 37
+        },
+        {
+          "caller": "_list_zip_members",
+          "callee": "str",
+          "lineNumber": 41
+        },
+        {
+          "caller": "audit_download",
+          "callee": "parse_dhs_filename",
+          "lineNumber": 45
+        },
+        {
+          "caller": "audit_download",
+          "callee": "_list_zip_members",
+          "lineNumber": 46
+        },
+        {
+          "caller": "audit_download",
+          "callee": "path.suffix.lower",
+          "lineNumber": 48
+        },
+        {
+          "caller": "audit_download",
+          "callee": "round",
+          "lineNumber": 64
+        },
+        {
+          "caller": "audit_download",
+          "callee": "path.stat",
+          "lineNumber": 64
+        },
+        {
+          "caller": "audit_download",
+          "callee": "str",
+          "lineNumber": 68
+        },
+        {
+          "caller": "main",
+          "callee": "DEMOGRAPHICS_OUTPUTS_DIR.mkdir",
+          "lineNumber": 73
+        },
+        {
+          "caller": "main",
+          "callee": "sorted",
+          "lineNumber": 74
+        },
+        {
+          "caller": "main",
+          "callee": "DHS_DOWNLOADS_DIR.iterdir",
+          "lineNumber": 75
+        },
+        {
+          "caller": "main",
+          "callee": "p.is_file",
+          "lineNumber": 75
+        },
+        {
+          "caller": "main",
+          "callee": "p.suffix.lower",
+          "lineNumber": 75
+        },
+        {
+          "caller": "main",
+          "callee": "p.name.lower",
+          "lineNumber": 76
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 79
+        },
+        {
+          "caller": "main",
+          "callee": "pd.DataFrame",
+          "lineNumber": 82
+        },
+        {
+          "caller": "main",
+          "callee": "audit_download",
+          "lineNumber": 82
+        },
+        {
+          "caller": "main",
+          "callee": "df.to_csv",
+          "lineNumber": 83
+        },
+        {
+          "caller": "main",
+          "callee": "df.to_csv",
+          "lineNumber": 84
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 86
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 87
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 88
+        },
+        {
+          "caller": "main",
+          "callee": "len",
+          "lineNumber": 88
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 89
+        },
+        {
+          "caller": "main",
+          "callee": "(df['file_format_code'] == 'DT').sum",
+          "lineNumber": 89
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 90
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 91
+        }
+      ],
+      "metrics": {
+        "importCount": 2,
+        "exportCount": 3,
+        "functionCount": 3,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/demographics/dhs/build_dhs_geospatial_layer.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 142,
+      "nonEmptyLines": 118,
+      "functions": [
+        {
+          "name": "extract_ge_shapefile",
+          "startLine": 26,
+          "endLine": 40,
+          "params": [
+            "zip_path",
+            "out_dir"
+          ]
+        },
+        {
+          "name": "anonymize_cluster_id",
+          "startLine": 43,
+          "endLine": 45,
+          "params": [
+            "cluster_id",
+            "survey"
+          ]
+        },
+        {
+          "name": "build_from_shapefile",
+          "startLine": 48,
+          "endLine": 75,
+          "params": [
+            "shp_path",
+            "survey",
+            "version_code",
+            "source_file"
+          ]
+        },
+        {
+          "name": "export_public",
+          "startLine": 78,
+          "endLine": 98,
+          "params": [
+            "df"
+          ]
+        },
+        {
+          "name": "main",
+          "startLine": 101,
+          "endLine": 138,
+          "params": []
+        }
+      ],
+      "exports": [
+        {
+          "name": "extract_ge_shapefile",
+          "line": 26,
+          "isDefault": false
+        },
+        {
+          "name": "anonymize_cluster_id",
+          "line": 43,
+          "isDefault": false
+        },
+        {
+          "name": "build_from_shapefile",
+          "line": 48,
+          "isDefault": false
+        },
+        {
+          "name": "export_public",
+          "line": 78,
+          "isDefault": false
+        },
+        {
+          "name": "main",
+          "line": 101,
+          "isDefault": false
+        }
+      ],
+      "callGraph": [
+        {
+          "caller": "extract_ge_shapefile",
+          "callee": "out_dir.mkdir",
+          "lineNumber": 27
+        },
+        {
+          "caller": "extract_ge_shapefile",
+          "callee": "zip_path.stem.upper().replace",
+          "lineNumber": 28
+        },
+        {
+          "caller": "extract_ge_shapefile",
+          "callee": "zip_path.stem.upper",
+          "lineNumber": 28
+        },
+        {
+          "caller": "extract_ge_shapefile",
+          "callee": "shp.exists",
+          "lineNumber": 30
+        },
+        {
+          "caller": "extract_ge_shapefile",
+          "callee": "zipfile.ZipFile",
+          "lineNumber": 32
+        },
+        {
+          "caller": "extract_ge_shapefile",
+          "callee": "zf.namelist",
+          "lineNumber": 33
+        },
+        {
+          "caller": "extract_ge_shapefile",
+          "callee": "name.endswith",
+          "lineNumber": 34
+        },
+        {
+          "caller": "extract_ge_shapefile",
+          "callee": "Path",
+          "lineNumber": 36
+        },
+        {
+          "caller": "extract_ge_shapefile",
+          "callee": "target.exists",
+          "lineNumber": 37
+        },
+        {
+          "caller": "extract_ge_shapefile",
+          "callee": "zf.open",
+          "lineNumber": 38
+        },
+        {
+          "caller": "extract_ge_shapefile",
+          "callee": "open",
+          "lineNumber": 38
+        },
+        {
+          "caller": "extract_ge_shapefile",
+          "callee": "dst.write",
+          "lineNumber": 39
+        },
+        {
+          "caller": "extract_ge_shapefile",
+          "callee": "src.read",
+          "lineNumber": 39
+        },
+        {
+          "caller": "extract_ge_shapefile",
+          "callee": "shp.exists",
+          "lineNumber": 40
+        },
+        {
+          "caller": "anonymize_cluster_id",
+          "callee": "hashlib.sha256(f\"{survey}:{cluster_id}\".encode()).hexdigest",
+          "lineNumber": 44
+        },
+        {
+          "caller": "anonymize_cluster_id",
+          "callee": "hashlib.sha256",
+          "lineNumber": 44
+        },
+        {
+          "caller": "anonymize_cluster_id",
+          "callee": "f\"{survey}:{cluster_id}\".encode",
+          "lineNumber": 44
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "shapefile.Reader",
+          "lineNumber": 49
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "str",
+          "lineNumber": 49
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "sf.records",
+          "lineNumber": 52
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "dict",
+          "lineNumber": 53
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "zip",
+          "lineNumber": 53
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "float",
+          "lineNumber": 54
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "d.get",
+          "lineNumber": 54
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "d.get",
+          "lineNumber": 54
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "float",
+          "lineNumber": 55
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "d.get",
+          "lineNumber": 55
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "d.get",
+          "lineNumber": 55
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "int",
+          "lineNumber": 58
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "float",
+          "lineNumber": 58
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "str(d.get(\"URBAN_RURA\", \"\")).strip",
+          "lineNumber": 59
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "str",
+          "lineNumber": 59
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "d.get",
+          "lineNumber": 59
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "rows.append",
+          "lineNumber": 60
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "str(d.get(\"ADM1NAME\", \"\")).strip",
+          "lineNumber": 65
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "str",
+          "lineNumber": 65
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "d.get",
+          "lineNumber": 65
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "str(d.get(\"DHSREGNA\", \"\")).strip",
+          "lineNumber": 66
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "str",
+          "lineNumber": 66
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "d.get",
+          "lineNumber": 66
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "urban.upper().startswith",
+          "lineNumber": 69
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "urban.upper",
+          "lineNumber": 69
+        },
+        {
+          "caller": "build_from_shapefile",
+          "callee": "pd.DataFrame",
+          "lineNumber": 75
+        },
+        {
+          "caller": "export_public",
+          "callee": "df.copy",
+          "lineNumber": 79
+        },
+        {
+          "caller": "export_public",
+          "callee": "pub.apply",
+          "lineNumber": 80
+        },
+        {
+          "caller": "export_public",
+          "callee": "anonymize_cluster_id",
+          "lineNumber": 81
+        },
+        {
+          "caller": "export_public",
+          "callee": "int",
+          "lineNumber": 81
+        },
+        {
+          "caller": "export_public",
+          "callee": "str",
+          "lineNumber": 81
+        },
+        {
+          "caller": "export_public",
+          "callee": "pub[\"latitude\"].round",
+          "lineNumber": 84
+        },
+        {
+          "caller": "export_public",
+          "callee": "pub[\"longitude\"].round",
+          "lineNumber": 85
+        },
+        {
+          "caller": "main",
+          "callee": "sorted",
+          "lineNumber": 103
+        },
+        {
+          "caller": "main",
+          "callee": "DHS_DOWNLOADS_DIR.glob",
+          "lineNumber": 103
+        },
+        {
+          "caller": "main",
+          "callee": "parse_dhs_filename",
+          "lineNumber": 104
+        },
+        {
+          "caller": "main",
+          "callee": "ge_zips.append",
+          "lineNumber": 106
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 109
+        },
+        {
+          "caller": "main",
+          "callee": "zip_path.stem.upper",
+          "lineNumber": 114
+        },
+        {
+          "caller": "main",
+          "callee": "extract_ge_shapefile",
+          "lineNumber": 115
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 117
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 119
+        },
+        {
+          "caller": "main",
+          "callee": "build_from_shapefile",
+          "lineNumber": 120
+        },
+        {
+          "caller": "main",
+          "callee": "frames.append",
+          "lineNumber": 121
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 122
+        },
+        {
+          "caller": "main",
+          "callee": "len",
+          "lineNumber": 122
+        },
+        {
+          "caller": "main",
+          "callee": "pd.concat",
+          "lineNumber": 127
+        },
+        {
+          "caller": "main",
+          "callee": "DHS_CLUSTER_GEOSPATIAL.parent.mkdir",
+          "lineNumber": 128
+        },
+        {
+          "caller": "main",
+          "callee": "df.to_csv",
+          "lineNumber": 129
+        },
+        {
+          "caller": "main",
+          "callee": "export_public",
+          "lineNumber": 131
+        },
+        {
+          "caller": "main",
+          "callee": "DHS_GEOSPATIAL_PUBLIC.parent.mkdir",
+          "lineNumber": 132
+        },
+        {
+          "caller": "main",
+          "callee": "pub.to_csv",
+          "lineNumber": 133
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 135
+        },
+        {
+          "caller": "main",
+          "callee": "len",
+          "lineNumber": 135
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 136
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 137
+        },
+        {
+          "caller": "main",
+          "callee": "df['state_or_region'].nunique",
+          "lineNumber": 137
+        },
+        {
+          "caller": "main",
+          "callee": "print",
+          "lineNumber": 138
+        },
+        {
+          "caller": "main",
+          "callee": "df['district_if_available'].nunique",
+          "lineNumber": 138
+        }
+      ],
+      "metrics": {
+        "importCount": 3,
+        "exportCount": 5,
+        "functionCount": 5,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/demographics/dhs/filename_parser.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 11,
+      "nonEmptyLines": 10,
+      "metrics": {
+        "importCount": 1,
+        "exportCount": 0,
+        "functionCount": 0,
+        "classCount": 0
+      }
+    },
+    {
+      "path": "src/demographics/dhs_filename_parser.py",
+      "language": "python",
+      "fileCategory": "code",
+      "totalLines": 185,
+      "nonEmptyLines": 165,
+      "functions": [
+        {
+          "name": "_describe_dhs_phase",
+          "startLine": 104,
+          "endLine": 120,
+          "params": [
+            "version_code"
+          ]
+        },
+        {
+          "name": "describe_survey",
+          "startLine": 123,
+          "endLine": 129,
+          "params": [
+            "geo_code",
+            "version_code"
+          ]
+        },
+        {
+          "name": "parse_dhs_filename",
+          "startLine": 132,
+          "endLine": 185,
+          "params": [
+            "filename"
+          ]
+        }
+      ],
+      "classes": [
+        {
+          "name": "DhsFilenameInfo",
+          "startLine": 90,
+          "endLine": 101,
+          "methods": [],
+          "properties": [
+            "filename",
+            "geo_code",
+            "state",
+            "dataset_type_code",
+            "dataset_type",
+            "version_code",
+            "survey",
+            "file_format_code",
+            "file_format",
+            "parse_ok",
+            "parse_note"
+          ]
+        }
+      ],
+      "exports": [
+        {
+          "name": "DhsFilenameInfo",
+          "line": 89,
+          "isDefault": false
+        },
+        {
+          "name": "_describe_dhs_phase",
+          "line": 104,
+          "isDefault": false
+        },
+        {
+          "name": "describe_survey",
+          "line": 123,
+          "isDefault": false
+        },
+        {
+          "name": "parse_dhs_filename",
+          "line": 132,
+          "isDefault": false
+        }
+      ],
+      "callGraph": [
+        {
+          "caller": "_describe_dhs_phase",
+          "callee": "len",
+          "lineNumber": 105
+        },
+        {
+          "caller": "_describe_dhs_phase",
+          "callee": "phase_char.isdigit",
+          "lineNumber": 108
+        },
+        {
+          "caller": "_describe_dhs_phase",
+          "callee": "phase_names.get",
+          "lineNumber": 118
+        },
+        {
+          "caller": "describe_survey",
+          "callee": "_describe_dhs_phase",
+          "lineNumber": 128
+        },
+        {
+          "caller": "describe_survey",
+          "callee": "_describe_dhs_phase",
+          "lineNumber": 129
+        },
+        {
+          "caller": "parse_dhs_filename",
+          "callee": "Path(filename).stem.upper",
+          "lineNumber": 138
+        },
+        {
+          "caller": "parse_dhs_filename",
+          "callee": "Path",
+          "lineNumber": 138
+        },
+        {
+          "caller": "parse_dhs_filename",
+          "callee": "_DHS_STEM_RE.match",
+          "lineNumber": 139
+        },
+        {
+          "caller": "parse_dhs_filename",
+          "callee": "DhsFilenameInfo",
+          "lineNumber": 141
+        },
+        {
+          "caller": "parse_dhs_filename",
+          "callee": "match.groups",
+          "lineNumber": 155
+        },
+        {
+          "caller": "parse_dhs_filename",
+          "callee": "DhsFilenameInfo",
+          "lineNumber": 158
+        },
+        {
+          "caller": "parse_dhs_filename",
+          "callee": "INDIA_GEO_CODES.get",
+          "lineNumber": 161
+        },
+        {
+          "caller": "parse_dhs_filename",
+          "callee": "describe_survey",
+          "lineNumber": 165
+        },
+        {
+          "caller": "parse_dhs_filename",
+          "callee": "FILE_FORMATS.get",
+          "lineNumber": 167
+        },
+        {
+          "caller": "parse_dhs_filename",
+          "callee": "INDIA_GEO_CODES.get",
+          "lineNumber": 172
+        },
+        {
+          "caller": "parse_dhs_filename",
+          "callee": "DhsFilenameInfo",
+          "lineNumber": 173
+        },
+        {
+          "caller": "parse_dhs_filename",
+          "callee": "describe_survey",
+          "lineNumber": 180
+        },
+        {
+          "caller": "parse_dhs_filename",
+          "callee": "FILE_FORMATS.get",
+          "lineNumber": 182
+        }
+      ],
+      "metrics": {
+        "importCount": 0,
+        "exportCount": 4,
+        "functionCount": 3,
+        "classCount": 1
+      }
+    }
+  ]
+}

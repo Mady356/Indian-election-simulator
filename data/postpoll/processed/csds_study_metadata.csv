@@ -1,0 +1,5 @@
+year,poll_type,source,raw_report_file,method_note_file,questionnaire_file,sample_size,states_covered,constituencies_covered,is_weighted_report,notes
+2024,post_poll,CSDS-Lokniti National Election Study,post-poll/2024/postpoll_study_2024.pdf,post-poll/2024/postpoll_methodnote_2024.pdf,post-poll/2024/2024_questionnaire_post_poll.pdf,19663,23,191,yes,
+2024,pre_poll,CSDS-Lokniti National Election Study,pre-poll/2024/prepoll_report_2024.pdf,pre-poll/2024/prepoll_method_2024.pdf,pre-poll/2024/prepoll_questionnaire_2024.pdf,10019,19,100,yes,
+2019,post_poll,CSDS-Lokniti National Election Study,post-poll/2019/postpoll_results_2019.pdf,post-poll/2019/postpoll_method_2019.pdf,post-poll/2019/postpoll_question_2019.pdf,20000,26,208,yes,
+2019,pre_poll,CSDS-Lokniti National Election Study,pre-poll/2019/prepoll_2019_results.pdf,pre-poll/2019/prepoll_2019_method.pdf,pre-poll/2019/prepoll_2019_questionnaire.pdf,300,19,101,yes,

@@ -1,0 +1,1138 @@
+{
+  "nodes": [
+    {
+      "id": "file:src/demographics/audit_demographic_coverage.py",
+      "type": "file",
+      "name": "audit_demographic_coverage.py",
+      "filePath": "src/demographics/audit_demographic_coverage.py",
+      "summary": "Scans demographic raw and processed folders against the catalog master CSV and reports which variables have matching files and populated columns.",
+      "tags": [
+        "entry-point",
+        "validation",
+        "demographics",
+        "coverage-audit"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/audit_demographic_coverage.py:list_raw_files",
+      "type": "function",
+      "name": "list_raw_files",
+      "filePath": "src/demographics/audit_demographic_coverage.py",
+      "lineRange": [
+        46,
+        55
+      ],
+      "summary": "Recursively collects data files with supported extensions under given root directories.",
+      "tags": [
+        "demographics",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/audit_demographic_coverage.py:raw_roots_for_source",
+      "type": "function",
+      "name": "raw_roots_for_source",
+      "filePath": "src/demographics/audit_demographic_coverage.py",
+      "lineRange": [
+        58,
+        65
+      ],
+      "summary": "Resolves warehouse raw subdirectories and legacy Census paths for a catalog source id.",
+      "tags": [
+        "demographics",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/audit_demographic_coverage.py:match_raw_file",
+      "type": "function",
+      "name": "match_raw_file",
+      "filePath": "src/demographics/audit_demographic_coverage.py",
+      "lineRange": [
+        68,
+        76
+      ],
+      "summary": "Finds a raw file whose basename contains the expected catalog substring.",
+      "tags": [
+        "demographics",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/audit_demographic_coverage.py:list_processed_files",
+      "type": "function",
+      "name": "list_processed_files",
+      "filePath": "src/demographics/audit_demographic_coverage.py",
+      "lineRange": [
+        79,
+        86
+      ],
+      "summary": "Lists CSV and parquet files in the demographics processed directory.",
+      "tags": [
+        "demographics",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/audit_demographic_coverage.py:processed_column_ready",
+      "type": "function",
+      "name": "processed_column_ready",
+      "filePath": "src/demographics/audit_demographic_coverage.py",
+      "lineRange": [
+        89,
+        114
+      ],
+      "summary": "Checks whether a catalog column exists with non-null values in master or dedicated processed files.",
+      "tags": [
+        "demographics",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/audit_demographic_coverage.py:audit_variables",
+      "type": "function",
+      "name": "audit_variables",
+      "filePath": "src/demographics/audit_demographic_coverage.py",
+      "lineRange": [
+        117,
+        155
+      ],
+      "summary": "Enriches the variables dataframe with raw match flags, processed availability, and coverage status.",
+      "tags": [
+        "demographics",
+        "utility"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/audit_demographic_coverage.py:print_summary",
+      "type": "function",
+      "name": "print_summary",
+      "filePath": "src/demographics/audit_demographic_coverage.py",
+      "lineRange": [
+        158,
+        197
+      ],
+      "summary": "Prints coverage totals grouped by source and lists variables awaiting processing.",
+      "tags": [
+        "demographics",
+        "utility"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/audit_demographic_coverage.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/demographics/audit_demographic_coverage.py",
+      "lineRange": [
+        200,
+        226
+      ],
+      "summary": "CLI entry point orchestrating the script workflow.",
+      "tags": [
+        "demographics",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/demographics/build_demographic_catalog.py",
+      "type": "file",
+      "name": "build_demographic_catalog.py",
+      "filePath": "src/demographics/build_demographic_catalog.py",
+      "summary": "Exports in-code demographic variable and source definitions to CSV files under the demographics catalog directory.",
+      "tags": [
+        "entry-point",
+        "catalog",
+        "demographics",
+        "data-export"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/build_demographic_catalog.py:ensure_folders",
+      "type": "function",
+      "name": "ensure_folders",
+      "filePath": "src/demographics/build_demographic_catalog.py",
+      "lineRange": [
+        26,
+        38
+      ],
+      "summary": "Creates the demographic warehouse directory tree if missing.",
+      "tags": [
+        "demographics",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/build_demographic_catalog.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/demographics/build_demographic_catalog.py",
+      "lineRange": [
+        41,
+        58
+      ],
+      "summary": "CLI entry point orchestrating the script workflow.",
+      "tags": [
+        "demographics",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/demographics/build_state_demographic_master.py",
+      "type": "file",
+      "name": "build_state_demographic_master.py",
+      "filePath": "src/demographics/build_state_demographic_master.py",
+      "summary": "Creates an empty header-only state_demographics_master.csv template using the canonical column schema from the catalog.",
+      "tags": [
+        "entry-point",
+        "demographics",
+        "template",
+        "state-level"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/build_state_demographic_master.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/demographics/build_state_demographic_master.py",
+      "lineRange": [
+        29,
+        43
+      ],
+      "summary": "CLI entry point orchestrating the script workflow.",
+      "tags": [
+        "demographics",
+        "utility"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/demographics/clean_census_district_2011.py",
+      "type": "file",
+      "name": "clean_census_district_2011.py",
+      "filePath": "src/demographics/clean_census_district_2011.py",
+      "summary": "Cleans Census 2011 district PCA population data, rolls up post-2011 states (Telangana, Ladakh), and merges PCA metrics into the state master.",
+      "tags": [
+        "entry-point",
+        "census-2011",
+        "data-pipeline",
+        "district-level"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/demographics/clean_census_district_2011.py:clean_name",
+      "type": "function",
+      "name": "clean_name",
+      "filePath": "src/demographics/clean_census_district_2011.py",
+      "lineRange": [
+        101,
+        106
+      ],
+      "summary": "Normalizes geographic names to uppercase stripped strings.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_district_2011.py:find_raw_file",
+      "type": "function",
+      "name": "find_raw_file",
+      "filePath": "src/demographics/clean_census_district_2011.py",
+      "lineRange": [
+        109,
+        118
+      ],
+      "summary": "Locates the district population workbook under legacy Census folders.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_district_2011.py:ratio",
+      "type": "function",
+      "name": "ratio",
+      "filePath": "src/demographics/clean_census_district_2011.py",
+      "lineRange": [
+        121,
+        124
+      ],
+      "summary": "Computes safe percentage ratios from numeric numerator and denominator series.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_district_2011.py:load_pca",
+      "type": "function",
+      "name": "load_pca",
+      "filePath": "src/demographics/clean_census_district_2011.py",
+      "lineRange": [
+        127,
+        128
+      ],
+      "summary": "Reads the district PCA Excel sheet using the calamine engine.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_district_2011.py:build_district_table",
+      "type": "function",
+      "name": "build_district_table",
+      "filePath": "src/demographics/clean_census_district_2011.py",
+      "lineRange": [
+        131,
+        195
+      ],
+      "summary": "Transforms raw district PCA rows into a cleaned district-level demographics dataframe.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/clean_census_district_2011.py:assign_post_2011_state",
+      "type": "function",
+      "name": "assign_post_2011_state",
+      "filePath": "src/demographics/clean_census_district_2011.py",
+      "lineRange": [
+        198,
+        212
+      ],
+      "summary": "Maps 2011 districts to post-partition state labels for Telangana and Ladakh.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_district_2011.py:aggregate_group",
+      "type": "function",
+      "name": "aggregate_group",
+      "filePath": "src/demographics/clean_census_district_2011.py",
+      "lineRange": [
+        215,
+        245
+      ],
+      "summary": "Aggregates district metrics into population-weighted state-level totals for one state group.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/clean_census_district_2011.py:build_state_from_districts",
+      "type": "function",
+      "name": "build_state_from_districts",
+      "filePath": "src/demographics/clean_census_district_2011.py",
+      "lineRange": [
+        248,
+        257
+      ],
+      "summary": "Groups districts by post-2011 state and applies aggregate_group to build state rollups.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_district_2011.py:update_state_master",
+      "type": "function",
+      "name": "update_state_master",
+      "filePath": "src/demographics/clean_census_district_2011.py",
+      "lineRange": [
+        260,
+        295
+      ],
+      "summary": "Merges cleaned Census or district metrics into state_demographics_master.csv without inventing values.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/clean_census_district_2011.py:print_validation",
+      "type": "function",
+      "name": "print_validation",
+      "filePath": "src/demographics/clean_census_district_2011.py",
+      "lineRange": [
+        298,
+        322
+      ],
+      "summary": "Prints row counts, missing-value summaries, and sample output rows.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_district_2011.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/demographics/clean_census_district_2011.py",
+      "lineRange": [
+        325,
+        350
+      ],
+      "summary": "CLI entry point orchestrating the script workflow.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/demographics/clean_census_state_2011.py",
+      "type": "file",
+      "name": "clean_census_state_2011.py",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "summary": "Parses Census 2011 state-level population, religion, and PCA age workbooks into a unified state demographics table and updates the master CSV.",
+      "tags": [
+        "entry-point",
+        "census-2011",
+        "data-pipeline",
+        "state-level"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:_raw_search_roots",
+      "type": "function",
+      "name": "_raw_search_roots",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        86,
+        88
+      ],
+      "summary": "Returns existing demographic raw and legacy Census search roots.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:find_file",
+      "type": "function",
+      "name": "find_file",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        91,
+        102
+      ],
+      "summary": "Finds the first raw file under search roots whose name contains a pattern.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:clean_state_name",
+      "type": "function",
+      "name": "clean_state_name",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        105,
+        114
+      ],
+      "summary": "Normalizes Census state labels for cross-table merging.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:safe_read_excel",
+      "type": "function",
+      "name": "safe_read_excel",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        117,
+        123
+      ],
+      "summary": "Reads Excel via calamine and returns None with a warning on failure.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:standardize_columns",
+      "type": "function",
+      "name": "standardize_columns",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        126,
+        133
+      ],
+      "summary": "Lowercases and snake_cases dataframe column names.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:_find_column",
+      "type": "function",
+      "name": "_find_column",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        136,
+        143
+      ],
+      "summary": "Selects the first column whose normalized name matches keyword constraints.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:_to_numeric",
+      "type": "function",
+      "name": "_to_numeric",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        146,
+        147
+      ],
+      "summary": "Coerces a series to numeric after stripping comma separators.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:_warn_missing",
+      "type": "function",
+      "name": "_warn_missing",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        150,
+        151
+      ],
+      "summary": "Prints a standardized warning for missing inputs or columns.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:_diagnose_df",
+      "type": "function",
+      "name": "_diagnose_df",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        154,
+        160
+      ],
+      "summary": "Prints debug shape, columns, and sample rows for a dataframe.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:clean_population_file",
+      "type": "function",
+      "name": "clean_population_file",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        167,
+        269
+      ],
+      "summary": "Extracts state population, urban/rural share, literacy, SC/ST, and sex ratio from the PCA population workbook.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:clean_religion_file",
+      "type": "function",
+      "name": "clean_religion_file",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        276,
+        347
+      ],
+      "summary": "Parses Census C-01 religion counts into state-level religious percentage columns.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:_clean_religion_wide_fallback",
+      "type": "function",
+      "name": "_clean_religion_wide_fallback",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        350,
+        364
+      ],
+      "summary": "Fallback parser for wide-format religion tables when C-01 layout detection fails.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:clean_pca_age_file",
+      "type": "function",
+      "name": "clean_pca_age_file",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        371,
+        463
+      ],
+      "summary": "Extracts youth share and optional SC/ST cross-check from the PCA age workbook.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "complex"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:merge_census_tables",
+      "type": "function",
+      "name": "merge_census_tables",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        470,
+        499
+      ],
+      "summary": "Outer-merges population, religion, and PCA tables on state with SC/ST coalescing.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:save_output",
+      "type": "function",
+      "name": "save_output",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        502,
+        505
+      ],
+      "summary": "Writes the merged Census state demographics CSV to the processed directory.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:update_state_master",
+      "type": "function",
+      "name": "update_state_master",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        508,
+        538
+      ],
+      "summary": "Merges cleaned Census or district metrics into state_demographics_master.csv without inventing values.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:print_validation",
+      "type": "function",
+      "name": "print_validation",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        541,
+        562
+      ],
+      "summary": "Prints row counts, missing-value summaries, and sample output rows.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/clean_census_state_2011.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/demographics/clean_census_state_2011.py",
+      "lineRange": [
+        565,
+        587
+      ],
+      "summary": "CLI entry point orchestrating the script workflow.",
+      "tags": [
+        "demographics",
+        "census-2011"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "file:src/demographics/demographic_catalog.py",
+      "type": "file",
+      "name": "demographic_catalog.py",
+      "filePath": "src/demographics/demographic_catalog.py",
+      "summary": "Single source of truth listing desired demographic variables, data sources, raw-file hints, processed column names, and the state master schema.",
+      "tags": [
+        "catalog",
+        "schema-definition",
+        "demographics",
+        "configuration"
+      ],
+      "complexity": "moderate"
+    },
+    {
+      "id": "file:src/demographics/merge_nfhs.py",
+      "type": "file",
+      "name": "merge_nfhs.py",
+      "filePath": "src/demographics/merge_nfhs.py",
+      "summary": "Placeholder NFHS merge script that checks for raw/processed NFHS files and reports readiness without writing synthetic values.",
+      "tags": [
+        "entry-point",
+        "nfhs",
+        "placeholder",
+        "demographics"
+      ],
+      "complexity": "simple"
+    },
+    {
+      "id": "function:src/demographics/merge_nfhs.py:main",
+      "type": "function",
+      "name": "main",
+      "filePath": "src/demographics/merge_nfhs.py",
+      "lineRange": [
+        34,
+        62
+      ],
+      "summary": "CLI entry point orchestrating the script workflow.",
+      "tags": [
+        "demographics",
+        "utility"
+      ],
+      "complexity": "simple"
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:src/demographics/audit_demographic_coverage.py",
+      "target": "function:src/demographics/audit_demographic_coverage.py:list_raw_files",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/audit_demographic_coverage.py",
+      "target": "function:src/demographics/audit_demographic_coverage.py:raw_roots_for_source",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/audit_demographic_coverage.py",
+      "target": "function:src/demographics/audit_demographic_coverage.py:match_raw_file",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/audit_demographic_coverage.py",
+      "target": "function:src/demographics/audit_demographic_coverage.py:list_processed_files",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/audit_demographic_coverage.py",
+      "target": "function:src/demographics/audit_demographic_coverage.py:processed_column_ready",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/audit_demographic_coverage.py",
+      "target": "function:src/demographics/audit_demographic_coverage.py:audit_variables",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/audit_demographic_coverage.py",
+      "target": "function:src/demographics/audit_demographic_coverage.py:print_summary",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/audit_demographic_coverage.py",
+      "target": "function:src/demographics/audit_demographic_coverage.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/audit_demographic_coverage.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/audit_demographic_coverage.py",
+      "target": "file:src/demographics/demographic_catalog.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/build_demographic_catalog.py",
+      "target": "function:src/demographics/build_demographic_catalog.py:ensure_folders",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/build_demographic_catalog.py",
+      "target": "function:src/demographics/build_demographic_catalog.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/build_demographic_catalog.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/build_demographic_catalog.py",
+      "target": "file:src/demographics/demographic_catalog.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/build_state_demographic_master.py",
+      "target": "function:src/demographics/build_state_demographic_master.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/build_state_demographic_master.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/build_state_demographic_master.py",
+      "target": "file:src/demographics/demographic_catalog.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/clean_census_district_2011.py",
+      "target": "function:src/demographics/clean_census_district_2011.py:clean_name",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_district_2011.py",
+      "target": "function:src/demographics/clean_census_district_2011.py:find_raw_file",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_district_2011.py",
+      "target": "function:src/demographics/clean_census_district_2011.py:ratio",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_district_2011.py",
+      "target": "function:src/demographics/clean_census_district_2011.py:load_pca",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_district_2011.py",
+      "target": "function:src/demographics/clean_census_district_2011.py:build_district_table",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_district_2011.py",
+      "target": "function:src/demographics/clean_census_district_2011.py:assign_post_2011_state",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_district_2011.py",
+      "target": "function:src/demographics/clean_census_district_2011.py:aggregate_group",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_district_2011.py",
+      "target": "function:src/demographics/clean_census_district_2011.py:build_state_from_districts",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_district_2011.py",
+      "target": "function:src/demographics/clean_census_district_2011.py:update_state_master",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_district_2011.py",
+      "target": "function:src/demographics/clean_census_district_2011.py:print_validation",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_district_2011.py",
+      "target": "function:src/demographics/clean_census_district_2011.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_district_2011.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/clean_census_district_2011.py",
+      "target": "file:src/demographics/demographic_catalog.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:_raw_search_roots",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:find_file",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:clean_state_name",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:safe_read_excel",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:standardize_columns",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:_find_column",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:_to_numeric",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:_warn_missing",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:_diagnose_df",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:clean_population_file",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:clean_religion_file",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:_clean_religion_wide_fallback",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:clean_pca_age_file",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:merge_census_tables",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:save_output",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:update_state_master",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:print_validation",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "function:src/demographics/clean_census_state_2011.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/clean_census_state_2011.py",
+      "target": "file:src/demographics/demographic_catalog.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/merge_nfhs.py",
+      "target": "function:src/demographics/merge_nfhs.py:main",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:src/demographics/merge_nfhs.py",
+      "target": "file:src/config.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/merge_nfhs.py",
+      "target": "file:src/demographics/audit_demographic_coverage.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    },
+    {
+      "source": "file:src/demographics/merge_nfhs.py",
+      "target": "file:src/demographics/demographic_catalog.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 0.7
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "projectRoot": "/Users/maadhavangupta/Downloads/CS/Projects/Election-simulator",
+  "batchFiles": [
+    {"path": "src/demographics/dhs/build_nfhs_district_features.py", "language": "python", "sizeLines": 210, "fileCategory": "code"},
+    {"path": "src/demographics/dhs/build_nfhs_state_features.py", "language": "python", "sizeLines": 150, "fileCategory": "code"},
+    {"path": "src/demographics/dhs/extract_dhs_zips.py", "language": "python", "sizeLines": 58, "fileCategory": "code"},
+    {"path": "src/demographics/dhs/feature_utils.py", "language": "python", "sizeLines": 449, "fileCategory": "code"},
+    {"path": "src/demographics/dhs/inspect_dhs_variables.py", "language": "python", "sizeLines": 62, "fileCategory": "code"},
+    {"path": "src/demographics/dhs/paths.py", "language": "python", "sizeLines": 80, "fileCategory": "code"}
+  ],
+  "batchImportData": {
+    "src/demographics/dhs/build_nfhs_district_features.py": [
+      "src/config.py",
+      "src/demographics/dhs/feature_utils.py",
+      "src/demographics/dhs/paths.py"
+    ],
+    "src/demographics/dhs/build_nfhs_state_features.py": [
+      "src/config.py",
+      "src/demographics/dhs/feature_utils.py",
+      "src/demographics/dhs/paths.py"
+    ],
+    "src/demographics/dhs/extract_dhs_zips.py": [
+      "src/config.py",
+      "src/demographics/dhs/feature_utils.py"
+    ],
+    "src/demographics/dhs/feature_utils.py": [
+      "src/demographics/dhs/paths.py"
+    ],
+    "src/demographics/dhs/inspect_dhs_variables.py": [
+      "src/config.py",
+      "src/demographics/dhs/paths.py"
+    ],
+    "src/demographics/dhs/paths.py": [
+      "src/config.py"
+    ]
+  }
+}

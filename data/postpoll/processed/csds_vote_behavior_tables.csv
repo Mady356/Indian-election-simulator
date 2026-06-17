@@ -1,0 +1,309 @@
+year,poll_type,geography_level,state,voter_group_type,voter_group,party_or_alliance,vote_share,sample_size,source_table,source_page,confidence,notes,original_label
+2019,post_poll,national,,caste,nan,Regional,9.8,,2019_post_poll_table_005.csv,,medium,auto-cleaned long table,nan | 02: Newspapers
+2019,post_poll,national,,caste,nan,Others,80.0,,2019_post_poll_table_005.csv,,medium,auto-cleaned long table,nan | 96: Others
+2019,post_poll,national,,caste,nan,Regional,2.4,,2019_post_poll_table_025.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Others,35.0,,2019_post_poll_table_029.csv,,medium,auto-cleaned long table,nan | 96: Others
+2019,post_poll,national,,gender,nan,Regional,67.0,,2019_post_poll_table_031.csv,,medium,auto-cleaned long table,"nan | 17: Transport services – buses, trains, flights"
+2019,post_poll,national,,gender,nan,BJP,81.0,,2019_post_poll_table_031.csv,,medium,auto-cleaned long table,nan | 28: Vote against Modi or BJP
+2019,post_poll,national,,gender,nan,Others,29.0,,2019_post_poll_table_031.csv,,medium,auto-cleaned long table,nan | 32: Vote against any other party or leader
+2019,post_poll,national,,caste,nan,Regional,100.0,,2019_post_poll_table_032.csv,,medium,auto-cleaned long table,"nan | 45: Low price for crops, produce/MSP"
+2019,post_poll,national,,caste,nan,Others,8.0,,2019_post_poll_table_032.csv,,medium,auto-cleaned long table,nan | 50: Other agricultural problems
+2019,post_poll,national,,gender,nan,INDIA,8.0,,2019_post_poll_table_033.csv,,medium,auto-cleaned long table,nan | 87: Improving India’s image in the world
+2019,post_poll,national,,caste,nan,INC,74.0,,2019_post_poll_table_047.csv,,medium,auto-cleaned long table,nan | 08: P Chidambaram (INC)
+2019,post_poll,national,,caste,nan,INDIA,56.0,,2019_post_poll_table_047.csv,,medium,auto-cleaned long table,nan | 14: Jyotiraditya Scindia
+2019,post_poll,national,,caste,nan,Others,14.0,,2019_post_poll_table_047.csv,,medium,auto-cleaned long table,nan | 23: Nitin Gadkari
+2019,post_poll,national,,caste,nan,BJP,17.0,,2019_post_poll_table_047.csv,,medium,auto-cleaned long table,nan | 24: Any other BJP leader
+2019,post_poll,national,,caste,nan,NDA,100.0,,2019_post_poll_table_047.csv,,medium,auto-cleaned long table,nan | 42: Sarabananda Sonowal (Assam)
+2019,post_poll,national,,gender,nan,Regional,2.4,,2019_post_poll_table_057.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,other,Valid,INC,4.0,,2019_post_poll_table_066.csv,,medium,auto-cleaned long table,Valid | 001: INC
+2019,post_poll,national,,other,Valid,Others,23.7,,2019_post_poll_table_070.csv,,medium,auto-cleaned long table,Valid | 1: Would have voted for some other party
+2019,post_poll,national,,gender,nan,Regional,70.0,,2019_post_poll_table_082.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,gender,nan,Regional,1.9,,2019_post_poll_table_084.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,gender,nan,Others,10.0,,2019_post_poll_table_087.csv,,medium,auto-cleaned long table,nan | 5: Other
+2019,post_poll,national,,gender,nan,Regional,1.5,,2019_post_poll_table_087.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,gender,nan,Others,20.0,,2019_post_poll_table_089.csv,,medium,auto-cleaned long table,nan | 5: Other
+2019,post_poll,national,,gender,nan,Regional,1.6,,2019_post_poll_table_089.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,gender,nan,Others,42.0,,2019_post_poll_table_091.csv,,medium,auto-cleaned long table,nan | 5: Other
+2019,post_poll,national,,gender,nan,Others,30.0,,2019_post_poll_table_094.csv,,medium,auto-cleaned long table,nan | 5: Other
+2019,post_poll,national,,gender,nan,Regional,1.7,,2019_post_poll_table_094.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,gender,nan,Others,40.0,,2019_post_poll_table_096.csv,,medium,auto-cleaned long table,nan | 5: Other
+2019,post_poll,national,,gender,nan,Regional,2.6,,2019_post_poll_table_096.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,gender,nan,Others,22.0,,2019_post_poll_table_098.csv,,medium,auto-cleaned long table,nan | 5: Other
+2019,post_poll,national,,gender,nan,Others,14.0,,2019_post_poll_table_100.csv,,medium,auto-cleaned long table,nan | 5: Other
+2019,post_poll,national,,gender,nan,Others,90.0,,2019_post_poll_table_103.csv,,medium,auto-cleaned long table,nan | 5: Other
+2019,post_poll,national,,gender,nan,Others,20.0,,2019_post_poll_table_105.csv,,medium,auto-cleaned long table,nan | 5: Other
+2019,post_poll,national,,gender,nan,Regional,2.1,,2019_post_poll_table_105.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,1.5,,2019_post_poll_table_106.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,1.6,,2019_post_poll_table_107.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,2.9,,2019_post_poll_table_108.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,3.7,,2019_post_poll_table_109.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,1.9,,2019_post_poll_table_110.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,2.0,,2019_post_poll_table_111.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,2.1,,2019_post_poll_table_112.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,1.8,,2019_post_poll_table_114.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,religion,nan,Others,100.0,,2019_post_poll_table_115.csv,,medium,auto-cleaned long table,nan | 6: Others
+2019,post_poll,national,,caste,nan,Regional,1.9,,2019_post_poll_table_116.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,gender,nan,Regional,2.0,,2019_post_poll_table_117.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,religion,Valid,INDIA,27.9,,2019_post_poll_table_118.csv,,medium,auto-cleaned long table,Valid | 1: Indian
+2019,post_poll,national,,religion,nan,Others,60.0,,2019_post_poll_table_118.csv,,medium,auto-cleaned long table,nan | 4: Others
+2019,post_poll,national,,religion,nan,Regional,90.0,,2019_post_poll_table_118.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.5,,2019_post_poll_table_119.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.1,,2019_post_poll_table_120.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.4,,2019_post_poll_table_122.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.7,,2019_post_poll_table_123.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.3,,2019_post_poll_table_124.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.5,,2019_post_poll_table_126.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,5.0,,2019_post_poll_table_127.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.2,,2019_post_poll_table_128.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.7,,2019_post_poll_table_129.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,5.3,,2019_post_poll_table_130.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.6,,2019_post_poll_table_132.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.7,,2019_post_poll_table_133.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,5.1,,2019_post_poll_table_134.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.8,,2019_post_poll_table_135.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,5.3,,2019_post_poll_table_137.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,5.4,,2019_post_poll_table_138.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.8,,2019_post_poll_table_139.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.8,,2019_post_poll_table_140.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,7.1,,2019_post_poll_table_141.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.2,,2019_post_poll_table_143.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,2.0,,2019_post_poll_table_144.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,Valid,INC,7.9,,2019_post_poll_table_145.csv,,medium,auto-cleaned long table,Valid | 1: Increased
+2019,post_poll,national,,caste,nan,Regional,2.1,,2019_post_poll_table_145.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,11.4,,2019_post_poll_table_148.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.4,,2019_post_poll_table_149.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,1.6,,2019_post_poll_table_152.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,2.7,,2019_post_poll_table_153.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,70.0,,2019_post_poll_table_154.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,Valid,INC,17.8,,2019_post_poll_table_156.csv,,medium,auto-cleaned long table,"Valid | 1: Yes, prefer basic income"
+2019,post_poll,national,,caste,nan,Regional,5.6,,2019_post_poll_table_157.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.9,,2019_post_poll_table_158.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,age,nan,UPA,27.0,,2019_post_poll_table_160.csv,,medium,auto-cleaned long table,nan | 11: Deen Dayal Upadhyaya Antyodaya Yojana
+2019,post_poll,national,,age,nan,NDA,5.0,,2019_post_poll_table_160.csv,,medium,auto-cleaned long table,nan | 14: Deendayal Disabled Rehabilitation Scheme
+2019,post_poll,national,,caste,nan,INDIA,12.0,,2019_post_poll_table_161.csv,,medium,auto-cleaned long table,nan | 45: National Career Service (India)(NCS)
+2019,post_poll,national,,caste,nan,Regional,3.3,,2019_post_poll_table_163.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,3.5,,2019_post_poll_table_165.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,1.4,,2019_post_poll_table_166.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,1.9,,2019_post_poll_table_167.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,1.8,,2019_post_poll_table_168.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,1.7,,2019_post_poll_table_169.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,1.7,,2019_post_poll_table_170.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,1.8,,2019_post_poll_table_171.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,1.8,,2019_post_poll_table_172.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,2.0,,2019_post_poll_table_173.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,age,nan,INC,5.2,,2019_post_poll_table_174.csv,,medium,auto-cleaned long table,nan | 2: Being Inclusive & Secular
+2019,post_poll,national,,age,nan,Regional,6.9,,2019_post_poll_table_174.csv,,medium,auto-cleaned long table,nan | 9: Can't say/No response
+2019,post_poll,national,,caste,nan,Regional,5.8,,2019_post_poll_table_175.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,Valid,Regional,35.3,,2019_post_poll_table_176.csv,,medium,auto-cleaned long table,Valid | 1: No 2: Yes 7: Can't say 8: No response Total
+2019,post_poll,national,,caste,nan,Regional,1.8,,2019_post_poll_table_177.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,gender,nan,Others,10.0,,2019_post_poll_table_181.csv,,medium,auto-cleaned long table,nan | 3: Others
+2019,post_poll,national,,caste,nan,Others,87.0,,2019_post_poll_table_184.csv,,medium,auto-cleaned long table,nan | 09: Other higher professionals
+2019,post_poll,national,,gender,nan,Others,60.0,,2019_post_poll_table_185.csv,,medium,auto-cleaned long table,"nan | 29: Other administrative, managerial and clerical workers"
+2019,post_poll,national,,gender,nan,Regional,96.0,,2019_post_poll_table_185.csv,,medium,auto-cleaned long table,nan | 36: Salespersons
+2019,post_poll,national,,caste,nan,Others,57.0,,2019_post_poll_table_188.csv,,medium,auto-cleaned long table,nan | 09: Other higher professionals
+2019,post_poll,national,,gender,nan,Others,71.0,,2019_post_poll_table_189.csv,,medium,auto-cleaned long table,"nan | 29: Other administrative, managerial and clerical workers"
+2019,post_poll,national,,gender,nan,Regional,86.0,,2019_post_poll_table_189.csv,,medium,auto-cleaned long table,nan | 36: Salespersons
+2019,post_poll,national,,religion,nan,Others,60.0,,2019_post_poll_table_193.csv,,medium,auto-cleaned long table,nan | 7: Others
+2019,post_poll,national,,religion,nan,NDA,84.0,,2019_post_poll_table_194.csv,,medium,auto-cleaned long table,nan | 105: Khandayat
+2019,post_poll,national,,gender,nan,Others,3.0,,2019_post_poll_table_197.csv,,medium,auto-cleaned long table,nan | 391: Other Craftsmen
+2019,post_poll,national,,gender,nan,NDA,100.0,,2019_post_poll_table_197.csv,,medium,auto-cleaned long table,"nan | 403: Bandari Naik, Gabit, Gosavi"
+2019,post_poll,national,,caste,nan,NDA,7.0,,2019_post_poll_table_198.csv,,medium,auto-cleaned long table,nan | 576: Thandan
+2019,post_poll,national,,gender,nan,Others,62.0,,2019_post_poll_table_201.csv,,medium,auto-cleaned long table,nan | 730: Other Upper Caste Muslim
+2019,post_poll,national,,caste,nan,Others,43.6,,2019_post_poll_table_202.csv,,medium,auto-cleaned long table,nan | 3: Other Backward Classes (OBC)
+2019,post_poll,national,,religion,nan,Others,3.4,,2019_post_poll_table_207.csv,,medium,auto-cleaned long table,nan | 7: Others
+2019,post_poll,national,,gender,nan,Others,10.0,,2019_post_poll_table_213.csv,,medium,auto-cleaned long table,nan | 90: Adivasi other tea tribe language
+2019,post_poll,national,,other,Valid,INC,6.0,,2019_post_poll_table_248.csv,,medium,auto-cleaned long table,Valid | 001: INC
+2019,post_poll,national,,caste,nan,INC,63.0,,2019_post_poll_table_305.csv,,medium,auto-cleaned long table,nan | 06: Congress/Congress leaders
+2019,post_poll,national,,caste,nan,BJP,2.0,,2019_post_poll_table_305.csv,,medium,auto-cleaned long table,nan | 08: BJP
+2019,post_poll,national,,caste,nan,Others,5.0,,2019_post_poll_table_305.csv,,medium,auto-cleaned long table,nan | 25: Others
+2019,post_poll,national,,caste,nan,Regional,97.0,,2019_post_poll_table_305.csv,,medium,auto-cleaned long table,nan | 98: No response
+2019,post_poll,national,,religion,nan,BJP,30.7,,2019_post_poll_table_308.csv,,medium,auto-cleaned long table,nan | 2: Nothing wrong in contesting with BJP
+2019,post_poll,national,,religion,nan,Others,1.4,,2019_post_poll_table_308.csv,,medium,auto-cleaned long table,nan | 3: Others
+2019,post_poll,national,,religion,nan,Regional,46.0,,2019_post_poll_table_308.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,gender,nan,Others,33.0,,2019_post_poll_table_422.csv,,medium,auto-cleaned long table,nan | 5: Other
+2019,post_poll,national,,gender,nan,Regional,18.0,,2019_post_poll_table_422.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,gender,nan,INC,32.0,,2019_post_poll_table_448.csv,,medium,auto-cleaned long table,nan | 001: INC
+2019,post_poll,national,,gender,nan,Regional,100.0,,2019_post_poll_table_448.csv,,medium,auto-cleaned long table,nan | 003: BSP
+2019,post_poll,national,,gender,nan,Others,0.0,,2019_post_poll_table_448.csv,,medium,auto-cleaned long table,nan | 997: Any other party
+2019,post_poll,national,,religion,nan,Others,100.0,,2019_post_poll_table_460.csv,,medium,auto-cleaned long table,nan | 3: Others
+2019,post_poll,national,,religion,nan,Regional,28.0,,2019_post_poll_table_460.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,religion,nan,Others,100.0,,2019_post_poll_table_462.csv,,medium,auto-cleaned long table,nan | 3: Others
+2019,post_poll,national,,religion,nan,Regional,28.0,,2019_post_poll_table_462.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,gender,nan,Regional,38.0,,2019_post_poll_table_484.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,gender,nan,BJP,8.0,,2019_post_poll_table_492.csv,,medium,auto-cleaned long table,nan | 06: O. Rajagopal (BJP)
+2019,post_poll,national,,gender,nan,NDA,64.0,,2019_post_poll_table_492.csv,,medium,auto-cleaned long table,nan | 12: V S Achuthanandan (CPM)
+2019,post_poll,national,,gender,nan,Others,10.0,,2019_post_poll_table_492.csv,,medium,auto-cleaned long table,nan | 25: Other Cong leaders
+2019,post_poll,national,,caste,nan,BJP,5.0,,2019_post_poll_table_516.csv,,medium,auto-cleaned long table,nan | 05: Gopal Bhargava (BJP)
+2019,post_poll,national,,caste,nan,INDIA,41.5,,2019_post_poll_table_522.csv,,medium,auto-cleaned long table,nan | 2: Should have made Scindia the CM
+2019,post_poll,national,,caste,nan,Regional,15.5,,2019_post_poll_table_522.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,gender,nan,Regional,14.0,,2019_post_poll_table_525.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,religion,nan,INC,7.0,,2019_post_poll_table_570.csv,,medium,auto-cleaned long table,nan | 06: Congress/Congress leaders
+2019,post_poll,national,,religion,nan,BJP,4.0,,2019_post_poll_table_570.csv,,medium,auto-cleaned long table,nan | 08: BJP
+2019,post_poll,national,,religion,nan,Others,3.0,,2019_post_poll_table_570.csv,,medium,auto-cleaned long table,nan | 25: Others
+2019,post_poll,national,,religion,nan,Regional,7.0,,2019_post_poll_table_570.csv,,medium,auto-cleaned long table,nan | 98: No response
+2019,post_poll,national,,religion,nan,INC,13.0,,2019_post_poll_table_598.csv,,medium,auto-cleaned long table,nan | 06: Congress/Congress leaders
+2019,post_poll,national,,religion,nan,Others,15.0,,2019_post_poll_table_598.csv,,medium,auto-cleaned long table,nan | 25: Others
+2019,post_poll,national,,religion,nan,Regional,45.0,,2019_post_poll_table_598.csv,,medium,auto-cleaned long table,nan | 98: No response
+2019,post_poll,national,,religion,nan,INC,21.0,,2019_post_poll_table_623.csv,,medium,auto-cleaned long table,nan | 06: Congress/Congress leaders
+2019,post_poll,national,,religion,nan,Others,12.0,,2019_post_poll_table_623.csv,,medium,auto-cleaned long table,nan | 19: Other parties of NE
+2019,post_poll,national,,religion,nan,Regional,100.0,,2019_post_poll_table_623.csv,,medium,auto-cleaned long table,nan | 98: No response
+2019,post_poll,national,,gender,nan,BJP,65.0,,2019_post_poll_table_637.csv,,medium,auto-cleaned long table,nan | 03: Dharmendra Pradhan (BJP)
+2019,post_poll,national,,gender,nan,Regional,3.0,,2019_post_poll_table_637.csv,,medium,auto-cleaned long table,nan | 13: Pratap Jena (BJD)
+2019,post_poll,national,,gender,nan,Others,11.0,,2019_post_poll_table_637.csv,,medium,auto-cleaned long table,nan | 25: Other Cong leaders
+2019,post_poll,national,,gender,nan,Others,65.3,,2019_post_poll_table_657.csv,,medium,auto-cleaned long table,nan | 1: BJD will get another chance
+2019,post_poll,national,,caste,nan,Regional,19.1,,2019_post_poll_table_679.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,gender,nan,Others,4.0,,2019_post_poll_table_708.csv,,medium,auto-cleaned long table,nan | 5: Other
+2019,post_poll,national,,gender,nan,Regional,27.0,,2019_post_poll_table_708.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,48.0,,2019_post_poll_table_719.csv,,medium,auto-cleaned long table,nan | 04: Kanimozhi (DMK)
+2019,post_poll,national,,caste,nan,BJP,8.0,,2019_post_poll_table_719.csv,,medium,auto-cleaned long table,nan | 07: Tamilsai Soundarajan (BJP)
+2019,post_poll,national,,caste,nan,Others,18.0,,2019_post_poll_table_719.csv,,medium,auto-cleaned long table,nan | 12: Vijaykanth (DMDK)
+2019,post_poll,national,,gender,nan,Others,20.0,,2019_post_poll_table_763.csv,,medium,auto-cleaned long table,nan | 5: Other answer
+2019,post_poll,national,,gender,nan,Regional,76.0,,2019_post_poll_table_763.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,84.0,,2019_post_poll_table_764.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,96.0,,2019_post_poll_table_766.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,3.6,,2019_post_poll_table_767.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,99.0,,2019_post_poll_table_768.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,caste,nan,Regional,4.0,,2019_post_poll_table_771.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,post_poll,national,,gender,nan,BJP,32.0,,2019_post_poll_table_786.csv,,medium,auto-cleaned long table,nan | 04: Babul Supriyo (BJP)
+2019,post_poll,national,,gender,nan,Regional,7.0,,2019_post_poll_table_786.csv,,medium,auto-cleaned long table,nan | 06: Subrata Mukherjee (TMC)
+2019,post_poll,national,,other,Valid,INC,32.0,,2019_post_poll_table_839.csv,,medium,auto-cleaned long table,Valid | 001: INC
+2019,post_poll,national,,other,Valid,INC,44.0,,2019_post_poll_table_867.csv,,medium,auto-cleaned long table,Valid | 001: INC
+2019,pre_poll,national,,age,nan,INC,15.3,,2019_pre_poll_table_016.csv,,medium,auto-cleaned long table,nan | 1: With our total household income we are able to fulfill all our needs & also end up saving some money.
+2019,pre_poll,national,,age,nan,INC,17.4,,2019_pre_poll_table_017.csv,,medium,auto-cleaned long table,nan | 4: With our total household income we are not able to fulfill our needs and face a lot of difficulty.
+2019,pre_poll,national,,age,nan,Regional,2.6,,2019_pre_poll_table_017.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,pre_poll,national,,age,nan,Others,1.1,,2019_pre_poll_table_025.csv,,medium,auto-cleaned long table,nan | 8: Others
+2019,pre_poll,national,,religion,nan,Others,1.5,,2019_pre_poll_table_027.csv,,medium,auto-cleaned long table,nan | 4: Others
+2019,pre_poll,national,,religion,nan,Regional,3.1,,2019_pre_poll_table_027.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,pre_poll,national,,gender,nan,INC,63.0,,2019_pre_poll_table_034.csv,,medium,auto-cleaned long table,"nan | 06: Economic inequality, increasing gap between rich and poor"
+2019,pre_poll,national,,gender,nan,Regional,19.0,,2019_pre_poll_table_035.csv,,medium,auto-cleaned long table,"nan | 17: Transport services – buses, trains, flights"
+2019,pre_poll,national,,gender,nan,BJP,40.0,,2019_pre_poll_table_035.csv,,medium,auto-cleaned long table,"nan | 27: Vote for Modi or BJP, bringing Modi or BJP back"
+2019,pre_poll,national,,gender,nan,INC,9.0,,2019_pre_poll_table_035.csv,,medium,auto-cleaned long table,nan | 29: Vote for Rahul Gandhi/Priyanka Gandhi/Congress eader
+2019,pre_poll,national,,gender,nan,Others,33.0,,2019_pre_poll_table_035.csv,,medium,auto-cleaned long table,nan | 31: Vote in favour of any other party or leader
+2019,pre_poll,national,,gender,nan,Regional,18.0,,2019_pre_poll_table_036.csv,,medium,auto-cleaned long table,"nan | 45: Low price for crops, produce/MSP"
+2019,pre_poll,national,,gender,nan,Others,13.0,,2019_pre_poll_table_036.csv,,medium,auto-cleaned long table,nan | 50: Other agricultural problems
+2019,pre_poll,national,,gender,nan,Regional,35.0,,2019_pre_poll_table_037.csv,,medium,auto-cleaned long table,nan | 59: Regional/state/linguistic identity
+2019,pre_poll,national,,age,nan,INDIA,6.0,,2019_pre_poll_table_038.csv,,medium,auto-cleaned long table,nan | 87: Improving India’s image in the world
+2019,pre_poll,national,,gender,nan,Regional,3.3,,2019_pre_poll_table_041.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,pre_poll,national,,gender,nan,Others,3.4,,2019_pre_poll_table_043.csv,,medium,auto-cleaned long table,nan | 4: Neither/Other
+2019,pre_poll,national,,gender,nan,Regional,4.7,,2019_pre_poll_table_057.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,pre_poll,national,,caste,nan,Regional,8.2,,2019_pre_poll_table_062.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,pre_poll,national,,gender,nan,Regional,2.0,,2019_pre_poll_table_070.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,pre_poll,national,,gender,nan,Others,1.6,,2019_pre_poll_table_076.csv,,medium,auto-cleaned long table,nan | 5: Other
+2019,pre_poll,national,,gender,nan,Regional,18.5,,2019_pre_poll_table_076.csv,,medium,auto-cleaned long table,nan | 8: No response
+2019,pre_poll,national,,gender,nan,INDIA,4.3,,2019_pre_poll_table_084.csv,,medium,auto-cleaned long table,nan | 07: India-Pakistan
+2019,pre_poll,national,,gender,nan,Others,2.7,,2019_pre_poll_table_084.csv,,medium,auto-cleaned long table,nan | 10: Others
+2019,pre_poll,national,,gender,nan,Regional,6.8,,2019_pre_poll_table_084.csv,,medium,auto-cleaned long table,nan | 98: No response
+2019,pre_poll,national,,gender,nan,Others,20.0,,2019_pre_poll_table_086.csv,,medium,auto-cleaned long table,nan | 3: Others
+2019,pre_poll,national,,caste,nan,Others,10.0,,2019_pre_poll_table_088.csv,,medium,auto-cleaned long table,nan | 09: Other higher professionals
+2019,pre_poll,national,,gender,nan,Others,34.0,,2019_pre_poll_table_089.csv,,medium,auto-cleaned long table,"nan | 29: Other administrative, managerial and clerical workers"
+2019,pre_poll,national,,gender,nan,Regional,48.0,,2019_pre_poll_table_089.csv,,medium,auto-cleaned long table,nan | 36: Salespersons
+2019,pre_poll,national,,gender,nan,Others,88.0,,2019_pre_poll_table_091.csv,,medium,auto-cleaned long table,nan | 79: Other agriculture workers
+2019,pre_poll,national,,gender,nan,UPA,44.0,,2019_pre_poll_table_091.csv,,medium,auto-cleaned long table,nan | 95: Any other occupation
+2019,pre_poll,national,,caste,nan,Others,7.0,,2019_pre_poll_table_093.csv,,medium,auto-cleaned long table,nan | 09: Other higher professionals
+2019,pre_poll,national,,age,nan,Others,36.0,,2019_pre_poll_table_094.csv,,medium,auto-cleaned long table,nan | 19: Other lower professionals
+2019,pre_poll,national,,age,nan,Regional,41.0,,2019_pre_poll_table_094.csv,,medium,auto-cleaned long table,nan | 36: Salespersons
+2019,pre_poll,national,,caste,nan,Others,72.0,,2019_pre_poll_table_095.csv,,medium,auto-cleaned long table,nan | 49: Other service workers
+2019,pre_poll,national,,religion,nan,Others,30.0,,2019_pre_poll_table_102.csv,,medium,auto-cleaned long table,nan | 7: Others
+2019,pre_poll,national,,caste,nan,Others,42.6,,2019_pre_poll_table_105.csv,,medium,auto-cleaned long table,nan | 3: Other Backward Classes (OBC)
+2019,pre_poll,national,,religion,nan,NDA,6.0,,2019_pre_poll_table_106.csv,,medium,auto-cleaned long table,nan | 037: Thondai
+2019,pre_poll,national,,gender,nan,NDA,73.0,,2019_pre_poll_table_107.csv,,medium,auto-cleaned long table,nan | 105: Khandayat
+2019,pre_poll,national,,gender,nan,Others,42.0,,2019_pre_poll_table_107.csv,,medium,auto-cleaned long table,nan | 199: Other Peasant Proprietors
+2019,pre_poll,national,,gender,nan,Others,2.0,,2019_pre_poll_table_110.csv,,medium,auto-cleaned long table,nan | 391: Other Craftsmen
+2019,pre_poll,national,,caste,nan,NDA,22.0,,2019_pre_poll_table_111.csv,,medium,auto-cleaned long table,"nan | 507: Kandara, Gokha"
+2019,pre_poll,national,,caste,nan,Others,50.0,,2019_pre_poll_table_113.csv,,medium,auto-cleaned long table,nan | 599: Other SC
+2019,pre_poll,national,,caste,nan,NDA,33.0,,2019_pre_poll_table_113.csv,,medium,auto-cleaned long table,nan | 606 : Munda
+2019,pre_poll,national,,caste,nan,NDA,100.0,,2019_pre_poll_table_114.csv,,medium,auto-cleaned long table,"nan | 631: Bhilala, Mala Pandaram, Zou"
+2019,pre_poll,national,,caste,nan,Others,38.0,,2019_pre_poll_table_114.csv,,medium,auto-cleaned long table,nan | 730: Other Upper Caste Muslim
+2019,pre_poll,national,,religion,nan,Others,2.0,,2019_pre_poll_table_115.csv,,medium,auto-cleaned long table,nan | 830: Sikh No Caste/Other Sikhs
+2019,pre_poll,national,,religion,nan,Others,7.0,,2019_pre_poll_table_120.csv,,medium,auto-cleaned long table,nan | 7: Others
+2019,pre_poll,national,,gender,nan,Others,10.0,,2019_pre_poll_table_128.csv,,medium,auto-cleaned long table,nan | 90: Adivasi other tea tribe language
+2024,post_poll,national,,caste,nan,INDIA,45.0,,2024_post_poll_table_004.csv,,medium,auto-cleaned long table,nan | 006: Communist Party of India
+2024,post_poll,national,,caste,nan,Regional,6.0,,2024_post_poll_table_004.csv,,medium,auto-cleaned long table,nan | 051: Revolutionary Socialist Party (RSP)
+2024,post_poll,national,,religion,nan,INDIA,67.0,,2024_post_poll_table_005.csv,,medium,auto-cleaned long table,nan | 060: All India Majlis -e- Ittehadul Muslimeen (AIMIM)
+2024,post_poll,national,,religion,nan,INC,57.0,,2024_post_poll_table_005.csv,,medium,auto-cleaned long table,nan | 063: Nationalist Congress Party(Ajit Pawer)
+2024,post_poll,national,,religion,nan,Others,76.0,,2024_post_poll_table_005.csv,,medium,auto-cleaned long table,nan | 997: Any other
+2024,post_poll,national,,age,nan,Others,53.0,,2024_post_poll_table_009.csv,,medium,auto-cleaned long table,nan | 97: Any other reason
+2024,post_poll,national,,gender,nan,INDIA,1.8,,2024_post_poll_table_017.csv,,medium,auto-cleaned long table,nan | 04: Strengthening Indian culture
+2024,post_poll,national,,gender,nan,Others,2.6,,2024_post_poll_table_018.csv,,medium,auto-cleaned long table,nan | 97: Any other
+2024,post_poll,national,,gender,nan,INC,11.2,,2024_post_poll_table_019.csv,,medium,auto-cleaned long table,nan | 02: Increasing poverty
+2024,post_poll,national,,gender,nan,INDIA,70.0,,2024_post_poll_table_019.csv,,medium,auto-cleaned long table,nan | 05: Falling international reputation of India
+2024,post_poll,national,,gender,nan,INC,21.0,,2024_post_poll_table_020.csv,,medium,auto-cleaned long table,nan | 23: Increase in terrorism
+2024,post_poll,national,,caste,nan,INDIA,3.0,,2024_post_poll_table_024.csv,,medium,auto-cleaned long table,nan | 06: CPI-ML/ Communist Party of India Marxist- Leninist
+2024,post_poll,national,,caste,nan,INC,29.0,,2024_post_poll_table_024.csv,,medium,auto-cleaned long table,nan | 07: NCP (Ajit Pawar)/ Nationalist Congress Party
+2024,post_poll,national,,caste,nan,Regional,47.0,,2024_post_poll_table_024.csv,,medium,auto-cleaned long table,nan | 09: JDU/ Janata Dal United
+2024,post_poll,national,,religion,nan,INDIA,73.0,,2024_post_poll_table_025.csv,,medium,auto-cleaned long table,nan | 14: All India Majlis-E-Ittehadul Muslimeen/AIMIM
+2024,post_poll,national,,religion,nan,Regional,88.0,,2024_post_poll_table_025.csv,,medium,auto-cleaned long table,nan | 15: Telugu Desam Party/TDP
+2024,post_poll,national,,religion,nan,INC,88.0,,2024_post_poll_table_025.csv,,medium,auto-cleaned long table,nan | 16: YuvajanaShramikaRythu Congress Party/ YSRCP
+2024,post_poll,national,,gender,nan,Regional,6.9,,2024_post_poll_table_028.csv,,medium,auto-cleaned long table,nan | 98: Did not respond
+2024,post_poll,national,,gender,nan,Regional,9.8,,2024_post_poll_table_047.csv,,medium,auto-cleaned long table,nan | 98: No response
+2024,post_poll,national,,caste,nan,Regional,3.1,,2024_post_poll_table_052.csv,,medium,auto-cleaned long table,nan | 98: No response
+2024,post_poll,national,,caste,nan,Regional,4.1,,2024_post_poll_table_053.csv,,medium,auto-cleaned long table,nan | 98: No response
+2024,post_poll,national,,caste,nan,Regional,5.9,,2024_post_poll_table_054.csv,,medium,auto-cleaned long table,nan | 98: No response
+2024,post_poll,national,,caste,nan,Regional,6.0,,2024_post_poll_table_055.csv,,medium,auto-cleaned long table,nan | 98: No response
+2024,post_poll,national,,caste,nan,Regional,5.6,,2024_post_poll_table_056.csv,,medium,auto-cleaned long table,nan | 98: No response
+2024,post_poll,national,,caste,nan,Regional,6.8,,2024_post_poll_table_057.csv,,medium,auto-cleaned long table,nan | 98: No response
+2024,post_poll,national,,gender,nan,Regional,61.0,,2024_post_poll_table_063.csv,,medium,auto-cleaned long table,nan | 06: Poor condition of roads/transport infrastructure
+2024,post_poll,national,,gender,nan,Others,87.0,,2024_post_poll_table_063.csv,,medium,auto-cleaned long table,nan | 97: Any other issue
+2024,post_poll,national,,gender,nan,INDIA,1.5,,2024_post_poll_table_065.csv,,medium,auto-cleaned long table,nan | 03: Better for strengthening Indian civilisation
+2024,post_poll,national,,gender,nan,Others,40.0,,2024_post_poll_table_065.csv,,medium,auto-cleaned long table,nan | 97: Any other reason
+2024,post_poll,national,,gender,nan,Others,40.0,,2024_post_poll_table_067.csv,,medium,auto-cleaned long table,nan | 3: Others
+2024,post_poll,national,,gender,nan,NDA,12.8,,2024_post_poll_table_068.csv,,medium,auto-cleaned long table,nan | 07: Intermediate/Higher secondary completed (Class 12)
+2024,post_poll,national,,caste,nan,Others,74.0,,2024_post_poll_table_069.csv,,medium,auto-cleaned long table,nan | 97: Any other
+2024,post_poll,national,,caste,nan,Others,2.7,,2024_post_poll_table_072.csv,,medium,auto-cleaned long table,nan | 97: Any other
+2024,post_poll,national,,age,nan,Others,1.6,,2024_post_poll_table_075.csv,,medium,auto-cleaned long table,nan | 97: Any other
+2024,post_poll,national,,caste,nan,NDA,2.0,,2024_post_poll_table_080.csv,,medium,auto-cleaned long table,nan | 037: Thondai Mandala Saiva Vellala
+2024,post_poll,national,,age,nan,Others,100.0,,2024_post_poll_table_083.csv,,medium,auto-cleaned long table,nan | 391: Other Craftsmen
+2024,post_poll,national,,age,nan,NDA,100.0,,2024_post_poll_table_083.csv,,medium,auto-cleaned long table,nan | 471: Bhandari Naik
+2024,post_poll,national,,caste,nan,NDA,8.0,,2024_post_poll_table_084.csv,,medium,auto-cleaned long table,nan | 576: Thandan
+2024,post_poll,national,,religion,nan,Others,39.2,,2024_post_poll_table_088.csv,,medium,auto-cleaned long table,nan | 03: Other Backward Caste (OBC)
+2024,post_poll,national,,religion,nan,Others,25.0,,2024_post_poll_table_089.csv,,medium,auto-cleaned long table,nan | 97: Others
+2024,post_poll,national,,gender,nan,Others,24.4,,2024_post_poll_table_093.csv,,medium,auto-cleaned long table,"nan | 02: Pucca-kuccha (either wall or roof is made of pucca material, but others of kuccha material)"
+2024,post_poll,national,,gender,nan,Regional,70.0,,2024_post_poll_table_093.csv,,medium,auto-cleaned long table,nan | 98: Did not respond
+2024,pre_poll,national,,caste,nan,INC,70.7,,2024_pre_poll_table_010.csv,,medium,auto-cleaned long table,nan | 01: Increased
+2024,pre_poll,national,,gender,Valid,INDIA,11.0,,2024_pre_poll_table_014.csv,,medium,auto-cleaned long table,Valid | 01: Showcasing of India‟s growing power
+2024,pre_poll,national,,gender,nan,NDA,6.0,,2024_pre_poll_table_014.csv,,medium,auto-cleaned long table,nan | 02: NDA government‟s foreign policy achievement
+2024,pre_poll,national,,gender,nan,Others,20.0,,2024_pre_poll_table_014.csv,,medium,auto-cleaned long table,nan | 97: Any other
+2024,pre_poll,national,,religion,nan,INC,24.1,,2024_pre_poll_table_016.csv,,medium,auto-cleaned long table,nan | 02: It will increase differences among communities
+2024,pre_poll,national,,caste,nan,INC,23.6,,2024_pre_poll_table_019.csv,,medium,auto-cleaned long table,nan | 01: Congress/INDIA serious about caste census
+2024,pre_poll,national,,caste,nan,INC,55.1,,2024_pre_poll_table_020.csv,,medium,auto-cleaned long table,nan | 01: Increased
+2024,pre_poll,national,,age,nan,INC,28.0,,2024_pre_poll_table_023.csv,,medium,auto-cleaned long table,nan | 01: The yatra will help the Congress gain support in the upcoming 2024 Lok Sabha elections
+2024,pre_poll,national,,gender,nan,Regional,15.9,,2024_pre_poll_table_031.csv,,medium,auto-cleaned long table,nan | 002: The farmer‟s protest is a well-orchestrated conspiracy against the government
+2024,pre_poll,national,,religion,nan,Others,49.4,,2024_pre_poll_table_032.csv,,medium,auto-cleaned long table,nan | 02: Leaders from other religions can also effectively represent your interests and concerns
+2024,pre_poll,national,,caste,nan,INDIA,1.7,,2024_pre_poll_table_037.csv,,medium,auto-cleaned long table,nan | 07: India‟s international image
+2024,pre_poll,national,,caste,nan,Others,50.0,,2024_pre_poll_table_037.csv,,medium,auto-cleaned long table,nan | 97: Any other
+2024,pre_poll,national,,caste,nan,Regional,2.3,,2024_pre_poll_table_037.csv,,medium,auto-cleaned long table,nan | 98: No response
+2024,pre_poll,national,,gender,nan,Regional,38.0,,2024_pre_poll_table_039.csv,,medium,auto-cleaned long table,nan | 06: Poor condition of roads or transport etc.
+2024,pre_poll,national,,gender,nan,Others,54.0,,2024_pre_poll_table_039.csv,,medium,auto-cleaned long table,nan | 97: Other issue not mentioned above
+2024,pre_poll,national,,gender,nan,INDIA,7.7,,2024_pre_poll_table_041.csv,,medium,auto-cleaned long table,nan | 06: India‟s international image
+2024,pre_poll,national,,gender,nan,Regional,4.9,,2024_pre_poll_table_041.csv,,medium,auto-cleaned long table,nan | 11: Creating better infrastructure for roads or transportation etc.
+2024,pre_poll,national,,gender,nan,Others,1.4,,2024_pre_poll_table_041.csv,,medium,auto-cleaned long table,nan | 97: Other issue not mentioned above
+2024,pre_poll,national,,gender,nan,INC,22.6,,2024_pre_poll_table_042.csv,,medium,auto-cleaned long table,nan | 01: Increasing unemployment
+2024,pre_poll,national,,gender,nan,Regional,1.5,,2024_pre_poll_table_042.csv,,medium,auto-cleaned long table,nan | 06: Poor condition of roads or transport etc.
+2024,pre_poll,national,,gender,nan,Others,96.0,,2024_pre_poll_table_043.csv,,medium,auto-cleaned long table,nan | 97: Other issue not mentioned above
+2024,pre_poll,national,,religion,nan,INDIA,10.9,,2024_pre_poll_table_045.csv,,medium,auto-cleaned long table,nan | 01: India belongs only to Hindus
+2024,pre_poll,national,,religion,nan,Others,56.5,,2024_pre_poll_table_046.csv,,medium,auto-cleaned long table,nan | 02: Muslims are treated just like other citizens
+2024,pre_poll,national,,religion,nan,Others,21.2,,2024_pre_poll_table_047.csv,,medium,auto-cleaned long table,nan | 02: Not as much safe as others
+2024,pre_poll,national,,caste,nan,INDIA,21.0,,2024_pre_poll_table_055.csv,,medium,auto-cleaned long table,nan | 06: CPI-ML/ Communist Party of India Marxist- Leninist
+2024,pre_poll,national,,caste,nan,INC,15.0,,2024_pre_poll_table_055.csv,,medium,auto-cleaned long table,nan | 07: NCP (Ajit Pawar)/ Nationalist Congress Party
+2024,pre_poll,national,,caste,nan,INC,48.0,,2024_pre_poll_table_056.csv,,medium,auto-cleaned long table,nan | 08: NCP (Sharad Pawar)/ Nationalist Congress Party
+2024,pre_poll,national,,caste,nan,Regional,69.0,,2024_pre_poll_table_056.csv,,medium,auto-cleaned long table,nan | 09: JDU/ Janata Dal United
+2024,pre_poll,national,,caste,nan,INDIA,15.0,,2024_pre_poll_table_056.csv,,medium,auto-cleaned long table,nan | 14: All India Majlis-E-Ittehadul Muslimeen/AIMIM
+2024,pre_poll,national,,caste,nan,Others,71.0,,2024_pre_poll_table_056.csv,,medium,auto-cleaned long table,nan | 97: Other regional parties
+2024,pre_poll,national,,age,nan,INC,2.4,,2024_pre_poll_table_059.csv,,medium,auto-cleaned long table,nan | 10: Falling income
+2024,pre_poll,national,,caste,nan,Regional,7.7,,2024_pre_poll_table_062.csv,,medium,auto-cleaned long table,nan | 07: Religious leaders/hate speech makers
+2024,pre_poll,national,,region,nan,Others,56.0,,2024_pre_poll_table_072.csv,,medium,auto-cleaned long table,nan | 97: Other regional parties
+2024,pre_poll,national,,age,nan,INC,21.5,,2024_pre_poll_table_074.csv,,medium,auto-cleaned long table,nan | 01: With our total household income we are able to fulfil all our needs & also end up saving some money
+2024,pre_poll,national,,caste,nan,BJP,24.3,,2024_pre_poll_table_077.csv,,medium,auto-cleaned long table,nan | 01: BJP is as nepotistic as Congress
+2024,pre_poll,national,,other,Valid,Others,21.1,,2024_pre_poll_table_078.csv,,medium,auto-cleaned long table,Valid | 01: Political parties should refrain from forming alliances with other parties that are ideologically very different
+2024,pre_poll,national,,age,nan,BJP,20.7,,2024_pre_poll_table_079.csv,,medium,auto-cleaned long table,nan | 01: There is nothing wrong with the BJP taking leaders from other parties even if they have a tainted image
+2024,pre_poll,national,,gender,nan,INDIA,1.8,,2024_pre_poll_table_081.csv,,medium,auto-cleaned long table,nan | 07: India‟s international image
+2024,pre_poll,national,,gender,nan,Others,5.5,,2024_pre_poll_table_081.csv,,medium,auto-cleaned long table,nan | 97: Other answer
+2024,pre_poll,national,,gender,nan,Others,0.0,,2024_pre_poll_table_083.csv,,medium,auto-cleaned long table,nan | 3: Others
+2024,pre_poll,national,,age,nan,Others,30.0,,2024_pre_poll_table_084.csv,,medium,auto-cleaned long table,nan | 97: Any other
+2024,pre_poll,national,,gender,nan,Others,4.4,,2024_pre_poll_table_088.csv,,medium,auto-cleaned long table,nan | 97: Any other
+2024,pre_poll,national,,gender,nan,Others,2.7,,2024_pre_poll_table_091.csv,,medium,auto-cleaned long table,nan | 97: Any other
+2024,pre_poll,national,,caste,nan,Others,8.1,,2024_pre_poll_table_092.csv,,medium,auto-cleaned long table,nan | 04: Other Upper caste
+2024,pre_poll,national,,caste,nan,NDA,30.0,,2024_pre_poll_table_092.csv,,medium,auto-cleaned long table,nan | 14: Munda
+2024,pre_poll,national,,caste,nan,Regional,1.2,,2024_pre_poll_table_092.csv,,medium,auto-cleaned long table,nan | 98: No caste (Only when Respondent says so)
+2024,pre_poll,national,,religion,nan,Others,46.1,,2024_pre_poll_table_093.csv,,medium,auto-cleaned long table,nan | 03: Other Backward Caste (OBC)
+2024,pre_poll,national,,gender,nan,Others,28.1,,2024_pre_poll_table_097.csv,,medium,auto-cleaned long table,"nan | 02: Pucca-kuccha (either wall or roof is made of pucca material, but others of kuccha material)"

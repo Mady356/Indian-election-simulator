@@ -1,0 +1,8 @@
+col_0,col_1,N,(%),col_4,Valid,col_6
+,,,,,(%),
+Valid,01: Pucca (both wall and roof are made of pucca material),6179,31.4,45.5,,
+,"02: Pucca-kuccha (either wall or roof is made of pucca material, but others of kuccha material)",4796,24.4,35.3,,
+,03: Kaccha (both wall and roof are made of kuccha material other than material mentioned in Category 4,2048,10.4,15.1,,
+,"04: Hut (both wall and roof are made of grass, leaves, mud, un-brunt brick or bamboo)",409,2.1,3.0,,
+,98: Did not respond,136,.7,1.0,,
+,Total,13567,69.0,100.0,,

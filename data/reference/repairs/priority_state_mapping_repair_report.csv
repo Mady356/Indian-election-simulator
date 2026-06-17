@@ -1,0 +1,6 @@
+state,before_election_constituencies,after_election_constituencies,before_nfhs5_values,after_nfhs5_values,before_mean_coverage_share,after_mean_coverage_share,delta_nfhs5_values,delta_mean_coverage_share
+Tamil Nadu,39,39,28,28,0.6877236842105263,0.6877236842105263,0,0.0
+West Bengal,42,42,27,27,0.8655935483870968,0.8655935483870968,0,0.0
+Assam,14,14,7,8,1.0,1.0,1,0.0
+Uttarakhand,5,5,0,0,0.0,0.0,0,0.0
+ALL,,,350,351,,,1,

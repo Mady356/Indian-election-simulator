@@ -1,0 +1,11 @@
+Uttarakhand NFHS diagnostic
+===========================
+
+Rows in nfhs_district_panel for Uttarakhand: 0
+Rows in dhs_downloads_audit for Uttarakhand: 0
+Conclusion: Uttarakhand DHS/NFHS raw files are not present in the local download audit. The parser did not skip Uttarakhand — district features were never extracted because source microdata is missing.
+Uttarakhand clusters in dhs_cluster_geospatial.csv: 1313
+Uttarakhand rows in delimitation summary: 22
+
+Recommended next step: download Uttarakhand NFHS HR/IR files and rerun
+python -m src.demographics.dhs.build_nfhs_district_features

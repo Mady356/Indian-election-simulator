@@ -1,0 +1,43 @@
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Local SQLite database (default for dev)
+backend/data/*.db
+
+# Platform runtime logs
+logs/
+
+# Raw / restricted research data — never commit
+data/behaviour-analysis/
+data/postpoll/raw/
+data/dhs/raw/
+data/nfhs/raw/
+data/raw/dhs_downloads/
+data/demographics/raw/
+data/demographics/raw/dhs_extracted/
+
+# Microdata & archives (repo-wide)
+**/*.DTA
+**/*.dta
+**/*.SAV
+**/*.sav
+**/*.zip
+**/*.7z
+**/*.rar
+
+# IDE
+.cursor/
+.idea/
+.vscode/
+
+# Keep deployable static assets (do NOT ignore):
+# frontend/public/data/
+# frontend/public/geo/
