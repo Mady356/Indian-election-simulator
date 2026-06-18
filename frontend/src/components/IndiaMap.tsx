@@ -1,15 +1,17 @@
 import { useEffect, useRef, useCallback } from "react";
 import maplibregl from "maplibre-gl";
 import type { FeatureCollection } from "geojson";
-import { COLORS, GEO_URLS, INDIA_BOUNDS, type MapColorMode } from "@/lib/constants";
+import { COLORS, GEO_URLS, INDIA_BOUNDS, QUALITY_LABELS, type MapColorMode } from "@/lib/constants";
 import { bboxFromFeatures } from "@/lib/geo";
 import {
   coverageColor,
+  formatSwing,
   normalizeKey,
   partyColor,
   swingColor,
   titleCase,
 } from "@/lib/format";
+import { MapLegend } from "./MapLegend";
 import {
   matchGeoConstituency,
   type ConstituencyRecord,
@@ -26,6 +28,33 @@ interface IndiaMapProps {
 }
 
 const EMPTY_FC: FeatureCollection = { type: "FeatureCollection", features: [] };
+
+function buildTooltipHtml(
+  name: string,
+  state: string,
+  record: ConstituencyRecord | undefined,
+): string {
+  const quality = record
+    ? QUALITY_LABELS[record.data_quality_label] || record.data_quality_label
+    : "Not matched";
+
+  const rows = [
+    ["State", titleCase(state)],
+    ["Winner 2024", record?.winner_party_2024 || "N/A"],
+    ["BJP swing", formatSwing(record?.bjp_swing_2019_2024)],
+    ["INC swing", formatSwing(record?.inc_swing_2019_2024)],
+    ["Data quality", quality],
+  ];
+
+  const rowHtml = rows
+    .map(
+      ([label, value]) =>
+        `<div style="display:flex;justify-content:space-between;gap:12px;margin-top:4px"><span style="color:#94A3B8">${label}</span><span style="font-weight:500;text-align:right">${value}</span></div>`,
+    )
+    .join("");
+
+  return `<div style="min-width:180px"><strong style="font-size:13px">${titleCase(name)}</strong>${rowHtml}</div>`;
+}
 
 function mapFillColor(record: ConstituencyRecord | undefined, mode: MapColorMode): string {
   if (!record) return "#1f2937";
@@ -171,9 +200,25 @@ export function IndiaMap({
       map.getCanvas().style.cursor = "pointer";
       const props = e.features[0].properties || {};
       const name = String(props.pc_name || "");
-      const popup = popupRef.current || new maplibregl.Popup({ closeButton: false, closeOnClick: false });
+      const state = String(props.st_name || "");
+      const record = matchGeoConstituency(
+        state,
+        name,
+        data.constituencyByKey,
+      );
+      const popup =
+        popupRef.current ||
+        new maplibregl.Popup({
+          closeButton: false,
+          closeOnClick: false,
+          offset: 12,
+          className: "map-tooltip",
+        });
       popupRef.current = popup;
-      popup.setLngLat(e.lngLat).setHTML(`<strong>${titleCase(name)}</strong>`).addTo(map);
+      popup
+        .setLngLat(e.lngLat)
+        .setHTML(buildTooltipHtml(name, state, record))
+        .addTo(map);
     };
 
     const onLeave = () => {
@@ -211,8 +256,9 @@ export function IndiaMap({
   return (
     <div className={`relative overflow-hidden rounded-xl border border-border ${className || "h-full min-h-[420px]"}`}>
       <div ref={containerRef} className="h-full w-full min-h-[420px]" />
+      <MapLegend mode={colorMode} />
       {selected ? (
-        <div className="pointer-events-none absolute left-3 top-3 rounded-lg border border-border bg-card/90 px-3 py-1.5 text-xs backdrop-blur">
+        <div className="pointer-events-none absolute right-3 top-3 rounded-lg border border-border bg-card/90 px-3 py-1.5 text-xs backdrop-blur">
           Selected: <strong>{selected.constituency}</strong>
         </div>
       ) : null}

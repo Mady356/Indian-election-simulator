@@ -18,9 +18,9 @@ const NAV_ITEMS = [
 ] as const;
 
 const COMING_SOON = [
-  { label: "Forecast", icon: LineChart },
-  { label: "Vote Bank Analysis", icon: Vote },
-  { label: "Opinion Poll Lab", icon: Compass },
+  { label: "Forecast", description: "Scenario simulator in development", icon: LineChart },
+  { label: "Vote Bank Analysis", description: "CSDS-Lokniti layer pending", icon: Vote },
+  { label: "Opinion Poll Lab", description: "Pre-poll vs post-poll comparison", icon: Compass },
 ] as const;
 
 export function Sidebar() {
@@ -53,16 +53,20 @@ export function Sidebar() {
         <div className="mt-4 px-3 text-[10px] font-semibold uppercase tracking-wider text-muted">
           Coming soon
         </div>
-        {COMING_SOON.map(({ label, icon: Icon }) => (
+        {COMING_SOON.map(({ label, description, icon: Icon }) => (
           <div
             key={label}
-            className="flex items-center justify-between rounded-lg px-3 py-2 text-sm text-muted/70"
+            className="rounded-lg px-3 py-2 text-sm text-muted/70"
+            title={description}
           >
-            <span className="flex items-center gap-3">
-              <Icon className="h-4 w-4" />
-              {label}
-            </span>
-            <span className="rounded-full bg-border px-2 py-0.5 text-[10px]">Soon</span>
+            <div className="flex items-center justify-between gap-2">
+              <span className="flex items-center gap-3">
+                <Icon className="h-4 w-4 shrink-0" />
+                {label}
+              </span>
+              <span className="shrink-0 rounded-full bg-border px-2 py-0.5 text-[10px]">Soon</span>
+            </div>
+            <p className="mt-1 pl-7 text-[11px] leading-snug text-muted/60">{description}</p>
           </div>
         ))}
       </nav>

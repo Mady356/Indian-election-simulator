@@ -1,9 +1,10 @@
 import { useMemo, useState } from "react";
 import { ConstituencyPanel } from "@/components/ConstituencyPanel";
+import { ExploreHero } from "@/components/ExploreHero";
 import { IndiaMap } from "@/components/IndiaMap";
 import { SearchBox } from "@/components/SearchBox";
 import { EmptyState, PageError, PageLoader } from "@/components/Layout";
-import { APP_DESCRIPTION, MAP_COLOR_MODES, type MapColorMode } from "@/lib/constants";
+import { MAP_COLOR_MODES, type MapColorMode } from "@/lib/constants";
 import { useDashboardData } from "@/context/DataContext";
 import type { ConstituencyRecord } from "@/lib/data";
 
@@ -19,19 +20,17 @@ export function ExplorePage() {
     return [...new Set(data.constituencies.map((c) => c.state))].sort();
   }, [data]);
 
+  const selectConstituency = (record: ConstituencyRecord) => {
+    setSelected(record);
+    setStateFilter(record.state);
+  };
+
   if (isLoading) return <PageLoader />;
   if (isError || !data) return <PageError message={error?.message} />;
 
   return (
-    <div className="space-y-4">
-      <div>
-        <h1 className="text-2xl font-semibold">Explore</h1>
-        <p className="mt-1 max-w-3xl text-sm text-muted">{APP_DESCRIPTION}</p>
-        <p className="mt-1 text-sm text-muted">
-          {data.coverageSummary.election_constituencies_total} constituencies ·{" "}
-          {data.coverageSummary.constituencies_with_demographic_coverage} with demographic coverage
-        </p>
-      </div>
+    <div className="space-y-5">
+      <ExploreHero coverage={data.coverageSummary} />
 
       <div className="grid gap-4 lg:grid-cols-[minmax(0,1fr)_360px]">
         <div className="space-y-3">
@@ -41,10 +40,7 @@ export function ExplorePage() {
                 constituencies={data.constituencies}
                 value={search}
                 onChange={setSearch}
-                onSelect={(record) => {
-                  setSelected(record);
-                  setStateFilter(record.state);
-                }}
+                onSelect={selectConstituency}
               />
             </div>
             <select
@@ -84,11 +80,15 @@ export function ExplorePage() {
             colorMode={colorMode}
             stateFilter={stateFilter}
             selected={selected}
-            onConstituencyClick={setSelected}
+            onConstituencyClick={selectConstituency}
           />
         </div>
 
-        <ConstituencyPanel record={selected} />
+        <ConstituencyPanel
+          record={selected}
+          constituencies={data.constituencies}
+          onSelect={selectConstituency}
+        />
       </div>
 
       {data.constituencies.length === 0 ? (

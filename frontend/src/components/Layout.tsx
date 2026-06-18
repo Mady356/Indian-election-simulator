@@ -12,8 +12,8 @@ export function Layout() {
         <main className="flex-1 overflow-auto p-4 md:p-6">
           <Outlet />
         </main>
-        <footer className="border-t border-border bg-card/30 px-4 py-4 text-xs leading-relaxed text-muted md:px-6">
-          {APP_DISCLAIMER}
+        <footer className="border-t border-border bg-card/30 px-4 py-5 md:px-6">
+          <p className="mx-auto max-w-4xl text-xs leading-relaxed text-muted">{APP_DISCLAIMER}</p>
         </footer>
       </div>
     </div>
