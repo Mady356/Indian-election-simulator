@@ -1,4 +1,5 @@
 import { Link, useParams } from "react-router-dom";
+import { SeatIntelligenceCard } from "@/components/SeatIntelligenceCard";
 import { ConstituencyDemographics, ConstituencyDistrictSection } from "@/components/ConstituencyDemographics";
 import { ConstituencyHero } from "@/components/ConstituencyHero";
 import { MetricCard } from "@/components/MetricCard";
@@ -6,6 +7,7 @@ import { MarginChart, TurnoutChart, VoteShareChart } from "@/components/SwingCha
 import { EmptyState, PageError, PageLoader } from "@/components/Layout";
 import { useDashboardData } from "@/context/DataContext";
 import { constituencyLookupKey } from "@/lib/data";
+import { getSeatAnalysis } from "@/lib/seatAnalysis";
 import {
   formatCoverageFraction,
   marginChange,
@@ -65,6 +67,11 @@ export function ConstituencyPage() {
 
   const tChange = turnoutChange(record);
   const mChange = marginChange(record);
+  const seatAnalysis = getSeatAnalysis(
+    data.seatAnalysisByKey,
+    record.state_key,
+    record.constituency_key,
+  );
 
   return (
     <div className="mx-auto max-w-6xl space-y-6">
@@ -165,6 +172,8 @@ export function ConstituencyPage() {
           </div>
         </div>
       </section>
+
+      <SeatIntelligenceCard analysis={seatAnalysis} />
 
       <ConstituencyDemographics record={record} />
 

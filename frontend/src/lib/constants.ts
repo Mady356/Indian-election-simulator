@@ -22,6 +22,7 @@ export const DATA_URLS = {
   coverageSummary: "/data/coverage_summary.json",
   topSwing: "/data/top_swing_constituencies.json",
   variableCoverage: "/data/variable_coverage.json",
+  seatAnalysis: "/data/seat_analysis.json",
 } as const;
 
 export const COLORS = {

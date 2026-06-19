@@ -1,5 +1,6 @@
 import { DATA_URLS } from "./constants";
 import { normalizeKey } from "./format";
+import { loadSeatAnalysis, type SeatAnalysisRecord } from "./seatAnalysis";
 
 export type DataQualityLabel = "high" | "medium" | "low" | "election_only";
 
@@ -159,6 +160,7 @@ export interface DashboardData {
   variableCoverage: VariableCoverageRow[];
   constituencyByKey: Map<string, ConstituencyRecord>;
   stateByKey: Map<string, StateSummary>;
+  seatAnalysisByKey: Map<string, SeatAnalysisRecord>;
 }
 
 async function fetchJson<T>(url: string): Promise<T> {
@@ -198,6 +200,7 @@ export async function loadDashboardData(): Promise<DashboardData> {
     coverageSummary,
     topSwing,
     variableCoverage,
+    seatAnalysisByKey,
   ] = await Promise.all([
     fetchJson<ConstituencyRecord[]>(DATA_URLS.constituencies),
     fetchJson<StateSummary[]>(DATA_URLS.states),
@@ -205,6 +208,7 @@ export async function loadDashboardData(): Promise<DashboardData> {
     fetchJson<CoverageSummary>(DATA_URLS.coverageSummary),
     fetchJson<Record<string, SwingRow[]>>(DATA_URLS.topSwing),
     fetchJson<VariableCoverageRow[]>(DATA_URLS.variableCoverage),
+    loadSeatAnalysis(),
   ]);
 
   const constituencyByKey = new Map<string, ConstituencyRecord>();
@@ -226,6 +230,7 @@ export async function loadDashboardData(): Promise<DashboardData> {
     variableCoverage,
     constituencyByKey,
     stateByKey,
+    seatAnalysisByKey,
   };
 }
 
