@@ -1,0 +1,280 @@
+priority_rank,state,constituency,reason,priority_score,suggested_manual_review
+1,Maharashtra,Amravati,seat_flip;top_bjp_gain;top_inc_gain,110,yes
+2,Maharashtra,Bhiwandi,seat_flip;top_bjp_loss;top_inc_loss,110,yes
+3,Karnataka,Hassan,seat_flip;top_bjp_loss;top_inc_gain,110,yes
+4,Tamil Nadu,TIRUNELVELI,seat_flip;top_bjp_gain;top_inc_gain,110,yes
+5,Uttar Pradesh,Bansgaon,top_inc_gain;closest_2024,90,yes
+6,Rajasthan,JAIPUR RURAL,top_bjp_loss;closest_2024,90,yes
+7,Maharashtra,Mumbai North West,top_inc_loss;closest_2024,90,yes
+8,Andhra Pradesh,Thirupathi,top_bjp_gain;closest_2024,90,yes
+9,Maharashtra,Baramati,seat_flip;major_constituency;top_bjp_loss,85,yes
+10,Maharashtra,Mumbai South,seat_flip;major_constituency;top_inc_loss,85,yes
+11,Punjab,Anandpur Sahib,seat_flip;closest_2024,80,yes
+12,Maharashtra,Beed,seat_flip;closest_2024,80,yes
+13,Chandigarh,Chandigarh,seat_flip;closest_2024,80,yes
+14,Uttar Pradesh,Dhaurahra,seat_flip;closest_2024,80,yes
+15,Maharashtra,Dhule,seat_flip;closest_2024,80,yes
+16,Punjab,Firozpur,seat_flip;closest_2024,80,yes
+17,Uttar Pradesh,Hamirpur,seat_flip;closest_2024,80,yes
+18,Odisha,Jajpur,seat_flip;closest_2024,80,yes
+19,Telangana,Mahbubnagar,seat_flip;closest_2024,80,yes
+20,Rajasthan,NAGAUR,top_bjp_gain;top_inc_loss,80,yes
+21,Uttar Pradesh,Salempur,seat_flip;closest_2024,80,yes
+22,Tamil Nadu,ARANI,seat_flip;top_inc_loss,70,yes
+23,Uttar Pradesh,Allahabad,seat_flip;top_inc_gain,70,yes
+24,Uttar Pradesh,Amroha,seat_flip;top_inc_gain,70,yes
+25,Andhra Pradesh,Anakapalle,seat_flip;top_bjp_gain,70,yes
+26,Rajasthan,BARMER,seat_flip;top_bjp_loss,70,yes
+27,Uttar Pradesh,Baghpat,seat_flip;top_bjp_loss,70,yes
+28,Uttar Pradesh,Barabanki,seat_flip;top_inc_gain,70,yes
+29,Maharashtra,Bhandara Gondiya,seat_flip;top_inc_gain,70,yes
+30,Uttar Pradesh,Bijnor,seat_flip;top_bjp_loss,70,yes
+31,Tamil Nadu,CUDDALORE,seat_flip;top_inc_gain,70,yes
+32,Telangana,Chevella,seat_flip;top_bjp_gain,70,yes
+33,Punjab,Faridkot,seat_flip;top_inc_loss,70,yes
+34,Rajasthan,GANGANAGAR,seat_flip;top_bjp_loss,70,yes
+35,Uttar Pradesh,Ghosi,seat_flip;top_bjp_loss,70,yes
+36,Punjab,Gurdaspur,seat_flip;top_bjp_loss,70,yes
+37,Maharashtra,Hingoli,seat_flip;top_inc_loss,70,yes
+38,Punjab,Hoshiarpur,seat_flip;top_bjp_loss,70,yes
+39,Maharashtra,Jalna,seat_flip;top_bjp_loss,70,yes
+40,Assam,Kaziranga,seat_flip;top_bjp_gain,70,yes
+41,Karnataka,Kolar,seat_flip;top_bjp_loss,70,yes
+42,Maharashtra,Kolhapur,seat_flip;top_inc_gain,70,yes
+43,Tamil Nadu,MAYILADUTHURAI,seat_flip;top_inc_gain,70,yes
+44,Telangana,Malkajgiri,seat_flip;top_bjp_gain,70,yes
+45,Karnataka,Mandya,seat_flip;top_inc_gain,70,yes
+46,Maharashtra,Mumbai South Central,seat_flip;top_inc_loss,70,yes
+47,Andhra Pradesh,Narsapuram,seat_flip;top_bjp_gain,70,yes
+48,Bihar,Nawada,seat_flip;top_bjp_gain,70,yes
+49,Manipur,Outer Manipur,seat_flip;top_bjp_loss,70,yes
+50,Maharashtra,Palghar,seat_flip;top_bjp_gain,70,yes
+51,Bihar,Purnia,seat_flip;top_inc_loss,70,yes
+52,Andhra Pradesh,Rajahmundry,seat_flip;top_bjp_gain,70,yes
+53,Maharashtra,Ratnagiri- Sindhudurg,seat_flip;top_bjp_gain,70,yes
+54,Rajasthan,SIKAR,seat_flip;top_inc_loss,70,yes
+55,Haryana,SIRSA,seat_flip;top_bjp_loss,70,yes
+56,Maharashtra,Satara,seat_flip;top_bjp_gain,70,yes
+57,Bihar,Sheohar,seat_flip;top_bjp_loss,70,yes
+58,Meghalaya,Shillong,seat_flip;top_inc_loss,70,yes
+59,Maharashtra,Shirdi,seat_flip;top_inc_loss,70,yes
+60,Jharkhand,Singhbhum,seat_flip;top_inc_loss,70,yes
+61,Uttar Pradesh,Sitapur,seat_flip;top_inc_gain,70,yes
+62,Tamil Nadu,THENI,seat_flip;top_inc_loss,70,yes
+63,Tamil Nadu,TIRUCHIRAPPALLI,seat_flip;top_inc_loss,70,yes
+64,Maharashtra,Wardha,seat_flip;top_inc_loss,70,yes
+65,Maharashtra,Yavatmal- Washim,seat_flip;top_inc_loss,70,yes
+66,Telangana,Zahirabad,seat_flip;top_bjp_gain,70,yes
+67,Tamil Nadu,CHENNAI SOUTH,major_constituency;top_bjp_gain,55,yes
+68,West Bengal,Arambag,closest_2024,50,yes
+69,Kerala,Attingal,closest_2024,50,yes
+70,West Bengal,Balurghat,closest_2024,50,yes
+71,West Bengal,Bishnupur,closest_2024,50,yes
+72,Uttar Pradesh,Farrukhabad,closest_2024,50,yes
+73,Maharashtra,Hatkanangale,closest_2024,50,yes
+74,Chhattisgarh,KANKER,closest_2024,50,yes
+75,Uttar Pradesh,Meerut,closest_2024,50,yes
+76,Uttar Pradesh,Phulpur,closest_2024,50,yes
+77,West Bengal,Purulia,closest_2024,50,yes
+78,Tamil Nadu,VIRUDHUNAGAR,closest_2024,50,yes
+79,Uttar Pradesh,Amethi,seat_flip;major_constituency,45,yes
+80,West Bengal,Asansol,seat_flip;major_constituency,45,yes
+81,Tamil Nadu,COIMBATORE,seat_flip;major_constituency,45,yes
+82,Jammu and Kashmir,ANANTNAG-RAJOURI,top_inc_loss,40,yes
+83,Punjab,Amritsar,top_bjp_loss,40,yes
+84,Andhra Pradesh,Araku,top_bjp_gain,40,yes
+85,Bihar,Bhagalpur,top_inc_gain,40,yes
+86,Gujarat,Bhavnagar,top_inc_loss,40,yes
+87,Telangana,Bhongir,top_bjp_gain,40,yes
+88,Karnataka,Bijapur,top_inc_gain,40,yes
+89,Tamil Nadu,CHENNAI CENTRAL,top_bjp_gain,40,yes
+90,Kerala,Chalakudy,top_bjp_loss,40,yes
+91,Uttar Pradesh,Deoria,top_inc_gain,40,yes
+92,Assam,Dibrugarh,top_inc_loss,40,yes
+93,Haryana,FARIDABAD,top_bjp_loss,40,yes
+94,Uttar Pradesh,Fatehpur Sikri,top_bjp_loss,40,yes
+95,Jharkhand,Godda,top_inc_gain,40,yes
+96,Jharkhand,Hazaribagh,top_bjp_loss,40,yes
+97,Madhya Pradesh,INDORE,top_inc_loss,40,yes
+98,Uttar Pradesh,Jhansi,top_inc_gain,40,yes
+99,Haryana,KARNAL,top_bjp_loss,40,yes
+100,Punjab,Ludhiana,top_bjp_gain,40,yes
+101,Himachal Pradesh,MANDI,top_bjp_loss,40,yes
+102,Bihar,Maharajganj,top_inc_gain,40,yes
+103,Uttar Pradesh,Maharajganj,top_inc_gain,40,yes
+104,Bihar,Munger,top_inc_loss,40,yes
+105,Tamil Nadu,NILGIRIS,top_bjp_gain,40,yes
+106,NCT OF Delhi,New Delhi,top_inc_loss,40,yes
+107,Puducherry,PUDUCHERRY,top_bjp_gain,40,yes
+108,Bihar,Paschim Champaran,top_inc_gain,40,yes
+109,Punjab,Patiala,top_bjp_gain,40,yes
+110,Tamil Nadu,RAMANATHAPURAM,top_bjp_loss,40,yes
+111,Andhra Pradesh,Rajampet,top_bjp_gain,40,yes
+112,Maharashtra,Raver,top_inc_loss,40,yes
+113,Karnataka,Shimoga,top_inc_gain,40,yes
+114,Bihar,Supaul,top_inc_loss,40,yes
+115,Tamil Nadu,THOOTHUKKUDI,top_bjp_loss,40,yes
+116,Karnataka,Tumkur,top_inc_gain,40,yes
+117,Karnataka,Udupi Chikmagalur,top_inc_gain,40,yes
+118,Karnataka,Uttara Kannada,top_inc_gain,40,yes
+119,Tamil Nadu,VELLORE,top_bjp_gain,40,yes
+120,Haryana,AMBALA,seat_flip,30,yes
+121,Maharashtra,Ahmednagar,seat_flip,30,yes
+122,Kerala,Alappuzha,seat_flip,30,yes
+123,Kerala,Alathur,seat_flip,30,yes
+124,Andhra Pradesh,Amalapuram,seat_flip,30,yes
+125,Uttar Pradesh,Ambedkar Nagar,seat_flip,30,yes
+126,Andhra Pradesh,Ananthapur,seat_flip,30,yes
+127,Andaman & Nicobar Islands,Andaman & Nicobar Islands,seat_flip,30,yes
+128,Uttar Pradesh,Aonla,seat_flip,30,yes
+129,Bihar,Arrah,seat_flip,30,yes
+130,Odisha,Aska,seat_flip,30,yes
+131,Bihar,Aurangabad,seat_flip,30,yes
+132,Maharashtra,Aurangabad,seat_flip,30,yes
+133,Rajasthan,BANSWARA,seat_flip,30,yes
+134,Jammu and Kashmir,BARAMULLA,seat_flip,30,yes
+135,Chhattisgarh,BASTAR,seat_flip,30,yes
+136,Rajasthan,BHARATPUR,seat_flip,30,yes
+137,Uttar Pradesh,Badaun,seat_flip,30,yes
+138,West Bengal,Baharampur,seat_flip,30,yes
+139,Uttar Pradesh,Ballia,seat_flip,30,yes
+140,Gujarat,Banaskantha,seat_flip,30,yes
+141,Uttar Pradesh,Banda,seat_flip,30,yes
+142,Karnataka,Bangalore Rural,seat_flip,30,yes
+143,West Bengal,Bankura,seat_flip,30,yes
+144,Andhra Pradesh,Bapatla,seat_flip,30,yes
+145,West Bengal,Bardhaman-Durgapur,seat_flip,30,yes
+146,Assam,Barpeta,seat_flip,30,yes
+147,West Bengal,Barrackpur,seat_flip,30,yes
+148,Uttar Pradesh,Basti,seat_flip,30,yes
+149,Karnataka,Bellary,seat_flip,30,yes
+150,Odisha,Berhampur,seat_flip,30,yes
+151,Odisha,Bhadrak,seat_flip,30,yes
+152,Karnataka,Bidar,seat_flip,30,yes
+153,Bihar,Buxar,seat_flip,30,yes
+154,Madhya Pradesh,CHHINDWARA,seat_flip,30,yes
+155,Rajasthan,CHURU,seat_flip,30,yes
+156,Karnataka,Chamarajanagar,seat_flip,30,yes
+157,Uttar Pradesh,Chandauli,seat_flip,30,yes
+158,Karnataka,Chikkodi,seat_flip,30,yes
+159,Andhra Pradesh,Chittoor,seat_flip,30,yes
+160,West Bengal,Coochbehar,seat_flip,30,yes
+161,Odisha,Cuttack,seat_flip,30,yes
+162,Rajasthan,DAUSA,seat_flip,30,yes
+163,Tamil Nadu,DINDIGUL,seat_flip,30,yes
+164,Dadra & Nagar Haveli and Daman & Diu,Dadar & Nagar Haveli,seat_flip,30,yes
+165,Dadra & Nagar Haveli and Daman & Diu,Daman & Diu,seat_flip,30,yes
+166,Karnataka,Davanagere,seat_flip,30,yes
+167,Odisha,Dhenkanal,seat_flip,30,yes
+168,Assam,Dhubri,seat_flip,30,yes
+169,Maharashtra,Dindori,seat_flip,30,yes
+170,Jharkhand,Dumka,seat_flip,30,yes
+171,Andhra Pradesh,Eluru,seat_flip,30,yes
+172,Uttar Pradesh,Etah,seat_flip,30,yes
+173,Uttar Pradesh,Etawah,seat_flip,30,yes
+174,Uttar Pradesh,Faizabad,seat_flip,30,yes
+175,Uttar Pradesh,Fatehpur,seat_flip,30,yes
+176,Uttar Pradesh,Firozabad,seat_flip,30,yes
+177,Maharashtra,Gadchiroli - Chimur,seat_flip,30,yes
+178,Bihar,Gaya,seat_flip,30,yes
+179,Uttar Pradesh,Ghazipur,seat_flip,30,yes
+180,Karnataka,Gulbarga,seat_flip,30,yes
+181,Haryana,HISAR,seat_flip,30,yes
+182,Bihar,Hajipur,seat_flip,30,yes
+183,Andhra Pradesh,Hindupur,seat_flip,30,yes
+184,West Bengal,Hooghly,seat_flip,30,yes
+185,Manipur,Inner Manipur,seat_flip,30,yes
+186,Rajasthan,JHUNJHUNU,seat_flip,30,yes
+187,Odisha,Jagatsinghpur,seat_flip,30,yes
+188,Bihar,Jahanabad,seat_flip,30,yes
+189,Uttar Pradesh,Jalaun,seat_flip,30,yes
+190,Bihar,Jamui,seat_flip,30,yes
+191,Uttar Pradesh,Jaunpur,seat_flip,30,yes
+192,West Bengal,Jhargram,seat_flip,30,yes
+193,Assam,Jorhat,seat_flip,30,yes
+194,Rajasthan,KARAULI-DHOLPUR,seat_flip,30,yes
+195,Uttar Pradesh,Kairana,seat_flip,30,yes
+196,Andhra Pradesh,Kakinada,seat_flip,30,yes
+197,Odisha,Kandhamal,seat_flip,30,yes
+198,Uttar Pradesh,Kannauj,seat_flip,30,yes
+199,West Bengal,Kanthi,seat_flip,30,yes
+200,Bihar,Karakat,seat_flip,30,yes
+201,Bihar,Katihar,seat_flip,30,yes
+202,Uttar Pradesh,Kaushambi,seat_flip,30,yes
+203,Odisha,Kendrapara,seat_flip,30,yes
+204,Odisha,Keonjhar,seat_flip,30,yes
+205,Punjab,Khadoor Sahib,seat_flip,30,yes
+206,Bihar,Khagaria,seat_flip,30,yes
+207,Telangana,Khammam,seat_flip,30,yes
+208,Uttar Pradesh,Kheri,seat_flip,30,yes
+209,Jharkhand,Khunti,seat_flip,30,yes
+210,Assam,Kokrajhar,seat_flip,30,yes
+211,Karnataka,Koppal,seat_flip,30,yes
+212,Kerala,Kottayam,seat_flip,30,yes
+213,Andhra Pradesh,Kurnoolu,seat_flip,30,yes
+214,Ladakh,Ladakh,seat_flip,30,yes
+215,Lakshadweep,Lakshadweep,seat_flip,30,yes
+216,Uttar Pradesh,Lalganj,seat_flip,30,yes
+217,Maharashtra,Latur,seat_flip,30,yes
+218,Jharkhand,Lohardaga,seat_flip,30,yes
+219,Mizoram,MIZORAM,seat_flip,30,yes
+220,Uttar Pradesh,Machhlishahr,seat_flip,30,yes
+221,Andhra Pradesh,Machilipatnam,seat_flip,30,yes
+222,Maharashtra,Madha,seat_flip,30,yes
+223,Telangana,Mahabubabad,seat_flip,30,yes
+224,Telangana,Medak,seat_flip,30,yes
+225,West Bengal,Medinipur,seat_flip,30,yes
+226,Uttar Pradesh,Mohanlalganj,seat_flip,30,yes
+227,Maharashtra,Mumbai North Central,seat_flip,30,yes
+228,Maharashtra,Mumbai North East,seat_flip,30,yes
+229,Uttar Pradesh,Muzaffarnagar,seat_flip,30,yes
+230,Odisha,Nabarangpur,seat_flip,30,yes
+231,Nagaland,Nagaland,seat_flip,30,yes
+232,Telangana,Nagarkurnool,seat_flip,30,yes
+233,Uttar Pradesh,Nagina,seat_flip,30,yes
+234,Maharashtra,Nanded,seat_flip,30,yes
+235,Maharashtra,Nandurbar,seat_flip,30,yes
+236,Andhra Pradesh,Nandyal,seat_flip,30,yes
+237,Andhra Pradesh,Narsaraopet,seat_flip,30,yes
+238,Maharashtra,Nashik,seat_flip,30,yes
+239,Andhra Pradesh,Nellore,seat_flip,30,yes
+240,Andhra Pradesh,Ongole,seat_flip,30,yes
+241,Maharashtra,Osmanabad,seat_flip,30,yes
+242,Maharashtra,Parbhani,seat_flip,30,yes
+243,Bihar,Patliputra,seat_flip,30,yes
+244,Telangana,Peddapalle,seat_flip,30,yes
+245,Uttar Pradesh,Pratapgarh,seat_flip,30,yes
+246,Odisha,Puri,seat_flip,30,yes
+247,Haryana,ROHTAK,seat_flip,30,yes
+248,Karnataka,Raichur,seat_flip,30,yes
+249,Maharashtra,Ramtek,seat_flip,30,yes
+250,Uttar Pradesh,Robertsganj,seat_flip,30,yes
+251,Haryana,SONIPAT,seat_flip,30,yes
+252,Uttar Pradesh,Saharanpur,seat_flip,30,yes
+253,Bihar,Samastipur,seat_flip,30,yes
+254,Maharashtra,Sangli,seat_flip,30,yes
+255,Uttar Pradesh,Sant Kabir Nagar,seat_flip,30,yes
+256,Bihar,Sasaram,seat_flip,30,yes
+257,Maharashtra,Shirur,seat_flip,30,yes
+258,Uttar Pradesh,Shrawasti,seat_flip,30,yes
+259,Maharashtra,Solapur,seat_flip,30,yes
+260,Uttar Pradesh,Sultanpur,seat_flip,30,yes
+261,Rajasthan,TONK-SAWAI MADHOPUR,seat_flip,30,yes
+262,West Bengal,Tamluk,seat_flip,30,yes
+263,Kerala,Thrissur,seat_flip,30,yes
+264,Meghalaya,Tura,seat_flip,30,yes
+265,Tamil Nadu,VILUPPURAM,seat_flip,30,yes
+266,Bihar,Vaishali,seat_flip,30,yes
+267,Andhra Pradesh,Visakhapatnam,seat_flip,30,yes
+268,Andhra Pradesh,Vizianagaram,seat_flip,30,yes
+269,Telangana,Warangal,seat_flip,30,yes
+270,Karnataka,Bangalore South,major_constituency,15,optional
+271,West Bengal,Diamond harbour,major_constituency,15,optional
+272,Gujarat,Gandhinagar,major_constituency,15,optional
+273,Telangana,Hyderabad,major_constituency,15,optional
+274,Maharashtra,Mumbai North,major_constituency,15,optional
+275,Maharashtra,Nagpur,major_constituency,15,optional
+276,Uttar Pradesh,Rae Bareli,major_constituency,15,optional
+277,Kerala,Thiruvananthapuram,major_constituency,15,optional
+278,Uttar Pradesh,Varanasi,major_constituency,15,optional
+279,Kerala,Wayanad,major_constituency,15,optional

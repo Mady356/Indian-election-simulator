@@ -51,6 +51,14 @@ interface MarginChartProps {
 }
 
 export function MarginChart({ margin2019, margin2024 }: MarginChartProps) {
+  if (margin2019 == null && margin2024 == null) {
+    return (
+      <div>
+        <h3 className="mb-3 text-sm font-medium">Winning margin (%)</h3>
+        <p className="text-sm text-muted">Margin data not available.</p>
+      </div>
+    );
+  }
   const data = [
     { label: "Margin", y2019: margin2019 ?? undefined, y2024: margin2024 ?? undefined },
   ];
@@ -63,6 +71,14 @@ interface TurnoutChartProps {
 }
 
 export function TurnoutChart({ turnout2019, turnout2024 }: TurnoutChartProps) {
+  if (turnout2019 == null && turnout2024 == null) {
+    return (
+      <div>
+        <h3 className="mb-3 text-sm font-medium">Turnout (%)</h3>
+        <p className="text-sm text-muted">Turnout data not available.</p>
+      </div>
+    );
+  }
   const data = [
     { label: "Turnout", y2019: turnout2019 ?? undefined, y2024: turnout2024 ?? undefined },
   ];
@@ -77,6 +93,16 @@ interface VoteShareChartProps {
 }
 
 export function VoteShareChart({ bjp2019, bjp2024, inc2019, inc2024 }: VoteShareChartProps) {
+  const hasData =
+    bjp2019 != null || bjp2024 != null || inc2019 != null || inc2024 != null;
+  if (!hasData) {
+    return (
+      <div>
+        <h3 className="mb-3 text-sm font-medium">BJP / INC vote share (%)</h3>
+        <p className="text-sm text-muted">Vote share data not available.</p>
+      </div>
+    );
+  }
   const data = [
     { label: "BJP", y2019: bjp2019 ?? undefined, y2024: bjp2024 ?? undefined },
     { label: "INC", y2019: inc2019 ?? undefined, y2024: inc2024 ?? undefined },
