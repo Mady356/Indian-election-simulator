@@ -1,0 +1,59 @@
+party,normalized_party,alliance_2024,notes
+BJP,BJP,NDA,
+INC,INC,INDIA,
+CONGRESS,INC,INDIA,Alias for INC
+TDP,TDP,NDA,2024 NDA
+JD(U),JD(U),NDA,
+JDU,JD(U),NDA,Alias
+SHS,SHS,NDA,Shiv Sena (Shinde faction)
+SHSUBT,SHSUBT,INDIA,Shiv Sena UBT
+SS,SHS,NDA,Alias
+SSUBT,SHSUBT,INDIA,Alias
+NCP,NCP,INDIA,Sharad Pawar faction
+NCPSP,NCPSP,NDA,Ajit Pawar faction
+SP,SP,INDIA,
+AAP,AAP,INDIA,Contested separately in some states
+AITC,AITC,INDIA,Trinamool Congress
+TMC,AITC,INDIA,Alias
+DMK,DMK,INDIA,
+AIADMK,AIADMK,Others,Not in INDIA bloc for 2024
+CPI(M),CPI(M),INDIA,
+CPIM,CPI(M),INDIA,Alias
+CPI,CPI,INDIA,
+RJD,RJD,INDIA,
+BJD,BJD,Others,Regional neutral
+YSRCP,YSRCP,Others,
+BRS,BRS,Others,Telangana BRS
+TRS,BRS,Others,Former TRS name
+AIMIM,AIMIM,Others,
+IUML,IUML,INDIA,
+JMM,JMM,INDIA,
+SAD,SAD,Others,
+BSP,BSP,Others,
+JD(S),JD(S),Others,
+JDS,JD(S),Others,Alias
+RLD,RLD,INDIA,
+LJPRV,LJPRV,NDA,
+AGP,AGP,NDA,
+SKM,SKM,INDIA,
+NPP,NPP,NDA,
+VCK,VCK,INDIA,
+MDMK,MDMK,INDIA,
+RSP,RSP,INDIA,
+KC,KC,INDIA,Kerala Congress
+KEC(K),KC,INDIA,Kerala Congress alias
+KEC(M),KC,INDIA,Kerala Congress alias
+IUML,IUML,INDIA,
+IUML(I),IUML,INDIA,
+IUML(S),IUML,INDIA,
+IND,IND,Others,Independents grouped as Others
+NOTA,NOTA,Unknown,Excluded from simulation
+RLTP,RLTP,Others,
+YSR,YSRCP,Others,Alias
+TDP,TDP,NDA,
+LJP,LJPRV,NDA,Alias
+RLD,RLD,INDIA,
+SHS,SHS,NDA,
+NCPSP,NCPSP,NDA,
+AAAP,AAAP,Others,
+AAAP,AAAP,Others,AAP typo variant in results

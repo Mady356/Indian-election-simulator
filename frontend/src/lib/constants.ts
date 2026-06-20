@@ -23,6 +23,8 @@ export const DATA_URLS = {
   topSwing: "/data/top_swing_constituencies.json",
   variableCoverage: "/data/variable_coverage.json",
   seatAnalysis: "/data/seat_analysis.json",
+  simulationBase: "/data/simulation_base.json",
+  monteCarloBase: "/data/monte_carlo_base.json",
 } as const;
 
 export const COLORS = {

@@ -13,12 +13,12 @@ import {
 const NAV_ITEMS = [
   { to: "/", label: "Explore", icon: Map, enabled: true },
   { to: "/compare", label: "Compare", icon: GitCompare, enabled: true },
+  { to: "/forecast", label: "Forecast", icon: LineChart, enabled: true },
   { to: "/insights", label: "Insights Lab", icon: FlaskConical, enabled: true },
   { to: "/methodology", label: "Methodology", icon: BarChart3, enabled: true },
 ] as const;
 
 const COMING_SOON = [
-  { label: "Forecast", description: "Scenario simulator in development", icon: LineChart },
   { label: "Vote Bank Analysis", description: "CSDS-Lokniti layer pending", icon: Vote },
   { label: "Opinion Poll Lab", description: "Pre-poll vs post-poll comparison", icon: Compass },
 ] as const;

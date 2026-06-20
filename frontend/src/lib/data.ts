@@ -238,12 +238,20 @@ export function hasDemographics(record: ConstituencyRecord): boolean {
   return record.data_quality_label !== "election_only";
 }
 
+export function isSeatFlip(record: ConstituencyRecord): boolean {
+  return record.winner_changed === true;
+}
+
+export function countSeatFlips(constituencies: ConstituencyRecord[]): number {
+  return constituencies.reduce((count, record) => count + (isSeatFlip(record) ? 1 : 0), 0);
+}
+
 export function nationalSeatTotals(constituencies: ConstituencyRecord[]) {
   return {
     bjp_2019: constituencies.filter((c) => c.winner_party_2019 === "BJP").length,
     bjp_2024: constituencies.filter((c) => c.winner_party_2024 === "BJP").length,
     inc_2019: constituencies.filter((c) => c.winner_party_2019 === "INC").length,
     inc_2024: constituencies.filter((c) => c.winner_party_2024 === "INC").length,
-    flips: constituencies.filter((c) => c.winner_changed).length,
+    flips: countSeatFlips(constituencies),
   };
 }

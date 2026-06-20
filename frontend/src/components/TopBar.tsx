@@ -4,6 +4,7 @@ import { APP_DESCRIPTION, APP_SUBTITLE } from "@/lib/constants";
 const MOBILE_LINKS = [
   { to: "/", label: "Explore", end: true },
   { to: "/compare", label: "Compare" },
+  { to: "/forecast", label: "Forecast" },
   { to: "/insights", label: "Insights" },
   { to: "/methodology", label: "Methodology" },
 ] as const;

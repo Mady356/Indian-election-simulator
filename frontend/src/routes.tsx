@@ -6,6 +6,7 @@ import { StatePage } from "@/pages/StatePage";
 import { ComparePage } from "@/pages/ComparePage";
 import { InsightsLabPage } from "@/pages/InsightsLabPage";
 import { MethodologyPage } from "@/pages/MethodologyPage";
+import { ForecastPage } from "@/pages/ForecastPage";
 
 export function AppRoutes() {
   return (
@@ -13,6 +14,7 @@ export function AppRoutes() {
       <Route element={<Layout />}>
         <Route index element={<ExplorePage />} />
         <Route path="compare" element={<ComparePage />} />
+        <Route path="forecast" element={<ForecastPage />} />
         <Route path="insights" element={<InsightsLabPage />} />
         <Route path="methodology" element={<MethodologyPage />} />
         <Route path="state/:stateKey" element={<StatePage />} />

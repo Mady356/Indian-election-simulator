@@ -4,7 +4,7 @@ import { MetricCard } from "@/components/MetricCard";
 import { PageError, PageLoader } from "@/components/Layout";
 import { useDashboardData } from "@/context/DataContext";
 import { nationalSeatTotals } from "@/lib/data";
-import { formatShare, formatSwing } from "@/lib/format";
+import { formatNumber, formatShare, formatSwing } from "@/lib/format";
 import type { SwingRow } from "@/lib/data";
 
 function SwingTable({ title, rows }: { title: string; rows: SwingRow[] }) {
@@ -102,7 +102,7 @@ export function ComparePage() {
         <MetricCard label="BJP seats 2024" value={seats.bjp_2024} accent="accent" />
         <MetricCard label="INC seats 2019" value={seats.inc_2019} />
         <MetricCard label="INC seats 2024" value={seats.inc_2024} accent="primary" />
-        <MetricCard label="Seat flips" value={seats.flips} accent="warning" />
+        <MetricCard label="Seat flips" value={formatNumber(seats.flips)} accent="warning" />
       </div>
 
       <div className="flex items-center gap-3">
