@@ -2,6 +2,7 @@ import { NavLink } from "react-router-dom";
 import { APP_NAME, APP_SUBTITLE } from "@/lib/constants";
 import {
   BarChart3,
+  BookOpen,
   Compass,
   FlaskConical,
   GitCompare,
@@ -15,6 +16,7 @@ const NAV_ITEMS = [
   { to: "/compare", label: "Compare", icon: GitCompare, enabled: true },
   { to: "/forecast", label: "Forecast", icon: LineChart, enabled: true },
   { to: "/insights", label: "Insights Lab", icon: FlaskConical, enabled: true },
+  { to: "/essays", label: "The India Exception", icon: BookOpen, enabled: true },
   { to: "/methodology", label: "Methodology", icon: BarChart3, enabled: true },
 ] as const;
 

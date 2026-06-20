@@ -5,6 +5,8 @@ import { ConstituencyPage } from "@/pages/ConstituencyPage";
 import { StatePage } from "@/pages/StatePage";
 import { ComparePage } from "@/pages/ComparePage";
 import { InsightsLabPage } from "@/pages/InsightsLabPage";
+import { EssayDetailPage } from "@/pages/EssayDetailPage";
+import { EssaysPage } from "@/pages/EssaysPage";
 import { MethodologyPage } from "@/pages/MethodologyPage";
 import { ForecastPage } from "@/pages/ForecastPage";
 
@@ -16,6 +18,8 @@ export function AppRoutes() {
         <Route path="compare" element={<ComparePage />} />
         <Route path="forecast" element={<ForecastPage />} />
         <Route path="insights" element={<InsightsLabPage />} />
+        <Route path="essays" element={<EssaysPage />} />
+        <Route path="essays/:slug" element={<EssayDetailPage />} />
         <Route path="methodology" element={<MethodologyPage />} />
         <Route path="state/:stateKey" element={<StatePage />} />
         <Route path="constituency/:stateKey/:constituencyKey" element={<ConstituencyPage />} />

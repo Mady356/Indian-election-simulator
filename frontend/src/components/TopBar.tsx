@@ -6,6 +6,7 @@ const MOBILE_LINKS = [
   { to: "/compare", label: "Compare" },
   { to: "/forecast", label: "Forecast" },
   { to: "/insights", label: "Insights" },
+  { to: "/essays", label: "Essays" },
   { to: "/methodology", label: "Methodology" },
 ] as const;
 

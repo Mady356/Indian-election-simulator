@@ -1,9 +1,14 @@
+import { Link } from "react-router-dom";
+import { ArrowRight, BookOpen } from "lucide-react";
 import { CoverageWarning } from "@/components/CoverageWarning";
 import { MetricCard } from "@/components/MetricCard";
 import { PageError, PageLoader } from "@/components/Layout";
+import { getEssayBySlug } from "@/content/essays";
 import { useDashboardData } from "@/context/DataContext";
 import { featureLabel, formatNumber } from "@/lib/format";
 import type { InsightRow } from "@/lib/data";
+
+const FEATURED_ESSAY_SLUG = "india-urban-bjp-exception";
 
 function InsightList({
   title,
@@ -47,6 +52,7 @@ export function InsightsLabPage() {
 
   const insights = data.insights;
   const lowVars = data.variableCoverage.filter((v) => (v.non_null_pct ?? 0) < 20).slice(0, 6);
+  const featuredEssay = getEssayBySlug(FEATURED_ESSAY_SLUG);
 
   return (
     <div className="mx-auto max-w-6xl space-y-6">
@@ -54,6 +60,30 @@ export function InsightsLabPage() {
         <h1 className="text-2xl font-semibold">Insights Lab</h1>
         <p className="mt-1 text-sm text-muted">{insights.disclaimer}</p>
       </div>
+
+      {featuredEssay ? (
+        <section className="rounded-xl border border-primary/30 bg-gradient-to-br from-card via-card to-primary/5 p-5 md:p-6">
+          <div className="flex flex-col gap-4 md:flex-row md:items-start md:justify-between">
+            <div className="max-w-3xl">
+              <div className="flex items-center gap-2 text-primary">
+                <BookOpen className="h-4 w-4" />
+                <span className="text-[10px] font-semibold uppercase tracking-[0.2em]">
+                  {featuredEssay.series}
+                </span>
+              </div>
+              <h2 className="mt-2 text-lg font-semibold text-text">{featuredEssay.title}</h2>
+              <p className="mt-2 text-sm leading-relaxed text-muted">{featuredEssay.dek}</p>
+            </div>
+            <Link
+              to={`/essays/${featuredEssay.slug}`}
+              className="inline-flex shrink-0 items-center gap-2 self-start rounded-lg border border-primary/30 bg-primary/10 px-4 py-2.5 text-sm font-medium text-primary transition hover:bg-primary/15"
+            >
+              Read essay
+              <ArrowRight className="h-4 w-4" />
+            </Link>
+          </div>
+        </section>
+      ) : null}
 
       <div className="grid gap-3 sm:grid-cols-3">
         <MetricCard
