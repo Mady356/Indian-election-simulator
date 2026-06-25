@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Jharkhand",
+    "constituency": "Singhbhum",
+    "state_key": "JHARKHAND",
+    "constituency_key": "SINGHBHUM"
+  },
+  "election_facts": {
+    "winner_2019": "GEETA KORA",
+    "winner_2024": "JOBA MAJHI",
+    "winner_party_2019": "INC",
+    "winner_party_2024": "JMM",
+    "winner_changed": true,
+    "bjp_vote_share_2019": 40.9016,
+    "bjp_vote_share_2024": 34.911,
+    "inc_vote_share_2019": 49.1073,
+    "inc_vote_share_2024": 0.0,
+    "bjp_swing_2019_2024": -5.9907,
+    "inc_swing_2019_2024": -49.1073,
+    "margin_2019": 8.2057,
+    "margin_2024": 16.7132,
+    "margin_change": 8.5075,
+    "turnout_2019": 34.0034,
+    "turnout_2024": 35.89,
+    "turnout_change": 1.8866
+  },
+  "state_context": {
+    "state_total_seats": 14,
+    "bjp_seats_2019": 11,
+    "bjp_seats_2024": 8,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 2,
+    "state_average_bjp_swing": -6.86,
+    "state_average_inc_swing": 4.88,
+    "state_demographic_coverage_pct": 78.57
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": true,
+    "is_close_2024": false,
+    "is_large_bjp_gain": false,
+    "is_large_bjp_loss": false,
+    "is_large_inc_gain": false,
+    "is_large_inc_loss": true,
+    "is_priority_seat": true,
+    "priority_reason": "seat_flip;top_inc_loss",
+    "priority_rank": 60
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": null,
+      "improved_sanitation_pct_nfhs5": null,
+      "lpg_pct_nfhs5": null,
+      "mobile_phone_pct_nfhs5": null,
+      "bank_account_pct_nfhs5": null,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": null,
+      "urban_pct_nfhs5": null
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": null,
+      "improved_sanitation_pct_change": null,
+      "lpg_pct_change": null,
+      "mobile_phone_pct_change": null,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": null
+    },
+    "nfhs5_coverage_share": null,
+    "change_coverage_share": null,
+    "change_quality_flag": null,
+    "data_quality_label": "election_only",
+    "districts_used": null,
+    "districts_missing": null,
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": false,
+      "has_change_any": false,
+      "missing_features_count": 22,
+      "available_features_count": 0
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "JOBA MAJHI",
+    "winner_party_2024": "JMM",
+    "data_quality_label": "election_only",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "Singhbhum flipped from INC to JMM in 2024. BJP vote share changed by -6.0 points and INC vote share changed by -49.1 points compared with 2019. The 2024 margin was 16.7%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates Singhbhum flipped from INC to JMM between 2019 and 2024. BJP vote share changed by -6.0 percentage points versus 2019. INC vote share changed by -49.1 percentage points versus 2019. The winning margin moved from 8.2% in 2019 to 16.7% in 2024. Turnout changed by +1.9 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "seat_flip;large_inc_loss;election_only_profile",
+    "generated_demographic_context": "Demographic indicators are currently unavailable for this constituency; the profile is election-only.",
+    "generated_district_context": "District-linked demographic mapping details are not available for this seat.",
+    "generated_what_to_watch": "Monitor whether the 2024 seat change stabilizes in future cycles. Demographic context may remain limited until district-linked coverage improves.",
+    "final_summary": "Singhbhum flipped from INC to JMM in 2024. BJP vote share changed by -6.0 points and INC vote share changed by -49.1 points compared with 2019. The 2024 margin was 16.7%. This is a descriptive election profile, not a causal explanation.",
+    "final_electoral_movement": "Available data indicates Singhbhum flipped from INC to JMM between 2019 and 2024. BJP vote share changed by -6.0 percentage points versus 2019. INC vote share changed by -49.1 percentage points versus 2019. The winning margin moved from 8.2% in 2019 to 16.7% in 2024. Turnout changed by +1.9 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "final_local_context": null,
+    "final_what_to_watch": "Monitor whether the 2024 seat change stabilizes in future cycles. Demographic context may remain limited until district-linked coverage improves.",
+    "analysis_source": "generated",
+    "manual_confidence": "medium",
+    "has_manual_markdown": false
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for Singhbhum, Jharkhand using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why Singhbhum may be analytically useful using priority reason (seat_flip;top_inc_loss), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

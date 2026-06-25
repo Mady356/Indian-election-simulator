@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Uttar Pradesh",
+    "constituency": "Kairana",
+    "state_key": "UTTAR PRADESH",
+    "constituency_key": "KAIRANA"
+  },
+  "election_facts": {
+    "winner_2019": "Pradeep Kumar",
+    "winner_2024": "IQRA CHOUDHARY",
+    "winner_party_2019": "BJP",
+    "winner_party_2024": "SP",
+    "winner_changed": true,
+    "bjp_vote_share_2019": 50.4393,
+    "bjp_vote_share_2024": 42.4981,
+    "inc_vote_share_2019": 6.1701,
+    "inc_vote_share_2024": 0.0,
+    "bjp_swing_2019_2024": -7.9412,
+    "inc_swing_2019_2024": -6.1701,
+    "margin_2019": 8.1989,
+    "margin_2024": 6.4008,
+    "margin_change": -1.7982,
+    "turnout_2019": 34.0169,
+    "turnout_2024": 30.56,
+    "turnout_change": -3.4569
+  },
+  "state_context": {
+    "state_total_seats": 80,
+    "bjp_seats_2019": 62,
+    "bjp_seats_2024": 33,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 6,
+    "state_average_bjp_swing": -8.51,
+    "state_average_inc_swing": 3.46,
+    "state_demographic_coverage_pct": 63.75
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": true,
+    "is_close_2024": false,
+    "is_large_bjp_gain": false,
+    "is_large_bjp_loss": false,
+    "is_large_inc_gain": false,
+    "is_large_inc_loss": false,
+    "is_priority_seat": true,
+    "priority_reason": "seat_flip",
+    "priority_rank": 195
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": 59.4832,
+      "improved_sanitation_pct_nfhs5": 23.4865,
+      "lpg_pct_nfhs5": 18.7787,
+      "mobile_phone_pct_nfhs5": 8.7156,
+      "bank_account_pct_nfhs5": 38.2894,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": -6160.4394,
+      "urban_pct_nfhs5": 16.2289
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": 30.5951,
+      "improved_sanitation_pct_change": 17.9756,
+      "lpg_pct_change": 10.5679,
+      "mobile_phone_pct_change": 4.6484,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": 13.5707
+    },
+    "nfhs5_coverage_share": 0.8,
+    "change_coverage_share": 0.8,
+    "change_quality_flag": "medium",
+    "data_quality_label": "high",
+    "districts_used": "MUZAFFARNAGAR\u2192Muzaffarnagar; ALLAHABAD\u2192Allahabad (NFHS-4 proxy); SITAPUR\u2192Sitapur (NFHS-4 proxy)",
+    "districts_missing": "GHAZIPUR",
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": true,
+      "has_change_any": true,
+      "missing_features_count": 10,
+      "available_features_count": 12
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "IQRA CHOUDHARY",
+    "winner_party_2024": "SP",
+    "data_quality_label": "high",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "Kairana flipped from BJP to SP in 2024. BJP vote share changed by -7.9 points and INC vote share changed by -6.2 points compared with 2019. The 2024 margin was 6.4%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates Kairana flipped from BJP to SP between 2019 and 2024. BJP vote share changed by -7.9 percentage points versus 2019. INC vote share changed by -6.2 percentage points versus 2019. The winning margin moved from 8.2% in 2019 to 6.4% in 2024. Turnout changed by -3.5 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "seat_flip;rural_profile;high_demographic_coverage;district_coverage_gap",
+    "generated_demographic_context": "Available NFHS-linked indicators may suggest a relatively rural-linked profile (urban share about 16.2%). Electricity/Lpg/Mobile Phone/Bank Account access indicators are available for this seat. Available data indicates relatively high district-linked demographic coverage for this seat.",
+    "generated_district_context": "District mapping uses: MUZAFFARNAGAR\u2192Muzaffarnagar; ALLAHABAD\u2192Allahabad (NFHS-4 proxy); SITAPUR\u2192Sitapur (NFHS-4 proxy). Some districts are not mapped: GHAZIPUR. NFHS-5 coverage share is about 80.0%. Change-indicator coverage share is about 80.0%. Change quality flag: medium.",
+    "generated_what_to_watch": "Monitor whether the 2024 seat change stabilizes in future cycles. Incomplete district mapping may limit future demographic interpretation for this seat.",
+    "final_summary": "It tests whether BJP polarisation politics remains dominant in western UP or whether caste-community alliances can counter it.",
+    "final_electoral_movement": "Available data indicates Kairana flipped from BJP to SP between 2019 and 2024. BJP vote share changed by -7.9 percentage points versus 2019. INC vote share changed by -6.2 percentage points versus 2019. The winning margin moved from 8.2% in 2019 to 6.4% in 2024. Turnout changed by -3.5 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "final_local_context": "It tests whether BJP polarisation politics remains dominant in western UP or whether caste-community alliances can counter it.",
+    "final_what_to_watch": "Whether the BJP's western UP coalition stabilises or opposition/regional alignments reopen the seat.",
+    "analysis_source": "manual",
+    "manual_confidence": "medium",
+    "manual_note": {
+      "path": "/Users/maadhavangupta/Downloads/CS/Projects/Election-simulator/data/seat_analysis/manual/notes/UTTAR_PRADESH__KAIRANA.md",
+      "why_it_mattered": "It tests whether BJP polarisation politics remains dominant in western UP or whether caste-community alliances can counter it.",
+      "factors": "Jat-Muslim dynamics, SP/RLD/BJP alliance shifts, candidate selection, and local communal history.",
+      "what_to_watch": "Whether the BJP's western UP coalition stabilises or opposition/regional alignments reopen the seat.",
+      "notes_caveats": "This note is interpretive. Language such as \u201cmay have mattered\u201d and \u201ccould reflect\u201d is intentional. Patterns in The 543 data are not causal claims. Local context requires later source review.",
+      "analyst_name": "Maadhavan Gupta",
+      "manual_confidence": "medium",
+      "source_notes": "Based on The 543 election data and analyst-written local context; requires later source review."
+    },
+    "has_manual_markdown": true,
+    "manual_csv_note": {
+      "summary": "It tests whether BJP polarisation politics remains dominant in western UP or whether caste-community alliances can counter it.",
+      "electoral_movement": "Available data indicates Kairana flipped from BJP to SP between 2019 and 2024. BJP vote share changed by -7.9 percentage points versus 2019. INC vote share changed by -6.2 percentage points versus 2019. The winning margin moved from 8.2% in 2019 to 6.4% in 2024. Turnout changed by -3.5 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+      "key_factors": "candidate profile;alliance arithmetic;turnout;local context;state mood",
+      "demographic_context": "Available NFHS-linked indicators may suggest a relatively rural-linked profile (urban share about 16.2%). Electricity/Lpg/Mobile Phone/Bank Account access indicators are available for this seat. Available data indicates relatively high district-linked demographic coverage for this seat.\n\nDistrict mapping uses: MUZAFFARNAGAR\u2192Muzaffarnagar; ALLAHABAD\u2192Allahabad (NFHS-4 proxy); SITAPUR\u2192Sitapur (NFHS-4 proxy). Some districts are not mapped: GHAZIPUR. NFHS-5 coverage share is about 80.0%. Change-indicator coverage share is about 80.0%. Change quality flag: medium.",
+      "local_context": "It tests whether BJP polarisation politics remains dominant in western UP or whether caste-community alliances can counter it.",
+      "what_to_watch": "Whether the BJP's western UP coalition stabilises or opposition/regional alignments reopen the seat.",
+      "confidence": "medium"
+    }
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for Kairana, Uttar Pradesh using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why Kairana may be analytically useful using priority reason (seat_flip), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

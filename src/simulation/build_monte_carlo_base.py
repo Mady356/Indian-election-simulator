@@ -153,6 +153,7 @@ def build_record(
         "inc_vote_share_2024": _round_num(row.get("inc_vote_share_2024")),
         "margin_2024": _round_num(row.get("margin_2024")),
         "turnout_2024": _round_num(row.get("turnout_2024")),
+        "nfhs5_coverage_share": nfhs5_share,
         "data_quality_label": quality,
         "party_vote_shares_2024": (
             {party: round(share, 2) for party, share in sorted(party_shares.items(), key=lambda x: -x[1])}

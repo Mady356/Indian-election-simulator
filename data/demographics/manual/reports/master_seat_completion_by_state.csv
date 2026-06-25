@@ -1,0 +1,43 @@
+state,total_known_seats,complete_generated,complete_manual,mixed_sources,election_only_needs_demographics,low_coverage_needs_review,partial_demographics_missing_core_fields,no_election_data_needs_election_results,reference_only_not_in_current_election,unknown_gap,completion_pct,priority_gaps
+Andaman & Nicobar,1,0,0,0,0,0,0,1,0,0,0.0,1
+Andaman & Nicobar Islands,1,0,0,0,1,0,0,0,0,0,0.0,1
+Andhra Pradesh,46,0,0,0,6,0,19,3,18,0,0.0,25
+Arunachal Pradesh,3,0,0,0,1,0,1,0,1,0,0.0,1
+Assam,22,0,0,0,6,0,8,6,2,0,0.0,15
+Bihar,41,0,0,0,3,0,37,1,0,0,0.0,29
+Chandigarh,1,0,0,0,1,0,0,0,0,0,0.0,1
+Chhattisgarh,11,0,0,0,1,0,10,0,0,0,0.0,6
+Dadra & Nagar Haveli,1,0,0,0,0,0,0,1,0,0,0.0,1
+Dadra & Nagar Haveli and Daman & Diu,2,0,0,0,2,0,0,0,0,0,0.0,2
+Daman & Diu,1,0,0,0,0,0,0,1,0,0,0.0,1
+Delhi,8,0,0,0,0,0,0,7,1,0,0.0,7
+Goa,2,0,0,0,0,0,2,0,0,0,0.0,1
+Gujarat,26,0,0,0,4,0,21,1,0,0,0.0,6
+Haryana,10,0,0,0,2,0,8,0,0,0,0.0,10
+Himachal Pradesh,4,0,0,0,1,0,3,0,0,0,0.0,3
+Jammu & Kashmir,1,0,0,0,0,0,0,1,0,0,0.0,1
+Jammu and Kashmir,5,0,0,0,5,0,0,0,0,0,0.0,2
+Jharkhand,14,0,0,0,3,0,11,0,0,0,0.0,9
+Karnataka,33,0,0,0,4,0,24,5,0,0,0.0,28
+Kerala,20,0,0,0,3,0,17,0,0,0,0.0,9
+Ladakh,1,0,0,0,1,0,0,0,0,0,0.0,1
+Lakshadweep,1,0,0,0,1,0,0,0,0,0,0.0,1
+Madhya Pradesh,31,0,0,0,2,0,27,1,1,0,0.0,10
+Maharashtra,48,0,0,0,34,0,14,0,0,0,0.0,47
+Manipur,2,0,0,0,2,0,0,0,0,0,0.0,2
+Meghalaya,2,0,0,0,0,0,2,0,0,0,0.0,2
+Mizoram,1,0,0,0,1,0,0,0,0,0,0.0,1
+NCT OF Delhi,7,0,0,0,7,0,0,0,0,0,0.0,7
+Nagaland,1,0,0,0,1,0,0,0,0,0,0.0,1
+Odisha,21,0,0,0,21,0,0,0,0,0,0.0,21
+Orissa,22,0,0,0,0,0,0,21,1,0,0.0,21
+Puducherry,1,0,0,0,1,0,0,0,0,0,0.0,1
+Punjab,14,0,0,0,2,0,11,1,0,0,0.0,14
+Rajasthan,25,0,0,0,14,0,11,0,0,0,0.0,22
+Sikkim,1,0,0,0,1,0,0,0,0,0,0.0,0
+Tamil Nadu,41,0,0,0,11,0,28,2,0,0,0.0,36
+Telangana,18,0,0,0,0,0,17,1,0,0,0.0,18
+Tripura,2,0,0,0,0,0,2,0,0,0,0.0,2
+Uttar Pradesh,81,0,0,0,29,0,51,1,0,0,0.0,74
+Uttarakhand,6,0,0,0,5,0,0,0,1,0,0.0,0
+West Bengal,43,0,0,0,15,0,27,1,0,0,0.0,29

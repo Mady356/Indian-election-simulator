@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Andhra Pradesh",
+    "constituency": "Araku",
+    "state_key": "ANDHRA PRADESH",
+    "constituency_key": "ARAKU"
+  },
+  "election_facts": {
+    "winner_2019": "GODDETI. MADHAVI",
+    "winner_2024": "GUMMA THANUJA RANI",
+    "winner_party_2019": "YSRCP",
+    "winner_party_2024": "YSRCP",
+    "winner_changed": false,
+    "bjp_vote_share_2019": 1.6628,
+    "bjp_vote_share_2024": 36.6205,
+    "inc_vote_share_2019": 1.65,
+    "inc_vote_share_2024": 0.0,
+    "bjp_swing_2019_2024": 34.9577,
+    "inc_swing_2019_2024": -1.65,
+    "margin_2019": null,
+    "margin_2024": 4.3437,
+    "margin_change": null,
+    "turnout_2019": null,
+    "turnout_2024": 30.63,
+    "turnout_change": null
+  },
+  "state_context": {
+    "state_total_seats": 25,
+    "bjp_seats_2019": 0,
+    "bjp_seats_2024": 3,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 0,
+    "state_average_bjp_swing": 10.78,
+    "state_average_inc_swing": 1.41,
+    "state_demographic_coverage_pct": 76.0
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": false,
+    "is_close_2024": true,
+    "is_large_bjp_gain": true,
+    "is_large_bjp_loss": false,
+    "is_large_inc_gain": false,
+    "is_large_inc_loss": false,
+    "is_priority_seat": true,
+    "priority_reason": "top_bjp_gain",
+    "priority_rank": 84
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": 100.0,
+      "improved_sanitation_pct_nfhs5": 55.4892,
+      "lpg_pct_nfhs5": 38.7649,
+      "mobile_phone_pct_nfhs5": 37.8558,
+      "bank_account_pct_nfhs5": 67.9306,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": 40064.6318,
+      "urban_pct_nfhs5": 9.7721
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": 15.4739,
+      "improved_sanitation_pct_change": 33.4739,
+      "lpg_pct_change": 27.3285,
+      "mobile_phone_pct_change": 34.9902,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": -16.3061
+    },
+    "nfhs5_coverage_share": 1.0,
+    "change_coverage_share": 1.0,
+    "change_quality_flag": "low",
+    "data_quality_label": "high",
+    "districts_used": "VIZIANAGARAM\u2192Vizianagaram; VISAKHAPATNAM\u2192Visakhapatnam; SRIKAKULAM\u2192Srikakulam",
+    "districts_missing": null,
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": false,
+      "has_change_any": false,
+      "missing_features_count": 22,
+      "available_features_count": 0
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "GUMMA THANUJA RANI",
+    "winner_party_2024": "YSRCP",
+    "data_quality_label": "high",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "Araku was retained by YSRCP in 2024. BJP vote share changed by +35.0 points and INC vote share changed by -1.7 points compared with 2019. The 2024 margin was 4.3%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates Araku was retained by YSRCP in 2024. BJP vote share changed by +35.0 percentage points versus 2019. INC vote share changed by -1.7 percentage points versus 2019. The 2024 winning margin was 4.3%. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "close_contest_2024;large_bjp_gain;rural_profile;high_demographic_coverage",
+    "generated_demographic_context": "Available NFHS-linked indicators may suggest a relatively rural-linked profile (urban share about 9.8%). Electricity/Lpg/Mobile Phone/Bank Account access indicators are available for this seat. Available data indicates relatively high district-linked demographic coverage for this seat.",
+    "generated_district_context": "District mapping uses: VIZIANAGARAM\u2192Vizianagaram; VISAKHAPATNAM\u2192Visakhapatnam; SRIKAKULAM\u2192Srikakulam. NFHS-5 coverage share is about 100.0%. Change-indicator coverage share is about 100.0%. Change quality flag: low.",
+    "generated_what_to_watch": "The 2024 margin was narrow and may suggest a highly competitive seat profile. Large major-party vote-share movement may warrant closer review of local competition patterns.",
+    "final_summary": "Araku was retained by YSRCP in 2024. BJP vote share changed by +35.0 points and INC vote share changed by -1.7 points compared with 2019. The 2024 margin was 4.3%. This is a descriptive election profile, not a causal explanation.",
+    "final_electoral_movement": "Available data indicates Araku was retained by YSRCP in 2024. BJP vote share changed by +35.0 percentage points versus 2019. INC vote share changed by -1.7 percentage points versus 2019. The 2024 winning margin was 4.3%. This section describes observed election movement only and is not a causal explanation.",
+    "final_local_context": null,
+    "final_what_to_watch": "The 2024 margin was narrow and may suggest a highly competitive seat profile. Large major-party vote-share movement may warrant closer review of local competition patterns.",
+    "analysis_source": "generated",
+    "manual_confidence": "high",
+    "has_manual_markdown": false
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for Araku, Andhra Pradesh using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why Araku may be analytically useful using priority reason (top_bjp_gain), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

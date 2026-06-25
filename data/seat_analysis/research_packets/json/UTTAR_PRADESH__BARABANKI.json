@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Uttar Pradesh",
+    "constituency": "Barabanki",
+    "state_key": "UTTAR PRADESH",
+    "constituency_key": "BARABANKI"
+  },
+  "election_facts": {
+    "winner_2019": "Upendra Singh Rawat",
+    "winner_2024": "TANUJ PUNIA",
+    "winner_party_2019": "BJP",
+    "winner_party_2024": "INC",
+    "winner_changed": true,
+    "bjp_vote_share_2019": 46.386,
+    "bjp_vote_share_2024": 39.0679,
+    "inc_vote_share_2019": 13.8151,
+    "inc_vote_share_2024": 55.7809,
+    "bjp_swing_2019_2024": -7.3182,
+    "inc_swing_2019_2024": 41.9658,
+    "margin_2019": 9.5331,
+    "margin_2024": 16.713,
+    "margin_change": 7.1799,
+    "turnout_2019": 29.4974,
+    "turnout_2024": 37.51,
+    "turnout_change": 8.0126
+  },
+  "state_context": {
+    "state_total_seats": 80,
+    "bjp_seats_2019": 62,
+    "bjp_seats_2024": 33,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 6,
+    "state_average_bjp_swing": -8.51,
+    "state_average_inc_swing": 3.46,
+    "state_demographic_coverage_pct": 63.75
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": true,
+    "is_close_2024": false,
+    "is_large_bjp_gain": false,
+    "is_large_bjp_loss": false,
+    "is_large_inc_gain": true,
+    "is_large_inc_loss": false,
+    "is_priority_seat": true,
+    "priority_reason": "seat_flip;top_inc_gain",
+    "priority_rank": 28
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": null,
+      "improved_sanitation_pct_nfhs5": null,
+      "lpg_pct_nfhs5": null,
+      "mobile_phone_pct_nfhs5": null,
+      "bank_account_pct_nfhs5": null,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": null,
+      "urban_pct_nfhs5": null
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": null,
+      "improved_sanitation_pct_change": null,
+      "lpg_pct_change": null,
+      "mobile_phone_pct_change": null,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": null
+    },
+    "nfhs5_coverage_share": null,
+    "change_coverage_share": null,
+    "change_quality_flag": null,
+    "data_quality_label": "election_only",
+    "districts_used": null,
+    "districts_missing": null,
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": false,
+      "has_change_any": false,
+      "missing_features_count": 22,
+      "available_features_count": 0
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "TANUJ PUNIA",
+    "winner_party_2024": "INC",
+    "data_quality_label": "election_only",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "Barabanki flipped from BJP to INC in 2024. BJP vote share changed by -7.3 points and INC vote share changed by +42.0 points compared with 2019. The 2024 margin was 16.7%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates Barabanki flipped from BJP to INC between 2019 and 2024. BJP vote share changed by -7.3 percentage points versus 2019. INC vote share changed by +42.0 percentage points versus 2019. The winning margin moved from 9.5% in 2019 to 16.7% in 2024. Turnout changed by +8.0 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "seat_flip;large_inc_gain;high_turnout_change;election_only_profile",
+    "generated_demographic_context": "Demographic indicators are currently unavailable for this constituency; the profile is election-only.",
+    "generated_district_context": "District-linked demographic mapping details are not available for this seat.",
+    "generated_what_to_watch": "Monitor whether the 2024 seat change stabilizes in future cycles. Large major-party vote-share movement may warrant closer review of local competition patterns. Turnout shifted materially between 2019 and 2024 and may be worth tracking. Demographic context may remain limited until district-linked coverage improves.",
+    "final_summary": "Barabanki flipped from BJP to INC in 2024. BJP vote share changed by -7.3 points and INC vote share changed by +42.0 points compared with 2019. The 2024 margin was 16.7%. This is a descriptive election profile, not a causal explanation.",
+    "final_electoral_movement": "Available data indicates Barabanki flipped from BJP to INC between 2019 and 2024. BJP vote share changed by -7.3 percentage points versus 2019. INC vote share changed by +42.0 percentage points versus 2019. The winning margin moved from 9.5% in 2019 to 16.7% in 2024. Turnout changed by +8.0 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "final_local_context": null,
+    "final_what_to_watch": "Monitor whether the 2024 seat change stabilizes in future cycles. Large major-party vote-share movement may warrant closer review of local competition patterns. Turnout shifted materially between 2019 and 2024 and may be worth tracking. Demographic context may remain limited until district-linked coverage improves.",
+    "analysis_source": "generated",
+    "manual_confidence": "medium",
+    "has_manual_markdown": false
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for Barabanki, Uttar Pradesh using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why Barabanki may be analytically useful using priority reason (seat_flip;top_inc_gain), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

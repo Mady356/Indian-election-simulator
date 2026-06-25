@@ -34,7 +34,7 @@ Unknown parties are not invented; they roll into Others only when simulating lim
 
 Each constituency includes:
 
-- 2024 election fields (winner, BJP/INC shares, margin, turnout)
+- 2024 election fields (winner, BJP/INC shares, margin, turnout, nfhs5_coverage_share)
 - `party_vote_shares_2024` when ECI results are available
 - `alliance_vote_shares_2024` aggregated from the mapping
 - `simulation_completeness`:
@@ -48,9 +48,9 @@ Missing party vote shares are not imputed in the base dataset.
 
 - Deterministic engine: `frontend/src/lib/simulator.ts` (legacy scenario tool)
 - Monte Carlo engine: `frontend/src/lib/monteCarlo.ts`
-- Forecast page: `frontend/src/pages/ForecastPage.tsx` at `/forecast`
+- Forecast Lab page: `frontend/src/pages/ForecastPage.tsx` at `/forecast`
 
-The Monte Carlo page runs entirely in the browser. It is an experimental probabilistic simulator, not a calibrated forecast.
+The Forecast Lab page runs entirely in the browser. It is an experimental probabilistic simulator, not a calibrated forecast.
 
 ## Rebuild workflow
 

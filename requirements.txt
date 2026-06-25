@@ -11,3 +11,5 @@ pyreadstat
 pyshp
 pdfplumber
 PyYAML
+requests
+beautifulsoup4

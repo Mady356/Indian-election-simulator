@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Haryana",
+    "constituency": "KURUKSHETRA",
+    "state_key": "HARYANA",
+    "constituency_key": "KURUKSHETRA"
+  },
+  "election_facts": {
+    "winner_2019": "NAYAB SINGH",
+    "winner_2024": "NAVEEN JINDAL",
+    "winner_party_2019": "BJP",
+    "winner_party_2024": "BJP",
+    "winner_changed": false,
+    "bjp_vote_share_2019": 55.9769,
+    "bjp_vote_share_2024": 44.9612,
+    "inc_vote_share_2019": 24.7145,
+    "inc_vote_share_2024": 0.0,
+    "bjp_swing_2019_2024": -11.0157,
+    "inc_swing_2019_2024": -24.7145,
+    "margin_2019": 31.2624,
+    "margin_2024": 2.4066,
+    "margin_change": -28.8558,
+    "turnout_2019": 41.5504,
+    "turnout_2024": 30.12,
+    "turnout_change": -11.4304
+  },
+  "state_context": {
+    "state_total_seats": 10,
+    "bjp_seats_2019": 10,
+    "bjp_seats_2024": 5,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 5,
+    "state_average_bjp_swing": -11.94,
+    "state_average_inc_swing": 15.1,
+    "state_demographic_coverage_pct": 80.0
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": false,
+    "is_close_2024": true,
+    "is_large_bjp_gain": false,
+    "is_large_bjp_loss": true,
+    "is_large_inc_gain": false,
+    "is_large_inc_loss": true,
+    "is_priority_seat": false,
+    "priority_reason": null,
+    "priority_rank": null
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": 89.7118,
+      "improved_sanitation_pct_nfhs5": 56.9692,
+      "lpg_pct_nfhs5": 34.3463,
+      "mobile_phone_pct_nfhs5": 6.7746,
+      "bank_account_pct_nfhs5": 28.6703,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": -31215.8473,
+      "urban_pct_nfhs5": 12.5347
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": 3.8534,
+      "improved_sanitation_pct_change": 25.2152,
+      "lpg_pct_change": 13.9452,
+      "mobile_phone_pct_change": -5.3172,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": -18.2526
+    },
+    "nfhs5_coverage_share": 0.9999,
+    "change_coverage_share": 0.9999,
+    "change_quality_flag": "low",
+    "data_quality_label": "high",
+    "districts_used": "KAITHAL\u2192Kaithal; KURUKSHETRA\u2192Kurukshetra; YAMUNANAGAR\u2192Yamunanagar",
+    "districts_missing": null,
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": true,
+      "has_change_any": true,
+      "missing_features_count": 10,
+      "available_features_count": 12
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "NAVEEN JINDAL",
+    "winner_party_2024": "BJP",
+    "data_quality_label": "high",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "KURUKSHETRA was retained by BJP in 2024. BJP vote share changed by -11.0 points and INC vote share changed by -24.7 points compared with 2019. The 2024 margin was 2.4%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates KURUKSHETRA was retained by BJP in 2024. BJP vote share changed by -11.0 percentage points versus 2019. INC vote share changed by -24.7 percentage points versus 2019. The winning margin moved from 31.3% in 2019 to 2.4% in 2024. Turnout changed by -11.4 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "close_contest_2024;large_bjp_loss;large_inc_loss;high_turnout_change;rural_profile;high_demographic_coverage",
+    "generated_demographic_context": "Available NFHS-linked indicators may suggest a relatively rural-linked profile (urban share about 12.5%). Electricity/Lpg/Mobile Phone/Bank Account access indicators are available for this seat. Available data indicates relatively high district-linked demographic coverage for this seat.",
+    "generated_district_context": "District mapping uses: KAITHAL\u2192Kaithal; KURUKSHETRA\u2192Kurukshetra; YAMUNANAGAR\u2192Yamunanagar. NFHS-5 coverage share is about 100.0%. Change-indicator coverage share is about 100.0%. Change quality flag: low.",
+    "generated_what_to_watch": "The 2024 margin was narrow and may suggest a highly competitive seat profile. Turnout shifted materially between 2019 and 2024 and may be worth tracking.",
+    "final_summary": "KURUKSHETRA was retained by BJP in 2024. BJP vote share changed by -11.0 points and INC vote share changed by -24.7 points compared with 2019. The 2024 margin was 2.4%. This is a descriptive election profile, not a causal explanation.",
+    "final_electoral_movement": "Available data indicates KURUKSHETRA was retained by BJP in 2024. BJP vote share changed by -11.0 percentage points versus 2019. INC vote share changed by -24.7 percentage points versus 2019. The winning margin moved from 31.3% in 2019 to 2.4% in 2024. Turnout changed by -11.4 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "final_local_context": null,
+    "final_what_to_watch": "The 2024 margin was narrow and may suggest a highly competitive seat profile. Turnout shifted materially between 2019 and 2024 and may be worth tracking.",
+    "analysis_source": "generated",
+    "manual_confidence": "high",
+    "has_manual_markdown": false
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for KURUKSHETRA, Haryana using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why KURUKSHETRA may be analytically useful using priority reason (none), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

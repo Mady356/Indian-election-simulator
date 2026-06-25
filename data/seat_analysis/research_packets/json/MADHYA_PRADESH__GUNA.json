@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Madhya Pradesh",
+    "constituency": "GUNA",
+    "state_key": "MADHYA PRADESH",
+    "constituency_key": "GUNA"
+  },
+  "election_facts": {
+    "winner_2019": "KRISHNA PAL SINGH \"Dr. K. P. YADAV\"",
+    "winner_2024": "JYOTIRADITYA M. SCINDIA",
+    "winner_party_2019": "BJP",
+    "winner_party_2024": "BJP",
+    "winner_changed": false,
+    "bjp_vote_share_2019": 52.1077,
+    "bjp_vote_share_2024": 67.2096,
+    "inc_vote_share_2019": 41.4537,
+    "inc_vote_share_2024": 27.8339,
+    "bjp_swing_2019_2024": 15.1019,
+    "inc_swing_2019_2024": -13.6198,
+    "margin_2019": 10.654,
+    "margin_2024": 39.3756,
+    "margin_change": 28.7216,
+    "turnout_2019": 36.6438,
+    "turnout_2024": 48.83,
+    "turnout_change": 12.1862
+  },
+  "state_context": {
+    "state_total_seats": 29,
+    "bjp_seats_2019": 28,
+    "bjp_seats_2024": 29,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 0,
+    "state_average_bjp_swing": 1.11,
+    "state_average_inc_swing": -2.03,
+    "state_demographic_coverage_pct": 93.1
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": false,
+    "is_close_2024": false,
+    "is_large_bjp_gain": true,
+    "is_large_bjp_loss": false,
+    "is_large_inc_gain": false,
+    "is_large_inc_loss": true,
+    "is_priority_seat": false,
+    "priority_reason": null,
+    "priority_rank": null
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": 38.7112,
+      "improved_sanitation_pct_nfhs5": 45.5161,
+      "lpg_pct_nfhs5": 10.2956,
+      "mobile_phone_pct_nfhs5": 9.3578,
+      "bank_account_pct_nfhs5": 43.574,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": -77139.804,
+      "urban_pct_nfhs5": 26.2112
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": -10.4275,
+      "improved_sanitation_pct_change": 30.146,
+      "lpg_pct_change": -0.0319,
+      "mobile_phone_pct_change": 5.5089,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": 6.4456
+    },
+    "nfhs5_coverage_share": 1.0,
+    "change_coverage_share": 1.0,
+    "change_quality_flag": "low",
+    "data_quality_label": "high",
+    "districts_used": "GUNA\u2192Guna; SEONI\u2192Seoni; ASHOK NAGAR\u2192Ashoknagar; SHIVPURI\u2192Shivpuri; WEST NIMAR (Khaorgone)\u2192Khargone (West Nimar)",
+    "districts_missing": null,
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": true,
+      "has_change_any": true,
+      "missing_features_count": 10,
+      "available_features_count": 12
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "JYOTIRADITYA M. SCINDIA",
+    "winner_party_2024": "BJP",
+    "data_quality_label": "high",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "GUNA was retained by BJP in 2024. BJP vote share changed by +15.1 points and INC vote share changed by -13.6 points compared with 2019. The 2024 margin was 39.4%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates GUNA was retained by BJP in 2024. BJP vote share changed by +15.1 percentage points versus 2019. INC vote share changed by -13.6 percentage points versus 2019. The winning margin moved from 10.7% in 2019 to 39.4% in 2024. Turnout changed by +12.2 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "large_bjp_gain;large_inc_loss;high_turnout_change;rural_profile;high_demographic_coverage",
+    "generated_demographic_context": "Available NFHS-linked indicators may suggest a relatively rural-linked profile (urban share about 26.2%). Electricity/Lpg/Mobile Phone/Bank Account access indicators are available for this seat. Available data indicates relatively high district-linked demographic coverage for this seat.",
+    "generated_district_context": "District mapping uses: GUNA\u2192Guna; SEONI\u2192Seoni; ASHOK NAGAR\u2192Ashoknagar; SHIVPURI\u2192Shivpuri; WEST NIMAR (Khaorgone)\u2192Khargone (West Nimar). NFHS-5 coverage share is about 100.0%. Change-indicator coverage share is about 100.0%. Change quality flag: low.",
+    "generated_what_to_watch": "Large major-party vote-share movement may warrant closer review of local competition patterns. Turnout shifted materially between 2019 and 2024 and may be worth tracking.",
+    "final_summary": "GUNA was retained by BJP in 2024. BJP vote share changed by +15.1 points and INC vote share changed by -13.6 points compared with 2019. The 2024 margin was 39.4%. This is a descriptive election profile, not a causal explanation.",
+    "final_electoral_movement": "Available data indicates GUNA was retained by BJP in 2024. BJP vote share changed by +15.1 percentage points versus 2019. INC vote share changed by -13.6 percentage points versus 2019. The winning margin moved from 10.7% in 2019 to 39.4% in 2024. Turnout changed by +12.2 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "final_local_context": null,
+    "final_what_to_watch": "Large major-party vote-share movement may warrant closer review of local competition patterns. Turnout shifted materially between 2019 and 2024 and may be worth tracking.",
+    "analysis_source": "generated",
+    "manual_confidence": "high",
+    "has_manual_markdown": false
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for GUNA, Madhya Pradesh using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why GUNA may be analytically useful using priority reason (none), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

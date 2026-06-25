@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Maharashtra",
+    "constituency": "Mumbai South",
+    "state_key": "MAHARASHTRA",
+    "constituency_key": "MUMBAI SOUTH"
+  },
+  "election_facts": {
+    "winner_2019": "Arvind Ganpat Sawant",
+    "winner_2024": "ARVIND GANPAT SAWANT",
+    "winner_party_2019": "SHS",
+    "winner_party_2024": "SHSUBT",
+    "winner_changed": true,
+    "bjp_vote_share_2019": null,
+    "bjp_vote_share_2024": null,
+    "inc_vote_share_2019": 40.1529,
+    "inc_vote_share_2024": 0.0,
+    "bjp_swing_2019_2024": null,
+    "inc_swing_2019_2024": -40.1529,
+    "margin_2019": 12.4832,
+    "margin_2024": 6.8131,
+    "margin_change": -5.6701,
+    "turnout_2019": 27.1486,
+    "turnout_2024": 25.75,
+    "turnout_change": -1.3986
+  },
+  "state_context": {
+    "state_total_seats": 48,
+    "bjp_seats_2019": 23,
+    "bjp_seats_2024": 9,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 13,
+    "state_average_bjp_swing": -2.07,
+    "state_average_inc_swing": -0.45,
+    "state_demographic_coverage_pct": 29.17
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": true,
+    "is_close_2024": false,
+    "is_large_bjp_gain": false,
+    "is_large_bjp_loss": false,
+    "is_large_inc_gain": false,
+    "is_large_inc_loss": true,
+    "is_priority_seat": true,
+    "priority_reason": "seat_flip;major_constituency;top_inc_loss",
+    "priority_rank": 10
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": 0.0,
+      "improved_sanitation_pct_nfhs5": 0.0,
+      "lpg_pct_nfhs5": 0.0,
+      "mobile_phone_pct_nfhs5": 0.0,
+      "bank_account_pct_nfhs5": 33.3333,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": -121849.6667,
+      "urban_pct_nfhs5": 0.0
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": -78.8681,
+      "improved_sanitation_pct_change": -44.4407,
+      "lpg_pct_change": -31.1502,
+      "mobile_phone_pct_change": -5.6976,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": -30.7671
+    },
+    "nfhs5_coverage_share": 1.0,
+    "change_coverage_share": 1.0,
+    "change_quality_flag": "low",
+    "data_quality_label": "high",
+    "districts_used": "MUMBAI CITY\u2192Mumbai",
+    "districts_missing": null,
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": true,
+      "has_change_any": true,
+      "missing_features_count": 10,
+      "available_features_count": 12
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "ARVIND GANPAT SAWANT",
+    "winner_party_2024": "SHSUBT",
+    "data_quality_label": "high",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "Mumbai South flipped from SHS to SHSUBT in 2024. INC vote share changed by -40.2 points compared with 2019. The 2024 margin was 6.8%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates Mumbai South flipped from SHS to SHSUBT between 2019 and 2024. INC vote share changed by -40.2 percentage points versus 2019. The winning margin moved from 12.5% in 2019 to 6.8% in 2024. Turnout changed by -1.4 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "seat_flip;large_inc_loss;rural_profile;high_demographic_coverage",
+    "generated_demographic_context": "Available NFHS-linked indicators may suggest a relatively rural-linked profile (urban share about 0.0%). Electricity/Lpg/Mobile Phone/Bank Account access indicators are available for this seat. Available data indicates relatively high district-linked demographic coverage for this seat.",
+    "generated_district_context": "District mapping uses: MUMBAI CITY\u2192Mumbai. NFHS-5 coverage share is about 100.0%. Change-indicator coverage share is about 100.0%. Change quality flag: low.",
+    "generated_what_to_watch": "Monitor whether the 2024 seat change stabilizes in future cycles.",
+    "final_summary": "Mumbai South is an elite, commercial urban seat capturing the politics of old Mumbai, business interests, and the post-split Shiv Sena landscape.",
+    "final_electoral_movement": "Mumbai South is a different kind of urban seat: elite, commercial, and politically symbolic.",
+    "final_local_context": "Why it mattered: It captures the politics of old Mumbai, business interests, urban governance, and the post-split Shiv Sena landscape. Factors that may have mattered: Class composition, local candidate networks, Sena factional identity, Congress/NCP alliance arithmetic, and urban issue salience.",
+    "final_what_to_watch": "Whether Mumbai South remains personality/alliance-driven or becomes more clearly aligned with national bloc politics.",
+    "analysis_source": "mixed",
+    "manual_confidence": "medium",
+    "has_manual_markdown": false,
+    "manual_csv_note": {
+      "summary": "Mumbai South is an elite, commercial urban seat capturing the politics of old Mumbai, business interests, and the post-split Shiv Sena landscape.",
+      "electoral_movement": "Mumbai South is a different kind of urban seat: elite, commercial, and politically symbolic.",
+      "key_factors": "candidate profile;alliance arithmetic;local context;state mood;class composition;local candidate networks;Sena factional identity;Congress/NCP alliance arithmetic;urban issue salience",
+      "local_context": "Why it mattered: It captures the politics of old Mumbai, business interests, urban governance, and the post-split Shiv Sena landscape. Factors that may have mattered: Class composition, local candidate networks, Sena factional identity, Congress/NCP alliance arithmetic, and urban issue salience.",
+      "what_to_watch": "Whether Mumbai South remains personality/alliance-driven or becomes more clearly aligned with national bloc politics.",
+      "confidence": "medium"
+    }
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for Mumbai South, Maharashtra using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why Mumbai South may be analytically useful using priority reason (seat_flip;major_constituency;top_inc_loss), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

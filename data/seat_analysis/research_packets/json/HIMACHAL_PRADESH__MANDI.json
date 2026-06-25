@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Himachal Pradesh",
+    "constituency": "MANDI",
+    "state_key": "HIMACHAL PRADESH",
+    "constituency_key": "MANDI"
+  },
+  "election_facts": {
+    "winner_2019": "RAM SWAROOP SHARMA",
+    "winner_2024": "KANGNA RANAUT",
+    "winner_party_2019": "BJP",
+    "winner_party_2024": "BJP",
+    "winner_changed": false,
+    "bjp_vote_share_2019": 68.7496,
+    "bjp_vote_share_2024": 52.8664,
+    "inc_vote_share_2019": 25.6785,
+    "inc_vote_share_2024": 45.5072,
+    "bjp_swing_2019_2024": -15.8832,
+    "inc_swing_2019_2024": 19.8287,
+    "margin_2019": 43.0711,
+    "margin_2024": 7.3592,
+    "margin_change": -35.712,
+    "turnout_2019": 50.504,
+    "turnout_2024": 38.99,
+    "turnout_change": -11.514
+  },
+  "state_context": {
+    "state_total_seats": 4,
+    "bjp_seats_2019": 4,
+    "bjp_seats_2024": 4,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 0,
+    "state_average_bjp_swing": -12.68,
+    "state_average_inc_swing": 14.39,
+    "state_demographic_coverage_pct": 75.0
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": false,
+    "is_close_2024": false,
+    "is_large_bjp_gain": false,
+    "is_large_bjp_loss": true,
+    "is_large_inc_gain": true,
+    "is_large_inc_loss": false,
+    "is_priority_seat": true,
+    "priority_reason": "top_bjp_loss",
+    "priority_rank": 101
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": 61.3925,
+      "improved_sanitation_pct_nfhs5": 48.8801,
+      "lpg_pct_nfhs5": 1.6338,
+      "mobile_phone_pct_nfhs5": 0.0,
+      "bank_account_pct_nfhs5": 11.2562,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": -71472.7182,
+      "urban_pct_nfhs5": 6.0956
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": -37.6522,
+      "improved_sanitation_pct_change": 26.015,
+      "lpg_pct_change": -21.9354,
+      "mobile_phone_pct_change": -11.9458,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": -2.201
+    },
+    "nfhs5_coverage_share": 1.0,
+    "change_coverage_share": 1.0,
+    "change_quality_flag": "low",
+    "data_quality_label": "high",
+    "districts_used": "MANDI\u2192Mandi; KULLU\u2192Kullu; CHAMBA\u2192Chamba; LAHAUL & SPITI\u2192Lahul and Spiti; SHIMLA\u2192Shimla",
+    "districts_missing": null,
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": false,
+      "has_change_any": false,
+      "missing_features_count": 22,
+      "available_features_count": 0
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "KANGNA RANAUT",
+    "winner_party_2024": "BJP",
+    "data_quality_label": "high",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "MANDI was retained by BJP in 2024. BJP vote share changed by -15.9 points and INC vote share changed by +19.8 points compared with 2019. The 2024 margin was 7.4%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates MANDI was retained by BJP in 2024. BJP vote share changed by -15.9 percentage points versus 2019. INC vote share changed by +19.8 percentage points versus 2019. The winning margin moved from 43.1% in 2019 to 7.4% in 2024. Turnout changed by -11.5 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "large_bjp_loss;large_inc_gain;high_turnout_change;rural_profile;high_demographic_coverage",
+    "generated_demographic_context": "Available NFHS-linked indicators may suggest a relatively rural-linked profile (urban share about 6.1%). Electricity/Lpg/Mobile Phone/Bank Account access indicators are available for this seat. Available data indicates relatively high district-linked demographic coverage for this seat.",
+    "generated_district_context": "District mapping uses: MANDI\u2192Mandi; KULLU\u2192Kullu; CHAMBA\u2192Chamba; LAHAUL & SPITI\u2192Lahul and Spiti; SHIMLA\u2192Shimla. NFHS-5 coverage share is about 100.0%. Change-indicator coverage share is about 100.0%. Change quality flag: low.",
+    "generated_what_to_watch": "Large major-party vote-share movement may warrant closer review of local competition patterns. Turnout shifted materially between 2019 and 2024 and may be worth tracking.",
+    "final_summary": "It is a seat where celebrity, party organisation, and state-level political mood intersect.",
+    "final_electoral_movement": "Available data indicates MANDI was retained by BJP in 2024. BJP vote share changed by -15.9 percentage points versus 2019. INC vote share changed by +19.8 percentage points versus 2019. The winning margin moved from 43.1% in 2019 to 7.4% in 2024. Turnout changed by -11.5 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "final_local_context": "It is a seat where celebrity, party organisation, and state-level political mood intersect.",
+    "final_what_to_watch": "Whether Mandi behaves like a BJP-safe seat or becomes more competitive under state anti-incumbency.",
+    "analysis_source": "manual",
+    "manual_confidence": "medium",
+    "manual_note": {
+      "path": "/Users/maadhavangupta/Downloads/CS/Projects/Election-simulator/data/seat_analysis/manual/notes/HIMACHAL_PRADESH__MANDI.md",
+      "why_it_mattered": "It is a seat where celebrity, party organisation, and state-level political mood intersect.",
+      "factors": "Candidate recognition, BJP's Himachal organisation, local identity, and the Congress state government's performance.",
+      "what_to_watch": "Whether Mandi behaves like a BJP-safe seat or becomes more competitive under state anti-incumbency.",
+      "notes_caveats": "This note is interpretive. Language such as \u201cmay have mattered\u201d and \u201ccould reflect\u201d is intentional. Patterns in The 543 data are not causal claims. Local context requires later source review.",
+      "analyst_name": "Maadhavan Gupta",
+      "manual_confidence": "medium",
+      "source_notes": "Based on The 543 election data and analyst-written local context; requires later source review."
+    },
+    "has_manual_markdown": true,
+    "manual_csv_note": {
+      "summary": "It is a seat where celebrity, party organisation, and state-level political mood intersect.",
+      "electoral_movement": "Available data indicates MANDI was retained by BJP in 2024. BJP vote share changed by -15.9 percentage points versus 2019. INC vote share changed by +19.8 percentage points versus 2019. The winning margin moved from 43.1% in 2019 to 7.4% in 2024. Turnout changed by -11.5 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+      "key_factors": "candidate profile;alliance arithmetic;turnout;local context;state mood",
+      "demographic_context": "Available NFHS-linked indicators may suggest a relatively rural-linked profile (urban share about 6.1%). Electricity/Lpg/Mobile Phone/Bank Account access indicators are available for this seat. Available data indicates relatively high district-linked demographic coverage for this seat.\n\nDistrict mapping uses: MANDI\u2192Mandi; KULLU\u2192Kullu; CHAMBA\u2192Chamba; LAHAUL & SPITI\u2192Lahul and Spiti; SHIMLA\u2192Shimla. NFHS-5 coverage share is about 100.0%. Change-indicator coverage share is about 100.0%. Change quality flag: low.",
+      "local_context": "It is a seat where celebrity, party organisation, and state-level political mood intersect.",
+      "what_to_watch": "Whether Mandi behaves like a BJP-safe seat or becomes more competitive under state anti-incumbency.",
+      "confidence": "medium"
+    }
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for MANDI, Himachal Pradesh using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why MANDI may be analytically useful using priority reason (top_bjp_loss), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

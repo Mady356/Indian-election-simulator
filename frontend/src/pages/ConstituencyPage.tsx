@@ -107,6 +107,22 @@ export function ConstituencyPage() {
           label="Data quality"
           value={QUALITY_LABELS[record.data_quality_label] || record.data_quality_label}
         />
+        {record.demographic_source_type &&
+        (record.demographic_source_type === "manual" || record.demographic_source_type === "mixed") ? (
+          <MetricCard
+            label="Demographic sources"
+            value={
+              record.demographic_source_type === "manual"
+                ? "Manual sourced"
+                : "Mixed sources"
+            }
+            hint={
+              record.manual_demographic_fields_count
+                ? `${record.manual_demographic_fields_count} manual field(s)`
+                : undefined
+            }
+          />
+        ) : null}
       </div>
 
       <section className="rounded-xl border border-border bg-card p-5">

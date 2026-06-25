@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "West Bengal",
+    "constituency": "Diamond harbour",
+    "state_key": "WEST BENGAL",
+    "constituency_key": "DIAMOND HARBOUR"
+  },
+  "election_facts": {
+    "winner_2019": "ABHISHEK BANERJEE",
+    "winner_2024": "ABHISHEK BANERJEE",
+    "winner_party_2019": "AITC",
+    "winner_party_2024": "AITC",
+    "winner_changed": false,
+    "bjp_vote_share_2019": 33.3948,
+    "bjp_vote_share_2024": 22.034,
+    "inc_vote_share_2019": 1.4072,
+    "inc_vote_share_2024": 0.0,
+    "bjp_swing_2019_2024": -11.3608,
+    "inc_swing_2019_2024": -1.4072,
+    "margin_2019": 22.7533,
+    "margin_2024": 46.4412,
+    "margin_change": 23.6879,
+    "turnout_2019": 46.0174,
+    "turnout_2024": 55.71,
+    "turnout_change": 9.6926
+  },
+  "state_context": {
+    "state_total_seats": 42,
+    "bjp_seats_2019": 18,
+    "bjp_seats_2024": 12,
+    "inc_seats_2019": 2,
+    "inc_seats_2024": 1,
+    "state_average_bjp_swing": -1.48,
+    "state_average_inc_swing": -0.85,
+    "state_demographic_coverage_pct": 64.29
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": false,
+    "is_close_2024": false,
+    "is_large_bjp_gain": false,
+    "is_large_bjp_loss": true,
+    "is_large_inc_gain": false,
+    "is_large_inc_loss": false,
+    "is_priority_seat": true,
+    "priority_reason": "major_constituency",
+    "priority_rank": 271
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": null,
+      "improved_sanitation_pct_nfhs5": null,
+      "lpg_pct_nfhs5": null,
+      "mobile_phone_pct_nfhs5": null,
+      "bank_account_pct_nfhs5": null,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": null,
+      "urban_pct_nfhs5": null
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": null,
+      "improved_sanitation_pct_change": null,
+      "lpg_pct_change": null,
+      "mobile_phone_pct_change": null,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": null
+    },
+    "nfhs5_coverage_share": null,
+    "change_coverage_share": null,
+    "change_quality_flag": null,
+    "data_quality_label": "election_only",
+    "districts_used": null,
+    "districts_missing": null,
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": false,
+      "has_change_any": false,
+      "missing_features_count": 22,
+      "available_features_count": 0
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "ABHISHEK BANERJEE",
+    "winner_party_2024": "AITC",
+    "data_quality_label": "election_only",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "Diamond harbour was retained by AITC in 2024. BJP vote share changed by -11.4 points and INC vote share changed by -1.4 points compared with 2019. The 2024 margin was 46.4%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates Diamond harbour was retained by AITC in 2024. BJP vote share changed by -11.4 percentage points versus 2019. INC vote share changed by -1.4 percentage points versus 2019. The winning margin moved from 22.8% in 2019 to 46.4% in 2024. Turnout changed by +9.7 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "large_bjp_loss;high_turnout_change;election_only_profile",
+    "generated_demographic_context": "Demographic indicators are currently unavailable for this constituency; the profile is election-only.",
+    "generated_district_context": "District-linked demographic mapping details are not available for this seat.",
+    "generated_what_to_watch": "Turnout shifted materially between 2019 and 2024 and may be worth tracking. Demographic context may remain limited until district-linked coverage improves.",
+    "final_summary": "Diamond Harbour is a highly symbolic TMC power-centre seat tied to Abhishek Banerjee and next-generation Trinamool leadership in South Bengal.",
+    "final_electoral_movement": "Diamond Harbour remained a highly symbolic TMC seat because of Abhishek Banerjee.",
+    "final_local_context": "Why it mattered: This is not just a South Bengal constituency. It is a power-centre seat for the next-generation leadership of the Trinamool Congress. Factors that may have mattered: TMC's local machinery, Abhishek Banerjee's profile, welfare delivery networks, and the BJP's difficulty converting Bengal vote share into seats in TMC strongholds.",
+    "final_what_to_watch": "Whether Diamond Harbour continues to function as a TMC fortress or whether BJP can make future contests more competitive.",
+    "analysis_source": "mixed",
+    "manual_confidence": "medium",
+    "has_manual_markdown": false,
+    "manual_csv_note": {
+      "summary": "Diamond Harbour is a highly symbolic TMC power-centre seat tied to Abhishek Banerjee and next-generation Trinamool leadership in South Bengal.",
+      "electoral_movement": "Diamond Harbour remained a highly symbolic TMC seat because of Abhishek Banerjee.",
+      "key_factors": "candidate profile;local context;state mood;TMC local machinery;Abhishek Banerjee profile;welfare delivery networks;BJP seat-conversion difficulty",
+      "local_context": "Why it mattered: This is not just a South Bengal constituency. It is a power-centre seat for the next-generation leadership of the Trinamool Congress. Factors that may have mattered: TMC's local machinery, Abhishek Banerjee's profile, welfare delivery networks, and the BJP's difficulty converting Bengal vote share into seats in TMC strongholds.",
+      "what_to_watch": "Whether Diamond Harbour continues to function as a TMC fortress or whether BJP can make future contests more competitive.",
+      "confidence": "medium"
+    }
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for Diamond harbour, West Bengal using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why Diamond harbour may be analytically useful using priority reason (major_constituency), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

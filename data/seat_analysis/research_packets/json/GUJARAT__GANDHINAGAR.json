@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Gujarat",
+    "constituency": "Gandhinagar",
+    "state_key": "GUJARAT",
+    "constituency_key": "GANDHINAGAR"
+  },
+  "election_facts": {
+    "winner_2019": "AMIT SHAH",
+    "winner_2024": "AMIT SHAH",
+    "winner_party_2019": "BJP",
+    "winner_party_2024": "BJP",
+    "winner_changed": false,
+    "bjp_vote_share_2019": 69.6699,
+    "bjp_vote_share_2024": 76.4844,
+    "inc_vote_share_2019": 26.2918,
+    "inc_vote_share_2024": 20.1434,
+    "bjp_swing_2019_2024": 6.8145,
+    "inc_swing_2019_2024": -6.1484,
+    "margin_2019": 43.3781,
+    "margin_2024": 56.341,
+    "margin_change": 12.9629,
+    "turnout_2019": 45.9778,
+    "turnout_2024": 46.3,
+    "turnout_change": 0.3222
+  },
+  "state_context": {
+    "state_total_seats": 25,
+    "bjp_seats_2019": 25,
+    "bjp_seats_2024": 24,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 1,
+    "state_average_bjp_swing": 0.36,
+    "state_average_inc_swing": -1.54,
+    "state_demographic_coverage_pct": 84.0
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": false,
+    "is_close_2024": false,
+    "is_large_bjp_gain": false,
+    "is_large_bjp_loss": false,
+    "is_large_inc_gain": false,
+    "is_large_inc_loss": false,
+    "is_priority_seat": true,
+    "priority_reason": "major_constituency",
+    "priority_rank": 272
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": 95.7806,
+      "improved_sanitation_pct_nfhs5": 87.3367,
+      "lpg_pct_nfhs5": 56.9073,
+      "mobile_phone_pct_nfhs5": 43.084,
+      "bank_account_pct_nfhs5": 58.8043,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": 58507.2468,
+      "urban_pct_nfhs5": 30.231
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": 11.5419,
+      "improved_sanitation_pct_change": 36.0784,
+      "lpg_pct_change": 22.3054,
+      "mobile_phone_pct_change": 25.47,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": -12.5801
+    },
+    "nfhs5_coverage_share": 1.0,
+    "change_coverage_share": 1.0,
+    "change_quality_flag": "medium",
+    "data_quality_label": "high",
+    "districts_used": "AHMEDABAD\u2192Ahmadabad; PANCHMAHALS\u2192Panch Mahals (NFHS-4 proxy)",
+    "districts_missing": null,
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": true,
+      "has_change_any": true,
+      "missing_features_count": 10,
+      "available_features_count": 12
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "AMIT SHAH",
+    "winner_party_2024": "BJP",
+    "data_quality_label": "high",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "Gandhinagar was retained by BJP in 2024. BJP vote share changed by +6.8 points and INC vote share changed by -6.1 points compared with 2019. The 2024 margin was 56.3%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates Gandhinagar was retained by BJP in 2024. BJP vote share changed by +6.8 percentage points versus 2019. INC vote share changed by -6.1 percentage points versus 2019. The winning margin moved from 43.4% in 2019 to 56.3% in 2024. Turnout changed by +0.3 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "high_demographic_coverage",
+    "generated_demographic_context": "Electricity/Lpg/Mobile Phone/Bank Account access indicators are available for this seat. Available data indicates relatively high district-linked demographic coverage for this seat.",
+    "generated_district_context": "District mapping uses: AHMEDABAD\u2192Ahmadabad; PANCHMAHALS\u2192Panch Mahals (NFHS-4 proxy). NFHS-5 coverage share is about 100.0%. Change-indicator coverage share is about 100.0%. Change quality flag: medium.",
+    "generated_what_to_watch": "Track future election results and any improvements in district-linked demographic coverage.",
+    "final_summary": "Gandhinagar is one of the BJP's safest high-command seats, associated with national leadership and the party's organisational core in Gujarat.",
+    "final_electoral_movement": "Gandhinagar remained one of the BJP's safest high-command seats.",
+    "final_local_context": "Why it mattered: The seat is associated with the BJP's national leadership and organisational core. It is less useful as a competitive-seat indicator and more useful as a benchmark of the party's command over Gujarat. Factors that may have mattered: BJP organisational depth, Gujarat's long-running party alignment, urban/suburban middle-class consolidation, and leadership effects.",
+    "final_what_to_watch": "Not whether BJP wins, but whether margins stay overwhelming or slowly normalise over time.",
+    "analysis_source": "mixed",
+    "manual_confidence": "medium",
+    "has_manual_markdown": false,
+    "manual_csv_note": {
+      "summary": "Gandhinagar is one of the BJP's safest high-command seats, associated with national leadership and the party's organisational core in Gujarat.",
+      "electoral_movement": "Gandhinagar remained one of the BJP's safest high-command seats.",
+      "key_factors": "candidate profile;local context;state mood;BJP organisational depth;Gujarat party alignment;urban/suburban middle-class consolidation;leadership effects",
+      "local_context": "Why it mattered: The seat is associated with the BJP's national leadership and organisational core. It is less useful as a competitive-seat indicator and more useful as a benchmark of the party's command over Gujarat. Factors that may have mattered: BJP organisational depth, Gujarat's long-running party alignment, urban/suburban middle-class consolidation, and leadership effects.",
+      "what_to_watch": "Not whether BJP wins, but whether margins stay overwhelming or slowly normalise over time.",
+      "confidence": "medium"
+    }
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for Gandhinagar, Gujarat using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why Gandhinagar may be analytically useful using priority reason (major_constituency), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

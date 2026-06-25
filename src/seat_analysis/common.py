@@ -16,6 +16,15 @@ GENERATED_DIR = SEAT_ANALYSIS_DIR / "generated"
 MANUAL_DIR = SEAT_ANALYSIS_DIR / "manual"
 PROCESSED_DIR = SEAT_ANALYSIS_DIR / "processed"
 FRONTEND_DATA_DIR = ROOT / "frontend" / "public" / "data"
+MANUAL_NOTES_DIR = MANUAL_DIR / "notes"
+MANUAL_NOTES_SEED_PATH = MANUAL_DIR / "notes_seed" / "manual_notes_seed.md"
+MANUAL_SUGGESTED_DIR = MANUAL_DIR / "suggested"
+MANUAL_REPORTS_DIR = MANUAL_DIR / "reports"
+RESEARCH_PACKETS_DIR = SEAT_ANALYSIS_DIR / "research_packets"
+RESEARCH_PACKETS_JSON_DIR = RESEARCH_PACKETS_DIR / "json"
+RESEARCH_PACKETS_MD_DIR = RESEARCH_PACKETS_DIR / "markdown"
+MONTE_CARLO_BASE_PATH = FRONTEND_DATA_DIR / "monte_carlo_base.json"
+COVERAGE_REPORT_PATH = MANUAL_REPORTS_DIR / "seat_note_coverage_report.csv"
 
 MASTER_PATH = ANALYSIS_DIR / "constituency_election_demographic_master.csv"
 TOP_SWING_PATH = ANALYSIS_DIR / "top_swing_constituencies.csv"
@@ -29,6 +38,20 @@ MANUAL_TEMPLATE_PATH = MANUAL_DIR / "manual_seat_notes_template.csv"
 MANUAL_NOTES_PATH = MANUAL_DIR / "manual_seat_notes.csv"
 FINAL_CSV_PATH = PROCESSED_DIR / "seat_analysis_final.csv"
 FINAL_JSON_PATH = FRONTEND_DATA_DIR / "seat_analysis.json"
+
+DEMOGRAPHIC_CHANGE_COLS = [
+    "fertility_rate_change",
+    "electricity_pct_change",
+    "improved_sanitation_pct_change",
+    "lpg_pct_change",
+    "mobile_phone_pct_change",
+    "bank_account_pct_change",
+    "women_secondary_edu_pct_change",
+    "female_literacy_pct_change",
+    "male_literacy_pct_change",
+    "wealth_index_mean_change",
+    "urban_pct_change",
+]
 
 DEMOGRAPHIC_NFHS5_COLS = [
     "fertility_rate_nfhs5",
@@ -107,8 +130,19 @@ BASELINE_COLUMNS = [
 
 
 def ensure_dirs() -> None:
-    for path in (GENERATED_DIR, MANUAL_DIR, PROCESSED_DIR, FRONTEND_DATA_DIR):
+    for path in (
+        GENERATED_DIR,
+        MANUAL_DIR,
+        MANUAL_NOTES_DIR,
+        MANUAL_SUGGESTED_DIR,
+        MANUAL_REPORTS_DIR,
+        RESEARCH_PACKETS_JSON_DIR,
+        RESEARCH_PACKETS_MD_DIR,
+        PROCESSED_DIR,
+        FRONTEND_DATA_DIR,
+    ):
         path.mkdir(parents=True, exist_ok=True)
+    MANUAL_NOTES_SEED_PATH.parent.mkdir(parents=True, exist_ok=True)
 
 
 def normalize_key(value: object) -> str:
@@ -198,6 +232,12 @@ def load_top_swing() -> pd.DataFrame:
     if not TOP_SWING_PATH.exists():
         return pd.DataFrame()
     return pd.read_csv(TOP_SWING_PATH)
+
+
+def packet_filename(state_key: str, constituency_key: str, suffix: str) -> str:
+    safe_state = state_key.replace(" ", "_")
+    safe_constituency = constituency_key.replace(" ", "_")
+    return f"{safe_state}__{safe_constituency}.{suffix}"
 
 
 def non_empty_text(value: object) -> bool:

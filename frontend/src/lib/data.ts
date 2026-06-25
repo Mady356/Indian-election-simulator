@@ -4,6 +4,41 @@ import { loadSeatAnalysis, type SeatAnalysisRecord } from "./seatAnalysis";
 
 export type DataQualityLabel = "high" | "medium" | "low" | "election_only";
 
+export type DemographicSourceType = "generated" | "manual" | "mixed" | "election_only";
+
+export type DemographicValueOrigin = "generated" | "manual" | "manual_reference" | "manual_override";
+
+export interface DemographicFieldSource {
+  source_name: string;
+  source_year?: string | null;
+  method?: string | null;
+  confidence?: string | null;
+  value_origin?: DemographicValueOrigin | string | null;
+  manual_reference_value?: number | null;
+}
+
+export interface DemographicsManual {
+  literacy_rate?: number | null;
+  sc_pct?: number | null;
+  st_pct?: number | null;
+  religion_hindu_pct?: number | null;
+  religion_muslim_pct?: number | null;
+  religion_christian_pct?: number | null;
+  religion_sikh_pct?: number | null;
+  population_density?: number | null;
+  sex_ratio?: number | null;
+  urban_pct?: number | null;
+  female_literacy_pct?: number | null;
+  male_literacy_pct?: number | null;
+  electricity_pct?: number | null;
+  lpg_pct?: number | null;
+  improved_sanitation_pct?: number | null;
+  mobile_phone_pct?: number | null;
+  bank_account_pct?: number | null;
+  wealth_index_mean?: number | null;
+  fertility_rate?: number | null;
+}
+
 export interface DemographicsNfhs5 {
   fertility_rate?: number | null;
   electricity_pct?: number | null;
@@ -54,6 +89,11 @@ export interface ConstituencyRecord {
   turnout_2024?: number | null;
   demographics_nfhs5: DemographicsNfhs5;
   demographics_change: DemographicsChange;
+  demographics_manual?: DemographicsManual;
+  demographic_field_sources?: Record<string, DemographicFieldSource>;
+  demographic_source_type?: DemographicSourceType;
+  manual_demographic_fields_count?: number;
+  manual_demographic_source_count?: number;
   nfhs5_coverage_share?: number | null;
   change_coverage_share?: number | null;
   change_quality_flag?: string | null;
@@ -235,6 +275,9 @@ export async function loadDashboardData(): Promise<DashboardData> {
 }
 
 export function hasDemographics(record: ConstituencyRecord): boolean {
+  if (record.demographic_source_type && record.demographic_source_type !== "election_only") {
+    return true;
+  }
   return record.data_quality_label !== "election_only";
 }
 

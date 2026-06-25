@@ -1,0 +1,37 @@
+state,state_key,total_constituencies,generated_demographic_constituencies,election_only_constituencies,manual_constituencies_started,manual_constituencies_completed_core,manual_values_entered,valid_manual_values,completion_pct
+Andaman & Nicobar Islands,ANDAMAN & NICOBAR ISLANDS,1,0,1,0,0,0,0,0.0
+Andhra Pradesh,ANDHRA PRADESH,25,19,6,0,0,0,0,0.0
+Arunachal Pradesh,ARUNACHAL PRADESH,2,1,1,0,0,0,0,0.0
+Assam,ASSAM,14,8,6,0,0,0,0,0.0
+Bihar,BIHAR,40,37,3,0,0,0,0,0.0
+Chandigarh,CHANDIGARH,1,0,1,0,0,0,0,0.0
+Chhattisgarh,CHHATTISGARH,11,10,1,0,0,0,0,0.0
+Dadra & Nagar Haveli and Daman & Diu,DADRA & NAGAR HAVELI & DAMAN & DIU,2,0,2,0,0,0,0,0.0
+Goa,GOA,2,2,0,0,0,0,0,0.0
+Gujarat,GUJARAT,25,21,4,0,0,0,0,0.0
+Haryana,HARYANA,10,8,2,0,0,0,0,0.0
+Himachal Pradesh,HIMACHAL PRADESH,4,3,1,0,0,0,0,0.0
+Jammu and Kashmir,JAMMU & KASHMIR,5,0,5,0,0,0,0,0.0
+Jharkhand,JHARKHAND,14,11,3,0,0,0,0,0.0
+Karnataka,KARNATAKA,28,24,4,0,0,0,0,0.0
+Kerala,KERALA,20,17,3,0,0,0,0,0.0
+Ladakh,LADAKH,1,0,1,0,0,0,0,0.0
+Lakshadweep,LAKSHADWEEP,1,0,1,0,0,0,0,0.0
+Madhya Pradesh,MADHYA PRADESH,29,27,2,0,0,0,0,0.0
+Maharashtra,MAHARASHTRA,48,14,34,0,0,0,0,0.0
+Manipur,MANIPUR,2,0,2,0,0,0,0,0.0
+Meghalaya,MEGHALAYA,2,2,0,0,0,0,0,0.0
+Mizoram,MIZORAM,1,0,1,0,0,0,0,0.0
+NCT OF Delhi,NCT OF DELHI,7,0,7,0,0,0,0,0.0
+Nagaland,NAGALAND,1,0,1,0,0,0,0,0.0
+Odisha,ODISHA,21,0,21,0,0,0,0,0.0
+Puducherry,PUDUCHERRY,1,0,1,0,0,0,0,0.0
+Punjab,PUNJAB,13,11,2,0,0,0,0,0.0
+Rajasthan,RAJASTHAN,25,11,14,0,0,0,0,0.0
+Sikkim,SIKKIM,1,0,1,0,0,0,0,0.0
+Tamil Nadu,TAMIL NADU,39,28,11,0,0,0,0,0.0
+Telangana,TELANGANA,17,17,0,0,0,0,0,0.0
+Tripura,TRIPURA,2,2,0,0,0,0,0,0.0
+Uttar Pradesh,UTTAR PRADESH,80,51,29,0,0,0,0,0.0
+Uttarakhand,UTTARAKHAND,5,0,5,0,0,0,0,0.0
+West Bengal,WEST BENGAL,42,27,15,0,0,0,0,0.0

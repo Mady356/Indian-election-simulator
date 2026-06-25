@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Tamil Nadu",
+    "constituency": "COIMBATORE",
+    "state_key": "TAMIL NADU",
+    "constituency_key": "COIMBATORE"
+  },
+  "election_facts": {
+    "winner_2019": "NATARAJAN. P.R",
+    "winner_2024": "GANAPATHY RAJKUMAR P",
+    "winner_party_2019": "CPIM",
+    "winner_party_2024": "DMK",
+    "winner_changed": true,
+    "bjp_vote_share_2019": 31.3384,
+    "bjp_vote_share_2024": 32.7885,
+    "inc_vote_share_2019": null,
+    "inc_vote_share_2024": null,
+    "bjp_swing_2019_2024": 1.4502,
+    "inc_swing_2019_2024": null,
+    "margin_2019": 14.3213,
+    "margin_2024": 8.6003,
+    "margin_change": -5.721,
+    "turnout_2019": 29.1566,
+    "turnout_2024": 26.97,
+    "turnout_change": -2.1866
+  },
+  "state_context": {
+    "state_total_seats": 39,
+    "bjp_seats_2019": 0,
+    "bjp_seats_2024": 0,
+    "inc_seats_2019": 8,
+    "inc_seats_2024": 9,
+    "state_average_bjp_swing": 12.36,
+    "state_average_inc_swing": -5.1,
+    "state_demographic_coverage_pct": 71.79
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": true,
+    "is_close_2024": false,
+    "is_large_bjp_gain": false,
+    "is_large_bjp_loss": false,
+    "is_large_inc_gain": false,
+    "is_large_inc_loss": false,
+    "is_priority_seat": true,
+    "priority_reason": "seat_flip;major_constituency",
+    "priority_rank": 81
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": null,
+      "improved_sanitation_pct_nfhs5": null,
+      "lpg_pct_nfhs5": null,
+      "mobile_phone_pct_nfhs5": null,
+      "bank_account_pct_nfhs5": null,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": null,
+      "urban_pct_nfhs5": null
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": null,
+      "improved_sanitation_pct_change": null,
+      "lpg_pct_change": null,
+      "mobile_phone_pct_change": null,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": null
+    },
+    "nfhs5_coverage_share": 0.0,
+    "change_coverage_share": 0.0,
+    "change_quality_flag": "medium",
+    "data_quality_label": "election_only",
+    "districts_used": null,
+    "districts_missing": "COIMBATORE",
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": false,
+      "has_change_any": false,
+      "missing_features_count": 22,
+      "available_features_count": 0
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "GANAPATHY RAJKUMAR P",
+    "winner_party_2024": "DMK",
+    "data_quality_label": "election_only",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "COIMBATORE flipped from CPIM to DMK in 2024. BJP vote share changed by +1.5 points compared with 2019. The 2024 margin was 8.6%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates COIMBATORE flipped from CPIM to DMK between 2019 and 2024. BJP vote share changed by +1.5 percentage points versus 2019. The winning margin moved from 14.3% in 2019 to 8.6% in 2024. Turnout changed by -2.2 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "seat_flip;low_demographic_coverage;election_only_profile;district_coverage_gap",
+    "generated_demographic_context": "Demographic indicators are currently unavailable for this constituency; the profile is election-only.",
+    "generated_district_context": "Some districts are not mapped: COIMBATORE. NFHS-5 coverage share is about 0.0%. Change-indicator coverage share is about 0.0%. Change quality flag: medium.",
+    "generated_what_to_watch": "Monitor whether the 2024 seat change stabilizes in future cycles. Incomplete district mapping may limit future demographic interpretation for this seat. Demographic context may remain limited until district-linked coverage improves.",
+    "final_summary": "Coimbatore was framed as one of the BJP's key entry points into Tamil Nadu, testing whether the party can build a serious southern urban-industrial base outside its traditional geographies.",
+    "final_electoral_movement": "Coimbatore was framed as one of the BJP's key entry points into Tamil Nadu.",
+    "final_local_context": "Why it mattered: The seat is important because it tests whether the BJP can build a serious southern urban-industrial base outside its traditional geographies. Factors that may have mattered: Urbanisation, industrial economy, Hindutva mobilisation, candidate visibility, and the strength of Dravidian party networks.",
+    "final_what_to_watch": "Whether BJP's Coimbatore performance becomes the foundation for future Tamil Nadu growth or remains a high-noise, low-conversion experiment.",
+    "analysis_source": "mixed",
+    "manual_confidence": "medium",
+    "has_manual_markdown": false,
+    "manual_csv_note": {
+      "summary": "Coimbatore was framed as one of the BJP's key entry points into Tamil Nadu, testing whether the party can build a serious southern urban-industrial base outside its traditional geographies.",
+      "electoral_movement": "Coimbatore was framed as one of the BJP's key entry points into Tamil Nadu.",
+      "key_factors": "candidate profile;local context;state mood;urbanisation;industrial economy;Hindutva mobilisation;candidate visibility;Dravidian party networks",
+      "local_context": "Why it mattered: The seat is important because it tests whether the BJP can build a serious southern urban-industrial base outside its traditional geographies. Factors that may have mattered: Urbanisation, industrial economy, Hindutva mobilisation, candidate visibility, and the strength of Dravidian party networks.",
+      "what_to_watch": "Whether BJP's Coimbatore performance becomes the foundation for future Tamil Nadu growth or remains a high-noise, low-conversion experiment.",
+      "confidence": "medium"
+    }
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for COIMBATORE, Tamil Nadu using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why COIMBATORE may be analytically useful using priority reason (seat_flip;major_constituency), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

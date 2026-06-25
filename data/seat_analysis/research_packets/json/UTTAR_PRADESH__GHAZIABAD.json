@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Uttar Pradesh",
+    "constituency": "Ghaziabad",
+    "state_key": "UTTAR PRADESH",
+    "constituency_key": "GHAZIABAD"
+  },
+  "election_facts": {
+    "winner_2019": "Vijay Kumar Singh",
+    "winner_2024": "ATUL GARG",
+    "winner_party_2019": "BJP",
+    "winner_party_2024": "BJP",
+    "winner_changed": false,
+    "bjp_vote_share_2019": 61.9567,
+    "bjp_vote_share_2024": 58.0898,
+    "inc_vote_share_2019": 7.3432,
+    "inc_vote_share_2024": 35.1737,
+    "bjp_swing_2019_2024": -3.8669,
+    "inc_swing_2019_2024": 27.8305,
+    "margin_2019": 32.897,
+    "margin_2024": 22.9161,
+    "margin_change": -9.9809,
+    "turnout_2019": 34.6101,
+    "turnout_2024": 28.97,
+    "turnout_change": -5.6401
+  },
+  "state_context": {
+    "state_total_seats": 80,
+    "bjp_seats_2019": 62,
+    "bjp_seats_2024": 33,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 6,
+    "state_average_bjp_swing": -8.51,
+    "state_average_inc_swing": 3.46,
+    "state_demographic_coverage_pct": 63.75
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": false,
+    "is_close_2024": false,
+    "is_large_bjp_gain": false,
+    "is_large_bjp_loss": false,
+    "is_large_inc_gain": true,
+    "is_large_inc_loss": false,
+    "is_priority_seat": false,
+    "priority_reason": null,
+    "priority_rank": null
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": 65.6816,
+      "improved_sanitation_pct_nfhs5": 15.2063,
+      "lpg_pct_nfhs5": 11.1206,
+      "mobile_phone_pct_nfhs5": 4.3139,
+      "bank_account_pct_nfhs5": 18.4598,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": -84313.6578,
+      "urban_pct_nfhs5": 25.2615
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": 35.0863,
+      "improved_sanitation_pct_change": -8.4599,
+      "lpg_pct_change": 4.899,
+      "mobile_phone_pct_change": 0.4532,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": 10.2243
+    },
+    "nfhs5_coverage_share": 1.0,
+    "change_coverage_share": 1.0,
+    "change_quality_flag": "medium",
+    "data_quality_label": "high",
+    "districts_used": "GHAZIABAD\u2192Ghaziabad; MAU\u2192Mau (NFHS-4 proxy); SITAPUR\u2192Sitapur (NFHS-4 proxy)",
+    "districts_missing": null,
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": true,
+      "has_change_any": true,
+      "missing_features_count": 10,
+      "available_features_count": 12
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "ATUL GARG",
+    "winner_party_2024": "BJP",
+    "data_quality_label": "high",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "Ghaziabad was retained by BJP in 2024. BJP vote share changed by -3.9 points and INC vote share changed by +27.8 points compared with 2019. The 2024 margin was 22.9%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates Ghaziabad was retained by BJP in 2024. BJP vote share changed by -3.9 percentage points versus 2019. INC vote share changed by +27.8 percentage points versus 2019. The winning margin moved from 32.9% in 2019 to 22.9% in 2024. Turnout changed by -5.6 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "large_inc_gain;high_turnout_change;rural_profile;high_demographic_coverage",
+    "generated_demographic_context": "Available NFHS-linked indicators may suggest a relatively rural-linked profile (urban share about 25.3%). Electricity/Lpg/Mobile Phone/Bank Account access indicators are available for this seat. Available data indicates relatively high district-linked demographic coverage for this seat.",
+    "generated_district_context": "District mapping uses: GHAZIABAD\u2192Ghaziabad; MAU\u2192Mau (NFHS-4 proxy); SITAPUR\u2192Sitapur (NFHS-4 proxy). NFHS-5 coverage share is about 100.0%. Change-indicator coverage share is about 100.0%. Change quality flag: medium.",
+    "generated_what_to_watch": "Large major-party vote-share movement may warrant closer review of local competition patterns. Turnout shifted materially between 2019 and 2024 and may be worth tracking.",
+    "final_summary": "Ghaziabad was retained by BJP in 2024. BJP vote share changed by -3.9 points and INC vote share changed by +27.8 points compared with 2019. The 2024 margin was 22.9%. This is a descriptive election profile, not a causal explanation.",
+    "final_electoral_movement": "Available data indicates Ghaziabad was retained by BJP in 2024. BJP vote share changed by -3.9 percentage points versus 2019. INC vote share changed by +27.8 percentage points versus 2019. The winning margin moved from 32.9% in 2019 to 22.9% in 2024. Turnout changed by -5.6 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "final_local_context": null,
+    "final_what_to_watch": "Large major-party vote-share movement may warrant closer review of local competition patterns. Turnout shifted materially between 2019 and 2024 and may be worth tracking.",
+    "analysis_source": "generated",
+    "manual_confidence": "high",
+    "has_manual_markdown": false
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for Ghaziabad, Uttar Pradesh using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why Ghaziabad may be analytically useful using priority reason (none), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

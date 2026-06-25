@@ -1,0 +1,623 @@
+row_index,state,constituency,state_key,constituency_key,canonical_state_key,canonical_constituency_key,repair_class,completion_category,exists_in_election_master,exists_in_geojson,exists_in_delimitation_reference,reason
+0,Andaman & Nicobar,Andaman and Nicobar Islands,ANDAMAN AND NICOBAR,ANDAMAN AND NICOBAR ISLANDS,ANDAMAN AND NICOBAR ISLANDS,ANDAMAN NICOBAR ISLANDS,alias_duplicate,no_election_data_needs_election_results,False,True,False,Name variant of election master seat ANDAMAN AND NICOBAR ISLANDS::ANDAMAN NICOBAR ISLANDS
+1,Andaman & Nicobar Islands,Andaman & Nicobar Islands,ANDAMAN & NICOBAR ISLANDS,ANDAMAN NICOBAR ISLANDS,ANDAMAN AND NICOBAR ISLANDS,ANDAMAN NICOBAR ISLANDS,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+2,Andhra Pradesh,ADILABAD,ANDHRA PRADESH,ADILABAD,ANDHRA PRADESH,ADILABAD,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+3,Andhra Pradesh,ANANTAPUR,ANDHRA PRADESH,ANANTAPUR,ANDHRA PRADESH,ANANTHAPUR,alias_duplicate,reference_only_not_in_current_election,False,False,True,Alias of canonical seat ANDHRA PRADESH::ANANTHAPUR
+4,Andhra Pradesh,Amalapuram,ANDHRA PRADESH,AMALAPURAM,ANDHRA PRADESH,AMALAPURAM,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+5,Andhra Pradesh,Anakapalle,ANDHRA PRADESH,ANAKAPALLE,ANDHRA PRADESH,ANAKAPALLE,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+6,Andhra Pradesh,Anantapuramu,ANDHRA PRADESH,ANANTAPURAMU,ANDHRA PRADESH,ANANTHAPUR,alias_duplicate,no_election_data_needs_election_results,False,True,False,Alias of canonical seat ANDHRA PRADESH::ANANTHAPUR
+7,Andhra Pradesh,Ananthapur,ANDHRA PRADESH,ANANTHAPUR,ANDHRA PRADESH,ANANTHAPUR,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+8,Andhra Pradesh,Araku,ANDHRA PRADESH,ARAKU,ANDHRA PRADESH,ARAKU,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+9,Andhra Pradesh,BHONGIR,ANDHRA PRADESH,BHONGIR,ANDHRA PRADESH,BHONGIR,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+10,Andhra Pradesh,Bapatla,ANDHRA PRADESH,BAPATLA,ANDHRA PRADESH,BAPATLA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+11,Andhra Pradesh,CHEVELLA,ANDHRA PRADESH,CHEVELLA,ANDHRA PRADESH,CHEVELLA,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+12,Andhra Pradesh,Chittoor,ANDHRA PRADESH,CHITTOOR,ANDHRA PRADESH,CHITTOOR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+13,Andhra Pradesh,Eluru,ANDHRA PRADESH,ELURU,ANDHRA PRADESH,ELURU,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+14,Andhra Pradesh,Guntur,ANDHRA PRADESH,GUNTUR,ANDHRA PRADESH,GUNTUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+15,Andhra Pradesh,HYDERABAD,ANDHRA PRADESH,HYDERABAD,ANDHRA PRADESH,HYDERABAD,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+16,Andhra Pradesh,Hindupur,ANDHRA PRADESH,HINDUPUR,ANDHRA PRADESH,HINDUPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+17,Andhra Pradesh,KARIMNAGAR,ANDHRA PRADESH,KARIMNAGAR,ANDHRA PRADESH,KARIMNAGAR,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+18,Andhra Pradesh,KHAMMAM,ANDHRA PRADESH,KHAMMAM,ANDHRA PRADESH,KHAMMAM,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+19,Andhra Pradesh,Kadapa,ANDHRA PRADESH,KADAPA,ANDHRA PRADESH,KADAPA,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+20,Andhra Pradesh,Kakinada,ANDHRA PRADESH,KAKINADA,ANDHRA PRADESH,KAKINADA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+21,Andhra Pradesh,Kurnoolu,ANDHRA PRADESH,KURNOOLU,ANDHRA PRADESH,KURNOOLU,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+22,Andhra Pradesh,MAHABUBABAD,ANDHRA PRADESH,MAHABUBABAD,ANDHRA PRADESH,MAHABUBABAD,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+23,Andhra Pradesh,MAHBUBNAGAR,ANDHRA PRADESH,MAHBUBNAGAR,ANDHRA PRADESH,MAHBUBNAGAR,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+24,Andhra Pradesh,MALKAJGIRI,ANDHRA PRADESH,MALKAJGIRI,ANDHRA PRADESH,MALKAJGIRI,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+25,Andhra Pradesh,MEDAK,ANDHRA PRADESH,MEDAK,ANDHRA PRADESH,MEDAK,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+26,Andhra Pradesh,Machilipatnam,ANDHRA PRADESH,MACHILIPATNAM,ANDHRA PRADESH,MACHILIPATNAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+27,Andhra Pradesh,NAGARKURNOOL,ANDHRA PRADESH,NAGARKURNOOL,ANDHRA PRADESH,NAGARKURNOOL,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+28,Andhra Pradesh,NALGONDA,ANDHRA PRADESH,NALGONDA,ANDHRA PRADESH,NALGONDA,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+29,Andhra Pradesh,NIZAMABAD,ANDHRA PRADESH,NIZAMABAD,ANDHRA PRADESH,NIZAMABAD,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+30,Andhra Pradesh,Nandyal,ANDHRA PRADESH,NANDYAL,ANDHRA PRADESH,NANDYAL,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+31,Andhra Pradesh,Narasaraopet,ANDHRA PRADESH,NARASARAOPET,ANDHRA PRADESH,NARASARAOPET,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ANDHRA PRADESH::NARSARAOPET
+32,Andhra Pradesh,Narsapuram,ANDHRA PRADESH,NARSAPURAM,ANDHRA PRADESH,NARSAPURAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+33,Andhra Pradesh,Narsaraopet,ANDHRA PRADESH,NARSARAOPET,ANDHRA PRADESH,NARASARAOPET,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+34,Andhra Pradesh,Nellore,ANDHRA PRADESH,NELLORE,ANDHRA PRADESH,NELLORE,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+35,Andhra Pradesh,Ongole,ANDHRA PRADESH,ONGOLE,ANDHRA PRADESH,ONGOLE,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+36,Andhra Pradesh,PEDDAPALLE,ANDHRA PRADESH,PEDDAPALLE,ANDHRA PRADESH,PEDDAPALLE,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+37,Andhra Pradesh,Rajahmundry,ANDHRA PRADESH,RAJAHMUNDRY,ANDHRA PRADESH,RAJAHMUNDRY,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+38,Andhra Pradesh,Rajampet,ANDHRA PRADESH,RAJAMPET,ANDHRA PRADESH,RAJAMPET,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+39,Andhra Pradesh,SECUNDERABAD,ANDHRA PRADESH,SECUNDERABAD,ANDHRA PRADESH,SECUNDERABAD,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+40,Andhra Pradesh,Srikakulam,ANDHRA PRADESH,SRIKAKULAM,ANDHRA PRADESH,SRIKAKULAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+41,Andhra Pradesh,Thirupathi,ANDHRA PRADESH,THIRUPATHI,ANDHRA PRADESH,TIRUPATI,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+42,Andhra Pradesh,Tirupati,ANDHRA PRADESH,TIRUPATI,ANDHRA PRADESH,TIRUPATI,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ANDHRA PRADESH::THIRUPATHI
+43,Andhra Pradesh,Vijayawada,ANDHRA PRADESH,VIJAYAWADA,ANDHRA PRADESH,VIJAYAWADA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+44,Andhra Pradesh,Visakhapatnam,ANDHRA PRADESH,VISAKHAPATNAM,ANDHRA PRADESH,VISAKHAPATNAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+45,Andhra Pradesh,Vizianagaram,ANDHRA PRADESH,VIZIANAGARAM,ANDHRA PRADESH,VIZIANAGARAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+46,Andhra Pradesh,WARANGAL,ANDHRA PRADESH,WARANGAL,ANDHRA PRADESH,WARANGAL,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+47,Andhra Pradesh,ZAHIRABAD,ANDHRA PRADESH,ZAHIRABAD,ANDHRA PRADESH,ZAHIRABAD,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+48,Arunachal Pradesh,ARUNAHCAL EAST,ARUNACHAL PRADESH,ARUNAHCAL EAST,ARUNACHAL PRADESH,ARUNAHCAL EAST,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+49,Arunachal Pradesh,Arunachal East,ARUNACHAL PRADESH,ARUNACHAL EAST,ARUNACHAL PRADESH,ARUNACHAL EAST,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+50,Arunachal Pradesh,Arunachal West,ARUNACHAL PRADESH,ARUNACHAL WEST,ARUNACHAL PRADESH,ARUNACHAL WEST,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+51,Assam,Autonomous District,ASSAM,AUTONOMOUS DISTRICT,ASSAM,AUTONOMOUS DISTRICT,true_missing,no_election_data_needs_election_results,False,True,False,Seat missing election results in master
+52,Assam,Autonomous District (ST,ASSAM,AUTONOMOUS DISTRICT ST,ASSAM,AUTONOMOUS DISTRICT ST,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+53,Assam,Barpeta,ASSAM,BARPETA,ASSAM,BARPETA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+54,Assam,Darrang-Udalguri,ASSAM,DARRANG UDALGURI,ASSAM,DARRANG UDALGURI,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+55,Assam,Dhubri,ASSAM,DHUBRI,ASSAM,DHUBRI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+56,Assam,Dibrugarh,ASSAM,DIBRUGARH,ASSAM,DIBRUGARH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+57,Assam,Diphu,ASSAM,DIPHU,ASSAM,DIPHU,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+58,Assam,Gauhati,ASSAM,GAUHATI,ASSAM,GUWAHATI,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ASSAM::GUWAHATI
+59,Assam,Guwahati,ASSAM,GUWAHATI,ASSAM,GUWAHATI,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+60,Assam,Jorhat,ASSAM,JORHAT,ASSAM,JORHAT,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+61,Assam,Kaliabor,ASSAM,KALIABOR,ASSAM,KAZIRANGA,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ASSAM::KAZIRANGA
+62,Assam,Karimganj,ASSAM,KARIMGANJ,ASSAM,KARIMGANJ,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+63,Assam,Kaziranga,ASSAM,KAZIRANGA,ASSAM,KAZIRANGA,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+64,Assam,Kokrajhar,ASSAM,KOKRAJHAR,ASSAM,KOKRAJHAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+65,Assam,Lakhimpur,ASSAM,LAKHIMPUR,ASSAM,LAKHIMPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+66,Assam,Mangaldoi,ASSAM,MANGALDOI,ASSAM,DARRANG UDALGURI,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ASSAM::DARRANG UDALGURI
+67,Assam,Nagaon,ASSAM,NAGAON,ASSAM,NAGAON,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+68,Assam,Nawgong,ASSAM,NAWGONG,ASSAM,NAWGONG,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+69,Assam,Nowgong,ASSAM,NOWGONG,ASSAM,NAGAON,alias_duplicate,no_election_data_needs_election_results,False,True,False,Alias of canonical seat ASSAM::NAGAON
+70,Assam,Silchar,ASSAM,SILCHAR,ASSAM,SILCHAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+71,Assam,Sonitpur,ASSAM,SONITPUR,ASSAM,SONITPUR,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+72,Assam,Tezpur,ASSAM,TEZPUR,ASSAM,SONITPUR,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ASSAM::SONITPUR
+73,Bihar,Araria,BIHAR,ARARIA,BIHAR,ARARIA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+74,Bihar,Arrah,BIHAR,ARRAH,BIHAR,ARRAH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+75,Bihar,Aurangabad,BIHAR,AURANGABAD,BIHAR,AURANGABAD,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+76,Bihar,Banka,BIHAR,BANKA,BIHAR,BANKA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+77,Bihar,Begusarai,BIHAR,BEGUSARAI,BIHAR,BEGUSARAI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+78,Bihar,Bhagalpur,BIHAR,BHAGALPUR,BIHAR,BHAGALPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+79,Bihar,Buxar,BIHAR,BUXAR,BIHAR,BUXAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+80,Bihar,Darbhanga,BIHAR,DARBHANGA,BIHAR,DARBHANGA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+81,Bihar,Gaya,BIHAR,GAYA,BIHAR,GAYA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+82,Bihar,Gopalganj,BIHAR,GOPALGANJ,BIHAR,GOPALGANJ,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+83,Bihar,Hajipur,BIHAR,HAJIPUR,BIHAR,HAJIPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+84,Bihar,Jahanabad,BIHAR,JAHANABAD,BIHAR,JAHANABAD,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+85,Bihar,Jamui,BIHAR,JAMUI,BIHAR,JAMUI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+86,Bihar,Jhanjharpur,BIHAR,JHANJHARPUR,BIHAR,JHANJHARPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+87,Bihar,Karakat,BIHAR,KARAKAT,BIHAR,KARAKAT,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+88,Bihar,Katihar,BIHAR,KATIHAR,BIHAR,KATIHAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+89,Bihar,Khagaria,BIHAR,KHAGARIA,BIHAR,KHAGARIA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+90,Bihar,Kishanganj,BIHAR,KISHANGANJ,BIHAR,KISHANGANJ,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+91,Bihar,Madhepura,BIHAR,MADHEPURA,BIHAR,MADHEPURA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+92,Bihar,Madhubani,BIHAR,MADHUBANI,BIHAR,MADHUBANI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+93,Bihar,Maharajganj,BIHAR,MAHARAJGANJ,BIHAR,MAHARAJGANJ,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+94,Bihar,Munger,BIHAR,MUNGER,BIHAR,MUNGER,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+95,Bihar,Muzaffarpur,BIHAR,MUZAFFARPUR,BIHAR,MUZAFFARPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+96,Bihar,Nalanda,BIHAR,NALANDA,BIHAR,NALANDA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+97,Bihar,Nawada,BIHAR,NAWADA,BIHAR,NAWADA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+98,Bihar,Paschim Champaran,BIHAR,PASCHIM CHAMPARAN,BIHAR,PASCHIM CHAMPARAN,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+99,Bihar,Pataliputra,BIHAR,PATALIPUTRA,BIHAR,PATLIPUTRA,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat BIHAR::PATLIPUTRA
+100,Bihar,Patliputra,BIHAR,PATLIPUTRA,BIHAR,PATLIPUTRA,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+101,Bihar,Patna Sahib,BIHAR,PATNA SAHIB,BIHAR,PATNA SAHIB,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+102,Bihar,Purnia,BIHAR,PURNIA,BIHAR,PURNIA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+103,Bihar,Purvi Champaran,BIHAR,PURVI CHAMPARAN,BIHAR,PURVI CHAMPARAN,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+104,Bihar,Samastipur,BIHAR,SAMASTIPUR,BIHAR,SAMASTIPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+105,Bihar,Saran,BIHAR,SARAN,BIHAR,SARAN,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+106,Bihar,Sasaram,BIHAR,SASARAM,BIHAR,SASARAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+107,Bihar,Sheohar,BIHAR,SHEOHAR,BIHAR,SHEOHAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+108,Bihar,Sitamarhi,BIHAR,SITAMARHI,BIHAR,SITAMARHI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+109,Bihar,Siwan,BIHAR,SIWAN,BIHAR,SIWAN,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+110,Bihar,Supaul,BIHAR,SUPAUL,BIHAR,SUPAUL,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+111,Bihar,Ujiarpur,BIHAR,UJIARPUR,BIHAR,UJIARPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+112,Bihar,Vaishali,BIHAR,VAISHALI,BIHAR,VAISHALI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+113,Bihar,Valmiki Nagar,BIHAR,VALMIKI NAGAR,BIHAR,VALMIKI NAGAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+114,Chandigarh,Chandigarh,CHANDIGARH,CHANDIGARH,CHANDIGARH,CHANDIGARH,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+115,Chhattisgarh,BASTAR,CHHATTISGARH,BASTAR,CHHATTISGARH,BASTAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+116,Chhattisgarh,BILASPUR,CHHATTISGARH,BILASPUR,CHHATTISGARH,BILASPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+117,Chhattisgarh,DURG,CHHATTISGARH,DURG,CHHATTISGARH,DURG,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+118,Chhattisgarh,JANJGIR-CHAMPA,CHHATTISGARH,JANJGIR CHAMPA,CHHATTISGARH,JANJGIR CHAMPA,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+119,Chhattisgarh,KANKER,CHHATTISGARH,KANKER,CHHATTISGARH,KANKER,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+120,Chhattisgarh,KORBA,CHHATTISGARH,KORBA,CHHATTISGARH,KORBA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+121,Chhattisgarh,MAHASAMUND,CHHATTISGARH,MAHASAMUND,CHHATTISGARH,MAHASAMUND,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+122,Chhattisgarh,RAIGARH,CHHATTISGARH,RAIGARH,CHHATTISGARH,RAIGARH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+123,Chhattisgarh,RAIPUR,CHHATTISGARH,RAIPUR,CHHATTISGARH,RAIPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+124,Chhattisgarh,RAJNANDGAON,CHHATTISGARH,RAJNANDGAON,CHHATTISGARH,RAJNANDGAON,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+125,Chhattisgarh,SURGUJA,CHHATTISGARH,SURGUJA,CHHATTISGARH,SURGUJA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+126,Dadra & Nagar Haveli,Dadra and Nagar Haveli,DADRA AND NAGAR HAVELI,DADRA AND NAGAR HAVELI,DADRA AND NAGAR HAVELI,DADRA AND NAGAR HAVELI,true_missing,no_election_data_needs_election_results,False,True,False,Seat missing election results in master
+127,Dadra & Nagar Haveli and Daman & Diu,Dadar & Nagar Haveli,DADRA & NAGAR HAVELI & DAMAN & DIU,DADAR NAGAR HAVELI,DADRA AND NAGAR HAVELI AND DAMAN AND DIU,DADAR NAGAR HAVELI,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+128,Dadra & Nagar Haveli and Daman & Diu,Daman & Diu,DADRA & NAGAR HAVELI & DAMAN & DIU,DAMAN DIU,DADRA AND NAGAR HAVELI AND DAMAN AND DIU,DAMAN DIU,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+129,Daman & Diu,Daman and Diu,DAMAN AND DIU,DAMAN AND DIU,DAMAN AND DIU,DAMAN AND DIU,true_missing,no_election_data_needs_election_results,False,True,False,Seat missing election results in master
+130,Delhi,Chandni Chowk,DELHI,CHANDNI CHOWK,NCT OF DELHI,CHANDNI CHOWK,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat NCT OF DELHI::CHANDNI CHOWK
+131,Delhi,East Delhi,DELHI,EAST DELHI,NCT OF DELHI,EAST DELHI,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat NCT OF DELHI::EAST DELHI
+132,Delhi,New Delhi,DELHI,NEW DELHI,NCT OF DELHI,NEW DELHI,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat NCT OF DELHI::NEW DELHI
+133,Delhi,North East Delhi,DELHI,NORTH EAST DELHI,NCT OF DELHI,NORTH EAST DELHI,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat NCT OF DELHI::NORTH EAST DELHI
+134,Delhi,North West Delhi,DELHI,NORTH WEST DELHI,NCT OF DELHI,NORTH WEST DELHI,alias_duplicate,no_election_data_needs_election_results,False,True,False,Alias of canonical seat NCT OF DELHI::NORTH WEST DELHI
+135,Delhi,"North West Delhi 1.Nerela, 5.Badli, 6.Rithala, 7.Bawana, 8.Mundka, 9.Kirari",DELHI,NORTH WEST DELHI 1 NERELA 5 BADLI 6 RITHALA 7 BAWANA 8 MUNDKA 9 KIRARI,NCT OF DELHI,NORTH WEST DELHI 1 NERELA 5 BADLI 6 RITHALA 7 BAWANA 8 MUNDKA 9 KIRARI,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+136,Delhi,South Delhi,DELHI,SOUTH DELHI,NCT OF DELHI,SOUTH DELHI,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat NCT OF DELHI::SOUTH DELHI
+137,Delhi,West Delhi,DELHI,WEST DELHI,NCT OF DELHI,WEST DELHI,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat NCT OF DELHI::WEST DELHI
+138,Goa,North Goa,GOA,NORTH GOA,GOA,NORTH GOA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+139,Goa,South Goa,GOA,SOUTH GOA,GOA,SOUTH GOA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+140,Gujarat,Ahmedabad East,GUJARAT,AHMEDABAD EAST,GUJARAT,AHMEDABAD EAST,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+141,Gujarat,Ahmedabad West,GUJARAT,AHMEDABAD WEST,GUJARAT,AHMEDABAD WEST,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+142,Gujarat,Amreli,GUJARAT,AMRELI,GUJARAT,AMRELI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+143,Gujarat,Anand,GUJARAT,ANAND,GUJARAT,ANAND,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+144,Gujarat,Banaskantha,GUJARAT,BANASKANTHA,GUJARAT,BANASKANTHA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+145,Gujarat,Bardoli,GUJARAT,BARDOLI,GUJARAT,BARDOLI,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+146,Gujarat,Bharuch,GUJARAT,BHARUCH,GUJARAT,BHARUCH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+147,Gujarat,Bhavnagar,GUJARAT,BHAVNAGAR,GUJARAT,BHAVNAGAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+148,Gujarat,Chhota Udaipur,GUJARAT,CHHOTA UDAIPUR,GUJARAT,CHHOTA UDAIPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+149,Gujarat,Dahod,GUJARAT,DAHOD,GUJARAT,DAHOD,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+150,Gujarat,Gandhinagar,GUJARAT,GANDHINAGAR,GUJARAT,GANDHINAGAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+151,Gujarat,Jamnagar,GUJARAT,JAMNAGAR,GUJARAT,JAMNAGAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+152,Gujarat,Junagadh,GUJARAT,JUNAGADH,GUJARAT,JUNAGADH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+153,Gujarat,Kachchh,GUJARAT,KACHCHH,GUJARAT,KACHCHH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+154,Gujarat,Kheda,GUJARAT,KHEDA,GUJARAT,KHEDA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+155,Gujarat,Mahesana,GUJARAT,MAHESANA,GUJARAT,MAHESANA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+156,Gujarat,Navsari,GUJARAT,NAVSARI,GUJARAT,NAVSARI,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+157,Gujarat,Panchmahal,GUJARAT,PANCHMAHAL,GUJARAT,PANCHMAHAL,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+158,Gujarat,Patan,GUJARAT,PATAN,GUJARAT,PATAN,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+159,Gujarat,Porbandar,GUJARAT,PORBANDAR,GUJARAT,PORBANDAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+160,Gujarat,Rajkot,GUJARAT,RAJKOT,GUJARAT,RAJKOT,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+161,Gujarat,Sabarkantha,GUJARAT,SABARKANTHA,GUJARAT,SABARKANTHA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+162,Gujarat,Surat,GUJARAT,SURAT,GUJARAT,SURAT,true_missing,no_election_data_needs_election_results,False,True,True,Seat missing election results in master
+163,Gujarat,Surendranagar,GUJARAT,SURENDRANAGAR,GUJARAT,SURENDRANAGAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+164,Gujarat,Vadodara,GUJARAT,VADODARA,GUJARAT,VADODARA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+165,Gujarat,Valsad,GUJARAT,VALSAD,GUJARAT,VALSAD,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+166,Haryana,AMBALA,HARYANA,AMBALA,HARYANA,AMBALA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+167,Haryana,BHIWANI-MAHENDRAGARH,HARYANA,BHIWANI MAHENDRAGARH,HARYANA,BHIWANI MAHENDRAGARH,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+168,Haryana,FARIDABAD,HARYANA,FARIDABAD,HARYANA,FARIDABAD,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+169,Haryana,GURGAON,HARYANA,GURGAON,HARYANA,GURGAON,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+170,Haryana,HISAR,HARYANA,HISAR,HARYANA,HISAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+171,Haryana,KARNAL,HARYANA,KARNAL,HARYANA,KARNAL,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+172,Haryana,KURUKSHETRA,HARYANA,KURUKSHETRA,HARYANA,KURUKSHETRA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+173,Haryana,ROHTAK,HARYANA,ROHTAK,HARYANA,ROHTAK,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+174,Haryana,SIRSA,HARYANA,SIRSA,HARYANA,SIRSA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+175,Haryana,SONIPAT,HARYANA,SONIPAT,HARYANA,SONIPAT,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+176,Himachal Pradesh,HAMIRPUR,HIMACHAL PRADESH,HAMIRPUR,HIMACHAL PRADESH,HAMIRPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+177,Himachal Pradesh,KANGRA,HIMACHAL PRADESH,KANGRA,HIMACHAL PRADESH,KANGRA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+178,Himachal Pradesh,MANDI,HIMACHAL PRADESH,MANDI,HIMACHAL PRADESH,MANDI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+179,Himachal Pradesh,SHIMLA,HIMACHAL PRADESH,SHIMLA,HIMACHAL PRADESH,SHIMLA,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+180,Jammu & Kashmir,Ladakh,JAMMU AND KASHMIR,LADAKH,JAMMU AND KASHMIR,LADAKH,true_missing,no_election_data_needs_election_results,False,True,False,Seat missing election results in master
+181,Jammu and Kashmir,ANANTNAG-RAJOURI,JAMMU & KASHMIR,ANANTNAG RAJOURI,JAMMU AND KASHMIR,ANANTNAG RAJOURI,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+182,Jammu and Kashmir,BARAMULLA,JAMMU & KASHMIR,BARAMULLA,JAMMU AND KASHMIR,BARAMULLA,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+183,Jammu and Kashmir,JAMMU,JAMMU & KASHMIR,JAMMU,JAMMU AND KASHMIR,JAMMU,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+184,Jammu and Kashmir,SRINAGAR,JAMMU & KASHMIR,SRINAGAR,JAMMU AND KASHMIR,SRINAGAR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+185,Jammu and Kashmir,UDHAMPUR,JAMMU & KASHMIR,UDHAMPUR,JAMMU AND KASHMIR,UDHAMPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+186,Jharkhand,Chatra,JHARKHAND,CHATRA,JHARKHAND,CHATRA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+187,Jharkhand,Dhanbad,JHARKHAND,DHANBAD,JHARKHAND,DHANBAD,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+188,Jharkhand,Dumka,JHARKHAND,DUMKA,JHARKHAND,DUMKA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+189,Jharkhand,Giridih,JHARKHAND,GIRIDIH,JHARKHAND,GIRIDIH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+190,Jharkhand,Godda,JHARKHAND,GODDA,JHARKHAND,GODDA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+191,Jharkhand,Hazaribagh,JHARKHAND,HAZARIBAGH,JHARKHAND,HAZARIBAGH,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+192,Jharkhand,Jamshedpur,JHARKHAND,JAMSHEDPUR,JHARKHAND,JAMSHEDPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+193,Jharkhand,Khunti,JHARKHAND,KHUNTI,JHARKHAND,KHUNTI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+194,Jharkhand,Kodarma,JHARKHAND,KODARMA,JHARKHAND,KODARMA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+195,Jharkhand,Lohardaga,JHARKHAND,LOHARDAGA,JHARKHAND,LOHARDAGA,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+196,Jharkhand,Palamu,JHARKHAND,PALAMU,JHARKHAND,PALAMU,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+197,Jharkhand,Rajmahal,JHARKHAND,RAJMAHAL,JHARKHAND,RAJMAHAL,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+198,Jharkhand,Ranchi,JHARKHAND,RANCHI,JHARKHAND,RANCHI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+199,Jharkhand,Singhbhum,JHARKHAND,SINGHBHUM,JHARKHAND,SINGHBHUM,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+200,Karnataka,Bagalkot,KARNATAKA,BAGALKOT,KARNATAKA,BAGALKOT,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+201,Karnataka,Bangalore North,KARNATAKA,BANGALORE NORTH,KARNATAKA,BANGALORE NORTH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+202,Karnataka,Bangalore Rural,KARNATAKA,BANGALORE RURAL,KARNATAKA,BANGALORE RURAL,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+203,Karnataka,Bangalore South,KARNATAKA,BANGALORE SOUTH,KARNATAKA,BANGALORE SOUTH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+204,Karnataka,Bangalore central,KARNATAKA,BANGALORE CENTRAL,KARNATAKA,BANGALORE CENTRAL,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+205,Karnataka,Belagavi,KARNATAKA,BELAGAVI,KARNATAKA,BELAGAVI,true_missing,no_election_data_needs_election_results,False,True,False,Seat missing election results in master
+206,Karnataka,Belgaum,KARNATAKA,BELGAUM,KARNATAKA,BELGAUM,true_missing,partial_demographics_missing_core_fields,True,False,True,Canonical seat with real data gap
+207,Karnataka,Bellary,KARNATAKA,BELLARY,KARNATAKA,BELLARY,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+208,Karnataka,Bidar,KARNATAKA,BIDAR,KARNATAKA,BIDAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+209,Karnataka,Bijapur,KARNATAKA,BIJAPUR,KARNATAKA,BIJAPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+210,Karnataka,Chamarajanagar,KARNATAKA,CHAMARAJANAGAR,KARNATAKA,CHAMARAJANAGAR,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+211,Karnataka,Chikballapur,KARNATAKA,CHIKBALLAPUR,KARNATAKA,CHIKBALLAPUR,true_missing,no_election_data_needs_election_results,False,True,False,Seat missing election results in master
+212,Karnataka,Chikkballapur,KARNATAKA,CHIKKBALLAPUR,KARNATAKA,CHIKKBALLAPUR,true_missing,partial_demographics_missing_core_fields,True,False,True,Canonical seat with real data gap
+213,Karnataka,Chikkodi,KARNATAKA,CHIKKODI,KARNATAKA,CHIKKODI,true_missing,partial_demographics_missing_core_fields,True,False,True,Canonical seat with real data gap
+214,Karnataka,Chikodi,KARNATAKA,CHIKODI,KARNATAKA,CHIKODI,true_missing,no_election_data_needs_election_results,False,True,False,Seat missing election results in master
+215,Karnataka,Chitradurga,KARNATAKA,CHITRADURGA,KARNATAKA,CHITRADURGA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+216,Karnataka,Dakshina Kannada,KARNATAKA,DAKSHINA KANNADA,KARNATAKA,DAKSHINA KANNADA,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+217,Karnataka,Davanagere,KARNATAKA,DAVANAGERE,KARNATAKA,DAVANAGERE,true_missing,partial_demographics_missing_core_fields,True,False,True,Canonical seat with real data gap
+218,Karnataka,Davangere,KARNATAKA,DAVANGERE,KARNATAKA,DAVANGERE,true_missing,no_election_data_needs_election_results,False,True,False,Seat missing election results in master
+219,Karnataka,Dharwad,KARNATAKA,DHARWAD,KARNATAKA,DHARWAD,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+220,Karnataka,Gulbarga,KARNATAKA,GULBARGA,KARNATAKA,GULBARGA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+221,Karnataka,Haasan,KARNATAKA,HAASAN,KARNATAKA,HAASAN,true_missing,no_election_data_needs_election_results,False,True,False,Seat missing election results in master
+222,Karnataka,Hassan,KARNATAKA,HASSAN,KARNATAKA,HASSAN,true_missing,partial_demographics_missing_core_fields,True,False,True,Canonical seat with real data gap
+223,Karnataka,Haveri,KARNATAKA,HAVERI,KARNATAKA,HAVERI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+224,Karnataka,Kolar,KARNATAKA,KOLAR,KARNATAKA,KOLAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+225,Karnataka,Koppal,KARNATAKA,KOPPAL,KARNATAKA,KOPPAL,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+226,Karnataka,Mandya,KARNATAKA,MANDYA,KARNATAKA,MANDYA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+227,Karnataka,Mysore,KARNATAKA,MYSORE,KARNATAKA,MYSORE,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+228,Karnataka,Raichur,KARNATAKA,RAICHUR,KARNATAKA,RAICHUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+229,Karnataka,Shimoga,KARNATAKA,SHIMOGA,KARNATAKA,SHIMOGA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+230,Karnataka,Tumkur,KARNATAKA,TUMKUR,KARNATAKA,TUMKUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+231,Karnataka,Udupi Chikmagalur,KARNATAKA,UDUPI CHIKMAGALUR,KARNATAKA,UDUPI CHIKMAGALUR,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+232,Karnataka,Uttara Kannada,KARNATAKA,UTTARA KANNADA,KARNATAKA,UTTARA KANNADA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+233,Kerala,Alappuzha,KERALA,ALAPPUZHA,KERALA,ALAPPUZHA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+234,Kerala,Alathur,KERALA,ALATHUR,KERALA,ALATHUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+235,Kerala,Attingal,KERALA,ATTINGAL,KERALA,ATTINGAL,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+236,Kerala,Chalakudy,KERALA,CHALAKUDY,KERALA,CHALAKUDY,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+237,Kerala,Ernakulam,KERALA,ERNAKULAM,KERALA,ERNAKULAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+238,Kerala,Idukki,KERALA,IDUKKI,KERALA,IDUKKI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+239,Kerala,Kannur,KERALA,KANNUR,KERALA,KANNUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+240,Kerala,Kasaragod,KERALA,KASARAGOD,KERALA,KASARAGOD,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+241,Kerala,Kollam,KERALA,KOLLAM,KERALA,KOLLAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+242,Kerala,Kottayam,KERALA,KOTTAYAM,KERALA,KOTTAYAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+243,Kerala,Kozhikode,KERALA,KOZHIKODE,KERALA,KOZHIKODE,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+244,Kerala,Malappuram,KERALA,MALAPPURAM,KERALA,MALAPPURAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+245,Kerala,Mavelikkara,KERALA,MAVELIKKARA,KERALA,MAVELIKKARA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+246,Kerala,Palakkad,KERALA,PALAKKAD,KERALA,PALAKKAD,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+247,Kerala,Pathanamthitta,KERALA,PATHANAMTHITTA,KERALA,PATHANAMTHITTA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+248,Kerala,Ponnani,KERALA,PONNANI,KERALA,PONNANI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+249,Kerala,Thiruvananthapuram,KERALA,THIRUVANANTHAPURAM,KERALA,THIRUVANANTHAPURAM,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+250,Kerala,Thrissur,KERALA,THRISSUR,KERALA,THRISSUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+251,Kerala,Vadakara,KERALA,VADAKARA,KERALA,VADAKARA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+252,Kerala,Wayanad,KERALA,WAYANAD,KERALA,WAYANAD,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+253,Ladakh,Ladakh,LADAKH,LADAKH,LADAKH,LADAKH,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+254,Lakshadweep,Lakshadweep,LAKSHADWEEP,LAKSHADWEEP,LAKSHADWEEP,LAKSHADWEEP,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+255,Madhya Pradesh,119-Narsingpur,MADHYA PRADESH,119 NARSINGPUR,MADHYA PRADESH,119 NARSINGPUR,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+256,Madhya Pradesh,BALAGHAT,MADHYA PRADESH,BALAGHAT,MADHYA PRADESH,BALAGHAT,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+257,Madhya Pradesh,BETUL,MADHYA PRADESH,BETUL,MADHYA PRADESH,BETUL,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+258,Madhya Pradesh,BHIND,MADHYA PRADESH,BHIND,MADHYA PRADESH,BHIND,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+259,Madhya Pradesh,BHOPAL,MADHYA PRADESH,BHOPAL,MADHYA PRADESH,BHOPAL,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+260,Madhya Pradesh,CHHINDWARA,MADHYA PRADESH,CHHINDWARA,MADHYA PRADESH,CHHINDWARA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+261,Madhya Pradesh,DAMOH,MADHYA PRADESH,DAMOH,MADHYA PRADESH,DAMOH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+262,Madhya Pradesh,DEWAS,MADHYA PRADESH,DEWAS,MADHYA PRADESH,DEWAS,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+263,Madhya Pradesh,DHAR,MADHYA PRADESH,DHAR,MADHYA PRADESH,DHAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+264,Madhya Pradesh,GUNA,MADHYA PRADESH,GUNA,MADHYA PRADESH,GUNA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+265,Madhya Pradesh,GWALIOR,MADHYA PRADESH,GWALIOR,MADHYA PRADESH,GWALIOR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+266,Madhya Pradesh,HOSHANGABAD,MADHYA PRADESH,HOSHANGABAD,MADHYA PRADESH,HOSHANGABAD,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+267,Madhya Pradesh,INDORE,MADHYA PRADESH,INDORE,MADHYA PRADESH,INDORE,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+268,Madhya Pradesh,JABALPUR,MADHYA PRADESH,JABALPUR,MADHYA PRADESH,JABALPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+269,Madhya Pradesh,KHAJURAHO,MADHYA PRADESH,KHAJURAHO,MADHYA PRADESH,KHAJURAHO,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+270,Madhya Pradesh,KHANDWA,MADHYA PRADESH,KHANDWA,MADHYA PRADESH,KHANDWA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+271,Madhya Pradesh,KHARGONE,MADHYA PRADESH,KHARGONE,MADHYA PRADESH,KHARGONE,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+272,Madhya Pradesh,MANDLA,MADHYA PRADESH,MANDLA,MADHYA PRADESH,MANDLA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+273,Madhya Pradesh,MANDSOUR,MADHYA PRADESH,MANDSOUR,MADHYA PRADESH,MANDSOUR,true_missing,partial_demographics_missing_core_fields,True,False,True,Canonical seat with real data gap
+274,Madhya Pradesh,MORENA,MADHYA PRADESH,MORENA,MADHYA PRADESH,MORENA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+275,Madhya Pradesh,Mandsaur,MADHYA PRADESH,MANDSAUR,MADHYA PRADESH,MANDSAUR,true_missing,no_election_data_needs_election_results,False,True,False,Seat missing election results in master
+276,Madhya Pradesh,RAJGARH,MADHYA PRADESH,RAJGARH,MADHYA PRADESH,RAJGARH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+277,Madhya Pradesh,RATLAM,MADHYA PRADESH,RATLAM,MADHYA PRADESH,RATLAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+278,Madhya Pradesh,REWA,MADHYA PRADESH,REWA,MADHYA PRADESH,REWA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+279,Madhya Pradesh,SAGAR,MADHYA PRADESH,SAGAR,MADHYA PRADESH,SAGAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+280,Madhya Pradesh,SATNA,MADHYA PRADESH,SATNA,MADHYA PRADESH,SATNA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+281,Madhya Pradesh,SHAHDOL,MADHYA PRADESH,SHAHDOL,MADHYA PRADESH,SHAHDOL,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+282,Madhya Pradesh,SIDHI,MADHYA PRADESH,SIDHI,MADHYA PRADESH,SIDHI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+283,Madhya Pradesh,TIKAMGARH,MADHYA PRADESH,TIKAMGARH,MADHYA PRADESH,TIKAMGARH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+284,Madhya Pradesh,UJJAIN,MADHYA PRADESH,UJJAIN,MADHYA PRADESH,UJJAIN,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+285,Madhya Pradesh,VIDISHA,MADHYA PRADESH,VIDISHA,MADHYA PRADESH,VIDISHA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+286,Maharashtra,Ahmednagar,MAHARASHTRA,AHMEDNAGAR,MAHARASHTRA,AHMEDNAGAR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+287,Maharashtra,Akola,MAHARASHTRA,AKOLA,MAHARASHTRA,AKOLA,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+288,Maharashtra,Amravati,MAHARASHTRA,AMRAVATI,MAHARASHTRA,AMRAVATI,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+289,Maharashtra,Aurangabad,MAHARASHTRA,AURANGABAD,MAHARASHTRA,AURANGABAD,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+290,Maharashtra,Baramati,MAHARASHTRA,BARAMATI,MAHARASHTRA,BARAMATI,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+291,Maharashtra,Beed,MAHARASHTRA,BEED,MAHARASHTRA,BEED,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+292,Maharashtra,Bhandara Gondiya,MAHARASHTRA,BHANDARA GONDIYA,MAHARASHTRA,BHANDARA GONDIYA,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+293,Maharashtra,Bhiwandi,MAHARASHTRA,BHIWANDI,MAHARASHTRA,BHIWANDI,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+294,Maharashtra,Buldhana,MAHARASHTRA,BULDHANA,MAHARASHTRA,BULDHANA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+295,Maharashtra,Chandrapur,MAHARASHTRA,CHANDRAPUR,MAHARASHTRA,CHANDRAPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+296,Maharashtra,Dhule,MAHARASHTRA,DHULE,MAHARASHTRA,DHULE,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+297,Maharashtra,Dindori,MAHARASHTRA,DINDORI,MAHARASHTRA,DINDORI,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+298,Maharashtra,Gadchiroli - Chimur,MAHARASHTRA,GADCHIROLI CHIMUR,MAHARASHTRA,GADCHIROLI CHIMUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+299,Maharashtra,Hatkanangale,MAHARASHTRA,HATKANANGALE,MAHARASHTRA,HATKANANGALE,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+300,Maharashtra,Hingoli,MAHARASHTRA,HINGOLI,MAHARASHTRA,HINGOLI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+301,Maharashtra,Jalgaon,MAHARASHTRA,JALGAON,MAHARASHTRA,JALGAON,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+302,Maharashtra,Jalna,MAHARASHTRA,JALNA,MAHARASHTRA,JALNA,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+303,Maharashtra,Kalyan,MAHARASHTRA,KALYAN,MAHARASHTRA,KALYAN,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+304,Maharashtra,Kolhapur,MAHARASHTRA,KOLHAPUR,MAHARASHTRA,KOLHAPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+305,Maharashtra,Latur,MAHARASHTRA,LATUR,MAHARASHTRA,LATUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+306,Maharashtra,Madha,MAHARASHTRA,MADHA,MAHARASHTRA,MADHA,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+307,Maharashtra,Maval,MAHARASHTRA,MAVAL,MAHARASHTRA,MAVAL,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+308,Maharashtra,Mumbai North,MAHARASHTRA,MUMBAI NORTH,MAHARASHTRA,MUMBAI NORTH,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+309,Maharashtra,Mumbai North Central,MAHARASHTRA,MUMBAI NORTH CENTRAL,MAHARASHTRA,MUMBAI NORTH CENTRAL,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+310,Maharashtra,Mumbai North East,MAHARASHTRA,MUMBAI NORTH EAST,MAHARASHTRA,MUMBAI NORTH EAST,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+311,Maharashtra,Mumbai North West,MAHARASHTRA,MUMBAI NORTH WEST,MAHARASHTRA,MUMBAI NORTH WEST,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+312,Maharashtra,Mumbai South,MAHARASHTRA,MUMBAI SOUTH,MAHARASHTRA,MUMBAI SOUTH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+313,Maharashtra,Mumbai South Central,MAHARASHTRA,MUMBAI SOUTH CENTRAL,MAHARASHTRA,MUMBAI SOUTH CENTRAL,true_missing,partial_demographics_missing_core_fields,True,False,True,Canonical seat with real data gap
+314,Maharashtra,Nagpur,MAHARASHTRA,NAGPUR,MAHARASHTRA,NAGPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+315,Maharashtra,Nanded,MAHARASHTRA,NANDED,MAHARASHTRA,NANDED,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+316,Maharashtra,Nandurbar,MAHARASHTRA,NANDURBAR,MAHARASHTRA,NANDURBAR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+317,Maharashtra,Nashik,MAHARASHTRA,NASHIK,MAHARASHTRA,NASHIK,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+318,Maharashtra,Osmanabad,MAHARASHTRA,OSMANABAD,MAHARASHTRA,OSMANABAD,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+319,Maharashtra,Palghar,MAHARASHTRA,PALGHAR,MAHARASHTRA,PALGHAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+320,Maharashtra,Parbhani,MAHARASHTRA,PARBHANI,MAHARASHTRA,PARBHANI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+321,Maharashtra,Pune,MAHARASHTRA,PUNE,MAHARASHTRA,PUNE,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+322,Maharashtra,Raigad,MAHARASHTRA,RAIGAD,MAHARASHTRA,RAIGAD,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+323,Maharashtra,Ramtek,MAHARASHTRA,RAMTEK,MAHARASHTRA,RAMTEK,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+324,Maharashtra,Ratnagiri- Sindhudurg,MAHARASHTRA,RATNAGIRI SINDHUDURG,MAHARASHTRA,RATNAGIRI SINDHUDURG,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+325,Maharashtra,Raver,MAHARASHTRA,RAVER,MAHARASHTRA,RAVER,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+326,Maharashtra,Sangli,MAHARASHTRA,SANGLI,MAHARASHTRA,SANGLI,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+327,Maharashtra,Satara,MAHARASHTRA,SATARA,MAHARASHTRA,SATARA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+328,Maharashtra,Shirdi,MAHARASHTRA,SHIRDI,MAHARASHTRA,SHIRDI,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+329,Maharashtra,Shirur,MAHARASHTRA,SHIRUR,MAHARASHTRA,SHIRUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+330,Maharashtra,Solapur,MAHARASHTRA,SOLAPUR,MAHARASHTRA,SOLAPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+331,Maharashtra,Thane,MAHARASHTRA,THANE,MAHARASHTRA,THANE,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+332,Maharashtra,Wardha,MAHARASHTRA,WARDHA,MAHARASHTRA,WARDHA,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+333,Maharashtra,Yavatmal- Washim,MAHARASHTRA,YAVATMAL WASHIM,MAHARASHTRA,YAVATMAL WASHIM,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+334,Manipur,Inner Manipur,MANIPUR,INNER MANIPUR,MANIPUR,INNER MANIPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+335,Manipur,Outer Manipur,MANIPUR,OUTER MANIPUR,MANIPUR,OUTER MANIPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+336,Meghalaya,Shillong,MEGHALAYA,SHILLONG,MEGHALAYA,SHILLONG,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+337,Meghalaya,Tura,MEGHALAYA,TURA,MEGHALAYA,TURA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+338,Mizoram,MIZORAM,MIZORAM,MIZORAM,MIZORAM,MIZORAM,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+339,NCT OF Delhi,Chandni Chowk,NCT OF DELHI,CHANDNI CHOWK,NCT OF DELHI,CHANDNI CHOWK,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+340,NCT OF Delhi,East Delhi,NCT OF DELHI,EAST DELHI,NCT OF DELHI,EAST DELHI,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+341,NCT OF Delhi,New Delhi,NCT OF DELHI,NEW DELHI,NCT OF DELHI,NEW DELHI,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+342,NCT OF Delhi,North-East Delhi,NCT OF DELHI,NORTH EAST DELHI,NCT OF DELHI,NORTH EAST DELHI,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+343,NCT OF Delhi,North-West Delhi,NCT OF DELHI,NORTH WEST DELHI,NCT OF DELHI,NORTH WEST DELHI,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+344,NCT OF Delhi,South Delhi,NCT OF DELHI,SOUTH DELHI,NCT OF DELHI,SOUTH DELHI,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+345,NCT OF Delhi,West Delhi,NCT OF DELHI,WEST DELHI,NCT OF DELHI,WEST DELHI,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+346,Nagaland,Nagaland,NAGALAND,NAGALAND,NAGALAND,NAGALAND,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+347,Odisha,Aska,ODISHA,ASKA,ODISHA,ASKA,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+348,Odisha,Balasore,ODISHA,BALASORE,ODISHA,BALASORE,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+349,Odisha,Bargarh,ODISHA,BARGARH,ODISHA,BARGARH,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+350,Odisha,Berhampur,ODISHA,BERHAMPUR,ODISHA,BERHAMPUR,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+351,Odisha,Bhadrak,ODISHA,BHADRAK,ODISHA,BHADRAK,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+352,Odisha,Bhubaneswar,ODISHA,BHUBANESWAR,ODISHA,BHUBANESWAR,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+353,Odisha,Bolangir,ODISHA,BOLANGIR,ODISHA,BOLANGIR,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+354,Odisha,Cuttack,ODISHA,CUTTACK,ODISHA,CUTTACK,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+355,Odisha,Dhenkanal,ODISHA,DHENKANAL,ODISHA,DHENKANAL,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+356,Odisha,Jagatsinghpur,ODISHA,JAGATSINGHPUR,ODISHA,JAGATSINGHPUR,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+357,Odisha,Jajpur,ODISHA,JAJPUR,ODISHA,JAJPUR,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+358,Odisha,Kalahandi,ODISHA,KALAHANDI,ODISHA,KALAHANDI,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+359,Odisha,Kandhamal,ODISHA,KANDHAMAL,ODISHA,KANDHAMAL,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+360,Odisha,Kendrapara,ODISHA,KENDRAPARA,ODISHA,KENDRAPARA,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+361,Odisha,Keonjhar,ODISHA,KEONJHAR,ODISHA,KEONJHAR,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+362,Odisha,Koraput,ODISHA,KORAPUT,ODISHA,KORAPUT,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+363,Odisha,Mayurbhanj,ODISHA,MAYURBHANJ,ODISHA,MAYURBHANJ,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+364,Odisha,Nabarangpur,ODISHA,NABARANGPUR,ODISHA,NABARANGPUR,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+365,Odisha,Puri,ODISHA,PURI,ODISHA,PURI,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+366,Odisha,Sambalpur,ODISHA,SAMBALPUR,ODISHA,SAMBALPUR,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+367,Odisha,Sundargarh,ODISHA,SUNDARGARH,ODISHA,SUNDARGARH,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+368,Orissa,Aska,ORISSA,ASKA,ODISHA,ASKA,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::ASKA
+369,Orissa,Balasore,ORISSA,BALASORE,ODISHA,BALASORE,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::BALASORE
+370,Orissa,Bargarh,ORISSA,BARGARH,ODISHA,BARGARH,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::BARGARH
+371,Orissa,Berhampur,ORISSA,BERHAMPUR,ODISHA,BERHAMPUR,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::BERHAMPUR
+372,Orissa,Bhadrak,ORISSA,BHADRAK,ODISHA,BHADRAK,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::BHADRAK
+373,Orissa,Bhubaneswar,ORISSA,BHUBANESWAR,ODISHA,BHUBANESWAR,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::BHUBANESWAR
+374,Orissa,Bolangir,ORISSA,BOLANGIR,ODISHA,BOLANGIR,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::BOLANGIR
+375,Orissa,Cuttack,ORISSA,CUTTACK,ODISHA,CUTTACK,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::CUTTACK
+376,Orissa,Dhenkanal,ORISSA,DHENKANAL,ODISHA,DHENKANAL,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::DHENKANAL
+377,Orissa,Jagatsinghpur,ORISSA,JAGATSINGHPUR,ODISHA,JAGATSINGHPUR,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::JAGATSINGHPUR
+378,Orissa,Jajpur,ORISSA,JAJPUR,ODISHA,JAJPUR,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::JAJPUR
+379,Orissa,Kalahandi,ORISSA,KALAHANDI,ODISHA,KALAHANDI,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::KALAHANDI
+380,Orissa,Kandhamal,ORISSA,KANDHAMAL,ODISHA,KANDHAMAL,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::KANDHAMAL
+381,Orissa,Kendrapara,ORISSA,KENDRAPARA,ODISHA,KENDRAPARA,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::KENDRAPARA
+382,Orissa,Keonjhar,ORISSA,KEONJHAR,ODISHA,KEONJHAR,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::KEONJHAR
+383,Orissa,Koraput,ORISSA,KORAPUT,ODISHA,KORAPUT,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::KORAPUT
+384,Orissa,Mayurbhanj,ORISSA,MAYURBHANJ,ODISHA,MAYURBHANJ,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::MAYURBHANJ
+385,Orissa,"NABARANGPUR 73. Umarkote, 74. Jharigam, 75. Nabarangpur",ORISSA,NABARANGPUR 73 UMARKOTE 74 JHARIGAM 75 NABARANGPUR,ODISHA,NABARANGPUR 73 UMARKOTE 74 JHARIGAM 75 NABARANGPUR,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+386,Orissa,Nabarangpur,ORISSA,NABARANGPUR,ODISHA,NABARANGPUR,alias_duplicate,no_election_data_needs_election_results,False,True,False,Alias of canonical seat ODISHA::NABARANGPUR
+387,Orissa,Puri,ORISSA,PURI,ODISHA,PURI,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::PURI
+388,Orissa,Sambalpur,ORISSA,SAMBALPUR,ODISHA,SAMBALPUR,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::SAMBALPUR
+389,Orissa,Sundargarh,ORISSA,SUNDARGARH,ODISHA,SUNDARGARH,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat ODISHA::SUNDARGARH
+390,Puducherry,PUDUCHERRY,PUDUCHERRY,PUDUCHERRY,PUDUCHERRY,PUDUCHERRY,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+391,Punjab,Amritsar,PUNJAB,AMRITSAR,PUNJAB,AMRITSAR,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+392,Punjab,Anandpur Sahib,PUNJAB,ANANDPUR SAHIB,PUNJAB,ANANDPUR SAHIB,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+393,Punjab,Bathinda,PUNJAB,BATHINDA,PUNJAB,BATHINDA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+394,Punjab,Faridkot,PUNJAB,FARIDKOT,PUNJAB,FARIDKOT,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+395,Punjab,Fatehgarh Sahib,PUNJAB,FATEHGARH SAHIB,PUNJAB,FATEHGARH SAHIB,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+396,Punjab,Firozepur,PUNJAB,FIROZEPUR,PUNJAB,FIROZPUR,alias_duplicate,no_election_data_needs_election_results,False,True,False,Alias of canonical seat PUNJAB::FIROZPUR
+397,Punjab,Firozpur,PUNJAB,FIROZPUR,PUNJAB,FIROZPUR,true_missing,partial_demographics_missing_core_fields,True,False,True,Canonical seat with real data gap
+398,Punjab,Gurdaspur,PUNJAB,GURDASPUR,PUNJAB,GURDASPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+399,Punjab,Hoshiarpur,PUNJAB,HOSHIARPUR,PUNJAB,HOSHIARPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+400,Punjab,Jalandhar,PUNJAB,JALANDHAR,PUNJAB,JALANDHAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+401,Punjab,Khadoor Sahib,PUNJAB,KHADOOR SAHIB,PUNJAB,KHADOOR SAHIB,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+402,Punjab,Ludhiana,PUNJAB,LUDHIANA,PUNJAB,LUDHIANA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+403,Punjab,Patiala,PUNJAB,PATIALA,PUNJAB,PATIALA,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+404,Punjab,Sangrur,PUNJAB,SANGRUR,PUNJAB,SANGRUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+405,Rajasthan,AJMER,RAJASTHAN,AJMER,RAJASTHAN,AJMER,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+406,Rajasthan,ALWAR,RAJASTHAN,ALWAR,RAJASTHAN,ALWAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+407,Rajasthan,BANSWARA,RAJASTHAN,BANSWARA,RAJASTHAN,BANSWARA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+408,Rajasthan,BARMER,RAJASTHAN,BARMER,RAJASTHAN,BARMER,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+409,Rajasthan,BHARATPUR,RAJASTHAN,BHARATPUR,RAJASTHAN,BHARATPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+410,Rajasthan,BHILWARA,RAJASTHAN,BHILWARA,RAJASTHAN,BHILWARA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+411,Rajasthan,BIKANER,RAJASTHAN,BIKANER,RAJASTHAN,BIKANER,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+412,Rajasthan,CHITTORGARH,RAJASTHAN,CHITTORGARH,RAJASTHAN,CHITTORGARH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+413,Rajasthan,CHURU,RAJASTHAN,CHURU,RAJASTHAN,CHURU,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+414,Rajasthan,DAUSA,RAJASTHAN,DAUSA,RAJASTHAN,DAUSA,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+415,Rajasthan,GANGANAGAR,RAJASTHAN,GANGANAGAR,RAJASTHAN,GANGANAGAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+416,Rajasthan,JAIPUR,RAJASTHAN,JAIPUR,RAJASTHAN,JAIPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+417,Rajasthan,JAIPUR RURAL,RAJASTHAN,JAIPUR RURAL,RAJASTHAN,JAIPUR RURAL,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+418,Rajasthan,JALORE,RAJASTHAN,JALORE,RAJASTHAN,JALORE,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+419,Rajasthan,JHALAWAR-BARAN,RAJASTHAN,JHALAWAR BARAN,RAJASTHAN,JHALAWAR BARAN,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+420,Rajasthan,JHUNJHUNU,RAJASTHAN,JHUNJHUNU,RAJASTHAN,JHUNJHUNU,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+421,Rajasthan,JODHPUR,RAJASTHAN,JODHPUR,RAJASTHAN,JODHPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+422,Rajasthan,KARAULI-DHOLPUR,RAJASTHAN,KARAULI DHOLPUR,RAJASTHAN,KARAULI DHOLPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+423,Rajasthan,KOTA,RAJASTHAN,KOTA,RAJASTHAN,KOTA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+424,Rajasthan,NAGAUR,RAJASTHAN,NAGAUR,RAJASTHAN,NAGAUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+425,Rajasthan,PALI,RAJASTHAN,PALI,RAJASTHAN,PALI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+426,Rajasthan,RAJSAMAND,RAJASTHAN,RAJSAMAND,RAJASTHAN,RAJSAMAND,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+427,Rajasthan,SIKAR,RAJASTHAN,SIKAR,RAJASTHAN,SIKAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+428,Rajasthan,TONK-SAWAI MADHOPUR,RAJASTHAN,TONK SAWAI MADHOPUR,RAJASTHAN,TONK SAWAI MADHOPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+429,Rajasthan,UDAIPUR,RAJASTHAN,UDAIPUR,RAJASTHAN,UDAIPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+430,Sikkim,Sikkim,SIKKIM,SIKKIM,SIKKIM,SIKKIM,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+431,Tamil Nadu,ARAKKONAM,TAMIL NADU,ARAKKONAM,TAMIL NADU,ARAKKONAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+432,Tamil Nadu,ARANI,TAMIL NADU,ARANI,TAMIL NADU,ARANI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+433,Tamil Nadu,CHENNAI CENTRAL,TAMIL NADU,CHENNAI CENTRAL,TAMIL NADU,CHENNAI CENTRAL,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+434,Tamil Nadu,CHENNAI NORTH,TAMIL NADU,CHENNAI NORTH,TAMIL NADU,CHENNAI NORTH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+435,Tamil Nadu,CHENNAI SOUTH,TAMIL NADU,CHENNAI SOUTH,TAMIL NADU,CHENNAI SOUTH,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+436,Tamil Nadu,CHIDAMBARAM,TAMIL NADU,CHIDAMBARAM,TAMIL NADU,CHIDAMBARAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+437,Tamil Nadu,COIMBATORE,TAMIL NADU,COIMBATORE,TAMIL NADU,COIMBATORE,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+438,Tamil Nadu,CUDDALORE,TAMIL NADU,CUDDALORE,TAMIL NADU,CUDDALORE,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+439,Tamil Nadu,DHARMAPURI,TAMIL NADU,DHARMAPURI,TAMIL NADU,DHARMAPURI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+440,Tamil Nadu,DINDIGUL,TAMIL NADU,DINDIGUL,TAMIL NADU,DINDIGUL,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+441,Tamil Nadu,ERODE,TAMIL NADU,ERODE,TAMIL NADU,ERODE,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+442,Tamil Nadu,KALLAKURICHI,TAMIL NADU,KALLAKURICHI,TAMIL NADU,KALLAKURICHI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+443,Tamil Nadu,KANCHEEPURAM,TAMIL NADU,KANCHEEPURAM,TAMIL NADU,KANCHEEPURAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+444,Tamil Nadu,KANNIYAKUMARI,TAMIL NADU,KANNIYAKUMARI,TAMIL NADU,KANNIYAKUMARI,true_missing,election_only_needs_demographics,True,False,True,Canonical seat with real data gap
+445,Tamil Nadu,KARUR,TAMIL NADU,KARUR,TAMIL NADU,KARUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+446,Tamil Nadu,KRISHNAGIRI,TAMIL NADU,KRISHNAGIRI,TAMIL NADU,KRISHNAGIRI,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+447,Tamil Nadu,Kanyakumari,TAMIL NADU,KANYAKUMARI,TAMIL NADU,KANNIYAKUMARI,alias_duplicate,no_election_data_needs_election_results,False,True,False,Alias of canonical seat TAMIL NADU::KANNIYAKUMARI
+448,Tamil Nadu,MADURAI,TAMIL NADU,MADURAI,TAMIL NADU,MADURAI,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+449,Tamil Nadu,MAYILADUTHURAI,TAMIL NADU,MAYILADUTHURAI,TAMIL NADU,MAYILADUTHURAI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+450,Tamil Nadu,NAGAPATTINAM,TAMIL NADU,NAGAPATTINAM,TAMIL NADU,NAGAPATTINAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+451,Tamil Nadu,NAMAKKAL,TAMIL NADU,NAMAKKAL,TAMIL NADU,NAMAKKAL,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+452,Tamil Nadu,NILGIRIS,TAMIL NADU,NILGIRIS,TAMIL NADU,NILGIRIS,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+453,Tamil Nadu,PERAMBALUR,TAMIL NADU,PERAMBALUR,TAMIL NADU,PERAMBALUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+454,Tamil Nadu,POLLACHI,TAMIL NADU,POLLACHI,TAMIL NADU,POLLACHI,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+455,Tamil Nadu,RAMANATHAPURAM,TAMIL NADU,RAMANATHAPURAM,TAMIL NADU,RAMANATHAPURAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+456,Tamil Nadu,SALEM,TAMIL NADU,SALEM,TAMIL NADU,SALEM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+457,Tamil Nadu,SIVAGANGA,TAMIL NADU,SIVAGANGA,TAMIL NADU,SIVAGANGA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+458,Tamil Nadu,SRIPERUMBUDUR,TAMIL NADU,SRIPERUMBUDUR,TAMIL NADU,SRIPERUMBUDUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+459,Tamil Nadu,TENKASI,TAMIL NADU,TENKASI,TAMIL NADU,TENKASI,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+460,Tamil Nadu,THANJAVUR,TAMIL NADU,THANJAVUR,TAMIL NADU,THANJAVUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+461,Tamil Nadu,THENI,TAMIL NADU,THENI,TAMIL NADU,THENI,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+462,Tamil Nadu,THOOTHUKKUDI,TAMIL NADU,THOOTHUKKUDI,TAMIL NADU,THOOTHUKKUDI,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+463,Tamil Nadu,TIRUCHIRAPPALLI,TAMIL NADU,TIRUCHIRAPPALLI,TAMIL NADU,TIRUCHIRAPPALLI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+464,Tamil Nadu,TIRUNELVELI,TAMIL NADU,TIRUNELVELI,TAMIL NADU,TIRUNELVELI,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+465,Tamil Nadu,TIRUPPUR,TAMIL NADU,TIRUPPUR,TAMIL NADU,TIRUPPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+466,Tamil Nadu,TIRUVALLUR,TAMIL NADU,TIRUVALLUR,TAMIL NADU,TIRUVALLUR,true_missing,partial_demographics_missing_core_fields,True,False,True,Canonical seat with real data gap
+467,Tamil Nadu,TIRUVANNAMALAI,TAMIL NADU,TIRUVANNAMALAI,TAMIL NADU,TIRUVANNAMALAI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+468,Tamil Nadu,Thiruvallur,TAMIL NADU,THIRUVALLUR,TAMIL NADU,THIRUVALLUR,true_missing,no_election_data_needs_election_results,False,True,False,Seat missing election results in master
+469,Tamil Nadu,VELLORE,TAMIL NADU,VELLORE,TAMIL NADU,VELLORE,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+470,Tamil Nadu,VILUPPURAM,TAMIL NADU,VILUPPURAM,TAMIL NADU,VILUPPURAM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+471,Tamil Nadu,VIRUDHUNAGAR,TAMIL NADU,VIRUDHUNAGAR,TAMIL NADU,VIRUDHUNAGAR,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+472,Telangana,Adilabad,TELANGANA,ADILABAD,TELANGANA,ADILABAD,true_missing,partial_demographics_missing_core_fields,True,True,False,Canonical seat with real data gap
+473,Telangana,Bhongir,TELANGANA,BHONGIR,TELANGANA,BHONGIR,true_missing,partial_demographics_missing_core_fields,True,False,False,Canonical seat with real data gap
+474,Telangana,Bhuvanagiri,TELANGANA,BHUVANAGIRI,TELANGANA,BHONGIR,alias_duplicate,no_election_data_needs_election_results,False,True,False,Alias of canonical seat TELANGANA::BHONGIR
+475,Telangana,Chevella,TELANGANA,CHEVELLA,TELANGANA,CHEVELLA,true_missing,partial_demographics_missing_core_fields,True,True,False,Canonical seat with real data gap
+476,Telangana,Hyderabad,TELANGANA,HYDERABAD,TELANGANA,HYDERABAD,true_missing,partial_demographics_missing_core_fields,True,True,False,Canonical seat with real data gap
+477,Telangana,Karimnagar,TELANGANA,KARIMNAGAR,TELANGANA,KARIMNAGAR,true_missing,partial_demographics_missing_core_fields,True,True,False,Canonical seat with real data gap
+478,Telangana,Khammam,TELANGANA,KHAMMAM,TELANGANA,KHAMMAM,true_missing,partial_demographics_missing_core_fields,True,True,False,Canonical seat with real data gap
+479,Telangana,Mahabubabad,TELANGANA,MAHABUBABAD,TELANGANA,MAHABUBABAD,true_missing,partial_demographics_missing_core_fields,True,True,False,Canonical seat with real data gap
+480,Telangana,Mahbubnagar,TELANGANA,MAHBUBNAGAR,TELANGANA,MAHBUBNAGAR,true_missing,partial_demographics_missing_core_fields,True,False,False,Canonical seat with real data gap
+481,Telangana,Malkajgiri,TELANGANA,MALKAJGIRI,TELANGANA,MALKAJGIRI,true_missing,partial_demographics_missing_core_fields,True,True,False,Canonical seat with real data gap
+482,Telangana,Medak,TELANGANA,MEDAK,TELANGANA,MEDAK,true_missing,partial_demographics_missing_core_fields,True,True,False,Canonical seat with real data gap
+483,Telangana,Nagarkurnool,TELANGANA,NAGARKURNOOL,TELANGANA,NAGARKURNOOL,true_missing,partial_demographics_missing_core_fields,True,True,False,Canonical seat with real data gap
+484,Telangana,Nalgonda,TELANGANA,NALGONDA,TELANGANA,NALGONDA,true_missing,partial_demographics_missing_core_fields,True,True,False,Canonical seat with real data gap
+485,Telangana,Nizamabad,TELANGANA,NIZAMABAD,TELANGANA,NIZAMABAD,true_missing,partial_demographics_missing_core_fields,True,True,False,Canonical seat with real data gap
+486,Telangana,Peddapalle,TELANGANA,PEDDAPALLE,TELANGANA,PEDDAPALLE,true_missing,partial_demographics_missing_core_fields,True,True,False,Canonical seat with real data gap
+487,Telangana,Secunderabad,TELANGANA,SECUNDERABAD,TELANGANA,SECUNDERABAD,true_missing,partial_demographics_missing_core_fields,True,True,False,Canonical seat with real data gap
+488,Telangana,Warangal,TELANGANA,WARANGAL,TELANGANA,WARANGAL,true_missing,partial_demographics_missing_core_fields,True,True,False,Canonical seat with real data gap
+489,Telangana,Zahirabad,TELANGANA,ZAHIRABAD,TELANGANA,ZAHIRABAD,true_missing,partial_demographics_missing_core_fields,True,True,False,Canonical seat with real data gap
+490,Tripura,Tripura East,TRIPURA,TRIPURA EAST,TRIPURA,TRIPURA EAST,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+491,Tripura,Tripura West,TRIPURA,TRIPURA WEST,TRIPURA,TRIPURA WEST,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+492,Uttar Pradesh,Agra,UTTAR PRADESH,AGRA,UTTAR PRADESH,AGRA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+493,Uttar Pradesh,Akbarpur,UTTAR PRADESH,AKBARPUR,UTTAR PRADESH,AKBARPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+494,Uttar Pradesh,Aligarh,UTTAR PRADESH,ALIGARH,UTTAR PRADESH,ALIGARH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+495,Uttar Pradesh,Allahabad,UTTAR PRADESH,ALLAHABAD,UTTAR PRADESH,ALLAHABAD,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+496,Uttar Pradesh,Ambedkar Nagar,UTTAR PRADESH,AMBEDKAR NAGAR,UTTAR PRADESH,AMBEDKAR NAGAR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+497,Uttar Pradesh,Amethi,UTTAR PRADESH,AMETHI,UTTAR PRADESH,AMETHI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+498,Uttar Pradesh,Amroha,UTTAR PRADESH,AMROHA,UTTAR PRADESH,AMROHA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+499,Uttar Pradesh,Aonla,UTTAR PRADESH,AONLA,UTTAR PRADESH,AONLA,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+500,Uttar Pradesh,Azamgarh,UTTAR PRADESH,AZAMGARH,UTTAR PRADESH,AZAMGARH,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+501,Uttar Pradesh,Badaun,UTTAR PRADESH,BADAUN,UTTAR PRADESH,BADAUN,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+502,Uttar Pradesh,Baghpat,UTTAR PRADESH,BAGHPAT,UTTAR PRADESH,BAGHPAT,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+503,Uttar Pradesh,Baharaich,UTTAR PRADESH,BAHARAICH,UTTAR PRADESH,BAHARAICH,true_missing,election_only_needs_demographics,True,False,False,Canonical seat with real data gap
+504,Uttar Pradesh,Bahraich,UTTAR PRADESH,BAHRAICH,UTTAR PRADESH,BAHARAICH,alias_duplicate,no_election_data_needs_election_results,False,True,True,Alias of canonical seat UTTAR PRADESH::BAHARAICH
+505,Uttar Pradesh,Ballia,UTTAR PRADESH,BALLIA,UTTAR PRADESH,BALLIA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+506,Uttar Pradesh,Banda,UTTAR PRADESH,BANDA,UTTAR PRADESH,BANDA,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+507,Uttar Pradesh,Bansgaon,UTTAR PRADESH,BANSGAON,UTTAR PRADESH,BANSGAON,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+508,Uttar Pradesh,Barabanki,UTTAR PRADESH,BARABANKI,UTTAR PRADESH,BARABANKI,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+509,Uttar Pradesh,Bareilly,UTTAR PRADESH,BAREILLY,UTTAR PRADESH,BAREILLY,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+510,Uttar Pradesh,Basti,UTTAR PRADESH,BASTI,UTTAR PRADESH,BASTI,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+511,Uttar Pradesh,Bhadohi,UTTAR PRADESH,BHADOHI,UTTAR PRADESH,BHADOHI,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+512,Uttar Pradesh,Bijnor,UTTAR PRADESH,BIJNOR,UTTAR PRADESH,BIJNOR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+513,Uttar Pradesh,Bulandshahr,UTTAR PRADESH,BULANDSHAHR,UTTAR PRADESH,BULANDSHAHR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+514,Uttar Pradesh,Chandauli,UTTAR PRADESH,CHANDAULI,UTTAR PRADESH,CHANDAULI,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+515,Uttar Pradesh,Deoria,UTTAR PRADESH,DEORIA,UTTAR PRADESH,DEORIA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+516,Uttar Pradesh,Dhaurahra,UTTAR PRADESH,DHAURAHRA,UTTAR PRADESH,DHAURAHRA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+517,Uttar Pradesh,Domariyaganj,UTTAR PRADESH,DOMARIYAGANJ,UTTAR PRADESH,DOMARIYAGANJ,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+518,Uttar Pradesh,Etah,UTTAR PRADESH,ETAH,UTTAR PRADESH,ETAH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+519,Uttar Pradesh,Etawah,UTTAR PRADESH,ETAWAH,UTTAR PRADESH,ETAWAH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+520,Uttar Pradesh,Faizabad,UTTAR PRADESH,FAIZABAD,UTTAR PRADESH,FAIZABAD,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+521,Uttar Pradesh,Farrukhabad,UTTAR PRADESH,FARRUKHABAD,UTTAR PRADESH,FARRUKHABAD,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+522,Uttar Pradesh,Fatehpur,UTTAR PRADESH,FATEHPUR,UTTAR PRADESH,FATEHPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+523,Uttar Pradesh,Fatehpur Sikri,UTTAR PRADESH,FATEHPUR SIKRI,UTTAR PRADESH,FATEHPUR SIKRI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+524,Uttar Pradesh,Firozabad,UTTAR PRADESH,FIROZABAD,UTTAR PRADESH,FIROZABAD,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+525,Uttar Pradesh,Gautam Buddha Nagar,UTTAR PRADESH,GAUTAM BUDDHA NAGAR,UTTAR PRADESH,GAUTAM BUDDHA NAGAR,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+526,Uttar Pradesh,Ghaziabad,UTTAR PRADESH,GHAZIABAD,UTTAR PRADESH,GHAZIABAD,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+527,Uttar Pradesh,Ghazipur,UTTAR PRADESH,GHAZIPUR,UTTAR PRADESH,GHAZIPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+528,Uttar Pradesh,Ghosi,UTTAR PRADESH,GHOSI,UTTAR PRADESH,GHOSI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+529,Uttar Pradesh,Gonda,UTTAR PRADESH,GONDA,UTTAR PRADESH,GONDA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+530,Uttar Pradesh,Gorakhpur,UTTAR PRADESH,GORAKHPUR,UTTAR PRADESH,GORAKHPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+531,Uttar Pradesh,Hamirpur,UTTAR PRADESH,HAMIRPUR,UTTAR PRADESH,HAMIRPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+532,Uttar Pradesh,Hardoi,UTTAR PRADESH,HARDOI,UTTAR PRADESH,HARDOI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+533,Uttar Pradesh,Hathras,UTTAR PRADESH,HATHRAS,UTTAR PRADESH,HATHRAS,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+534,Uttar Pradesh,Jalaun,UTTAR PRADESH,JALAUN,UTTAR PRADESH,JALAUN,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+535,Uttar Pradesh,Jaunpur,UTTAR PRADESH,JAUNPUR,UTTAR PRADESH,JAUNPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+536,Uttar Pradesh,Jhansi,UTTAR PRADESH,JHANSI,UTTAR PRADESH,JHANSI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+537,Uttar Pradesh,Kairana,UTTAR PRADESH,KAIRANA,UTTAR PRADESH,KAIRANA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+538,Uttar Pradesh,Kaiserganj,UTTAR PRADESH,KAISERGANJ,UTTAR PRADESH,KAISERGANJ,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+539,Uttar Pradesh,Kannauj,UTTAR PRADESH,KANNAUJ,UTTAR PRADESH,KANNAUJ,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+540,Uttar Pradesh,Kanpur,UTTAR PRADESH,KANPUR,UTTAR PRADESH,KANPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+541,Uttar Pradesh,Kaushambi,UTTAR PRADESH,KAUSHAMBI,UTTAR PRADESH,KAUSHAMBI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+542,Uttar Pradesh,Kheri,UTTAR PRADESH,KHERI,UTTAR PRADESH,KHERI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+543,Uttar Pradesh,Kushi Nagar,UTTAR PRADESH,KUSHI NAGAR,UTTAR PRADESH,KUSHI NAGAR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+544,Uttar Pradesh,Lalganj,UTTAR PRADESH,LALGANJ,UTTAR PRADESH,LALGANJ,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+545,Uttar Pradesh,Lucknow,UTTAR PRADESH,LUCKNOW,UTTAR PRADESH,LUCKNOW,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+546,Uttar Pradesh,Machhlishahr,UTTAR PRADESH,MACHHLISHAHR,UTTAR PRADESH,MACHHLISHAHR,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+547,Uttar Pradesh,Maharajganj,UTTAR PRADESH,MAHARAJGANJ,UTTAR PRADESH,MAHARAJGANJ,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+548,Uttar Pradesh,Mainpuri,UTTAR PRADESH,MAINPURI,UTTAR PRADESH,MAINPURI,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+549,Uttar Pradesh,Mathura,UTTAR PRADESH,MATHURA,UTTAR PRADESH,MATHURA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+550,Uttar Pradesh,Meerut,UTTAR PRADESH,MEERUT,UTTAR PRADESH,MEERUT,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+551,Uttar Pradesh,Mirzapur,UTTAR PRADESH,MIRZAPUR,UTTAR PRADESH,MIRZAPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+552,Uttar Pradesh,Misrikh,UTTAR PRADESH,MISRIKH,UTTAR PRADESH,MISRIKH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+553,Uttar Pradesh,Mohanlalganj,UTTAR PRADESH,MOHANLALGANJ,UTTAR PRADESH,MOHANLALGANJ,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+554,Uttar Pradesh,Moradabad,UTTAR PRADESH,MORADABAD,UTTAR PRADESH,MORADABAD,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+555,Uttar Pradesh,Muzaffarnagar,UTTAR PRADESH,MUZAFFARNAGAR,UTTAR PRADESH,MUZAFFARNAGAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+556,Uttar Pradesh,Nagina,UTTAR PRADESH,NAGINA,UTTAR PRADESH,NAGINA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+557,Uttar Pradesh,Phulpur,UTTAR PRADESH,PHULPUR,UTTAR PRADESH,PHULPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+558,Uttar Pradesh,Pilibhit,UTTAR PRADESH,PILIBHIT,UTTAR PRADESH,PILIBHIT,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+559,Uttar Pradesh,Pratapgarh,UTTAR PRADESH,PRATAPGARH,UTTAR PRADESH,PRATAPGARH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+560,Uttar Pradesh,Rae Bareli,UTTAR PRADESH,RAE BARELI,UTTAR PRADESH,RAE BARELI,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+561,Uttar Pradesh,Rampur,UTTAR PRADESH,RAMPUR,UTTAR PRADESH,RAMPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+562,Uttar Pradesh,Robertsganj,UTTAR PRADESH,ROBERTSGANJ,UTTAR PRADESH,ROBERTSGANJ,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+563,Uttar Pradesh,Saharanpur,UTTAR PRADESH,SAHARANPUR,UTTAR PRADESH,SAHARANPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+564,Uttar Pradesh,Salempur,UTTAR PRADESH,SALEMPUR,UTTAR PRADESH,SALEMPUR,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+565,Uttar Pradesh,Sambhal,UTTAR PRADESH,SAMBHAL,UTTAR PRADESH,SAMBHAL,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+566,Uttar Pradesh,Sant Kabir Nagar,UTTAR PRADESH,SANT KABIR NAGAR,UTTAR PRADESH,SANT KABIR NAGAR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+567,Uttar Pradesh,Shahjahanpur,UTTAR PRADESH,SHAHJAHANPUR,UTTAR PRADESH,SHAHJAHANPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+568,Uttar Pradesh,Shrawasti,UTTAR PRADESH,SHRAWASTI,UTTAR PRADESH,SHRAWASTI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+569,Uttar Pradesh,Sitapur,UTTAR PRADESH,SITAPUR,UTTAR PRADESH,SITAPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+570,Uttar Pradesh,Sultanpur,UTTAR PRADESH,SULTANPUR,UTTAR PRADESH,SULTANPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+571,Uttar Pradesh,Unnao,UTTAR PRADESH,UNNAO,UTTAR PRADESH,UNNAO,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+572,Uttar Pradesh,Varanasi,UTTAR PRADESH,VARANASI,UTTAR PRADESH,VARANASI,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+573,Uttarakhand,Almora,UTTARAKHAND,ALMORA,UTTARAKHAND,ALMORA,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+574,Uttarakhand,Garhwal,UTTARAKHAND,GARHWAL,UTTARAKHAND,GARHWAL,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+575,Uttarakhand,Hardwar,UTTARAKHAND,HARDWAR,UTTARAKHAND,HARDWAR,reference_old_name,reference_only_not_in_current_election,False,False,True,Delimitation/reference old constituency name
+576,Uttarakhand,Haridwar,UTTARAKHAND,HARIDWAR,UTTARAKHAND,HARIDWAR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+577,Uttarakhand,Nainital-Udhamsingh Nagar,UTTARAKHAND,NAINITAL UDHAMSINGH NAGAR,UTTARAKHAND,NAINITAL UDHAMSINGH NAGAR,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+578,Uttarakhand,Tehri Garhwal,UTTARAKHAND,TEHRI GARHWAL,UTTARAKHAND,TEHRI GARHWAL,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+579,West Bengal,Alipurduars,WEST BENGAL,ALIPURDUARS,WEST BENGAL,ALIPURDUARS,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+580,West Bengal,Arambag,WEST BENGAL,ARAMBAG,WEST BENGAL,ARAMBAG,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+581,West Bengal,Asansol,WEST BENGAL,ASANSOL,WEST BENGAL,ASANSOL,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+582,West Bengal,Baharampur,WEST BENGAL,BAHARAMPUR,WEST BENGAL,BAHARAMPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+583,West Bengal,Balurghat,WEST BENGAL,BALURGHAT,WEST BENGAL,BALURGHAT,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+584,West Bengal,Bangaon,WEST BENGAL,BANGAON,WEST BENGAL,BANGAON,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+585,West Bengal,Bankura,WEST BENGAL,BANKURA,WEST BENGAL,BANKURA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+586,West Bengal,Barasat,WEST BENGAL,BARASAT,WEST BENGAL,BARASAT,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+587,West Bengal,Bardhaman Purba,WEST BENGAL,BARDHAMAN PURBA,WEST BENGAL,BARDHAMAN PURBA,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+588,West Bengal,Bardhaman-Durgapur,WEST BENGAL,BARDHAMAN DURGAPUR,WEST BENGAL,BARDHAMAN DURGAPUR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+589,West Bengal,Barrackpur,WEST BENGAL,BARRACKPUR,WEST BENGAL,BARRACKPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+590,West Bengal,Basirhat,WEST BENGAL,BASIRHAT,WEST BENGAL,BASIRHAT,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+591,West Bengal,Birbhum,WEST BENGAL,BIRBHUM,WEST BENGAL,BIRBHUM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+592,West Bengal,Bishnupur,WEST BENGAL,BISHNUPUR,WEST BENGAL,BISHNUPUR,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+593,West Bengal,Bolpur,WEST BENGAL,BOLPUR,WEST BENGAL,BOLPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+594,West Bengal,Cooch Behar,WEST BENGAL,COOCH BEHAR,WEST BENGAL,COOCH BEHAR,true_missing,no_election_data_needs_election_results,False,True,False,Seat missing election results in master
+595,West Bengal,Coochbehar,WEST BENGAL,COOCHBEHAR,WEST BENGAL,COOCHBEHAR,true_missing,partial_demographics_missing_core_fields,True,False,True,Canonical seat with real data gap
+596,West Bengal,Darjeeling,WEST BENGAL,DARJEELING,WEST BENGAL,DARJEELING,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+597,West Bengal,Diamond harbour,WEST BENGAL,DIAMOND HARBOUR,WEST BENGAL,DIAMOND HARBOUR,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+598,West Bengal,Dum dum,WEST BENGAL,DUM DUM,WEST BENGAL,DUM DUM,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+599,West Bengal,Ghatal,WEST BENGAL,GHATAL,WEST BENGAL,GHATAL,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+600,West Bengal,Hooghly,WEST BENGAL,HOOGHLY,WEST BENGAL,HOOGHLY,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+601,West Bengal,Howrah,WEST BENGAL,HOWRAH,WEST BENGAL,HOWRAH,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+602,West Bengal,Jadavpur,WEST BENGAL,JADAVPUR,WEST BENGAL,JADAVPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+603,West Bengal,Jalpaiguri,WEST BENGAL,JALPAIGURI,WEST BENGAL,JALPAIGURI,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+604,West Bengal,Jangipur,WEST BENGAL,JANGIPUR,WEST BENGAL,JANGIPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+605,West Bengal,Jaynagar,WEST BENGAL,JAYNAGAR,WEST BENGAL,JAYNAGAR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+606,West Bengal,Jhargram,WEST BENGAL,JHARGRAM,WEST BENGAL,JHARGRAM,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+607,West Bengal,Kanthi,WEST BENGAL,KANTHI,WEST BENGAL,KANTHI,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+608,West Bengal,Kolkata Dakshin,WEST BENGAL,KOLKATA DAKSHIN,WEST BENGAL,KOLKATA DAKSHIN,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+609,West Bengal,Kolkata Uttar,WEST BENGAL,KOLKATA UTTAR,WEST BENGAL,KOLKATA UTTAR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+610,West Bengal,Krishnanagar,WEST BENGAL,KRISHNANAGAR,WEST BENGAL,KRISHNANAGAR,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+611,West Bengal,Maldaha Dakshin,WEST BENGAL,MALDAHA DAKSHIN,WEST BENGAL,MALDAHA DAKSHIN,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+612,West Bengal,Maldaha Uttar,WEST BENGAL,MALDAHA UTTAR,WEST BENGAL,MALDAHA UTTAR,true_missing,election_only_needs_demographics,True,True,False,Canonical seat with real data gap
+613,West Bengal,Mathurapur,WEST BENGAL,MATHURAPUR,WEST BENGAL,MATHURAPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+614,West Bengal,Medinipur,WEST BENGAL,MEDINIPUR,WEST BENGAL,MEDINIPUR,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+615,West Bengal,Murshidabad,WEST BENGAL,MURSHIDABAD,WEST BENGAL,MURSHIDABAD,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+616,West Bengal,Purulia,WEST BENGAL,PURULIA,WEST BENGAL,PURULIA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+617,West Bengal,Raiganj,WEST BENGAL,RAIGANJ,WEST BENGAL,RAIGANJ,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+618,West Bengal,Ranaghat,WEST BENGAL,RANAGHAT,WEST BENGAL,RANAGHAT,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+619,West Bengal,Sreerampur,WEST BENGAL,SREERAMPUR,WEST BENGAL,SREERAMPUR,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap
+620,West Bengal,Tamluk,WEST BENGAL,TAMLUK,WEST BENGAL,TAMLUK,true_missing,election_only_needs_demographics,True,True,True,Canonical seat with real data gap
+621,West Bengal,Uluberia,WEST BENGAL,ULUBERIA,WEST BENGAL,ULUBERIA,true_missing,partial_demographics_missing_core_fields,True,True,True,Canonical seat with real data gap

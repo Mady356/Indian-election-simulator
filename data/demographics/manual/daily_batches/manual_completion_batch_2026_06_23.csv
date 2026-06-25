@@ -1,0 +1,470 @@
+state,constituency,state_key,constituency_key,variable,value,unit,source_name,source_url_or_document,source_year,geography_level,method,confidence,notes,entered_by,last_updated,needs_election_result_research
+Maharashtra,Amravati,MAHARASHTRA,AMRAVATI,urban_pct,,percent,,,,,,,,,,false
+Maharashtra,Amravati,MAHARASHTRA,AMRAVATI,literacy_rate,,percent,,,,,,,,,,false
+Maharashtra,Amravati,MAHARASHTRA,AMRAVATI,female_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Amravati,MAHARASHTRA,AMRAVATI,male_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Amravati,MAHARASHTRA,AMRAVATI,sc_pct,,percent,,,,,,,,,,false
+Maharashtra,Amravati,MAHARASHTRA,AMRAVATI,st_pct,,percent,,,,,,,,,,false
+Maharashtra,Amravati,MAHARASHTRA,AMRAVATI,religion_hindu_pct,,percent,,,,,,,,,,false
+Maharashtra,Amravati,MAHARASHTRA,AMRAVATI,religion_muslim_pct,,percent,,,,,,,,,,false
+Maharashtra,Amravati,MAHARASHTRA,AMRAVATI,population_density,,persons_per_sq_km,,,,,,,,,,false
+Maharashtra,Amravati,MAHARASHTRA,AMRAVATI,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Maharashtra,Bhiwandi,MAHARASHTRA,BHIWANDI,urban_pct,,percent,,,,,,,,,,false
+Maharashtra,Bhiwandi,MAHARASHTRA,BHIWANDI,literacy_rate,,percent,,,,,,,,,,false
+Maharashtra,Bhiwandi,MAHARASHTRA,BHIWANDI,female_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Bhiwandi,MAHARASHTRA,BHIWANDI,male_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Bhiwandi,MAHARASHTRA,BHIWANDI,sc_pct,,percent,,,,,,,,,,false
+Maharashtra,Bhiwandi,MAHARASHTRA,BHIWANDI,st_pct,,percent,,,,,,,,,,false
+Maharashtra,Bhiwandi,MAHARASHTRA,BHIWANDI,religion_hindu_pct,,percent,,,,,,,,,,false
+Maharashtra,Bhiwandi,MAHARASHTRA,BHIWANDI,religion_muslim_pct,,percent,,,,,,,,,,false
+Maharashtra,Bhiwandi,MAHARASHTRA,BHIWANDI,population_density,,persons_per_sq_km,,,,,,,,,,false
+Maharashtra,Bhiwandi,MAHARASHTRA,BHIWANDI,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Karnataka,Hassan,KARNATAKA,HASSAN,literacy_rate,,percent,,,,,,,,,,false
+Karnataka,Hassan,KARNATAKA,HASSAN,female_literacy_pct,,percent,,,,,,,,,,false
+Karnataka,Hassan,KARNATAKA,HASSAN,male_literacy_pct,,percent,,,,,,,,,,false
+Karnataka,Hassan,KARNATAKA,HASSAN,sc_pct,,percent,,,,,,,,,,false
+Karnataka,Hassan,KARNATAKA,HASSAN,st_pct,,percent,,,,,,,,,,false
+Karnataka,Hassan,KARNATAKA,HASSAN,religion_hindu_pct,,percent,,,,,,,,,,false
+Karnataka,Hassan,KARNATAKA,HASSAN,religion_muslim_pct,,percent,,,,,,,,,,false
+Karnataka,Hassan,KARNATAKA,HASSAN,population_density,,persons_per_sq_km,,,,,,,,,,false
+Karnataka,Hassan,KARNATAKA,HASSAN,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Tamil Nadu,TIRUNELVELI,TAMIL NADU,TIRUNELVELI,urban_pct,,percent,,,,,,,,,,false
+Tamil Nadu,TIRUNELVELI,TAMIL NADU,TIRUNELVELI,literacy_rate,,percent,,,,,,,,,,false
+Tamil Nadu,TIRUNELVELI,TAMIL NADU,TIRUNELVELI,female_literacy_pct,,percent,,,,,,,,,,false
+Tamil Nadu,TIRUNELVELI,TAMIL NADU,TIRUNELVELI,male_literacy_pct,,percent,,,,,,,,,,false
+Tamil Nadu,TIRUNELVELI,TAMIL NADU,TIRUNELVELI,sc_pct,,percent,,,,,,,,,,false
+Tamil Nadu,TIRUNELVELI,TAMIL NADU,TIRUNELVELI,st_pct,,percent,,,,,,,,,,false
+Tamil Nadu,TIRUNELVELI,TAMIL NADU,TIRUNELVELI,religion_hindu_pct,,percent,,,,,,,,,,false
+Tamil Nadu,TIRUNELVELI,TAMIL NADU,TIRUNELVELI,religion_muslim_pct,,percent,,,,,,,,,,false
+Tamil Nadu,TIRUNELVELI,TAMIL NADU,TIRUNELVELI,population_density,,persons_per_sq_km,,,,,,,,,,false
+Tamil Nadu,TIRUNELVELI,TAMIL NADU,TIRUNELVELI,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Uttar Pradesh,Bansgaon,UTTAR PRADESH,BANSGAON,urban_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Bansgaon,UTTAR PRADESH,BANSGAON,literacy_rate,,percent,,,,,,,,,,false
+Uttar Pradesh,Bansgaon,UTTAR PRADESH,BANSGAON,female_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Bansgaon,UTTAR PRADESH,BANSGAON,male_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Bansgaon,UTTAR PRADESH,BANSGAON,sc_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Bansgaon,UTTAR PRADESH,BANSGAON,st_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Bansgaon,UTTAR PRADESH,BANSGAON,religion_hindu_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Bansgaon,UTTAR PRADESH,BANSGAON,religion_muslim_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Bansgaon,UTTAR PRADESH,BANSGAON,population_density,,persons_per_sq_km,,,,,,,,,,false
+Uttar Pradesh,Bansgaon,UTTAR PRADESH,BANSGAON,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Rajasthan,JAIPUR RURAL,RAJASTHAN,JAIPUR RURAL,urban_pct,,percent,,,,,,,,,,false
+Rajasthan,JAIPUR RURAL,RAJASTHAN,JAIPUR RURAL,literacy_rate,,percent,,,,,,,,,,false
+Rajasthan,JAIPUR RURAL,RAJASTHAN,JAIPUR RURAL,female_literacy_pct,,percent,,,,,,,,,,false
+Rajasthan,JAIPUR RURAL,RAJASTHAN,JAIPUR RURAL,male_literacy_pct,,percent,,,,,,,,,,false
+Rajasthan,JAIPUR RURAL,RAJASTHAN,JAIPUR RURAL,sc_pct,,percent,,,,,,,,,,false
+Rajasthan,JAIPUR RURAL,RAJASTHAN,JAIPUR RURAL,st_pct,,percent,,,,,,,,,,false
+Rajasthan,JAIPUR RURAL,RAJASTHAN,JAIPUR RURAL,religion_hindu_pct,,percent,,,,,,,,,,false
+Rajasthan,JAIPUR RURAL,RAJASTHAN,JAIPUR RURAL,religion_muslim_pct,,percent,,,,,,,,,,false
+Rajasthan,JAIPUR RURAL,RAJASTHAN,JAIPUR RURAL,population_density,,persons_per_sq_km,,,,,,,,,,false
+Rajasthan,JAIPUR RURAL,RAJASTHAN,JAIPUR RURAL,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Maharashtra,Mumbai North West,MAHARASHTRA,MUMBAI NORTH WEST,literacy_rate,,percent,,,,,,,,,,false
+Maharashtra,Mumbai North West,MAHARASHTRA,MUMBAI NORTH WEST,female_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai North West,MAHARASHTRA,MUMBAI NORTH WEST,male_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai North West,MAHARASHTRA,MUMBAI NORTH WEST,sc_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai North West,MAHARASHTRA,MUMBAI NORTH WEST,st_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai North West,MAHARASHTRA,MUMBAI NORTH WEST,religion_hindu_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai North West,MAHARASHTRA,MUMBAI NORTH WEST,religion_muslim_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai North West,MAHARASHTRA,MUMBAI NORTH WEST,population_density,,persons_per_sq_km,,,,,,,,,,false
+Maharashtra,Mumbai North West,MAHARASHTRA,MUMBAI NORTH WEST,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Andhra Pradesh,Thirupathi,ANDHRA PRADESH,THIRUPATHI,urban_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Thirupathi,ANDHRA PRADESH,THIRUPATHI,literacy_rate,,percent,,,,,,,,,,false
+Andhra Pradesh,Thirupathi,ANDHRA PRADESH,THIRUPATHI,female_literacy_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Thirupathi,ANDHRA PRADESH,THIRUPATHI,male_literacy_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Thirupathi,ANDHRA PRADESH,THIRUPATHI,sc_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Thirupathi,ANDHRA PRADESH,THIRUPATHI,st_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Thirupathi,ANDHRA PRADESH,THIRUPATHI,religion_hindu_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Thirupathi,ANDHRA PRADESH,THIRUPATHI,religion_muslim_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Thirupathi,ANDHRA PRADESH,THIRUPATHI,population_density,,persons_per_sq_km,,,,,,,,,,false
+Andhra Pradesh,Thirupathi,ANDHRA PRADESH,THIRUPATHI,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Maharashtra,Baramati,MAHARASHTRA,BARAMATI,urban_pct,,percent,,,,,,,,,,false
+Maharashtra,Baramati,MAHARASHTRA,BARAMATI,literacy_rate,,percent,,,,,,,,,,false
+Maharashtra,Baramati,MAHARASHTRA,BARAMATI,female_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Baramati,MAHARASHTRA,BARAMATI,male_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Baramati,MAHARASHTRA,BARAMATI,sc_pct,,percent,,,,,,,,,,false
+Maharashtra,Baramati,MAHARASHTRA,BARAMATI,st_pct,,percent,,,,,,,,,,false
+Maharashtra,Baramati,MAHARASHTRA,BARAMATI,religion_hindu_pct,,percent,,,,,,,,,,false
+Maharashtra,Baramati,MAHARASHTRA,BARAMATI,religion_muslim_pct,,percent,,,,,,,,,,false
+Maharashtra,Baramati,MAHARASHTRA,BARAMATI,population_density,,persons_per_sq_km,,,,,,,,,,false
+Maharashtra,Baramati,MAHARASHTRA,BARAMATI,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Maharashtra,Mumbai South,MAHARASHTRA,MUMBAI SOUTH,literacy_rate,,percent,,,,,,,,,,false
+Maharashtra,Mumbai South,MAHARASHTRA,MUMBAI SOUTH,female_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai South,MAHARASHTRA,MUMBAI SOUTH,male_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai South,MAHARASHTRA,MUMBAI SOUTH,sc_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai South,MAHARASHTRA,MUMBAI SOUTH,st_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai South,MAHARASHTRA,MUMBAI SOUTH,religion_hindu_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai South,MAHARASHTRA,MUMBAI SOUTH,religion_muslim_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai South,MAHARASHTRA,MUMBAI SOUTH,population_density,,persons_per_sq_km,,,,,,,,,,false
+Maharashtra,Mumbai South,MAHARASHTRA,MUMBAI SOUTH,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Punjab,Anandpur Sahib,PUNJAB,ANANDPUR SAHIB,literacy_rate,,percent,,,,,,,,,,false
+Punjab,Anandpur Sahib,PUNJAB,ANANDPUR SAHIB,female_literacy_pct,,percent,,,,,,,,,,false
+Punjab,Anandpur Sahib,PUNJAB,ANANDPUR SAHIB,male_literacy_pct,,percent,,,,,,,,,,false
+Punjab,Anandpur Sahib,PUNJAB,ANANDPUR SAHIB,sc_pct,,percent,,,,,,,,,,false
+Punjab,Anandpur Sahib,PUNJAB,ANANDPUR SAHIB,st_pct,,percent,,,,,,,,,,false
+Punjab,Anandpur Sahib,PUNJAB,ANANDPUR SAHIB,religion_hindu_pct,,percent,,,,,,,,,,false
+Punjab,Anandpur Sahib,PUNJAB,ANANDPUR SAHIB,religion_muslim_pct,,percent,,,,,,,,,,false
+Punjab,Anandpur Sahib,PUNJAB,ANANDPUR SAHIB,population_density,,persons_per_sq_km,,,,,,,,,,false
+Punjab,Anandpur Sahib,PUNJAB,ANANDPUR SAHIB,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Maharashtra,Beed,MAHARASHTRA,BEED,literacy_rate,,percent,,,,,,,,,,false
+Maharashtra,Beed,MAHARASHTRA,BEED,female_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Beed,MAHARASHTRA,BEED,male_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Beed,MAHARASHTRA,BEED,sc_pct,,percent,,,,,,,,,,false
+Maharashtra,Beed,MAHARASHTRA,BEED,st_pct,,percent,,,,,,,,,,false
+Maharashtra,Beed,MAHARASHTRA,BEED,religion_hindu_pct,,percent,,,,,,,,,,false
+Maharashtra,Beed,MAHARASHTRA,BEED,religion_muslim_pct,,percent,,,,,,,,,,false
+Maharashtra,Beed,MAHARASHTRA,BEED,population_density,,persons_per_sq_km,,,,,,,,,,false
+Maharashtra,Beed,MAHARASHTRA,BEED,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Chandigarh,Chandigarh,CHANDIGARH,CHANDIGARH,urban_pct,,percent,,,,,,,,,,false
+Chandigarh,Chandigarh,CHANDIGARH,CHANDIGARH,literacy_rate,,percent,,,,,,,,,,false
+Chandigarh,Chandigarh,CHANDIGARH,CHANDIGARH,female_literacy_pct,,percent,,,,,,,,,,false
+Chandigarh,Chandigarh,CHANDIGARH,CHANDIGARH,male_literacy_pct,,percent,,,,,,,,,,false
+Chandigarh,Chandigarh,CHANDIGARH,CHANDIGARH,sc_pct,,percent,,,,,,,,,,false
+Chandigarh,Chandigarh,CHANDIGARH,CHANDIGARH,st_pct,,percent,,,,,,,,,,false
+Chandigarh,Chandigarh,CHANDIGARH,CHANDIGARH,religion_hindu_pct,,percent,,,,,,,,,,false
+Chandigarh,Chandigarh,CHANDIGARH,CHANDIGARH,religion_muslim_pct,,percent,,,,,,,,,,false
+Chandigarh,Chandigarh,CHANDIGARH,CHANDIGARH,population_density,,persons_per_sq_km,,,,,,,,,,false
+Chandigarh,Chandigarh,CHANDIGARH,CHANDIGARH,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Uttar Pradesh,Dhaurahra,UTTAR PRADESH,DHAURAHRA,literacy_rate,,percent,,,,,,,,,,false
+Uttar Pradesh,Dhaurahra,UTTAR PRADESH,DHAURAHRA,female_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Dhaurahra,UTTAR PRADESH,DHAURAHRA,male_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Dhaurahra,UTTAR PRADESH,DHAURAHRA,sc_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Dhaurahra,UTTAR PRADESH,DHAURAHRA,st_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Dhaurahra,UTTAR PRADESH,DHAURAHRA,religion_hindu_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Dhaurahra,UTTAR PRADESH,DHAURAHRA,religion_muslim_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Dhaurahra,UTTAR PRADESH,DHAURAHRA,population_density,,persons_per_sq_km,,,,,,,,,,false
+Uttar Pradesh,Dhaurahra,UTTAR PRADESH,DHAURAHRA,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Maharashtra,Dhule,MAHARASHTRA,DHULE,urban_pct,,percent,,,,,,,,,,false
+Maharashtra,Dhule,MAHARASHTRA,DHULE,literacy_rate,,percent,,,,,,,,,,false
+Maharashtra,Dhule,MAHARASHTRA,DHULE,female_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Dhule,MAHARASHTRA,DHULE,male_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Dhule,MAHARASHTRA,DHULE,sc_pct,,percent,,,,,,,,,,false
+Maharashtra,Dhule,MAHARASHTRA,DHULE,st_pct,,percent,,,,,,,,,,false
+Maharashtra,Dhule,MAHARASHTRA,DHULE,religion_hindu_pct,,percent,,,,,,,,,,false
+Maharashtra,Dhule,MAHARASHTRA,DHULE,religion_muslim_pct,,percent,,,,,,,,,,false
+Maharashtra,Dhule,MAHARASHTRA,DHULE,population_density,,persons_per_sq_km,,,,,,,,,,false
+Maharashtra,Dhule,MAHARASHTRA,DHULE,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Punjab,Firozpur,PUNJAB,FIROZPUR,literacy_rate,,percent,,,,,,,,,,false
+Punjab,Firozpur,PUNJAB,FIROZPUR,female_literacy_pct,,percent,,,,,,,,,,false
+Punjab,Firozpur,PUNJAB,FIROZPUR,male_literacy_pct,,percent,,,,,,,,,,false
+Punjab,Firozpur,PUNJAB,FIROZPUR,sc_pct,,percent,,,,,,,,,,false
+Punjab,Firozpur,PUNJAB,FIROZPUR,st_pct,,percent,,,,,,,,,,false
+Punjab,Firozpur,PUNJAB,FIROZPUR,religion_hindu_pct,,percent,,,,,,,,,,false
+Punjab,Firozpur,PUNJAB,FIROZPUR,religion_muslim_pct,,percent,,,,,,,,,,false
+Punjab,Firozpur,PUNJAB,FIROZPUR,population_density,,persons_per_sq_km,,,,,,,,,,false
+Punjab,Firozpur,PUNJAB,FIROZPUR,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Uttar Pradesh,Hamirpur,UTTAR PRADESH,HAMIRPUR,literacy_rate,,percent,,,,,,,,,,false
+Uttar Pradesh,Hamirpur,UTTAR PRADESH,HAMIRPUR,female_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Hamirpur,UTTAR PRADESH,HAMIRPUR,male_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Hamirpur,UTTAR PRADESH,HAMIRPUR,sc_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Hamirpur,UTTAR PRADESH,HAMIRPUR,st_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Hamirpur,UTTAR PRADESH,HAMIRPUR,religion_hindu_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Hamirpur,UTTAR PRADESH,HAMIRPUR,religion_muslim_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Hamirpur,UTTAR PRADESH,HAMIRPUR,population_density,,persons_per_sq_km,,,,,,,,,,false
+Uttar Pradesh,Hamirpur,UTTAR PRADESH,HAMIRPUR,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Odisha,Jajpur,ODISHA,JAJPUR,urban_pct,,percent,,,,,,,,,,false
+Odisha,Jajpur,ODISHA,JAJPUR,literacy_rate,,percent,,,,,,,,,,false
+Odisha,Jajpur,ODISHA,JAJPUR,female_literacy_pct,,percent,,,,,,,,,,false
+Odisha,Jajpur,ODISHA,JAJPUR,male_literacy_pct,,percent,,,,,,,,,,false
+Odisha,Jajpur,ODISHA,JAJPUR,sc_pct,,percent,,,,,,,,,,false
+Odisha,Jajpur,ODISHA,JAJPUR,st_pct,,percent,,,,,,,,,,false
+Odisha,Jajpur,ODISHA,JAJPUR,religion_hindu_pct,,percent,,,,,,,,,,false
+Odisha,Jajpur,ODISHA,JAJPUR,religion_muslim_pct,,percent,,,,,,,,,,false
+Odisha,Jajpur,ODISHA,JAJPUR,population_density,,persons_per_sq_km,,,,,,,,,,false
+Odisha,Jajpur,ODISHA,JAJPUR,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Telangana,Mahbubnagar,TELANGANA,MAHBUBNAGAR,literacy_rate,,percent,,,,,,,,,,false
+Telangana,Mahbubnagar,TELANGANA,MAHBUBNAGAR,female_literacy_pct,,percent,,,,,,,,,,false
+Telangana,Mahbubnagar,TELANGANA,MAHBUBNAGAR,male_literacy_pct,,percent,,,,,,,,,,false
+Telangana,Mahbubnagar,TELANGANA,MAHBUBNAGAR,sc_pct,,percent,,,,,,,,,,false
+Telangana,Mahbubnagar,TELANGANA,MAHBUBNAGAR,st_pct,,percent,,,,,,,,,,false
+Telangana,Mahbubnagar,TELANGANA,MAHBUBNAGAR,religion_hindu_pct,,percent,,,,,,,,,,false
+Telangana,Mahbubnagar,TELANGANA,MAHBUBNAGAR,religion_muslim_pct,,percent,,,,,,,,,,false
+Telangana,Mahbubnagar,TELANGANA,MAHBUBNAGAR,population_density,,persons_per_sq_km,,,,,,,,,,false
+Telangana,Mahbubnagar,TELANGANA,MAHBUBNAGAR,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Rajasthan,NAGAUR,RAJASTHAN,NAGAUR,urban_pct,,percent,,,,,,,,,,false
+Rajasthan,NAGAUR,RAJASTHAN,NAGAUR,literacy_rate,,percent,,,,,,,,,,false
+Rajasthan,NAGAUR,RAJASTHAN,NAGAUR,female_literacy_pct,,percent,,,,,,,,,,false
+Rajasthan,NAGAUR,RAJASTHAN,NAGAUR,male_literacy_pct,,percent,,,,,,,,,,false
+Rajasthan,NAGAUR,RAJASTHAN,NAGAUR,sc_pct,,percent,,,,,,,,,,false
+Rajasthan,NAGAUR,RAJASTHAN,NAGAUR,st_pct,,percent,,,,,,,,,,false
+Rajasthan,NAGAUR,RAJASTHAN,NAGAUR,religion_hindu_pct,,percent,,,,,,,,,,false
+Rajasthan,NAGAUR,RAJASTHAN,NAGAUR,religion_muslim_pct,,percent,,,,,,,,,,false
+Rajasthan,NAGAUR,RAJASTHAN,NAGAUR,population_density,,persons_per_sq_km,,,,,,,,,,false
+Rajasthan,NAGAUR,RAJASTHAN,NAGAUR,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Uttar Pradesh,Salempur,UTTAR PRADESH,SALEMPUR,urban_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Salempur,UTTAR PRADESH,SALEMPUR,literacy_rate,,percent,,,,,,,,,,false
+Uttar Pradesh,Salempur,UTTAR PRADESH,SALEMPUR,female_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Salempur,UTTAR PRADESH,SALEMPUR,male_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Salempur,UTTAR PRADESH,SALEMPUR,sc_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Salempur,UTTAR PRADESH,SALEMPUR,st_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Salempur,UTTAR PRADESH,SALEMPUR,religion_hindu_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Salempur,UTTAR PRADESH,SALEMPUR,religion_muslim_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Salempur,UTTAR PRADESH,SALEMPUR,population_density,,persons_per_sq_km,,,,,,,,,,false
+Uttar Pradesh,Salempur,UTTAR PRADESH,SALEMPUR,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Tamil Nadu,ARANI,TAMIL NADU,ARANI,literacy_rate,,percent,,,,,,,,,,false
+Tamil Nadu,ARANI,TAMIL NADU,ARANI,female_literacy_pct,,percent,,,,,,,,,,false
+Tamil Nadu,ARANI,TAMIL NADU,ARANI,male_literacy_pct,,percent,,,,,,,,,,false
+Tamil Nadu,ARANI,TAMIL NADU,ARANI,sc_pct,,percent,,,,,,,,,,false
+Tamil Nadu,ARANI,TAMIL NADU,ARANI,st_pct,,percent,,,,,,,,,,false
+Tamil Nadu,ARANI,TAMIL NADU,ARANI,religion_hindu_pct,,percent,,,,,,,,,,false
+Tamil Nadu,ARANI,TAMIL NADU,ARANI,religion_muslim_pct,,percent,,,,,,,,,,false
+Tamil Nadu,ARANI,TAMIL NADU,ARANI,population_density,,persons_per_sq_km,,,,,,,,,,false
+Tamil Nadu,ARANI,TAMIL NADU,ARANI,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Uttar Pradesh,Allahabad,UTTAR PRADESH,ALLAHABAD,literacy_rate,,percent,,,,,,,,,,false
+Uttar Pradesh,Allahabad,UTTAR PRADESH,ALLAHABAD,female_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Allahabad,UTTAR PRADESH,ALLAHABAD,male_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Allahabad,UTTAR PRADESH,ALLAHABAD,sc_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Allahabad,UTTAR PRADESH,ALLAHABAD,st_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Allahabad,UTTAR PRADESH,ALLAHABAD,religion_hindu_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Allahabad,UTTAR PRADESH,ALLAHABAD,religion_muslim_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Allahabad,UTTAR PRADESH,ALLAHABAD,population_density,,persons_per_sq_km,,,,,,,,,,false
+Uttar Pradesh,Allahabad,UTTAR PRADESH,ALLAHABAD,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Uttar Pradesh,Amroha,UTTAR PRADESH,AMROHA,literacy_rate,,percent,,,,,,,,,,false
+Uttar Pradesh,Amroha,UTTAR PRADESH,AMROHA,female_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Amroha,UTTAR PRADESH,AMROHA,male_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Amroha,UTTAR PRADESH,AMROHA,sc_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Amroha,UTTAR PRADESH,AMROHA,st_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Amroha,UTTAR PRADESH,AMROHA,religion_hindu_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Amroha,UTTAR PRADESH,AMROHA,religion_muslim_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Amroha,UTTAR PRADESH,AMROHA,population_density,,persons_per_sq_km,,,,,,,,,,false
+Uttar Pradesh,Amroha,UTTAR PRADESH,AMROHA,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Andhra Pradesh,Anakapalle,ANDHRA PRADESH,ANAKAPALLE,literacy_rate,,percent,,,,,,,,,,false
+Andhra Pradesh,Anakapalle,ANDHRA PRADESH,ANAKAPALLE,female_literacy_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Anakapalle,ANDHRA PRADESH,ANAKAPALLE,male_literacy_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Anakapalle,ANDHRA PRADESH,ANAKAPALLE,sc_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Anakapalle,ANDHRA PRADESH,ANAKAPALLE,st_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Anakapalle,ANDHRA PRADESH,ANAKAPALLE,religion_hindu_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Anakapalle,ANDHRA PRADESH,ANAKAPALLE,religion_muslim_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Anakapalle,ANDHRA PRADESH,ANAKAPALLE,population_density,,persons_per_sq_km,,,,,,,,,,false
+Andhra Pradesh,Anakapalle,ANDHRA PRADESH,ANAKAPALLE,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Rajasthan,BARMER,RAJASTHAN,BARMER,urban_pct,,percent,,,,,,,,,,false
+Rajasthan,BARMER,RAJASTHAN,BARMER,literacy_rate,,percent,,,,,,,,,,false
+Rajasthan,BARMER,RAJASTHAN,BARMER,female_literacy_pct,,percent,,,,,,,,,,false
+Rajasthan,BARMER,RAJASTHAN,BARMER,male_literacy_pct,,percent,,,,,,,,,,false
+Rajasthan,BARMER,RAJASTHAN,BARMER,sc_pct,,percent,,,,,,,,,,false
+Rajasthan,BARMER,RAJASTHAN,BARMER,st_pct,,percent,,,,,,,,,,false
+Rajasthan,BARMER,RAJASTHAN,BARMER,religion_hindu_pct,,percent,,,,,,,,,,false
+Rajasthan,BARMER,RAJASTHAN,BARMER,religion_muslim_pct,,percent,,,,,,,,,,false
+Rajasthan,BARMER,RAJASTHAN,BARMER,population_density,,persons_per_sq_km,,,,,,,,,,false
+Rajasthan,BARMER,RAJASTHAN,BARMER,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Uttar Pradesh,Baghpat,UTTAR PRADESH,BAGHPAT,literacy_rate,,percent,,,,,,,,,,false
+Uttar Pradesh,Baghpat,UTTAR PRADESH,BAGHPAT,female_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Baghpat,UTTAR PRADESH,BAGHPAT,male_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Baghpat,UTTAR PRADESH,BAGHPAT,sc_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Baghpat,UTTAR PRADESH,BAGHPAT,st_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Baghpat,UTTAR PRADESH,BAGHPAT,religion_hindu_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Baghpat,UTTAR PRADESH,BAGHPAT,religion_muslim_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Baghpat,UTTAR PRADESH,BAGHPAT,population_density,,persons_per_sq_km,,,,,,,,,,false
+Uttar Pradesh,Baghpat,UTTAR PRADESH,BAGHPAT,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Uttar Pradesh,Barabanki,UTTAR PRADESH,BARABANKI,urban_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Barabanki,UTTAR PRADESH,BARABANKI,literacy_rate,,percent,,,,,,,,,,false
+Uttar Pradesh,Barabanki,UTTAR PRADESH,BARABANKI,female_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Barabanki,UTTAR PRADESH,BARABANKI,male_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Barabanki,UTTAR PRADESH,BARABANKI,sc_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Barabanki,UTTAR PRADESH,BARABANKI,st_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Barabanki,UTTAR PRADESH,BARABANKI,religion_hindu_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Barabanki,UTTAR PRADESH,BARABANKI,religion_muslim_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Barabanki,UTTAR PRADESH,BARABANKI,population_density,,persons_per_sq_km,,,,,,,,,,false
+Uttar Pradesh,Barabanki,UTTAR PRADESH,BARABANKI,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Maharashtra,Bhandara Gondiya,MAHARASHTRA,BHANDARA GONDIYA,urban_pct,,percent,,,,,,,,,,false
+Maharashtra,Bhandara Gondiya,MAHARASHTRA,BHANDARA GONDIYA,literacy_rate,,percent,,,,,,,,,,false
+Maharashtra,Bhandara Gondiya,MAHARASHTRA,BHANDARA GONDIYA,female_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Bhandara Gondiya,MAHARASHTRA,BHANDARA GONDIYA,male_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Bhandara Gondiya,MAHARASHTRA,BHANDARA GONDIYA,sc_pct,,percent,,,,,,,,,,false
+Maharashtra,Bhandara Gondiya,MAHARASHTRA,BHANDARA GONDIYA,st_pct,,percent,,,,,,,,,,false
+Maharashtra,Bhandara Gondiya,MAHARASHTRA,BHANDARA GONDIYA,religion_hindu_pct,,percent,,,,,,,,,,false
+Maharashtra,Bhandara Gondiya,MAHARASHTRA,BHANDARA GONDIYA,religion_muslim_pct,,percent,,,,,,,,,,false
+Maharashtra,Bhandara Gondiya,MAHARASHTRA,BHANDARA GONDIYA,population_density,,persons_per_sq_km,,,,,,,,,,false
+Maharashtra,Bhandara Gondiya,MAHARASHTRA,BHANDARA GONDIYA,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Uttar Pradesh,Bijnor,UTTAR PRADESH,BIJNOR,literacy_rate,,percent,,,,,,,,,,false
+Uttar Pradesh,Bijnor,UTTAR PRADESH,BIJNOR,female_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Bijnor,UTTAR PRADESH,BIJNOR,male_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Bijnor,UTTAR PRADESH,BIJNOR,sc_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Bijnor,UTTAR PRADESH,BIJNOR,st_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Bijnor,UTTAR PRADESH,BIJNOR,religion_hindu_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Bijnor,UTTAR PRADESH,BIJNOR,religion_muslim_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Bijnor,UTTAR PRADESH,BIJNOR,population_density,,persons_per_sq_km,,,,,,,,,,false
+Uttar Pradesh,Bijnor,UTTAR PRADESH,BIJNOR,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Tamil Nadu,CUDDALORE,TAMIL NADU,CUDDALORE,literacy_rate,,percent,,,,,,,,,,false
+Tamil Nadu,CUDDALORE,TAMIL NADU,CUDDALORE,female_literacy_pct,,percent,,,,,,,,,,false
+Tamil Nadu,CUDDALORE,TAMIL NADU,CUDDALORE,male_literacy_pct,,percent,,,,,,,,,,false
+Tamil Nadu,CUDDALORE,TAMIL NADU,CUDDALORE,sc_pct,,percent,,,,,,,,,,false
+Tamil Nadu,CUDDALORE,TAMIL NADU,CUDDALORE,st_pct,,percent,,,,,,,,,,false
+Tamil Nadu,CUDDALORE,TAMIL NADU,CUDDALORE,religion_hindu_pct,,percent,,,,,,,,,,false
+Tamil Nadu,CUDDALORE,TAMIL NADU,CUDDALORE,religion_muslim_pct,,percent,,,,,,,,,,false
+Tamil Nadu,CUDDALORE,TAMIL NADU,CUDDALORE,population_density,,persons_per_sq_km,,,,,,,,,,false
+Tamil Nadu,CUDDALORE,TAMIL NADU,CUDDALORE,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Telangana,Chevella,TELANGANA,CHEVELLA,literacy_rate,,percent,,,,,,,,,,false
+Telangana,Chevella,TELANGANA,CHEVELLA,female_literacy_pct,,percent,,,,,,,,,,false
+Telangana,Chevella,TELANGANA,CHEVELLA,male_literacy_pct,,percent,,,,,,,,,,false
+Telangana,Chevella,TELANGANA,CHEVELLA,sc_pct,,percent,,,,,,,,,,false
+Telangana,Chevella,TELANGANA,CHEVELLA,st_pct,,percent,,,,,,,,,,false
+Telangana,Chevella,TELANGANA,CHEVELLA,religion_hindu_pct,,percent,,,,,,,,,,false
+Telangana,Chevella,TELANGANA,CHEVELLA,religion_muslim_pct,,percent,,,,,,,,,,false
+Telangana,Chevella,TELANGANA,CHEVELLA,population_density,,persons_per_sq_km,,,,,,,,,,false
+Telangana,Chevella,TELANGANA,CHEVELLA,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Punjab,Faridkot,PUNJAB,FARIDKOT,literacy_rate,,percent,,,,,,,,,,false
+Punjab,Faridkot,PUNJAB,FARIDKOT,female_literacy_pct,,percent,,,,,,,,,,false
+Punjab,Faridkot,PUNJAB,FARIDKOT,male_literacy_pct,,percent,,,,,,,,,,false
+Punjab,Faridkot,PUNJAB,FARIDKOT,sc_pct,,percent,,,,,,,,,,false
+Punjab,Faridkot,PUNJAB,FARIDKOT,st_pct,,percent,,,,,,,,,,false
+Punjab,Faridkot,PUNJAB,FARIDKOT,religion_hindu_pct,,percent,,,,,,,,,,false
+Punjab,Faridkot,PUNJAB,FARIDKOT,religion_muslim_pct,,percent,,,,,,,,,,false
+Punjab,Faridkot,PUNJAB,FARIDKOT,population_density,,persons_per_sq_km,,,,,,,,,,false
+Punjab,Faridkot,PUNJAB,FARIDKOT,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Rajasthan,GANGANAGAR,RAJASTHAN,GANGANAGAR,literacy_rate,,percent,,,,,,,,,,false
+Rajasthan,GANGANAGAR,RAJASTHAN,GANGANAGAR,female_literacy_pct,,percent,,,,,,,,,,false
+Rajasthan,GANGANAGAR,RAJASTHAN,GANGANAGAR,male_literacy_pct,,percent,,,,,,,,,,false
+Rajasthan,GANGANAGAR,RAJASTHAN,GANGANAGAR,sc_pct,,percent,,,,,,,,,,false
+Rajasthan,GANGANAGAR,RAJASTHAN,GANGANAGAR,st_pct,,percent,,,,,,,,,,false
+Rajasthan,GANGANAGAR,RAJASTHAN,GANGANAGAR,religion_hindu_pct,,percent,,,,,,,,,,false
+Rajasthan,GANGANAGAR,RAJASTHAN,GANGANAGAR,religion_muslim_pct,,percent,,,,,,,,,,false
+Rajasthan,GANGANAGAR,RAJASTHAN,GANGANAGAR,population_density,,persons_per_sq_km,,,,,,,,,,false
+Rajasthan,GANGANAGAR,RAJASTHAN,GANGANAGAR,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Uttar Pradesh,Ghosi,UTTAR PRADESH,GHOSI,literacy_rate,,percent,,,,,,,,,,false
+Uttar Pradesh,Ghosi,UTTAR PRADESH,GHOSI,female_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Ghosi,UTTAR PRADESH,GHOSI,male_literacy_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Ghosi,UTTAR PRADESH,GHOSI,sc_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Ghosi,UTTAR PRADESH,GHOSI,st_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Ghosi,UTTAR PRADESH,GHOSI,religion_hindu_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Ghosi,UTTAR PRADESH,GHOSI,religion_muslim_pct,,percent,,,,,,,,,,false
+Uttar Pradesh,Ghosi,UTTAR PRADESH,GHOSI,population_density,,persons_per_sq_km,,,,,,,,,,false
+Uttar Pradesh,Ghosi,UTTAR PRADESH,GHOSI,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Punjab,Gurdaspur,PUNJAB,GURDASPUR,literacy_rate,,percent,,,,,,,,,,false
+Punjab,Gurdaspur,PUNJAB,GURDASPUR,female_literacy_pct,,percent,,,,,,,,,,false
+Punjab,Gurdaspur,PUNJAB,GURDASPUR,male_literacy_pct,,percent,,,,,,,,,,false
+Punjab,Gurdaspur,PUNJAB,GURDASPUR,sc_pct,,percent,,,,,,,,,,false
+Punjab,Gurdaspur,PUNJAB,GURDASPUR,st_pct,,percent,,,,,,,,,,false
+Punjab,Gurdaspur,PUNJAB,GURDASPUR,religion_hindu_pct,,percent,,,,,,,,,,false
+Punjab,Gurdaspur,PUNJAB,GURDASPUR,religion_muslim_pct,,percent,,,,,,,,,,false
+Punjab,Gurdaspur,PUNJAB,GURDASPUR,population_density,,persons_per_sq_km,,,,,,,,,,false
+Punjab,Gurdaspur,PUNJAB,GURDASPUR,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Maharashtra,Hingoli,MAHARASHTRA,HINGOLI,literacy_rate,,percent,,,,,,,,,,false
+Maharashtra,Hingoli,MAHARASHTRA,HINGOLI,female_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Hingoli,MAHARASHTRA,HINGOLI,male_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Hingoli,MAHARASHTRA,HINGOLI,sc_pct,,percent,,,,,,,,,,false
+Maharashtra,Hingoli,MAHARASHTRA,HINGOLI,st_pct,,percent,,,,,,,,,,false
+Maharashtra,Hingoli,MAHARASHTRA,HINGOLI,religion_hindu_pct,,percent,,,,,,,,,,false
+Maharashtra,Hingoli,MAHARASHTRA,HINGOLI,religion_muslim_pct,,percent,,,,,,,,,,false
+Maharashtra,Hingoli,MAHARASHTRA,HINGOLI,population_density,,persons_per_sq_km,,,,,,,,,,false
+Maharashtra,Hingoli,MAHARASHTRA,HINGOLI,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Punjab,Hoshiarpur,PUNJAB,HOSHIARPUR,literacy_rate,,percent,,,,,,,,,,false
+Punjab,Hoshiarpur,PUNJAB,HOSHIARPUR,female_literacy_pct,,percent,,,,,,,,,,false
+Punjab,Hoshiarpur,PUNJAB,HOSHIARPUR,male_literacy_pct,,percent,,,,,,,,,,false
+Punjab,Hoshiarpur,PUNJAB,HOSHIARPUR,sc_pct,,percent,,,,,,,,,,false
+Punjab,Hoshiarpur,PUNJAB,HOSHIARPUR,st_pct,,percent,,,,,,,,,,false
+Punjab,Hoshiarpur,PUNJAB,HOSHIARPUR,religion_hindu_pct,,percent,,,,,,,,,,false
+Punjab,Hoshiarpur,PUNJAB,HOSHIARPUR,religion_muslim_pct,,percent,,,,,,,,,,false
+Punjab,Hoshiarpur,PUNJAB,HOSHIARPUR,population_density,,persons_per_sq_km,,,,,,,,,,false
+Punjab,Hoshiarpur,PUNJAB,HOSHIARPUR,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Maharashtra,Jalna,MAHARASHTRA,JALNA,urban_pct,,percent,,,,,,,,,,false
+Maharashtra,Jalna,MAHARASHTRA,JALNA,literacy_rate,,percent,,,,,,,,,,false
+Maharashtra,Jalna,MAHARASHTRA,JALNA,female_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Jalna,MAHARASHTRA,JALNA,male_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Jalna,MAHARASHTRA,JALNA,sc_pct,,percent,,,,,,,,,,false
+Maharashtra,Jalna,MAHARASHTRA,JALNA,st_pct,,percent,,,,,,,,,,false
+Maharashtra,Jalna,MAHARASHTRA,JALNA,religion_hindu_pct,,percent,,,,,,,,,,false
+Maharashtra,Jalna,MAHARASHTRA,JALNA,religion_muslim_pct,,percent,,,,,,,,,,false
+Maharashtra,Jalna,MAHARASHTRA,JALNA,population_density,,persons_per_sq_km,,,,,,,,,,false
+Maharashtra,Jalna,MAHARASHTRA,JALNA,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Assam,Kaziranga,ASSAM,KAZIRANGA,urban_pct,,percent,,,,,,,,,,false
+Assam,Kaziranga,ASSAM,KAZIRANGA,literacy_rate,,percent,,,,,,,,,,false
+Assam,Kaziranga,ASSAM,KAZIRANGA,female_literacy_pct,,percent,,,,,,,,,,false
+Assam,Kaziranga,ASSAM,KAZIRANGA,male_literacy_pct,,percent,,,,,,,,,,false
+Assam,Kaziranga,ASSAM,KAZIRANGA,sc_pct,,percent,,,,,,,,,,false
+Assam,Kaziranga,ASSAM,KAZIRANGA,st_pct,,percent,,,,,,,,,,false
+Assam,Kaziranga,ASSAM,KAZIRANGA,religion_hindu_pct,,percent,,,,,,,,,,false
+Assam,Kaziranga,ASSAM,KAZIRANGA,religion_muslim_pct,,percent,,,,,,,,,,false
+Assam,Kaziranga,ASSAM,KAZIRANGA,population_density,,persons_per_sq_km,,,,,,,,,,false
+Assam,Kaziranga,ASSAM,KAZIRANGA,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Karnataka,Kolar,KARNATAKA,KOLAR,literacy_rate,,percent,,,,,,,,,,false
+Karnataka,Kolar,KARNATAKA,KOLAR,female_literacy_pct,,percent,,,,,,,,,,false
+Karnataka,Kolar,KARNATAKA,KOLAR,male_literacy_pct,,percent,,,,,,,,,,false
+Karnataka,Kolar,KARNATAKA,KOLAR,sc_pct,,percent,,,,,,,,,,false
+Karnataka,Kolar,KARNATAKA,KOLAR,st_pct,,percent,,,,,,,,,,false
+Karnataka,Kolar,KARNATAKA,KOLAR,religion_hindu_pct,,percent,,,,,,,,,,false
+Karnataka,Kolar,KARNATAKA,KOLAR,religion_muslim_pct,,percent,,,,,,,,,,false
+Karnataka,Kolar,KARNATAKA,KOLAR,population_density,,persons_per_sq_km,,,,,,,,,,false
+Karnataka,Kolar,KARNATAKA,KOLAR,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Maharashtra,Kolhapur,MAHARASHTRA,KOLHAPUR,urban_pct,,percent,,,,,,,,,,false
+Maharashtra,Kolhapur,MAHARASHTRA,KOLHAPUR,literacy_rate,,percent,,,,,,,,,,false
+Maharashtra,Kolhapur,MAHARASHTRA,KOLHAPUR,female_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Kolhapur,MAHARASHTRA,KOLHAPUR,male_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Kolhapur,MAHARASHTRA,KOLHAPUR,sc_pct,,percent,,,,,,,,,,false
+Maharashtra,Kolhapur,MAHARASHTRA,KOLHAPUR,st_pct,,percent,,,,,,,,,,false
+Maharashtra,Kolhapur,MAHARASHTRA,KOLHAPUR,religion_hindu_pct,,percent,,,,,,,,,,false
+Maharashtra,Kolhapur,MAHARASHTRA,KOLHAPUR,religion_muslim_pct,,percent,,,,,,,,,,false
+Maharashtra,Kolhapur,MAHARASHTRA,KOLHAPUR,population_density,,persons_per_sq_km,,,,,,,,,,false
+Maharashtra,Kolhapur,MAHARASHTRA,KOLHAPUR,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Tamil Nadu,MAYILADUTHURAI,TAMIL NADU,MAYILADUTHURAI,literacy_rate,,percent,,,,,,,,,,false
+Tamil Nadu,MAYILADUTHURAI,TAMIL NADU,MAYILADUTHURAI,female_literacy_pct,,percent,,,,,,,,,,false
+Tamil Nadu,MAYILADUTHURAI,TAMIL NADU,MAYILADUTHURAI,male_literacy_pct,,percent,,,,,,,,,,false
+Tamil Nadu,MAYILADUTHURAI,TAMIL NADU,MAYILADUTHURAI,sc_pct,,percent,,,,,,,,,,false
+Tamil Nadu,MAYILADUTHURAI,TAMIL NADU,MAYILADUTHURAI,st_pct,,percent,,,,,,,,,,false
+Tamil Nadu,MAYILADUTHURAI,TAMIL NADU,MAYILADUTHURAI,religion_hindu_pct,,percent,,,,,,,,,,false
+Tamil Nadu,MAYILADUTHURAI,TAMIL NADU,MAYILADUTHURAI,religion_muslim_pct,,percent,,,,,,,,,,false
+Tamil Nadu,MAYILADUTHURAI,TAMIL NADU,MAYILADUTHURAI,population_density,,persons_per_sq_km,,,,,,,,,,false
+Tamil Nadu,MAYILADUTHURAI,TAMIL NADU,MAYILADUTHURAI,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Telangana,Malkajgiri,TELANGANA,MALKAJGIRI,literacy_rate,,percent,,,,,,,,,,false
+Telangana,Malkajgiri,TELANGANA,MALKAJGIRI,female_literacy_pct,,percent,,,,,,,,,,false
+Telangana,Malkajgiri,TELANGANA,MALKAJGIRI,male_literacy_pct,,percent,,,,,,,,,,false
+Telangana,Malkajgiri,TELANGANA,MALKAJGIRI,sc_pct,,percent,,,,,,,,,,false
+Telangana,Malkajgiri,TELANGANA,MALKAJGIRI,st_pct,,percent,,,,,,,,,,false
+Telangana,Malkajgiri,TELANGANA,MALKAJGIRI,religion_hindu_pct,,percent,,,,,,,,,,false
+Telangana,Malkajgiri,TELANGANA,MALKAJGIRI,religion_muslim_pct,,percent,,,,,,,,,,false
+Telangana,Malkajgiri,TELANGANA,MALKAJGIRI,population_density,,persons_per_sq_km,,,,,,,,,,false
+Telangana,Malkajgiri,TELANGANA,MALKAJGIRI,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Karnataka,Mandya,KARNATAKA,MANDYA,literacy_rate,,percent,,,,,,,,,,false
+Karnataka,Mandya,KARNATAKA,MANDYA,female_literacy_pct,,percent,,,,,,,,,,false
+Karnataka,Mandya,KARNATAKA,MANDYA,male_literacy_pct,,percent,,,,,,,,,,false
+Karnataka,Mandya,KARNATAKA,MANDYA,sc_pct,,percent,,,,,,,,,,false
+Karnataka,Mandya,KARNATAKA,MANDYA,st_pct,,percent,,,,,,,,,,false
+Karnataka,Mandya,KARNATAKA,MANDYA,religion_hindu_pct,,percent,,,,,,,,,,false
+Karnataka,Mandya,KARNATAKA,MANDYA,religion_muslim_pct,,percent,,,,,,,,,,false
+Karnataka,Mandya,KARNATAKA,MANDYA,population_density,,persons_per_sq_km,,,,,,,,,,false
+Karnataka,Mandya,KARNATAKA,MANDYA,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Maharashtra,Mumbai South Central,MAHARASHTRA,MUMBAI SOUTH CENTRAL,literacy_rate,,percent,,,,,,,,,,false
+Maharashtra,Mumbai South Central,MAHARASHTRA,MUMBAI SOUTH CENTRAL,female_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai South Central,MAHARASHTRA,MUMBAI SOUTH CENTRAL,male_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai South Central,MAHARASHTRA,MUMBAI SOUTH CENTRAL,sc_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai South Central,MAHARASHTRA,MUMBAI SOUTH CENTRAL,st_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai South Central,MAHARASHTRA,MUMBAI SOUTH CENTRAL,religion_hindu_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai South Central,MAHARASHTRA,MUMBAI SOUTH CENTRAL,religion_muslim_pct,,percent,,,,,,,,,,false
+Maharashtra,Mumbai South Central,MAHARASHTRA,MUMBAI SOUTH CENTRAL,population_density,,persons_per_sq_km,,,,,,,,,,false
+Maharashtra,Mumbai South Central,MAHARASHTRA,MUMBAI SOUTH CENTRAL,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Andhra Pradesh,Narsapuram,ANDHRA PRADESH,NARSAPURAM,literacy_rate,,percent,,,,,,,,,,false
+Andhra Pradesh,Narsapuram,ANDHRA PRADESH,NARSAPURAM,female_literacy_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Narsapuram,ANDHRA PRADESH,NARSAPURAM,male_literacy_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Narsapuram,ANDHRA PRADESH,NARSAPURAM,sc_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Narsapuram,ANDHRA PRADESH,NARSAPURAM,st_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Narsapuram,ANDHRA PRADESH,NARSAPURAM,religion_hindu_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Narsapuram,ANDHRA PRADESH,NARSAPURAM,religion_muslim_pct,,percent,,,,,,,,,,false
+Andhra Pradesh,Narsapuram,ANDHRA PRADESH,NARSAPURAM,population_density,,persons_per_sq_km,,,,,,,,,,false
+Andhra Pradesh,Narsapuram,ANDHRA PRADESH,NARSAPURAM,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Bihar,Nawada,BIHAR,NAWADA,literacy_rate,,percent,,,,,,,,,,false
+Bihar,Nawada,BIHAR,NAWADA,female_literacy_pct,,percent,,,,,,,,,,false
+Bihar,Nawada,BIHAR,NAWADA,male_literacy_pct,,percent,,,,,,,,,,false
+Bihar,Nawada,BIHAR,NAWADA,sc_pct,,percent,,,,,,,,,,false
+Bihar,Nawada,BIHAR,NAWADA,st_pct,,percent,,,,,,,,,,false
+Bihar,Nawada,BIHAR,NAWADA,religion_hindu_pct,,percent,,,,,,,,,,false
+Bihar,Nawada,BIHAR,NAWADA,religion_muslim_pct,,percent,,,,,,,,,,false
+Bihar,Nawada,BIHAR,NAWADA,population_density,,persons_per_sq_km,,,,,,,,,,false
+Bihar,Nawada,BIHAR,NAWADA,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Manipur,Outer Manipur,MANIPUR,OUTER MANIPUR,urban_pct,,percent,,,,,,,,,,false
+Manipur,Outer Manipur,MANIPUR,OUTER MANIPUR,literacy_rate,,percent,,,,,,,,,,false
+Manipur,Outer Manipur,MANIPUR,OUTER MANIPUR,female_literacy_pct,,percent,,,,,,,,,,false
+Manipur,Outer Manipur,MANIPUR,OUTER MANIPUR,male_literacy_pct,,percent,,,,,,,,,,false
+Manipur,Outer Manipur,MANIPUR,OUTER MANIPUR,sc_pct,,percent,,,,,,,,,,false
+Manipur,Outer Manipur,MANIPUR,OUTER MANIPUR,st_pct,,percent,,,,,,,,,,false
+Manipur,Outer Manipur,MANIPUR,OUTER MANIPUR,religion_hindu_pct,,percent,,,,,,,,,,false
+Manipur,Outer Manipur,MANIPUR,OUTER MANIPUR,religion_muslim_pct,,percent,,,,,,,,,,false
+Manipur,Outer Manipur,MANIPUR,OUTER MANIPUR,population_density,,persons_per_sq_km,,,,,,,,,,false
+Manipur,Outer Manipur,MANIPUR,OUTER MANIPUR,sex_ratio,,females_per_1000_males,,,,,,,,,,false
+Maharashtra,Palghar,MAHARASHTRA,PALGHAR,literacy_rate,,percent,,,,,,,,,,false
+Maharashtra,Palghar,MAHARASHTRA,PALGHAR,female_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Palghar,MAHARASHTRA,PALGHAR,male_literacy_pct,,percent,,,,,,,,,,false
+Maharashtra,Palghar,MAHARASHTRA,PALGHAR,sc_pct,,percent,,,,,,,,,,false
+Maharashtra,Palghar,MAHARASHTRA,PALGHAR,st_pct,,percent,,,,,,,,,,false
+Maharashtra,Palghar,MAHARASHTRA,PALGHAR,religion_hindu_pct,,percent,,,,,,,,,,false
+Maharashtra,Palghar,MAHARASHTRA,PALGHAR,religion_muslim_pct,,percent,,,,,,,,,,false
+Maharashtra,Palghar,MAHARASHTRA,PALGHAR,population_density,,persons_per_sq_km,,,,,,,,,,false
+Maharashtra,Palghar,MAHARASHTRA,PALGHAR,sex_ratio,,females_per_1000_males,,,,,,,,,,false

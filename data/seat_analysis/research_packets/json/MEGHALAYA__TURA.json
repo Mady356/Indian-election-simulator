@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Meghalaya",
+    "constituency": "Tura",
+    "state_key": "MEGHALAYA",
+    "constituency_key": "TURA"
+  },
+  "election_facts": {
+    "winner_2019": "AGATHA K. SANGMA",
+    "winner_2024": "SALENG A SANGMA",
+    "winner_party_2019": "NPEP",
+    "winner_party_2024": "INC",
+    "winner_changed": true,
+    "bjp_vote_share_2019": 5.4382,
+    "bjp_vote_share_2024": 0.0,
+    "inc_vote_share_2019": 41.2364,
+    "inc_vote_share_2024": 56.9565,
+    "bjp_swing_2019_2024": -5.4382,
+    "inc_swing_2019_2024": 15.7202,
+    "margin_2019": 10.9821,
+    "margin_2024": 23.0309,
+    "margin_change": 12.0488,
+    "turnout_2019": 42.4629,
+    "turnout_2024": 46.39,
+    "turnout_change": 3.9271
+  },
+  "state_context": {
+    "state_total_seats": 2,
+    "bjp_seats_2019": 0,
+    "bjp_seats_2024": 0,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 1,
+    "state_average_bjp_swing": -7.61,
+    "state_average_inc_swing": -9.3,
+    "state_demographic_coverage_pct": 100.0
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": true,
+    "is_close_2024": false,
+    "is_large_bjp_gain": false,
+    "is_large_bjp_loss": false,
+    "is_large_inc_gain": true,
+    "is_large_inc_loss": false,
+    "is_priority_seat": true,
+    "priority_reason": "seat_flip",
+    "priority_rank": 264
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": 75.3736,
+      "improved_sanitation_pct_nfhs5": 11.9206,
+      "lpg_pct_nfhs5": 6.5768,
+      "mobile_phone_pct_nfhs5": 1.6442,
+      "bank_account_pct_nfhs5": 19.1437,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": -91274.3812,
+      "urban_pct_nfhs5": 20.8386
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": 36.9075,
+      "improved_sanitation_pct_change": -26.189,
+      "lpg_pct_change": -2.349,
+      "mobile_phone_pct_change": -1.5163,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": 4.4565
+    },
+    "nfhs5_coverage_share": 1.0,
+    "change_coverage_share": 1.0,
+    "change_quality_flag": "low",
+    "data_quality_label": "high",
+    "districts_used": "WEST GARO HILLS\u2192West Garo Hills; EAST GARO HILLS\u2192East Garo Hills; EAST KHASI HILLS\u2192West Khasi Hills; SOUTH GARO HILLS\u2192South Garo Hills",
+    "districts_missing": null,
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": true,
+      "has_change_any": true,
+      "missing_features_count": 10,
+      "available_features_count": 12
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "SALENG A SANGMA",
+    "winner_party_2024": "INC",
+    "data_quality_label": "high",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "Tura flipped from NPEP to INC in 2024. BJP vote share changed by -5.4 points and INC vote share changed by +15.7 points compared with 2019. The 2024 margin was 23.0%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates Tura flipped from NPEP to INC between 2019 and 2024. BJP vote share changed by -5.4 percentage points versus 2019. INC vote share changed by +15.7 percentage points versus 2019. The winning margin moved from 11.0% in 2019 to 23.0% in 2024. Turnout changed by +3.9 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "seat_flip;large_inc_gain;rural_profile;high_demographic_coverage",
+    "generated_demographic_context": "Available NFHS-linked indicators may suggest a relatively rural-linked profile (urban share about 20.8%). Electricity/Lpg/Mobile Phone/Bank Account access indicators are available for this seat. Available data indicates relatively high district-linked demographic coverage for this seat.",
+    "generated_district_context": "District mapping uses: WEST GARO HILLS\u2192West Garo Hills; EAST GARO HILLS\u2192East Garo Hills; EAST KHASI HILLS\u2192West Khasi Hills; SOUTH GARO HILLS\u2192South Garo Hills. NFHS-5 coverage share is about 100.0%. Change-indicator coverage share is about 100.0%. Change quality flag: low.",
+    "generated_what_to_watch": "Monitor whether the 2024 seat change stabilizes in future cycles. Large major-party vote-share movement may warrant closer review of local competition patterns.",
+    "final_summary": "Tura flipped from NPEP to INC in 2024. BJP vote share changed by -5.4 points and INC vote share changed by +15.7 points compared with 2019. The 2024 margin was 23.0%. This is a descriptive election profile, not a causal explanation.",
+    "final_electoral_movement": "Available data indicates Tura flipped from NPEP to INC between 2019 and 2024. BJP vote share changed by -5.4 percentage points versus 2019. INC vote share changed by +15.7 percentage points versus 2019. The winning margin moved from 11.0% in 2019 to 23.0% in 2024. Turnout changed by +3.9 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "final_local_context": null,
+    "final_what_to_watch": "Monitor whether the 2024 seat change stabilizes in future cycles. Large major-party vote-share movement may warrant closer review of local competition patterns.",
+    "analysis_source": "generated",
+    "manual_confidence": "high",
+    "has_manual_markdown": false
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for Tura, Meghalaya using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why Tura may be analytically useful using priority reason (seat_flip), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

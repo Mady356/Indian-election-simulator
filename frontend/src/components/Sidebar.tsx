@@ -14,7 +14,7 @@ import {
 const NAV_ITEMS = [
   { to: "/", label: "Explore", icon: Map, enabled: true },
   { to: "/compare", label: "Compare", icon: GitCompare, enabled: true },
-  { to: "/forecast", label: "Forecast", icon: LineChart, enabled: true },
+  { to: "/forecast", label: "Forecast Lab", icon: LineChart, enabled: true },
   { to: "/insights", label: "Insights Lab", icon: FlaskConical, enabled: true },
   { to: "/essays", label: "The India Exception", icon: BookOpen, enabled: true },
   { to: "/methodology", label: "Methodology", icon: BarChart3, enabled: true },

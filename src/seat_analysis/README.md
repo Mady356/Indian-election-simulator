@@ -60,7 +60,73 @@ Recommended order:
 | `data/seat_analysis/processed/seat_analysis_final.csv` | Merged final notes |
 | `frontend/public/data/seat_analysis.json` | Frontend-ready JSON keyed by `STATE_KEY::CONSTITUENCY_KEY` |
 
+| `data/seat_analysis/research_packets/json/` | Per-constituency research packet JSON |
+| `data/seat_analysis/research_packets/markdown/` | Human-readable research packets |
+| `data/seat_analysis/manual/suggested/` | Auto-suggested low-confidence note drafts |
+| `data/seat_analysis/manual/reports/seat_note_coverage_report.csv` | Manual note coverage tracker |
+
+## Research packet workflow
+
+For every constituency, build a structured research packet that collects available election, state, demographic, simulation, and existing-analysis context.
+
+```bash
+python -m src.seat_analysis.build_seat_research_packets
+python -m src.seat_analysis.suggest_manual_note_completion
+```
+
+Review suggested drafts in `data/seat_analysis/manual/suggested/`, then copy reviewed notes into `data/seat_analysis/manual/notes/`.
+
+Optional batch promotion of suggestions into manual notes (low confidence, does not overwrite existing notes):
+
+```bash
+python -m src.seat_analysis.suggest_manual_note_completion --promote-suggestions
+```
+
+Full publish workflow:
+
+```bash
+python -m src.seat_analysis.build_seat_research_packets
+python -m src.seat_analysis.suggest_manual_note_completion
+python -m src.seat_analysis.validate_manual_notes
+python -m src.seat_analysis.import_manual_markdown_notes
+python -m src.seat_analysis.merge_manual_seat_notes
+python -m src.export.build_frontend_data_bundle
+cd frontend && npm run build
+```
+
 ## Manual analyst workflow
+
+### Markdown notes (recommended)
+
+Analyst notes can be authored as Markdown files under:
+
+`data/seat_analysis/manual/notes/`
+
+Each file uses YAML frontmatter plus these sections:
+
+- What happened?
+- Why it mattered
+- Factors that may have mattered
+- Demographic and district context
+- What to watch next
+- Notes / caveats
+
+Bulk drafts can start in:
+
+`data/seat_analysis/manual/notes_seed/manual_notes_seed.md`
+
+Commands:
+
+```bash
+python -m src.seat_analysis.import_manual_markdown_notes --from-seed
+python -m src.seat_analysis.validate_manual_notes
+python -m src.seat_analysis.import_manual_markdown_notes
+python -m src.seat_analysis.merge_manual_seat_notes
+```
+
+`import_manual_markdown_notes` writes `manual_seat_notes.csv`, merging with any existing CSV rows for seats not present in `notes/`. If a seed “What happened?” section is interpretive rather than factual election movement, the importer uses baseline `electoral_movement` text instead.
+
+### CSV overrides (legacy)
 
 1. Run the baseline and priority scripts.
 2. Copy `manual_seat_notes_template.csv` to `manual_seat_notes.csv` if you want a working file separate from the template.

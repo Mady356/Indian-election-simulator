@@ -1,0 +1,543 @@
+state,constituency,state_key,constituency_key,demographic_source_type,has_generated_data,has_manual_data,manual_fields_entered,core_fields_completed,missing_core_fields,confidence_summary,source_count,needs_review
+Andaman & Nicobar Islands,Andaman & Nicobar Islands,ANDAMAN & NICOBAR ISLANDS,ANDAMAN NICOBAR ISLANDS,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Andhra Pradesh,Amalapuram,ANDHRA PRADESH,AMALAPURAM,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Andhra Pradesh,Anakapalle,ANDHRA PRADESH,ANAKAPALLE,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Ananthapur,ANDHRA PRADESH,ANANTHAPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Andhra Pradesh,Araku,ANDHRA PRADESH,ARAKU,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Bapatla,ANDHRA PRADESH,BAPATLA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Chittoor,ANDHRA PRADESH,CHITTOOR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Eluru,ANDHRA PRADESH,ELURU,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Guntur,ANDHRA PRADESH,GUNTUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Hindupur,ANDHRA PRADESH,HINDUPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Kadapa,ANDHRA PRADESH,KADAPA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Andhra Pradesh,Kakinada,ANDHRA PRADESH,KAKINADA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Kurnoolu,ANDHRA PRADESH,KURNOOLU,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Andhra Pradesh,Machilipatnam,ANDHRA PRADESH,MACHILIPATNAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Nandyal,ANDHRA PRADESH,NANDYAL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Narsapuram,ANDHRA PRADESH,NARSAPURAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Narsaraopet,ANDHRA PRADESH,NARSARAOPET,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Andhra Pradesh,Nellore,ANDHRA PRADESH,NELLORE,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Ongole,ANDHRA PRADESH,ONGOLE,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Rajahmundry,ANDHRA PRADESH,RAJAHMUNDRY,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Rajampet,ANDHRA PRADESH,RAJAMPET,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Srikakulam,ANDHRA PRADESH,SRIKAKULAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Thirupathi,ANDHRA PRADESH,THIRUPATHI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Andhra Pradesh,Vijayawada,ANDHRA PRADESH,VIJAYAWADA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Visakhapatnam,ANDHRA PRADESH,VISAKHAPATNAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Andhra Pradesh,Vizianagaram,ANDHRA PRADESH,VIZIANAGARAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Arunachal Pradesh,Arunachal East,ARUNACHAL PRADESH,ARUNACHAL EAST,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Arunachal Pradesh,Arunachal West,ARUNACHAL PRADESH,ARUNACHAL WEST,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Assam,Barpeta,ASSAM,BARPETA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Assam,Darrang-Udalguri,ASSAM,DARRANG UDALGURI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Assam,Dhubri,ASSAM,DHUBRI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Assam,Dibrugarh,ASSAM,DIBRUGARH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Assam,Diphu,ASSAM,DIPHU,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Assam,Guwahati,ASSAM,GUWAHATI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Assam,Jorhat,ASSAM,JORHAT,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Assam,Karimganj,ASSAM,KARIMGANJ,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Assam,Kaziranga,ASSAM,KAZIRANGA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Assam,Kokrajhar,ASSAM,KOKRAJHAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Assam,Lakhimpur,ASSAM,LAKHIMPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Assam,Nagaon,ASSAM,NAGAON,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Assam,Silchar,ASSAM,SILCHAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Assam,Sonitpur,ASSAM,SONITPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Bihar,Araria,BIHAR,ARARIA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Arrah,BIHAR,ARRAH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Aurangabad,BIHAR,AURANGABAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Banka,BIHAR,BANKA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Begusarai,BIHAR,BEGUSARAI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Bhagalpur,BIHAR,BHAGALPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Buxar,BIHAR,BUXAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Darbhanga,BIHAR,DARBHANGA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Gaya,BIHAR,GAYA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Gopalganj,BIHAR,GOPALGANJ,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Bihar,Hajipur,BIHAR,HAJIPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Jahanabad,BIHAR,JAHANABAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Jamui,BIHAR,JAMUI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Jhanjharpur,BIHAR,JHANJHARPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Karakat,BIHAR,KARAKAT,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Katihar,BIHAR,KATIHAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Khagaria,BIHAR,KHAGARIA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Kishanganj,BIHAR,KISHANGANJ,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Madhepura,BIHAR,MADHEPURA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Madhubani,BIHAR,MADHUBANI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Maharajganj,BIHAR,MAHARAJGANJ,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Munger,BIHAR,MUNGER,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Muzaffarpur,BIHAR,MUZAFFARPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Nalanda,BIHAR,NALANDA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Nawada,BIHAR,NAWADA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Paschim Champaran,BIHAR,PASCHIM CHAMPARAN,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Patliputra,BIHAR,PATLIPUTRA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Bihar,Patna Sahib,BIHAR,PATNA SAHIB,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Purnia,BIHAR,PURNIA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Purvi Champaran,BIHAR,PURVI CHAMPARAN,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Samastipur,BIHAR,SAMASTIPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Bihar,Saran,BIHAR,SARAN,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Sasaram,BIHAR,SASARAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Sheohar,BIHAR,SHEOHAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Sitamarhi,BIHAR,SITAMARHI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Siwan,BIHAR,SIWAN,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Supaul,BIHAR,SUPAUL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Ujiarpur,BIHAR,UJIARPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Vaishali,BIHAR,VAISHALI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Bihar,Valmiki Nagar,BIHAR,VALMIKI NAGAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Chandigarh,Chandigarh,CHANDIGARH,CHANDIGARH,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Chhattisgarh,BASTAR,CHHATTISGARH,BASTAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Chhattisgarh,BILASPUR,CHHATTISGARH,BILASPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Chhattisgarh,DURG,CHHATTISGARH,DURG,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Chhattisgarh,JANJGIR-CHAMPA,CHHATTISGARH,JANJGIR CHAMPA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Chhattisgarh,KANKER,CHHATTISGARH,KANKER,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Chhattisgarh,KORBA,CHHATTISGARH,KORBA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Chhattisgarh,MAHASAMUND,CHHATTISGARH,MAHASAMUND,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Chhattisgarh,RAIGARH,CHHATTISGARH,RAIGARH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Chhattisgarh,RAIPUR,CHHATTISGARH,RAIPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Chhattisgarh,RAJNANDGAON,CHHATTISGARH,RAJNANDGAON,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Chhattisgarh,SURGUJA,CHHATTISGARH,SURGUJA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Dadra & Nagar Haveli and Daman & Diu,Dadar & Nagar Haveli,DADRA & NAGAR HAVELI & DAMAN & DIU,DADAR NAGAR HAVELI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Dadra & Nagar Haveli and Daman & Diu,Daman & Diu,DADRA & NAGAR HAVELI & DAMAN & DIU,DAMAN DIU,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Goa,North Goa,GOA,NORTH GOA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Goa,South Goa,GOA,SOUTH GOA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Ahmedabad East,GUJARAT,AHMEDABAD EAST,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Ahmedabad West,GUJARAT,AHMEDABAD WEST,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Gujarat,Amreli,GUJARAT,AMRELI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Anand,GUJARAT,ANAND,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Banaskantha,GUJARAT,BANASKANTHA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Bardoli,GUJARAT,BARDOLI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Gujarat,Bharuch,GUJARAT,BHARUCH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Bhavnagar,GUJARAT,BHAVNAGAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Chhota Udaipur,GUJARAT,CHHOTA UDAIPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Gujarat,Dahod,GUJARAT,DAHOD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Gandhinagar,GUJARAT,GANDHINAGAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Jamnagar,GUJARAT,JAMNAGAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Junagadh,GUJARAT,JUNAGADH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Kachchh,GUJARAT,KACHCHH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Kheda,GUJARAT,KHEDA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Mahesana,GUJARAT,MAHESANA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Navsari,GUJARAT,NAVSARI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Gujarat,Panchmahal,GUJARAT,PANCHMAHAL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Patan,GUJARAT,PATAN,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Porbandar,GUJARAT,PORBANDAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Rajkot,GUJARAT,RAJKOT,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Sabarkantha,GUJARAT,SABARKANTHA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Surendranagar,GUJARAT,SURENDRANAGAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Vadodara,GUJARAT,VADODARA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Gujarat,Valsad,GUJARAT,VALSAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Haryana,AMBALA,HARYANA,AMBALA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Haryana,BHIWANI-MAHENDRAGARH,HARYANA,BHIWANI MAHENDRAGARH,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Haryana,FARIDABAD,HARYANA,FARIDABAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Haryana,GURGAON,HARYANA,GURGAON,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Haryana,HISAR,HARYANA,HISAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Haryana,KARNAL,HARYANA,KARNAL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Haryana,KURUKSHETRA,HARYANA,KURUKSHETRA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Haryana,ROHTAK,HARYANA,ROHTAK,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Haryana,SIRSA,HARYANA,SIRSA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Haryana,SONIPAT,HARYANA,SONIPAT,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Himachal Pradesh,HAMIRPUR,HIMACHAL PRADESH,HAMIRPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Himachal Pradesh,KANGRA,HIMACHAL PRADESH,KANGRA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Himachal Pradesh,MANDI,HIMACHAL PRADESH,MANDI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Himachal Pradesh,SHIMLA,HIMACHAL PRADESH,SHIMLA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Jammu and Kashmir,ANANTNAG-RAJOURI,JAMMU & KASHMIR,ANANTNAG RAJOURI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Jammu and Kashmir,BARAMULLA,JAMMU & KASHMIR,BARAMULLA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Jammu and Kashmir,JAMMU,JAMMU & KASHMIR,JAMMU,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Jammu and Kashmir,SRINAGAR,JAMMU & KASHMIR,SRINAGAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Jammu and Kashmir,UDHAMPUR,JAMMU & KASHMIR,UDHAMPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Jharkhand,Chatra,JHARKHAND,CHATRA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Jharkhand,Dhanbad,JHARKHAND,DHANBAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Jharkhand,Dumka,JHARKHAND,DUMKA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Jharkhand,Giridih,JHARKHAND,GIRIDIH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Jharkhand,Godda,JHARKHAND,GODDA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Jharkhand,Hazaribagh,JHARKHAND,HAZARIBAGH,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Jharkhand,Jamshedpur,JHARKHAND,JAMSHEDPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Jharkhand,Khunti,JHARKHAND,KHUNTI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Jharkhand,Kodarma,JHARKHAND,KODARMA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Jharkhand,Lohardaga,JHARKHAND,LOHARDAGA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Jharkhand,Palamu,JHARKHAND,PALAMU,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Jharkhand,Rajmahal,JHARKHAND,RAJMAHAL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Jharkhand,Ranchi,JHARKHAND,RANCHI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Jharkhand,Singhbhum,JHARKHAND,SINGHBHUM,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Karnataka,Bagalkot,KARNATAKA,BAGALKOT,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Bangalore North,KARNATAKA,BANGALORE NORTH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Bangalore Rural,KARNATAKA,BANGALORE RURAL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Bangalore South,KARNATAKA,BANGALORE SOUTH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Bangalore central,KARNATAKA,BANGALORE CENTRAL,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Karnataka,Belgaum,KARNATAKA,BELGAUM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Bellary,KARNATAKA,BELLARY,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Bidar,KARNATAKA,BIDAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Bijapur,KARNATAKA,BIJAPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Chamarajanagar,KARNATAKA,CHAMARAJANAGAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Karnataka,Chikkballapur,KARNATAKA,CHIKKBALLAPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Chikkodi,KARNATAKA,CHIKKODI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Chitradurga,KARNATAKA,CHITRADURGA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Dakshina Kannada,KARNATAKA,DAKSHINA KANNADA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Karnataka,Davanagere,KARNATAKA,DAVANAGERE,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Dharwad,KARNATAKA,DHARWAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Gulbarga,KARNATAKA,GULBARGA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Hassan,KARNATAKA,HASSAN,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Haveri,KARNATAKA,HAVERI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Kolar,KARNATAKA,KOLAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Koppal,KARNATAKA,KOPPAL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Mandya,KARNATAKA,MANDYA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Mysore,KARNATAKA,MYSORE,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Raichur,KARNATAKA,RAICHUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Shimoga,KARNATAKA,SHIMOGA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Tumkur,KARNATAKA,TUMKUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Karnataka,Udupi Chikmagalur,KARNATAKA,UDUPI CHIKMAGALUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Karnataka,Uttara Kannada,KARNATAKA,UTTARA KANNADA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Alappuzha,KERALA,ALAPPUZHA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Alathur,KERALA,ALATHUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Attingal,KERALA,ATTINGAL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Chalakudy,KERALA,CHALAKUDY,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Ernakulam,KERALA,ERNAKULAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Idukki,KERALA,IDUKKI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Kannur,KERALA,KANNUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Kerala,Kasaragod,KERALA,KASARAGOD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Kollam,KERALA,KOLLAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Kottayam,KERALA,KOTTAYAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Kozhikode,KERALA,KOZHIKODE,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Malappuram,KERALA,MALAPPURAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Mavelikkara,KERALA,MAVELIKKARA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Palakkad,KERALA,PALAKKAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Pathanamthitta,KERALA,PATHANAMTHITTA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Ponnani,KERALA,PONNANI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Thiruvananthapuram,KERALA,THIRUVANANTHAPURAM,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Kerala,Thrissur,KERALA,THRISSUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Vadakara,KERALA,VADAKARA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Kerala,Wayanad,KERALA,WAYANAD,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Ladakh,Ladakh,LADAKH,LADAKH,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Lakshadweep,Lakshadweep,LAKSHADWEEP,LAKSHADWEEP,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Madhya Pradesh,BALAGHAT,MADHYA PRADESH,BALAGHAT,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,BETUL,MADHYA PRADESH,BETUL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,BHIND,MADHYA PRADESH,BHIND,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,BHOPAL,MADHYA PRADESH,BHOPAL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,CHHINDWARA,MADHYA PRADESH,CHHINDWARA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,DAMOH,MADHYA PRADESH,DAMOH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,DEWAS,MADHYA PRADESH,DEWAS,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,DHAR,MADHYA PRADESH,DHAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,GUNA,MADHYA PRADESH,GUNA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,GWALIOR,MADHYA PRADESH,GWALIOR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,HOSHANGABAD,MADHYA PRADESH,HOSHANGABAD,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Madhya Pradesh,INDORE,MADHYA PRADESH,INDORE,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,JABALPUR,MADHYA PRADESH,JABALPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,KHAJURAHO,MADHYA PRADESH,KHAJURAHO,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,KHANDWA,MADHYA PRADESH,KHANDWA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,KHARGONE,MADHYA PRADESH,KHARGONE,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Madhya Pradesh,MANDLA,MADHYA PRADESH,MANDLA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,MANDSOUR,MADHYA PRADESH,MANDSOUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,MORENA,MADHYA PRADESH,MORENA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,RAJGARH,MADHYA PRADESH,RAJGARH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,RATLAM,MADHYA PRADESH,RATLAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,REWA,MADHYA PRADESH,REWA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,SAGAR,MADHYA PRADESH,SAGAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,SATNA,MADHYA PRADESH,SATNA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,SHAHDOL,MADHYA PRADESH,SHAHDOL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,SIDHI,MADHYA PRADESH,SIDHI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,TIKAMGARH,MADHYA PRADESH,TIKAMGARH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,UJJAIN,MADHYA PRADESH,UJJAIN,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Madhya Pradesh,VIDISHA,MADHYA PRADESH,VIDISHA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Maharashtra,Ahmednagar,MAHARASHTRA,AHMEDNAGAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Akola,MAHARASHTRA,AKOLA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Amravati,MAHARASHTRA,AMRAVATI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Aurangabad,MAHARASHTRA,AURANGABAD,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Baramati,MAHARASHTRA,BARAMATI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Beed,MAHARASHTRA,BEED,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Maharashtra,Bhandara Gondiya,MAHARASHTRA,BHANDARA GONDIYA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Bhiwandi,MAHARASHTRA,BHIWANDI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Buldhana,MAHARASHTRA,BULDHANA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Maharashtra,Chandrapur,MAHARASHTRA,CHANDRAPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Maharashtra,Dhule,MAHARASHTRA,DHULE,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Dindori,MAHARASHTRA,DINDORI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Gadchiroli - Chimur,MAHARASHTRA,GADCHIROLI CHIMUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Hatkanangale,MAHARASHTRA,HATKANANGALE,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Hingoli,MAHARASHTRA,HINGOLI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Maharashtra,Jalgaon,MAHARASHTRA,JALGAON,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Jalna,MAHARASHTRA,JALNA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Kalyan,MAHARASHTRA,KALYAN,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Kolhapur,MAHARASHTRA,KOLHAPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Latur,MAHARASHTRA,LATUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Maharashtra,Madha,MAHARASHTRA,MADHA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Maval,MAHARASHTRA,MAVAL,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Mumbai North,MAHARASHTRA,MUMBAI NORTH,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Mumbai North Central,MAHARASHTRA,MUMBAI NORTH CENTRAL,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Mumbai North East,MAHARASHTRA,MUMBAI NORTH EAST,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Mumbai North West,MAHARASHTRA,MUMBAI NORTH WEST,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Maharashtra,Mumbai South,MAHARASHTRA,MUMBAI SOUTH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Maharashtra,Mumbai South Central,MAHARASHTRA,MUMBAI SOUTH CENTRAL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Maharashtra,Nagpur,MAHARASHTRA,NAGPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Nanded,MAHARASHTRA,NANDED,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Maharashtra,Nandurbar,MAHARASHTRA,NANDURBAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Nashik,MAHARASHTRA,NASHIK,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Osmanabad,MAHARASHTRA,OSMANABAD,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Palghar,MAHARASHTRA,PALGHAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Maharashtra,Parbhani,MAHARASHTRA,PARBHANI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Maharashtra,Pune,MAHARASHTRA,PUNE,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Raigad,MAHARASHTRA,RAIGAD,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Ramtek,MAHARASHTRA,RAMTEK,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Ratnagiri- Sindhudurg,MAHARASHTRA,RATNAGIRI SINDHUDURG,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Raver,MAHARASHTRA,RAVER,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Maharashtra,Sangli,MAHARASHTRA,SANGLI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Satara,MAHARASHTRA,SATARA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Maharashtra,Shirdi,MAHARASHTRA,SHIRDI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Shirur,MAHARASHTRA,SHIRUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Solapur,MAHARASHTRA,SOLAPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Thane,MAHARASHTRA,THANE,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Maharashtra,Wardha,MAHARASHTRA,WARDHA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Maharashtra,Yavatmal- Washim,MAHARASHTRA,YAVATMAL WASHIM,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Manipur,Inner Manipur,MANIPUR,INNER MANIPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Manipur,Outer Manipur,MANIPUR,OUTER MANIPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Meghalaya,Shillong,MEGHALAYA,SHILLONG,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Meghalaya,Tura,MEGHALAYA,TURA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Mizoram,MIZORAM,MIZORAM,MIZORAM,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+NCT OF Delhi,Chandni Chowk,NCT OF DELHI,CHANDNI CHOWK,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+NCT OF Delhi,East Delhi,NCT OF DELHI,EAST DELHI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+NCT OF Delhi,New Delhi,NCT OF DELHI,NEW DELHI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+NCT OF Delhi,North-East Delhi,NCT OF DELHI,NORTH EAST DELHI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+NCT OF Delhi,North-West Delhi,NCT OF DELHI,NORTH WEST DELHI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+NCT OF Delhi,South Delhi,NCT OF DELHI,SOUTH DELHI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+NCT OF Delhi,West Delhi,NCT OF DELHI,WEST DELHI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Nagaland,Nagaland,NAGALAND,NAGALAND,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Aska,ODISHA,ASKA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Balasore,ODISHA,BALASORE,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Bargarh,ODISHA,BARGARH,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Berhampur,ODISHA,BERHAMPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Bhadrak,ODISHA,BHADRAK,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Bhubaneswar,ODISHA,BHUBANESWAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Bolangir,ODISHA,BOLANGIR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Cuttack,ODISHA,CUTTACK,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Dhenkanal,ODISHA,DHENKANAL,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Jagatsinghpur,ODISHA,JAGATSINGHPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Jajpur,ODISHA,JAJPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Kalahandi,ODISHA,KALAHANDI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Kandhamal,ODISHA,KANDHAMAL,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Kendrapara,ODISHA,KENDRAPARA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Keonjhar,ODISHA,KEONJHAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Koraput,ODISHA,KORAPUT,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Mayurbhanj,ODISHA,MAYURBHANJ,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Nabarangpur,ODISHA,NABARANGPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Puri,ODISHA,PURI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Sambalpur,ODISHA,SAMBALPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Odisha,Sundargarh,ODISHA,SUNDARGARH,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Puducherry,PUDUCHERRY,PUDUCHERRY,PUDUCHERRY,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Punjab,Amritsar,PUNJAB,AMRITSAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Punjab,Anandpur Sahib,PUNJAB,ANANDPUR SAHIB,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Punjab,Bathinda,PUNJAB,BATHINDA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Punjab,Faridkot,PUNJAB,FARIDKOT,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Punjab,Fatehgarh Sahib,PUNJAB,FATEHGARH SAHIB,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Punjab,Firozpur,PUNJAB,FIROZPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Punjab,Gurdaspur,PUNJAB,GURDASPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Punjab,Hoshiarpur,PUNJAB,HOSHIARPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Punjab,Jalandhar,PUNJAB,JALANDHAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Punjab,Khadoor Sahib,PUNJAB,KHADOOR SAHIB,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Punjab,Ludhiana,PUNJAB,LUDHIANA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Punjab,Patiala,PUNJAB,PATIALA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Punjab,Sangrur,PUNJAB,SANGRUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Rajasthan,AJMER,RAJASTHAN,AJMER,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Rajasthan,ALWAR,RAJASTHAN,ALWAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Rajasthan,BANSWARA,RAJASTHAN,BANSWARA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Rajasthan,BARMER,RAJASTHAN,BARMER,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Rajasthan,BHARATPUR,RAJASTHAN,BHARATPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Rajasthan,BHILWARA,RAJASTHAN,BHILWARA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Rajasthan,BIKANER,RAJASTHAN,BIKANER,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Rajasthan,CHITTORGARH,RAJASTHAN,CHITTORGARH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Rajasthan,CHURU,RAJASTHAN,CHURU,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Rajasthan,DAUSA,RAJASTHAN,DAUSA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Rajasthan,GANGANAGAR,RAJASTHAN,GANGANAGAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Rajasthan,JAIPUR,RAJASTHAN,JAIPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Rajasthan,JAIPUR RURAL,RAJASTHAN,JAIPUR RURAL,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Rajasthan,JALORE,RAJASTHAN,JALORE,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Rajasthan,JHALAWAR-BARAN,RAJASTHAN,JHALAWAR BARAN,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Rajasthan,JHUNJHUNU,RAJASTHAN,JHUNJHUNU,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Rajasthan,JODHPUR,RAJASTHAN,JODHPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Rajasthan,KARAULI-DHOLPUR,RAJASTHAN,KARAULI DHOLPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Rajasthan,KOTA,RAJASTHAN,KOTA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Rajasthan,NAGAUR,RAJASTHAN,NAGAUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Rajasthan,PALI,RAJASTHAN,PALI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Rajasthan,RAJSAMAND,RAJASTHAN,RAJSAMAND,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Rajasthan,SIKAR,RAJASTHAN,SIKAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Rajasthan,TONK-SAWAI MADHOPUR,RAJASTHAN,TONK SAWAI MADHOPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Rajasthan,UDAIPUR,RAJASTHAN,UDAIPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Sikkim,Sikkim,SIKKIM,SIKKIM,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Tamil Nadu,ARAKKONAM,TAMIL NADU,ARAKKONAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,ARANI,TAMIL NADU,ARANI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,CHENNAI CENTRAL,TAMIL NADU,CHENNAI CENTRAL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,CHENNAI NORTH,TAMIL NADU,CHENNAI NORTH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,CHENNAI SOUTH,TAMIL NADU,CHENNAI SOUTH,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Tamil Nadu,CHIDAMBARAM,TAMIL NADU,CHIDAMBARAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,COIMBATORE,TAMIL NADU,COIMBATORE,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Tamil Nadu,CUDDALORE,TAMIL NADU,CUDDALORE,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,DHARMAPURI,TAMIL NADU,DHARMAPURI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,DINDIGUL,TAMIL NADU,DINDIGUL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,ERODE,TAMIL NADU,ERODE,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,KALLAKURICHI,TAMIL NADU,KALLAKURICHI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,KANCHEEPURAM,TAMIL NADU,KANCHEEPURAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,KANNIYAKUMARI,TAMIL NADU,KANNIYAKUMARI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Tamil Nadu,KARUR,TAMIL NADU,KARUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,KRISHNAGIRI,TAMIL NADU,KRISHNAGIRI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Tamil Nadu,MADURAI,TAMIL NADU,MADURAI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Tamil Nadu,MAYILADUTHURAI,TAMIL NADU,MAYILADUTHURAI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,NAGAPATTINAM,TAMIL NADU,NAGAPATTINAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,NAMAKKAL,TAMIL NADU,NAMAKKAL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,NILGIRIS,TAMIL NADU,NILGIRIS,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,PERAMBALUR,TAMIL NADU,PERAMBALUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,POLLACHI,TAMIL NADU,POLLACHI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Tamil Nadu,RAMANATHAPURAM,TAMIL NADU,RAMANATHAPURAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,SALEM,TAMIL NADU,SALEM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,SIVAGANGA,TAMIL NADU,SIVAGANGA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,SRIPERUMBUDUR,TAMIL NADU,SRIPERUMBUDUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,TENKASI,TAMIL NADU,TENKASI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Tamil Nadu,THANJAVUR,TAMIL NADU,THANJAVUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,THENI,TAMIL NADU,THENI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Tamil Nadu,THOOTHUKKUDI,TAMIL NADU,THOOTHUKKUDI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Tamil Nadu,TIRUCHIRAPPALLI,TAMIL NADU,TIRUCHIRAPPALLI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,TIRUNELVELI,TAMIL NADU,TIRUNELVELI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Tamil Nadu,TIRUPPUR,TAMIL NADU,TIRUPPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,TIRUVALLUR,TAMIL NADU,TIRUVALLUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,TIRUVANNAMALAI,TAMIL NADU,TIRUVANNAMALAI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,VELLORE,TAMIL NADU,VELLORE,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,VILUPPURAM,TAMIL NADU,VILUPPURAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tamil Nadu,VIRUDHUNAGAR,TAMIL NADU,VIRUDHUNAGAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Telangana,Adilabad,TELANGANA,ADILABAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Telangana,Bhongir,TELANGANA,BHONGIR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Telangana,Chevella,TELANGANA,CHEVELLA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Telangana,Hyderabad,TELANGANA,HYDERABAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Telangana,Karimnagar,TELANGANA,KARIMNAGAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Telangana,Khammam,TELANGANA,KHAMMAM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Telangana,Mahabubabad,TELANGANA,MAHABUBABAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Telangana,Mahbubnagar,TELANGANA,MAHBUBNAGAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Telangana,Malkajgiri,TELANGANA,MALKAJGIRI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Telangana,Medak,TELANGANA,MEDAK,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Telangana,Nagarkurnool,TELANGANA,NAGARKURNOOL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Telangana,Nalgonda,TELANGANA,NALGONDA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Telangana,Nizamabad,TELANGANA,NIZAMABAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Telangana,Peddapalle,TELANGANA,PEDDAPALLE,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Telangana,Secunderabad,TELANGANA,SECUNDERABAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Telangana,Warangal,TELANGANA,WARANGAL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Telangana,Zahirabad,TELANGANA,ZAHIRABAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tripura,Tripura East,TRIPURA,TRIPURA EAST,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Tripura,Tripura West,TRIPURA,TRIPURA WEST,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Agra,UTTAR PRADESH,AGRA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Akbarpur,UTTAR PRADESH,AKBARPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Aligarh,UTTAR PRADESH,ALIGARH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Allahabad,UTTAR PRADESH,ALLAHABAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Ambedkar Nagar,UTTAR PRADESH,AMBEDKAR NAGAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Amethi,UTTAR PRADESH,AMETHI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Amroha,UTTAR PRADESH,AMROHA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Aonla,UTTAR PRADESH,AONLA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Azamgarh,UTTAR PRADESH,AZAMGARH,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Badaun,UTTAR PRADESH,BADAUN,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Baghpat,UTTAR PRADESH,BAGHPAT,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Baharaich,UTTAR PRADESH,BAHARAICH,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Ballia,UTTAR PRADESH,BALLIA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Banda,UTTAR PRADESH,BANDA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Bansgaon,UTTAR PRADESH,BANSGAON,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Barabanki,UTTAR PRADESH,BARABANKI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Bareilly,UTTAR PRADESH,BAREILLY,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Basti,UTTAR PRADESH,BASTI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Bhadohi,UTTAR PRADESH,BHADOHI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Bijnor,UTTAR PRADESH,BIJNOR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Bulandshahr,UTTAR PRADESH,BULANDSHAHR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Chandauli,UTTAR PRADESH,CHANDAULI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Deoria,UTTAR PRADESH,DEORIA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Dhaurahra,UTTAR PRADESH,DHAURAHRA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Domariyaganj,UTTAR PRADESH,DOMARIYAGANJ,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Etah,UTTAR PRADESH,ETAH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Etawah,UTTAR PRADESH,ETAWAH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Faizabad,UTTAR PRADESH,FAIZABAD,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Farrukhabad,UTTAR PRADESH,FARRUKHABAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Fatehpur,UTTAR PRADESH,FATEHPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Fatehpur Sikri,UTTAR PRADESH,FATEHPUR SIKRI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Firozabad,UTTAR PRADESH,FIROZABAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Gautam Buddha Nagar,UTTAR PRADESH,GAUTAM BUDDHA NAGAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Ghaziabad,UTTAR PRADESH,GHAZIABAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Ghazipur,UTTAR PRADESH,GHAZIPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Ghosi,UTTAR PRADESH,GHOSI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Gonda,UTTAR PRADESH,GONDA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Gorakhpur,UTTAR PRADESH,GORAKHPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Hamirpur,UTTAR PRADESH,HAMIRPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Hardoi,UTTAR PRADESH,HARDOI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Hathras,UTTAR PRADESH,HATHRAS,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Jalaun,UTTAR PRADESH,JALAUN,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Jaunpur,UTTAR PRADESH,JAUNPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Jhansi,UTTAR PRADESH,JHANSI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Kairana,UTTAR PRADESH,KAIRANA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Kaiserganj,UTTAR PRADESH,KAISERGANJ,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Kannauj,UTTAR PRADESH,KANNAUJ,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Kanpur,UTTAR PRADESH,KANPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Kaushambi,UTTAR PRADESH,KAUSHAMBI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Kheri,UTTAR PRADESH,KHERI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Kushi Nagar,UTTAR PRADESH,KUSHI NAGAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Lalganj,UTTAR PRADESH,LALGANJ,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Lucknow,UTTAR PRADESH,LUCKNOW,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Machhlishahr,UTTAR PRADESH,MACHHLISHAHR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Maharajganj,UTTAR PRADESH,MAHARAJGANJ,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Mainpuri,UTTAR PRADESH,MAINPURI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Mathura,UTTAR PRADESH,MATHURA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Meerut,UTTAR PRADESH,MEERUT,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Mirzapur,UTTAR PRADESH,MIRZAPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Misrikh,UTTAR PRADESH,MISRIKH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Mohanlalganj,UTTAR PRADESH,MOHANLALGANJ,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Moradabad,UTTAR PRADESH,MORADABAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Muzaffarnagar,UTTAR PRADESH,MUZAFFARNAGAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Nagina,UTTAR PRADESH,NAGINA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Phulpur,UTTAR PRADESH,PHULPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Pilibhit,UTTAR PRADESH,PILIBHIT,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Pratapgarh,UTTAR PRADESH,PRATAPGARH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Rae Bareli,UTTAR PRADESH,RAE BARELI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Rampur,UTTAR PRADESH,RAMPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Robertsganj,UTTAR PRADESH,ROBERTSGANJ,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Saharanpur,UTTAR PRADESH,SAHARANPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Salempur,UTTAR PRADESH,SALEMPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Sambhal,UTTAR PRADESH,SAMBHAL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Sant Kabir Nagar,UTTAR PRADESH,SANT KABIR NAGAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttar Pradesh,Shahjahanpur,UTTAR PRADESH,SHAHJAHANPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Shrawasti,UTTAR PRADESH,SHRAWASTI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Sitapur,UTTAR PRADESH,SITAPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Sultanpur,UTTAR PRADESH,SULTANPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Unnao,UTTAR PRADESH,UNNAO,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+Uttar Pradesh,Varanasi,UTTAR PRADESH,VARANASI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttarakhand,Almora,UTTARAKHAND,ALMORA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttarakhand,Garhwal,UTTARAKHAND,GARHWAL,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttarakhand,Haridwar,UTTARAKHAND,HARIDWAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttarakhand,Nainital-Udhamsingh Nagar,UTTARAKHAND,NAINITAL UDHAMSINGH NAGAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+Uttarakhand,Tehri Garhwal,UTTARAKHAND,TEHRI GARHWAL,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+West Bengal,Alipurduars,WEST BENGAL,ALIPURDUARS,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+West Bengal,Arambag,WEST BENGAL,ARAMBAG,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Asansol,WEST BENGAL,ASANSOL,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Baharampur,WEST BENGAL,BAHARAMPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Balurghat,WEST BENGAL,BALURGHAT,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Bangaon,WEST BENGAL,BANGAON,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Bankura,WEST BENGAL,BANKURA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Barasat,WEST BENGAL,BARASAT,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Bardhaman Purba,WEST BENGAL,BARDHAMAN PURBA,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+West Bengal,Bardhaman-Durgapur,WEST BENGAL,BARDHAMAN DURGAPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+West Bengal,Barrackpur,WEST BENGAL,BARRACKPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Basirhat,WEST BENGAL,BASIRHAT,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Birbhum,WEST BENGAL,BIRBHUM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Bishnupur,WEST BENGAL,BISHNUPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+West Bengal,Bolpur,WEST BENGAL,BOLPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Coochbehar,WEST BENGAL,COOCHBEHAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Darjeeling,WEST BENGAL,DARJEELING,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Diamond harbour,WEST BENGAL,DIAMOND HARBOUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+West Bengal,Dum dum,WEST BENGAL,DUM DUM,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Ghatal,WEST BENGAL,GHATAL,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+West Bengal,Hooghly,WEST BENGAL,HOOGHLY,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Howrah,WEST BENGAL,HOWRAH,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Jadavpur,WEST BENGAL,JADAVPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Jalpaiguri,WEST BENGAL,JALPAIGURI,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Jangipur,WEST BENGAL,JANGIPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Jaynagar,WEST BENGAL,JAYNAGAR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Jhargram,WEST BENGAL,JHARGRAM,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+West Bengal,Kanthi,WEST BENGAL,KANTHI,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+West Bengal,Kolkata Dakshin,WEST BENGAL,KOLKATA DAKSHIN,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+West Bengal,Kolkata Uttar,WEST BENGAL,KOLKATA UTTAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+West Bengal,Krishnanagar,WEST BENGAL,KRISHNANAGAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+West Bengal,Maldaha Dakshin,WEST BENGAL,MALDAHA DAKSHIN,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+West Bengal,Maldaha Uttar,WEST BENGAL,MALDAHA UTTAR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+West Bengal,Mathurapur,WEST BENGAL,MATHURAPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Medinipur,WEST BENGAL,MEDINIPUR,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+West Bengal,Murshidabad,WEST BENGAL,MURSHIDABAD,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Purulia,WEST BENGAL,PURULIA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Raiganj,WEST BENGAL,RAIGANJ,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Ranaghat,WEST BENGAL,RANAGHAT,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Sreerampur,WEST BENGAL,SREERAMPUR,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False
+West Bengal,Tamluk,WEST BENGAL,TAMLUK,election_only,False,False,0,0,urban_pct;literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,True
+West Bengal,Uluberia,WEST BENGAL,ULUBERIA,generated,True,False,0,1,literacy_rate;sc_pct;st_pct;religion_hindu_pct;religion_muslim_pct;population_density;sex_ratio,,0,False

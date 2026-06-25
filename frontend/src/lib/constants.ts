@@ -59,3 +59,10 @@ export const QUALITY_LABELS: Record<string, string> = {
   low: "Low coverage",
   election_only: "Election only",
 };
+
+export const DEMOGRAPHIC_SOURCE_LABELS: Record<string, string> = {
+  generated: "Generated",
+  manual: "Manual sourced",
+  mixed: "Mixed sources",
+  election_only: "Election only",
+};

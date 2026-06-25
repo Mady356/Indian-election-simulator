@@ -26,6 +26,7 @@ export interface MonteCarloBaseRecord {
   inc_vote_share_2024?: number | null;
   margin_2024?: number | null;
   turnout_2024?: number | null;
+  nfhs5_coverage_share?: number | null;
   data_quality_label: DataQualityLabel;
   party_vote_shares_2024?: Record<string, number> | null;
   top_parties_2024?: PartyShare[] | null;
@@ -358,13 +359,13 @@ export function simulateOneElection(
   return { nda, india, others, seatResults };
 }
 
-function percentile(sorted: number[], p: number): number {
+export function percentile(sorted: number[], p: number): number {
   if (!sorted.length) return 0;
   const idx = Math.floor(p * (sorted.length - 1));
   return sorted[Math.max(0, Math.min(sorted.length - 1, idx))];
 }
 
-function buildHistogram(values: number[]): Array<{ seats: number; count: number }> {
+export function histogram(values: number[]): Array<{ seats: number; count: number }> {
   const counts = new Map<number, number>();
   for (const value of values) {
     counts.set(value, (counts.get(value) ?? 0) + 1);
@@ -432,9 +433,9 @@ export function summarizeSimulationResults(
 
   return {
     summary,
-    nda_seat_distribution: buildHistogram(ndaSeats),
-    india_seat_distribution: buildHistogram(indiaSeats),
-    others_seat_distribution: buildHistogram(othersSeats),
+    nda_seat_distribution: histogram(ndaSeats),
+    india_seat_distribution: histogram(indiaSeats),
+    others_seat_distribution: histogram(othersSeats),
     volatile_seats: volatileSeats,
     detail: {
       simulations_run: n,

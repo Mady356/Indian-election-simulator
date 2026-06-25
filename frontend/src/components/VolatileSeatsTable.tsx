@@ -31,11 +31,11 @@ export function VolatileSeatsTable({ rows }: { rows: SeatSimulationStats[] }) {
               <th className="px-4 py-2.5">State</th>
               <th className="px-4 py-2.5">2024 winner</th>
               <th className="px-4 py-2.5">Most common sim. winner</th>
-              <th className="px-4 py-2.5">Flip prob.</th>
-              <th className="px-4 py-2.5">NDA</th>
-              <th className="px-4 py-2.5">INDIA</th>
+              <th className="px-4 py-2.5">Winner-change prob.</th>
+              <th className="px-4 py-2.5">NDA/BJP</th>
+              <th className="px-4 py-2.5">INDIA/INC</th>
               <th className="px-4 py-2.5">Others</th>
-              <th className="px-4 py-2.5">Confidence</th>
+              <th className="px-4 py-2.5">Projection confidence</th>
             </tr>
           </thead>
           <tbody>

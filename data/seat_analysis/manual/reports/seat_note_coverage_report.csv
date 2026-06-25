@@ -1,0 +1,543 @@
+state,constituency,has_generated_note,has_manual_note,has_suggested_note,manual_confidence,data_quality_label,is_priority_seat,needs_manual_review,suggested_review_reason
+Andaman & Nicobar Islands,Andaman & Nicobar Islands,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Andhra Pradesh,Amalapuram,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Andhra Pradesh,Anakapalle,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Andhra Pradesh,Ananthapur,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Andhra Pradesh,Araku,True,False,True,high,high,True,True,priority seat; close 2024 contest; large swing; manual note missing
+Andhra Pradesh,Bapatla,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Andhra Pradesh,Chittoor,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Andhra Pradesh,Eluru,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Andhra Pradesh,Guntur,True,False,True,high,high,False,True,manual note missing
+Andhra Pradesh,Hindupur,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Andhra Pradesh,Kadapa,True,False,True,medium,election_only,False,True,close 2024 contest; manual note missing
+Andhra Pradesh,Kakinada,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Andhra Pradesh,Kurnoolu,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Andhra Pradesh,Machilipatnam,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Andhra Pradesh,Nandyal,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Andhra Pradesh,Narsapuram,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Andhra Pradesh,Narsaraopet,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Andhra Pradesh,Nellore,True,False,True,medium,low,True,True,priority seat; flipped seat; manual note missing
+Andhra Pradesh,Ongole,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; manual note missing
+Andhra Pradesh,Rajahmundry,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Andhra Pradesh,Rajampet,True,False,True,medium,medium,True,True,priority seat; large swing; manual note missing
+Andhra Pradesh,Srikakulam,True,False,True,high,high,False,True,manual note missing
+Andhra Pradesh,Thirupathi,True,False,True,medium,election_only,True,True,priority seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Andhra Pradesh,Vijayawada,True,False,True,high,high,False,True,manual note missing
+Andhra Pradesh,Visakhapatnam,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Andhra Pradesh,Vizianagaram,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Arunachal Pradesh,Arunachal East,True,False,True,medium,election_only,False,True,manual note missing
+Arunachal Pradesh,Arunachal West,True,False,True,high,high,False,True,large swing; manual note missing
+Assam,Barpeta,True,False,True,low,high,True,True,priority seat; flipped seat; manual note missing
+Assam,Darrang-Udalguri,True,False,True,medium,election_only,False,True,manual note missing
+Assam,Dhubri,True,False,True,low,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Assam,Dibrugarh,True,False,True,high,high,True,True,priority seat; large swing; manual note missing
+Assam,Diphu,True,False,True,medium,election_only,False,True,large swing; manual note missing
+Assam,Guwahati,True,False,True,medium,election_only,False,True,manual note missing
+Assam,Jorhat,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Assam,Karimganj,True,False,True,high,high,False,True,close 2024 contest; large swing; manual note missing
+Assam,Kaziranga,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Assam,Kokrajhar,True,False,True,low,high,True,True,priority seat; flipped seat; close 2024 contest; manual note missing
+Assam,Lakhimpur,True,False,True,high,high,False,True,manual note missing
+Assam,Nagaon,True,False,True,medium,election_only,False,True,large swing; manual note missing
+Assam,Silchar,True,False,True,high,high,False,True,manual note missing
+Assam,Sonitpur,True,False,True,medium,election_only,False,True,manual note missing
+Bihar,Araria,True,False,True,low,high,False,True,close 2024 contest; manual note missing
+Bihar,Arrah,True,False,True,low,high,True,True,priority seat; flipped seat; manual note missing
+Bihar,Aurangabad,True,False,True,low,high,True,True,priority seat; flipped seat; manual note missing
+Bihar,Banka,True,False,True,low,high,False,True,manual note missing
+Bihar,Begusarai,True,False,True,low,high,False,True,manual note missing
+Bihar,Bhagalpur,True,False,True,low,high,True,True,priority seat; large swing; manual note missing
+Bihar,Buxar,True,False,True,low,high,True,True,priority seat; flipped seat; close 2024 contest; manual note missing
+Bihar,Darbhanga,True,False,True,low,high,False,True,manual note missing
+Bihar,Gaya,True,False,True,low,high,True,True,priority seat; flipped seat; manual note missing
+Bihar,Gopalganj,True,False,True,low,election_only,False,True,manual note missing
+Bihar,Hajipur,True,False,True,low,high,True,True,priority seat; flipped seat; manual note missing
+Bihar,Jahanabad,True,False,True,low,high,True,True,priority seat; flipped seat; manual note missing
+Bihar,Jamui,True,False,True,low,high,True,True,priority seat; flipped seat; manual note missing
+Bihar,Jhanjharpur,True,False,True,low,high,False,True,manual note missing
+Bihar,Karakat,True,False,True,low,high,True,True,priority seat; flipped seat; manual note missing
+Bihar,Katihar,True,False,True,low,high,True,True,priority seat; flipped seat; close 2024 contest; manual note missing
+Bihar,Khagaria,True,False,True,low,high,True,True,priority seat; flipped seat; manual note missing
+Bihar,Kishanganj,True,False,True,low,high,False,True,manual note missing
+Bihar,Madhepura,True,False,True,low,high,False,True,manual note missing
+Bihar,Madhubani,True,False,True,low,high,False,True,manual note missing
+Bihar,Maharajganj,True,False,True,high,high,True,True,priority seat; large swing; manual note missing
+Bihar,Munger,True,False,True,low,high,True,True,priority seat; large swing; manual note missing
+Bihar,Muzaffarpur,True,False,True,high,high,False,True,large swing; manual note missing
+Bihar,Nalanda,True,False,True,low,high,False,True,manual note missing
+Bihar,Nawada,True,False,True,low,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Bihar,Paschim Champaran,True,False,True,high,high,True,True,priority seat; large swing; manual note missing
+Bihar,Patliputra,True,False,True,low,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Bihar,Patna Sahib,True,False,True,high,high,False,True,manual note missing
+Bihar,Purnia,True,False,True,low,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Bihar,Purvi Champaran,True,False,True,low,high,False,True,manual note missing
+Bihar,Samastipur,True,False,True,low,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Bihar,Saran,True,False,True,low,high,False,True,close 2024 contest; manual note missing
+Bihar,Sasaram,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Bihar,Sheohar,True,False,True,low,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Bihar,Sitamarhi,True,False,True,low,high,False,True,close 2024 contest; manual note missing
+Bihar,Siwan,True,False,True,low,high,False,True,manual note missing
+Bihar,Supaul,True,False,True,low,high,True,True,priority seat; large swing; manual note missing
+Bihar,Ujiarpur,True,False,True,low,high,False,True,manual note missing
+Bihar,Vaishali,True,False,True,low,high,True,True,priority seat; flipped seat; manual note missing
+Bihar,Valmiki Nagar,True,False,True,low,high,False,True,large swing; manual note missing
+Chandigarh,Chandigarh,True,False,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; manual note missing; important seat with election-only demographics
+Chhattisgarh,BASTAR,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Chhattisgarh,BILASPUR,True,False,True,high,high,False,True,manual note missing
+Chhattisgarh,DURG,True,False,True,high,high,False,True,manual note missing
+Chhattisgarh,JANJGIR-CHAMPA,True,False,True,medium,election_only,False,True,close 2024 contest; manual note missing
+Chhattisgarh,KANKER,True,False,True,high,high,True,True,priority seat; close 2024 contest; manual note missing
+Chhattisgarh,KORBA,True,False,True,medium,medium,False,True,close 2024 contest; manual note missing
+Chhattisgarh,MAHASAMUND,True,False,True,high,high,False,True,manual note missing
+Chhattisgarh,RAIGARH,True,False,True,high,high,False,True,manual note missing
+Chhattisgarh,RAIPUR,True,False,True,high,high,False,True,manual note missing
+Chhattisgarh,RAJNANDGAON,True,False,True,high,high,False,True,close 2024 contest; manual note missing
+Chhattisgarh,SURGUJA,True,False,True,high,high,False,True,close 2024 contest; manual note missing
+Dadra & Nagar Haveli and Daman & Diu,Dadar & Nagar Haveli,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Dadra & Nagar Haveli and Daman & Diu,Daman & Diu,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Goa,North Goa,True,False,True,high,high,False,True,manual note missing
+Goa,South Goa,True,False,True,high,high,False,True,close 2024 contest; manual note missing
+Gujarat,Ahmedabad East,True,False,True,high,high,False,True,manual note missing
+Gujarat,Ahmedabad West,True,False,True,medium,election_only,False,True,manual note missing
+Gujarat,Amreli,True,False,True,high,high,False,True,manual note missing
+Gujarat,Anand,True,False,True,high,high,False,True,manual note missing
+Gujarat,Banaskantha,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Gujarat,Bardoli,True,False,True,medium,election_only,False,True,manual note missing
+Gujarat,Bharuch,True,False,True,medium,low,False,True,large swing; manual note missing
+Gujarat,Bhavnagar,True,False,True,high,high,True,True,priority seat; large swing; manual note missing
+Gujarat,Chhota Udaipur,True,False,True,medium,election_only,False,True,manual note missing
+Gujarat,Dahod,True,False,True,high,high,False,True,manual note missing
+Gujarat,Gandhinagar,True,True,True,medium,high,True,True,priority seat
+Gujarat,Jamnagar,True,False,True,high,high,False,True,manual note missing
+Gujarat,Junagadh,True,False,True,high,high,False,True,manual note missing
+Gujarat,Kachchh,True,False,True,high,high,False,True,manual note missing
+Gujarat,Kheda,True,False,True,high,high,False,True,manual note missing
+Gujarat,Mahesana,True,False,True,high,high,False,True,manual note missing
+Gujarat,Navsari,True,False,True,medium,election_only,False,True,manual note missing
+Gujarat,Panchmahal,True,False,True,high,high,False,True,manual note missing
+Gujarat,Patan,True,False,True,high,high,False,True,close 2024 contest; manual note missing
+Gujarat,Porbandar,True,False,True,high,high,False,True,manual note missing
+Gujarat,Rajkot,True,False,True,high,high,False,True,manual note missing
+Gujarat,Sabarkantha,True,False,True,high,high,False,True,manual note missing
+Gujarat,Surendranagar,True,False,True,high,high,False,True,manual note missing
+Gujarat,Vadodara,True,False,True,high,high,False,True,manual note missing
+Gujarat,Valsad,True,False,True,medium,low,False,True,manual note missing
+Haryana,AMBALA,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Haryana,BHIWANI-MAHENDRAGARH,True,False,True,medium,election_only,False,True,close 2024 contest; large swing; manual note missing
+Haryana,FARIDABAD,True,False,True,medium,low,True,True,priority seat; large swing; manual note missing
+Haryana,GURGAON,True,False,True,medium,election_only,False,True,close 2024 contest; large swing; manual note missing
+Haryana,HISAR,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Haryana,KARNAL,True,False,True,high,high,True,True,priority seat; large swing; manual note missing
+Haryana,KURUKSHETRA,True,False,True,high,high,False,True,close 2024 contest; large swing; manual note missing
+Haryana,ROHTAK,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Haryana,SIRSA,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Haryana,SONIPAT,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Himachal Pradesh,HAMIRPUR,True,False,True,high,high,False,True,large swing; manual note missing
+Himachal Pradesh,KANGRA,True,False,True,high,high,False,True,large swing; manual note missing
+Himachal Pradesh,MANDI,True,True,True,medium,high,True,True,priority seat; large swing
+Himachal Pradesh,SHIMLA,True,False,True,medium,election_only,False,True,large swing; manual note missing
+Jammu and Kashmir,ANANTNAG-RAJOURI,True,False,True,medium,election_only,True,True,priority seat; large swing; manual note missing; important seat with election-only demographics
+Jammu and Kashmir,BARAMULLA,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Jammu and Kashmir,JAMMU,True,False,True,medium,election_only,False,True,manual note missing
+Jammu and Kashmir,SRINAGAR,True,False,True,low,election_only,False,True,manual note missing
+Jammu and Kashmir,UDHAMPUR,True,False,True,medium,election_only,False,True,large swing; manual note missing
+Jharkhand,Chatra,True,False,True,high,high,False,True,large swing; manual note missing
+Jharkhand,Dhanbad,True,False,True,high,high,False,True,large swing; manual note missing
+Jharkhand,Dumka,True,False,True,low,low,True,True,priority seat; flipped seat; close 2024 contest; manual note missing
+Jharkhand,Giridih,True,False,True,low,high,False,True,manual note missing
+Jharkhand,Godda,True,False,True,medium,low,True,True,priority seat; large swing; manual note missing
+Jharkhand,Hazaribagh,True,False,True,medium,election_only,True,True,priority seat; large swing; manual note missing; important seat with election-only demographics
+Jharkhand,Jamshedpur,True,False,True,low,high,False,True,manual note missing
+Jharkhand,Khunti,True,False,True,medium,medium,True,True,priority seat; flipped seat; manual note missing
+Jharkhand,Kodarma,True,False,True,low,high,False,True,manual note missing
+Jharkhand,Lohardaga,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Jharkhand,Palamu,True,False,True,low,high,False,True,manual note missing
+Jharkhand,Rajmahal,True,False,True,low,high,False,True,manual note missing
+Jharkhand,Ranchi,True,False,True,high,high,False,True,large swing; manual note missing
+Jharkhand,Singhbhum,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Karnataka,Bagalkot,True,False,True,high,high,False,True,manual note missing
+Karnataka,Bangalore central,True,False,True,medium,election_only,False,True,close 2024 contest; manual note missing
+Karnataka,Bangalore North,True,False,True,high,high,False,True,manual note missing
+Karnataka,Bangalore Rural,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Karnataka,Bangalore South,True,True,True,medium,high,True,True,priority seat
+Karnataka,Belgaum,True,False,True,high,high,False,True,large swing; manual note missing
+Karnataka,Bellary,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Karnataka,Bidar,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Karnataka,Bijapur,True,False,True,high,high,True,True,priority seat; large swing; manual note missing
+Karnataka,Chamarajanagar,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Karnataka,Chikkballapur,True,False,True,high,high,False,True,manual note missing
+Karnataka,Chikkodi,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Karnataka,Chitradurga,True,False,True,high,high,False,True,close 2024 contest; manual note missing
+Karnataka,Dakshina Kannada,True,False,True,medium,election_only,False,True,manual note missing
+Karnataka,Davanagere,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; manual note missing
+Karnataka,Dharwad,True,False,True,high,high,False,True,manual note missing
+Karnataka,Gulbarga,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; manual note missing
+Karnataka,Hassan,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Karnataka,Haveri,True,False,True,high,high,False,True,close 2024 contest; manual note missing
+Karnataka,Kolar,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Karnataka,Koppal,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; manual note missing
+Karnataka,Mandya,True,False,True,low,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Karnataka,Mysore,True,False,True,high,high,False,True,manual note missing
+Karnataka,Raichur,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Karnataka,Shimoga,True,False,True,high,high,True,True,priority seat; large swing; manual note missing
+Karnataka,Tumkur,True,False,True,high,high,True,True,priority seat; large swing; manual note missing
+Karnataka,Udupi Chikmagalur,True,False,True,medium,election_only,True,True,priority seat; large swing; manual note missing; important seat with election-only demographics
+Karnataka,Uttara Kannada,True,False,True,high,high,True,True,priority seat; large swing; manual note missing
+Kerala,Alappuzha,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Kerala,Alathur,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Kerala,Attingal,True,False,True,high,high,True,True,priority seat; close 2024 contest; manual note missing
+Kerala,Chalakudy,True,False,True,high,high,True,True,priority seat; large swing; manual note missing
+Kerala,Ernakulam,True,False,True,high,high,False,True,manual note missing
+Kerala,Idukki,True,False,True,low,high,False,True,manual note missing
+Kerala,Kannur,True,False,True,medium,election_only,False,True,manual note missing
+Kerala,Kasaragod,True,False,True,high,high,False,True,manual note missing
+Kerala,Kollam,True,False,True,low,high,False,True,manual note missing
+Kerala,Kottayam,True,False,True,low,high,True,True,priority seat; flipped seat; manual note missing
+Kerala,Kozhikode,True,False,True,high,high,False,True,manual note missing
+Kerala,Malappuram,True,False,True,low,high,False,True,manual note missing
+Kerala,Mavelikkara,True,False,True,low,high,False,True,close 2024 contest; manual note missing
+Kerala,Palakkad,True,False,True,high,high,False,True,manual note missing
+Kerala,Pathanamthitta,True,False,True,high,high,False,True,manual note missing
+Kerala,Ponnani,True,False,True,low,high,False,True,manual note missing
+Kerala,Thiruvananthapuram,True,True,True,medium,election_only,True,True,priority seat; close 2024 contest; important seat with election-only demographics
+Kerala,Thrissur,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Kerala,Vadakara,True,False,True,high,high,False,True,manual note missing
+Kerala,Wayanad,True,True,True,medium,election_only,True,True,priority seat; large swing; important seat with election-only demographics
+Ladakh,Ladakh,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Lakshadweep,Lakshadweep,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Madhya Pradesh,BALAGHAT,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,BETUL,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,BHIND,True,False,True,high,high,False,True,large swing; manual note missing
+Madhya Pradesh,BHOPAL,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,CHHINDWARA,True,True,True,medium,high,True,True,priority seat; flipped seat
+Madhya Pradesh,DAMOH,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,DEWAS,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,DHAR,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,GUNA,True,False,True,high,high,False,True,large swing; manual note missing
+Madhya Pradesh,GWALIOR,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,HOSHANGABAD,True,False,True,medium,election_only,False,True,manual note missing
+Madhya Pradesh,INDORE,True,False,True,high,high,True,True,priority seat; large swing; manual note missing
+Madhya Pradesh,JABALPUR,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,KHAJURAHO,True,False,True,high,high,False,True,large swing; manual note missing
+Madhya Pradesh,KHANDWA,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,KHARGONE,True,False,True,medium,election_only,False,True,manual note missing
+Madhya Pradesh,MANDLA,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,MANDSOUR,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,MORENA,True,False,True,high,high,False,True,close 2024 contest; manual note missing
+Madhya Pradesh,RAJGARH,True,False,True,high,high,False,True,large swing; manual note missing
+Madhya Pradesh,RATLAM,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,REWA,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,SAGAR,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,SATNA,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,SHAHDOL,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,SIDHI,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,TIKAMGARH,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,UJJAIN,True,False,True,high,high,False,True,manual note missing
+Madhya Pradesh,VIDISHA,True,False,True,high,high,False,True,manual note missing
+Maharashtra,Ahmednagar,True,False,True,low,election_only,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Maharashtra,Akola,True,False,True,medium,election_only,False,True,close 2024 contest; large swing; manual note missing
+Maharashtra,Amravati,True,False,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Maharashtra,Aurangabad,True,False,True,low,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Maharashtra,Baramati,True,True,True,medium,election_only,True,True,priority seat; flipped seat; large swing; important seat with election-only demographics
+Maharashtra,Beed,True,False,True,low,high,True,True,priority seat; flipped seat; close 2024 contest; manual note missing
+Maharashtra,Bhandara Gondiya,True,False,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Maharashtra,Bhiwandi,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Maharashtra,Buldhana,True,False,True,low,high,False,True,close 2024 contest; manual note missing
+Maharashtra,Chandrapur,True,False,True,high,high,False,True,large swing; manual note missing
+Maharashtra,Dhule,True,False,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Maharashtra,Dindori,True,False,True,low,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Maharashtra,Gadchiroli - Chimur,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Maharashtra,Hatkanangale,True,False,True,low,election_only,True,True,priority seat; close 2024 contest; manual note missing; important seat with election-only demographics
+Maharashtra,Hingoli,True,False,True,low,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Maharashtra,Jalgaon,True,False,True,low,election_only,False,True,manual note missing
+Maharashtra,Jalna,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Maharashtra,Kalyan,True,False,True,low,election_only,False,True,manual note missing
+Maharashtra,Kolhapur,True,False,True,low,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Maharashtra,Latur,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Maharashtra,Madha,True,False,True,low,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Maharashtra,Maval,True,False,True,low,election_only,False,True,manual note missing
+Maharashtra,Mumbai North,True,True,True,medium,election_only,True,True,priority seat; important seat with election-only demographics
+Maharashtra,Mumbai North Central,True,False,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; manual note missing; important seat with election-only demographics
+Maharashtra,Mumbai North East,True,False,True,low,election_only,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Maharashtra,Mumbai North West,True,False,True,low,high,True,True,priority seat; close 2024 contest; large swing; manual note missing
+Maharashtra,Mumbai South,True,True,True,medium,high,True,True,priority seat; flipped seat; large swing
+Maharashtra,Mumbai South Central,True,False,True,low,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Maharashtra,Nagpur,True,True,True,medium,election_only,True,True,priority seat; important seat with election-only demographics
+Maharashtra,Nanded,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Maharashtra,Nandurbar,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Maharashtra,Nashik,True,False,True,low,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Maharashtra,Osmanabad,True,False,True,low,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Maharashtra,Palghar,True,False,True,low,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Maharashtra,Parbhani,True,False,True,low,high,True,True,priority seat; flipped seat; manual note missing
+Maharashtra,Pune,True,False,True,medium,election_only,False,True,large swing; manual note missing
+Maharashtra,Raigad,True,False,True,low,election_only,False,True,manual note missing
+Maharashtra,Ramtek,True,False,True,low,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Maharashtra,Ratnagiri- Sindhudurg,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Maharashtra,Raver,True,False,True,high,high,True,True,priority seat; large swing; manual note missing
+Maharashtra,Sangli,True,False,True,low,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Maharashtra,Satara,True,False,True,low,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Maharashtra,Shirdi,True,False,True,low,election_only,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Maharashtra,Shirur,True,False,True,low,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Maharashtra,Solapur,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Maharashtra,Thane,True,False,True,low,high,False,True,manual note missing
+Maharashtra,Wardha,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Maharashtra,Yavatmal- Washim,True,False,True,low,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Manipur,Inner Manipur,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Manipur,Outer Manipur,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Meghalaya,Shillong,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Meghalaya,Tura,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Mizoram,MIZORAM,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Nagaland,Nagaland,True,False,True,low,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+NCT OF Delhi,Chandni Chowk,True,False,True,medium,election_only,False,True,large swing; manual note missing
+NCT OF Delhi,East Delhi,True,False,True,medium,election_only,False,True,large swing; manual note missing
+NCT OF Delhi,New Delhi,True,False,True,medium,election_only,True,True,priority seat; large swing; manual note missing; important seat with election-only demographics
+NCT OF Delhi,North-East Delhi,True,False,True,medium,election_only,False,True,large swing; manual note missing
+NCT OF Delhi,North-West Delhi,True,False,True,medium,election_only,False,True,large swing; manual note missing
+NCT OF Delhi,South Delhi,True,False,True,medium,election_only,False,True,large swing; manual note missing
+NCT OF Delhi,West Delhi,True,False,True,medium,election_only,False,True,large swing; manual note missing
+Odisha,Aska,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Odisha,Balasore,True,False,True,medium,election_only,False,True,manual note missing
+Odisha,Bargarh,True,False,True,medium,election_only,False,True,manual note missing
+Odisha,Berhampur,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Odisha,Bhadrak,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Odisha,Bhubaneswar,True,False,True,medium,election_only,False,True,close 2024 contest; manual note missing
+Odisha,Bolangir,True,False,True,medium,election_only,False,True,manual note missing
+Odisha,Cuttack,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Odisha,Dhenkanal,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Odisha,Jagatsinghpur,True,False,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Odisha,Jajpur,True,False,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; manual note missing; important seat with election-only demographics
+Odisha,Kalahandi,True,False,True,medium,election_only,False,True,manual note missing
+Odisha,Kandhamal,True,False,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; manual note missing; important seat with election-only demographics
+Odisha,Kendrapara,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Odisha,Keonjhar,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Odisha,Koraput,True,False,True,medium,election_only,False,True,manual note missing
+Odisha,Mayurbhanj,True,False,True,low,election_only,False,True,manual note missing
+Odisha,Nabarangpur,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Odisha,Puri,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Odisha,Sambalpur,True,False,True,medium,election_only,False,True,manual note missing
+Odisha,Sundargarh,True,False,True,medium,election_only,False,True,manual note missing
+Puducherry,PUDUCHERRY,True,False,True,medium,election_only,True,True,priority seat; large swing; manual note missing; important seat with election-only demographics
+Punjab,Amritsar,True,False,True,medium,election_only,True,True,priority seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Punjab,Anandpur Sahib,True,False,True,medium,medium,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Punjab,Bathinda,True,False,True,high,high,False,True,close 2024 contest; large swing; manual note missing
+Punjab,Faridkot,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Punjab,Fatehgarh Sahib,True,False,True,high,high,False,True,close 2024 contest; large swing; manual note missing
+Punjab,Firozpur,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Punjab,Gurdaspur,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Punjab,Hoshiarpur,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Punjab,Jalandhar,True,False,True,high,high,False,True,large swing; manual note missing
+Punjab,Khadoor Sahib,True,False,True,medium,low,True,True,priority seat; flipped seat; large swing; manual note missing
+Punjab,Ludhiana,True,False,True,high,high,True,True,priority seat; close 2024 contest; large swing; manual note missing
+Punjab,Patiala,True,False,True,medium,election_only,True,True,priority seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Punjab,Sangrur,True,False,True,high,high,False,True,large swing; manual note missing
+Rajasthan,AJMER,True,False,True,medium,election_only,False,True,manual note missing
+Rajasthan,ALWAR,True,False,True,high,high,False,True,close 2024 contest; large swing; manual note missing
+Rajasthan,BANSWARA,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Rajasthan,BARMER,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Rajasthan,BHARATPUR,True,False,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Rajasthan,BHILWARA,True,False,True,high,high,False,True,manual note missing
+Rajasthan,BIKANER,True,False,True,high,high,False,True,close 2024 contest; manual note missing
+Rajasthan,CHITTORGARH,True,False,True,high,high,False,True,manual note missing
+Rajasthan,CHURU,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Rajasthan,DAUSA,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Rajasthan,GANGANAGAR,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Rajasthan,JAIPUR,True,False,True,medium,election_only,False,True,manual note missing
+Rajasthan,JAIPUR RURAL,True,False,True,medium,election_only,True,True,priority seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Rajasthan,JALORE,True,False,True,medium,election_only,False,True,manual note missing
+Rajasthan,JHALAWAR-BARAN,True,False,True,medium,election_only,False,True,manual note missing
+Rajasthan,JHUNJHUNU,True,False,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Rajasthan,JODHPUR,True,False,True,medium,election_only,False,True,manual note missing
+Rajasthan,KARAULI-DHOLPUR,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Rajasthan,KOTA,True,False,True,high,high,False,True,close 2024 contest; manual note missing
+Rajasthan,NAGAUR,True,False,True,medium,election_only,True,True,priority seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Rajasthan,PALI,True,False,True,high,high,False,True,large swing; manual note missing
+Rajasthan,RAJSAMAND,True,False,True,high,high,False,True,manual note missing
+Rajasthan,SIKAR,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Rajasthan,TONK-SAWAI MADHOPUR,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Rajasthan,UDAIPUR,True,False,True,medium,election_only,False,True,large swing; manual note missing
+Sikkim,Sikkim,True,False,True,medium,election_only,False,True,manual note missing
+Tamil Nadu,ARAKKONAM,True,False,True,low,high,False,True,manual note missing
+Tamil Nadu,ARANI,True,False,True,low,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Tamil Nadu,CHENNAI CENTRAL,True,False,True,low,high,True,True,priority seat; large swing; manual note missing
+Tamil Nadu,CHENNAI NORTH,True,False,True,low,high,False,True,large swing; manual note missing
+Tamil Nadu,CHENNAI SOUTH,True,False,True,low,election_only,True,True,priority seat; large swing; manual note missing; important seat with election-only demographics
+Tamil Nadu,CHIDAMBARAM,True,False,True,low,high,False,True,large swing; manual note missing
+Tamil Nadu,COIMBATORE,True,True,True,medium,election_only,True,True,priority seat; flipped seat; important seat with election-only demographics
+Tamil Nadu,CUDDALORE,True,False,True,low,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Tamil Nadu,DHARMAPURI,True,False,True,low,low,False,True,close 2024 contest; manual note missing
+Tamil Nadu,DINDIGUL,True,False,True,low,high,True,True,priority seat; flipped seat; manual note missing
+Tamil Nadu,ERODE,True,False,True,low,high,False,True,manual note missing
+Tamil Nadu,KALLAKURICHI,True,False,True,low,high,False,True,close 2024 contest; manual note missing
+Tamil Nadu,KANCHEEPURAM,True,False,True,low,high,False,True,manual note missing
+Tamil Nadu,KANNIYAKUMARI,True,False,True,medium,election_only,False,True,manual note missing
+Tamil Nadu,KARUR,True,False,True,high,high,False,True,large swing; manual note missing
+Tamil Nadu,KRISHNAGIRI,True,False,True,medium,election_only,False,True,large swing; manual note missing
+Tamil Nadu,MADURAI,True,False,True,low,election_only,False,True,large swing; manual note missing
+Tamil Nadu,MAYILADUTHURAI,True,False,True,low,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Tamil Nadu,NAGAPATTINAM,True,False,True,low,high,False,True,large swing; manual note missing
+Tamil Nadu,NAMAKKAL,True,False,True,low,high,False,True,close 2024 contest; manual note missing
+Tamil Nadu,NILGIRIS,True,False,True,low,high,True,True,priority seat; large swing; manual note missing
+Tamil Nadu,PERAMBALUR,True,False,True,low,high,False,True,large swing; manual note missing
+Tamil Nadu,POLLACHI,True,False,True,low,election_only,False,True,large swing; manual note missing
+Tamil Nadu,RAMANATHAPURAM,True,False,True,low,low,True,True,priority seat; large swing; manual note missing
+Tamil Nadu,SALEM,True,False,True,low,high,False,True,manual note missing
+Tamil Nadu,SIVAGANGA,True,False,True,high,high,False,True,large swing; manual note missing
+Tamil Nadu,SRIPERUMBUDUR,True,False,True,low,high,False,True,manual note missing
+Tamil Nadu,TENKASI,True,False,True,low,election_only,False,True,large swing; manual note missing
+Tamil Nadu,THANJAVUR,True,False,True,low,high,False,True,large swing; manual note missing
+Tamil Nadu,THENI,True,False,True,low,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Tamil Nadu,THOOTHUKKUDI,True,False,True,low,election_only,True,True,priority seat; large swing; manual note missing; important seat with election-only demographics
+Tamil Nadu,TIRUCHIRAPPALLI,True,False,True,low,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Tamil Nadu,TIRUNELVELI,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Tamil Nadu,TIRUPPUR,True,False,True,low,high,False,True,large swing; manual note missing
+Tamil Nadu,TIRUVALLUR,True,False,True,high,high,False,True,large swing; manual note missing
+Tamil Nadu,TIRUVANNAMALAI,True,False,True,low,high,False,True,large swing; manual note missing
+Tamil Nadu,VELLORE,True,False,True,low,high,True,True,priority seat; large swing; manual note missing
+Tamil Nadu,VILUPPURAM,True,False,True,low,high,True,True,priority seat; flipped seat; manual note missing
+Tamil Nadu,VIRUDHUNAGAR,True,False,True,medium,election_only,True,True,priority seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Telangana,Adilabad,True,False,True,high,high,False,True,large swing; manual note missing
+Telangana,Bhongir,True,False,True,high,high,True,True,priority seat; large swing; manual note missing
+Telangana,Chevella,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Telangana,Hyderabad,True,True,True,medium,high,True,True,priority seat
+Telangana,Karimnagar,True,False,True,high,high,False,True,large swing; manual note missing
+Telangana,Khammam,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Telangana,Mahabubabad,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Telangana,Mahbubnagar,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Telangana,Malkajgiri,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Telangana,Medak,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Telangana,Nagarkurnool,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Telangana,Nalgonda,True,False,True,high,high,False,True,large swing; manual note missing
+Telangana,Nizamabad,True,False,True,high,high,False,True,large swing; manual note missing
+Telangana,Peddapalle,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Telangana,Secunderabad,True,False,True,high,high,False,True,close 2024 contest; large swing; manual note missing
+Telangana,Warangal,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Telangana,Zahirabad,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Tripura,Tripura East,True,False,True,high,high,False,True,large swing; manual note missing
+Tripura,Tripura West,True,False,True,high,high,False,True,large swing; manual note missing
+Uttarakhand,Almora,True,False,True,medium,election_only,False,True,manual note missing
+Uttarakhand,Garhwal,True,False,True,medium,election_only,False,True,manual note missing
+Uttarakhand,Haridwar,True,False,True,medium,election_only,False,True,manual note missing
+Uttarakhand,Nainital-Udhamsingh Nagar,True,False,True,medium,election_only,False,True,manual note missing
+Uttarakhand,Tehri Garhwal,True,False,True,medium,election_only,False,True,large swing; manual note missing
+Uttar Pradesh,Agra,True,False,True,high,high,False,True,manual note missing
+Uttar Pradesh,Akbarpur,True,False,True,medium,election_only,False,True,close 2024 contest; large swing; manual note missing
+Uttar Pradesh,Aligarh,True,False,True,high,high,False,True,close 2024 contest; large swing; manual note missing
+Uttar Pradesh,Allahabad,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Uttar Pradesh,Ambedkar Nagar,True,False,True,low,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Uttar Pradesh,Amethi,True,True,True,medium,high,True,True,priority seat; flipped seat; large swing
+Uttar Pradesh,Amroha,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Uttar Pradesh,Aonla,True,False,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; manual note missing; important seat with election-only demographics
+Uttar Pradesh,Azamgarh,True,False,True,low,election_only,False,True,manual note missing
+Uttar Pradesh,Badaun,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; manual note missing
+Uttar Pradesh,Baghpat,True,False,True,low,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Uttar Pradesh,Baharaich,True,False,True,medium,election_only,False,True,manual note missing
+Uttar Pradesh,Ballia,True,False,True,low,high,True,True,priority seat; flipped seat; close 2024 contest; manual note missing
+Uttar Pradesh,Banda,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Uttar Pradesh,Bansgaon,True,False,True,medium,election_only,True,True,priority seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Uttar Pradesh,Barabanki,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Uttar Pradesh,Bareilly,True,False,True,high,high,False,True,close 2024 contest; manual note missing
+Uttar Pradesh,Basti,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Uttar Pradesh,Bhadohi,True,False,True,medium,election_only,False,True,close 2024 contest; manual note missing
+Uttar Pradesh,Bijnor,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Uttar Pradesh,Bulandshahr,True,False,True,high,high,False,True,large swing; manual note missing
+Uttar Pradesh,Chandauli,True,False,True,low,election_only,True,True,priority seat; flipped seat; close 2024 contest; manual note missing; important seat with election-only demographics
+Uttar Pradesh,Deoria,True,False,True,high,high,True,True,priority seat; close 2024 contest; large swing; manual note missing
+Uttar Pradesh,Dhaurahra,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Uttar Pradesh,Domariyaganj,True,False,True,high,high,False,True,close 2024 contest; manual note missing
+Uttar Pradesh,Etah,True,False,True,low,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Uttar Pradesh,Etawah,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Uttar Pradesh,Faizabad,True,True,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; important seat with election-only demographics
+Uttar Pradesh,Farrukhabad,True,False,True,high,high,True,True,priority seat; close 2024 contest; manual note missing
+Uttar Pradesh,Fatehpur,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Uttar Pradesh,Fatehpur Sikri,True,False,True,high,high,True,True,priority seat; close 2024 contest; large swing; manual note missing
+Uttar Pradesh,Firozabad,True,False,True,low,high,True,True,priority seat; flipped seat; manual note missing
+Uttar Pradesh,Gautam Buddha Nagar,True,False,True,medium,election_only,False,True,manual note missing
+Uttar Pradesh,Ghaziabad,True,False,True,high,high,False,True,large swing; manual note missing
+Uttar Pradesh,Ghazipur,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Uttar Pradesh,Ghosi,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Uttar Pradesh,Gonda,True,False,True,high,high,False,True,close 2024 contest; manual note missing
+Uttar Pradesh,Gorakhpur,True,False,True,medium,election_only,False,True,manual note missing
+Uttar Pradesh,Hamirpur,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Uttar Pradesh,Hardoi,True,False,True,high,high,False,True,close 2024 contest; manual note missing
+Uttar Pradesh,Hathras,True,False,True,high,high,False,True,manual note missing
+Uttar Pradesh,Jalaun,True,False,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; manual note missing; important seat with election-only demographics
+Uttar Pradesh,Jaunpur,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Uttar Pradesh,Jhansi,True,False,True,high,high,True,True,priority seat; large swing; manual note missing
+Uttar Pradesh,Kairana,True,True,True,medium,high,True,True,priority seat; flipped seat
+Uttar Pradesh,Kaiserganj,True,False,True,high,high,False,True,manual note missing
+Uttar Pradesh,Kannauj,True,True,True,medium,election_only,True,True,priority seat; flipped seat; large swing; important seat with election-only demographics
+Uttar Pradesh,Kanpur,True,False,True,medium,election_only,False,True,close 2024 contest; large swing; manual note missing
+Uttar Pradesh,Kaushambi,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Uttar Pradesh,Kheri,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; large swing; manual note missing
+Uttar Pradesh,Kushi Nagar,True,False,True,medium,election_only,False,True,large swing; manual note missing
+Uttar Pradesh,Lalganj,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Uttar Pradesh,Lucknow,True,False,True,high,high,False,True,large swing; manual note missing
+Uttar Pradesh,Machhlishahr,True,False,True,low,election_only,True,True,priority seat; flipped seat; close 2024 contest; manual note missing; important seat with election-only demographics
+Uttar Pradesh,Maharajganj,True,False,True,medium,election_only,True,True,priority seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Uttar Pradesh,Mainpuri,True,False,True,low,election_only,False,True,manual note missing
+Uttar Pradesh,Mathura,True,False,True,high,high,False,True,large swing; manual note missing
+Uttar Pradesh,Meerut,True,False,True,high,high,True,True,priority seat; close 2024 contest; manual note missing
+Uttar Pradesh,Mirzapur,True,False,True,low,high,False,True,close 2024 contest; manual note missing
+Uttar Pradesh,Misrikh,True,False,True,high,high,False,True,close 2024 contest; manual note missing
+Uttar Pradesh,Mohanlalganj,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+Uttar Pradesh,Moradabad,True,False,True,high,high,False,True,manual note missing
+Uttar Pradesh,Muzaffarnagar,True,False,True,low,high,True,True,priority seat; flipped seat; close 2024 contest; manual note missing
+Uttar Pradesh,Nagina,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Uttar Pradesh,Phulpur,True,False,True,medium,election_only,True,True,priority seat; close 2024 contest; large swing; manual note missing; important seat with election-only demographics
+Uttar Pradesh,Pilibhit,True,False,True,low,high,False,True,manual note missing
+Uttar Pradesh,Pratapgarh,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Uttar Pradesh,Rae Bareli,True,True,True,medium,election_only,True,True,priority seat; large swing; important seat with election-only demographics
+Uttar Pradesh,Rampur,True,False,True,high,high,False,True,manual note missing
+Uttar Pradesh,Robertsganj,True,False,True,low,medium,True,True,priority seat; flipped seat; manual note missing
+Uttar Pradesh,Saharanpur,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Uttar Pradesh,Salempur,True,False,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; manual note missing; important seat with election-only demographics
+Uttar Pradesh,Sambhal,True,False,True,high,high,False,True,manual note missing
+Uttar Pradesh,Sant Kabir Nagar,True,False,True,medium,election_only,True,True,priority seat; flipped seat; large swing; manual note missing; important seat with election-only demographics
+Uttar Pradesh,Shahjahanpur,True,False,True,high,high,False,True,close 2024 contest; large swing; manual note missing
+Uttar Pradesh,Shrawasti,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+Uttar Pradesh,Sitapur,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+Uttar Pradesh,Sultanpur,True,True,True,medium,high,True,True,priority seat; flipped seat; close 2024 contest
+Uttar Pradesh,Unnao,True,False,True,high,high,False,True,close 2024 contest; large swing; manual note missing
+Uttar Pradesh,Varanasi,True,True,True,medium,election_only,True,True,priority seat; large swing; important seat with election-only demographics
+West Bengal,Alipurduars,True,False,True,medium,election_only,False,True,manual note missing
+West Bengal,Arambag,True,False,True,high,high,True,True,priority seat; close 2024 contest; manual note missing
+West Bengal,Asansol,True,True,True,medium,high,True,True,priority seat; flipped seat; close 2024 contest
+West Bengal,Baharampur,True,False,True,high,high,True,True,priority seat; flipped seat; large swing; manual note missing
+West Bengal,Balurghat,True,False,True,high,high,True,True,priority seat; close 2024 contest; manual note missing
+West Bengal,Bangaon,True,False,True,high,high,False,True,close 2024 contest; manual note missing
+West Bengal,Bankura,True,False,True,low,high,True,True,priority seat; flipped seat; close 2024 contest; manual note missing
+West Bengal,Barasat,True,False,True,high,high,False,True,manual note missing
+West Bengal,Bardhaman-Durgapur,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+West Bengal,Bardhaman Purba,True,False,True,medium,election_only,False,True,manual note missing
+West Bengal,Barrackpur,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+West Bengal,Basirhat,True,False,True,high,high,False,True,manual note missing
+West Bengal,Birbhum,True,False,True,high,high,False,True,manual note missing
+West Bengal,Bishnupur,True,False,True,medium,election_only,True,True,priority seat; close 2024 contest; manual note missing; important seat with election-only demographics
+West Bengal,Bolpur,True,False,True,high,high,False,True,manual note missing
+West Bengal,Coochbehar,True,False,True,high,high,True,True,priority seat; flipped seat; close 2024 contest; manual note missing
+West Bengal,Darjeeling,True,False,True,high,high,False,True,manual note missing
+West Bengal,Diamond harbour,True,True,True,medium,election_only,True,True,priority seat; large swing; important seat with election-only demographics
+West Bengal,Dum dum,True,True,True,medium,high,False,False,
+West Bengal,Ghatal,True,False,True,medium,election_only,False,True,manual note missing
+West Bengal,Hooghly,True,False,True,high,high,True,True,priority seat; flipped seat; manual note missing
+West Bengal,Howrah,True,False,True,high,high,False,True,manual note missing
+West Bengal,Jadavpur,True,True,True,medium,high,False,False,
+West Bengal,Jalpaiguri,True,False,True,high,high,False,True,manual note missing
+West Bengal,Jangipur,True,False,True,high,high,False,True,large swing; manual note missing
+West Bengal,Jaynagar,True,False,True,high,high,False,True,manual note missing
+West Bengal,Jhargram,True,False,True,medium,election_only,True,True,priority seat; flipped seat; manual note missing; important seat with election-only demographics
+West Bengal,Kanthi,True,False,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; manual note missing; important seat with election-only demographics
+West Bengal,Kolkata Dakshin,True,True,True,medium,election_only,False,False,
+West Bengal,Kolkata Uttar,True,False,True,medium,election_only,False,True,manual note missing
+West Bengal,Krishnanagar,True,False,True,medium,election_only,False,True,close 2024 contest; manual note missing
+West Bengal,Maldaha Dakshin,True,False,True,medium,election_only,False,True,manual note missing
+West Bengal,Maldaha Uttar,True,False,True,medium,election_only,False,True,manual note missing
+West Bengal,Mathurapur,True,False,True,high,high,False,True,manual note missing
+West Bengal,Medinipur,True,False,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; manual note missing; important seat with election-only demographics
+West Bengal,Murshidabad,True,False,True,high,high,False,True,large swing; manual note missing
+West Bengal,Purulia,True,False,True,high,high,True,True,priority seat; close 2024 contest; manual note missing
+West Bengal,Raiganj,True,False,True,high,high,False,True,close 2024 contest; large swing; manual note missing
+West Bengal,Ranaghat,True,False,True,high,high,False,True,manual note missing
+West Bengal,Sreerampur,True,False,True,high,high,False,True,manual note missing
+West Bengal,Tamluk,True,True,True,medium,election_only,True,True,priority seat; flipped seat; close 2024 contest; large swing; important seat with election-only demographics
+West Bengal,Uluberia,True,False,True,high,high,False,True,manual note missing

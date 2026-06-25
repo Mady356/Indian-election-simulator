@@ -1,0 +1,500 @@
+state,constituency,state_key,constituency_key,completion_category,exists_in_election_master,exists_in_frontend_constituencies,exists_in_geojson,exists_in_delimitation_reference,possible_state_alias,possible_constituency_alias,closest_delimitation_match,closest_frontend_match,skip_reason,districts_missing,autofill_rows_created,expected_core_fields,recommended_action
+Andhra Pradesh,Amalapuram,ANDHRA PRADESH,AMALAPURAM,election_only_needs_demographics,True,True,True,True,,,"AMALAPURAM (SC) 161-Ramachandrapuram, 62-Mummidivaram",Andhra Pradesh / Amalapuram,partial_field_skip,,7,10,manual_research_required
+Andhra Pradesh,Anakapalle,ANDHRA PRADESH,ANAKAPALLE,partial_demographics_missing_core_fields,True,True,False,True,,,ANAKAPALLE,Andhra Pradesh / Anakapalle,partial_field_skip,,6,9,manual_research_required
+Andhra Pradesh,Araku,ANDHRA PRADESH,ARAKU,partial_demographics_missing_core_fields,True,True,True,True,,,ARAKU,Andhra Pradesh / Araku,partial_field_skip,,6,9,manual_research_required
+Andhra Pradesh,Bapatla,ANDHRA PRADESH,BAPATLA,partial_demographics_missing_core_fields,True,True,True,True,,,BAPATLA,Andhra Pradesh / Bapatla,partial_field_skip,,6,9,manual_research_required
+Andhra Pradesh,Eluru,ANDHRA PRADESH,ELURU,partial_demographics_missing_core_fields,True,True,True,True,,,ELURU,Andhra Pradesh / Eluru,partial_field_skip,,6,9,manual_research_required
+Andhra Pradesh,Guntur,ANDHRA PRADESH,GUNTUR,partial_demographics_missing_core_fields,True,True,True,True,,,GUNTUR,Andhra Pradesh / Guntur,partial_field_skip,,6,9,manual_research_required
+Andhra Pradesh,Hindupur,ANDHRA PRADESH,HINDUPUR,partial_demographics_missing_core_fields,True,True,True,True,,,HINDUPUR,Andhra Pradesh / Hindupur,partial_field_skip,,6,9,manual_research_required
+Andhra Pradesh,Kadapa,ANDHRA PRADESH,KADAPA,election_only_needs_demographics,True,True,True,True,,,KADAPA,Andhra Pradesh / Kadapa,no_delimitation_mapping,KADAPA,0,10,add_missing_delimitation_mapping
+Andhra Pradesh,Kakinada,ANDHRA PRADESH,KAKINADA,partial_demographics_missing_core_fields,True,True,True,True,,,KAKINADA,Andhra Pradesh / Kakinada,partial_field_skip,,6,9,manual_research_required
+Andhra Pradesh,Kurnoolu,ANDHRA PRADESH,KURNOOLU,election_only_needs_demographics,True,True,False,True,,,KURNOOL,Andhra Pradesh / Kurnoolu,partial_field_skip,,7,10,manual_research_required
+Andhra Pradesh,Machilipatnam,ANDHRA PRADESH,MACHILIPATNAM,partial_demographics_missing_core_fields,True,True,True,True,,,MACHILIPATNAM,Andhra Pradesh / Machilipatnam,partial_field_skip,,6,9,manual_research_required
+Andhra Pradesh,Nandyal,ANDHRA PRADESH,NANDYAL,partial_demographics_missing_core_fields,True,True,True,True,,,NANDYAL,Andhra Pradesh / Nandyal,partial_field_skip,,6,9,manual_research_required
+Andhra Pradesh,Narsapuram,ANDHRA PRADESH,NARSAPURAM,partial_demographics_missing_core_fields,True,True,True,True,,,NARSAPURAM,Andhra Pradesh / Narsapuram,partial_field_skip,,6,9,manual_research_required
+Andhra Pradesh,Narsaraopet,ANDHRA PRADESH,NARASARAOPET,election_only_needs_demographics,False,False,True,True,,Andhra Pradesh / Amalapuram,NARASARAOPET,Andhra Pradesh / Amalapuram,census_value_unavailable,,0,10,map_alias_to_current_name
+Andhra Pradesh,Nellore,ANDHRA PRADESH,NELLORE,partial_demographics_missing_core_fields,True,True,True,True,,,NELLORE,Andhra Pradesh / Nellore,partial_field_skip,NELLORE,6,9,manual_research_required
+Andhra Pradesh,Ongole,ANDHRA PRADESH,ONGOLE,partial_demographics_missing_core_fields,True,True,True,True,,,ONGOLE,Andhra Pradesh / Ongole,partial_field_skip,,6,9,manual_research_required
+Andhra Pradesh,Rajahmundry,ANDHRA PRADESH,RAJAHMUNDRY,partial_demographics_missing_core_fields,True,True,True,True,,,RAJAHMUNDRY,Andhra Pradesh / Rajahmundry,partial_field_skip,,6,9,manual_research_required
+Andhra Pradesh,Rajampet,ANDHRA PRADESH,RAJAMPET,partial_demographics_missing_core_fields,True,True,True,True,,,RAJAMPET,Andhra Pradesh / Rajampet,partial_field_skip,KADAPA,6,9,manual_research_required
+Andhra Pradesh,Srikakulam,ANDHRA PRADESH,SRIKAKULAM,partial_demographics_missing_core_fields,True,True,True,True,,,SRIKAKULAM,Andhra Pradesh / Srikakulam,partial_field_skip,,6,9,manual_research_required
+Andhra Pradesh,Thirupathi,ANDHRA PRADESH,TIRUPATI,election_only_needs_demographics,False,False,True,True,,Andhra Pradesh / Amalapuram,TIRUPATI,Andhra Pradesh / Amalapuram,census_value_unavailable,NELLORE,0,10,likely_duplicate
+Andhra Pradesh,Vijayawada,ANDHRA PRADESH,VIJAYAWADA,partial_demographics_missing_core_fields,True,True,True,True,,,VIJAYAWADA,Andhra Pradesh / Vijayawada,partial_field_skip,,6,9,manual_research_required
+Andhra Pradesh,Visakhapatnam,ANDHRA PRADESH,VISAKHAPATNAM,partial_demographics_missing_core_fields,True,True,True,True,,,VISAKHAPATNAM,Andhra Pradesh / Visakhapatnam,partial_field_skip,,6,9,manual_research_required
+Andhra Pradesh,Vizianagaram,ANDHRA PRADESH,VIZIANAGARAM,partial_demographics_missing_core_fields,True,True,True,True,,,VIZIANAGARAM,Andhra Pradesh / Vizianagaram,partial_field_skip,,6,9,manual_research_required
+Arunachal Pradesh,Arunachal East,ARUNACHAL PRADESH,ARUNACHAL EAST,election_only_needs_demographics,True,True,True,True,,,ARUNACHAL WEST,Arunachal Pradesh / Arunachal East,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Arunachal Pradesh,Arunachal West,ARUNACHAL PRADESH,ARUNACHAL WEST,partial_demographics_missing_core_fields,True,True,True,True,,,ARUNACHAL WEST,Arunachal Pradesh / Arunachal East,partial_field_skip,,6,9,manual_research_required
+Assam,Barpeta,ASSAM,BARPETA,partial_demographics_missing_core_fields,True,True,True,True,,,Barpeta,Assam / Barpeta,partial_field_skip,,6,9,manual_research_required
+Assam,Darrang-Udalguri,ASSAM,DARRANG UDALGURI,election_only_needs_demographics,True,True,False,False,,,,Assam / Darrang-Udalguri,no_delimitation_mapping,,0,10,likely_duplicate
+Assam,Dibrugarh,ASSAM,DIBRUGARH,partial_demographics_missing_core_fields,True,True,True,True,,,Dibrugarh,Assam / Dibrugarh,partial_field_skip,,6,9,manual_research_required
+Assam,Diphu,ASSAM,DIPHU,election_only_needs_demographics,True,True,False,False,,,,Assam / Diphu,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Assam,Guwahati,ASSAM,GUWAHATI,election_only_needs_demographics,True,True,False,False,,,,Assam / Guwahati,partial_field_skip,,7,10,manual_research_required
+Assam,Jorhat,ASSAM,JORHAT,partial_demographics_missing_core_fields,True,True,True,True,,,Jorhat,Assam / Jorhat,partial_field_skip,,6,9,manual_research_required
+Assam,Karimganj,ASSAM,KARIMGANJ,partial_demographics_missing_core_fields,True,True,True,True,,,Karimganj,Assam / Karimganj,partial_field_skip,,6,9,manual_research_required
+Assam,Kaziranga,ASSAM,KAZIRANGA,election_only_needs_demographics,True,True,False,False,,,,Assam / Kaziranga,partial_field_skip,,7,10,manual_research_required
+Assam,Kokrajhar,ASSAM,KOKRAJHAR,partial_demographics_missing_core_fields,True,True,True,True,,,Kokrajhar,Assam / Kokrajhar,partial_field_skip,,6,9,manual_research_required
+Assam,Lakhimpur,ASSAM,LAKHIMPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Lakhimpur,Assam / Lakhimpur,partial_field_skip,,6,9,manual_research_required
+Assam,Nagaon,ASSAM,NAGAON,election_only_needs_demographics,True,True,False,False,,,,Assam / Nagaon,no_delimitation_mapping,,0,10,likely_duplicate
+Assam,Silchar,ASSAM,SILCHAR,partial_demographics_missing_core_fields,True,True,True,True,,,Silchar,Assam / Silchar,partial_field_skip,,6,9,manual_research_required
+Bihar,Araria,BIHAR,ARARIA,partial_demographics_missing_core_fields,True,True,True,True,,,Araria,Bihar / Araria,partial_field_skip,,6,9,manual_research_required
+Bihar,Arrah,BIHAR,ARRAH,partial_demographics_missing_core_fields,True,True,True,True,,,Arrah,Bihar / Arrah,partial_field_skip,,6,9,manual_research_required
+Bihar,Aurangabad,BIHAR,AURANGABAD,partial_demographics_missing_core_fields,True,True,True,True,,,Aurangabad,Bihar / Aurangabad,partial_field_skip,,6,9,manual_research_required
+Bihar,Banka,BIHAR,BANKA,partial_demographics_missing_core_fields,True,True,True,True,,,Banka,Bihar / Banka,partial_field_skip,,6,9,manual_research_required
+Bihar,Begusarai,BIHAR,BEGUSARAI,partial_demographics_missing_core_fields,True,True,True,True,,,Begusarai,Bihar / Begusarai,partial_field_skip,,6,9,manual_research_required
+Bihar,Bhagalpur,BIHAR,BHAGALPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Bhagalpur,Bihar / Bhagalpur,partial_field_skip,,6,9,manual_research_required
+Bihar,Buxar,BIHAR,BUXAR,partial_demographics_missing_core_fields,True,True,True,True,,,Buxar,Bihar / Buxar,partial_field_skip,,6,9,manual_research_required
+Bihar,Darbhanga,BIHAR,DARBHANGA,partial_demographics_missing_core_fields,True,True,True,True,,,Darbhanga,Bihar / Darbhanga,partial_field_skip,,6,9,manual_research_required
+Bihar,Gaya,BIHAR,GAYA,partial_demographics_missing_core_fields,True,True,True,True,,,Gaya,Bihar / Gaya,partial_field_skip,,6,9,manual_research_required
+Bihar,Gopalganj,BIHAR,GOPALGANJ,election_only_needs_demographics,True,True,True,True,,,Gopalganj 99-Baikunthpur,Bihar / Gopalganj,partial_field_skip,,7,10,manual_research_required
+Bihar,Hajipur,BIHAR,HAJIPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Hajipur,Bihar / Hajipur,partial_field_skip,,6,9,manual_research_required
+Bihar,Jahanabad,BIHAR,JAHANABAD,partial_demographics_missing_core_fields,True,True,True,True,,,Jahanabad,Bihar / Jahanabad,partial_field_skip,,6,9,manual_research_required
+Bihar,Jamui,BIHAR,JAMUI,partial_demographics_missing_core_fields,True,True,True,True,,,Jamui,Bihar / Jamui,partial_field_skip,,6,9,manual_research_required
+Bihar,Jhanjharpur,BIHAR,JHANJHARPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Jhanjharpur,Bihar / Jhanjharpur,partial_field_skip,,6,9,manual_research_required
+Bihar,Karakat,BIHAR,KARAKAT,partial_demographics_missing_core_fields,True,True,True,True,,,Karakat,Bihar / Karakat,partial_field_skip,,6,9,manual_research_required
+Bihar,Khagaria,BIHAR,KHAGARIA,partial_demographics_missing_core_fields,True,True,True,True,,,Khagaria,Bihar / Khagaria,partial_field_skip,,6,9,manual_research_required
+Bihar,Kishanganj,BIHAR,KISHANGANJ,partial_demographics_missing_core_fields,True,True,True,True,,,Kishanganj,Bihar / Kishanganj,partial_field_skip,,6,9,manual_research_required
+Bihar,Madhubani,BIHAR,MADHUBANI,partial_demographics_missing_core_fields,True,True,True,True,,,Madhubani,Bihar / Madhubani,partial_field_skip,,6,9,manual_research_required
+Bihar,Maharajganj,BIHAR,MAHARAJGANJ,partial_demographics_missing_core_fields,True,True,True,True,,,Maharajganj,Bihar / Maharajganj,partial_field_skip,,6,9,manual_research_required
+Bihar,Munger,BIHAR,MUNGER,partial_demographics_missing_core_fields,True,True,True,True,,,Munger,Bihar / Munger,partial_field_skip,,6,9,manual_research_required
+Bihar,Muzaffarpur,BIHAR,MUZAFFARPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Muzaffarpur,Bihar / Muzaffarpur,partial_field_skip,,6,9,manual_research_required
+Bihar,Nawada,BIHAR,NAWADA,partial_demographics_missing_core_fields,True,True,True,True,,,Nawada,Bihar / Nawada,partial_field_skip,,6,9,manual_research_required
+Bihar,Paschim Champaran,BIHAR,PASCHIM CHAMPARAN,partial_demographics_missing_core_fields,True,True,True,True,,,Paschim Champaran,Bihar / Paschim Champaran,partial_field_skip,,6,9,manual_research_required
+Bihar,Patna Sahib,BIHAR,PATNA SAHIB,partial_demographics_missing_core_fields,True,True,True,True,,,Patna Sahib,Bihar / Patna Sahib,partial_field_skip,,6,9,manual_research_required
+Bihar,Purnia,BIHAR,PURNIA,partial_demographics_missing_core_fields,True,True,True,True,,,Purnia,Bihar / Purnia,partial_field_skip,,6,9,manual_research_required
+Bihar,Samastipur,BIHAR,SAMASTIPUR,election_only_needs_demographics,True,True,True,False,,,,Bihar / Samastipur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Bihar,Saran,BIHAR,SARAN,partial_demographics_missing_core_fields,True,True,True,True,,,Saran,Bihar / Saran,partial_field_skip,,6,9,manual_research_required
+Bihar,Sasaram,BIHAR,SASARAM,partial_demographics_missing_core_fields,True,True,True,True,,,Sasaram,Bihar / Sasaram,partial_field_skip,,6,9,manual_research_required
+Bihar,Sheohar,BIHAR,SHEOHAR,partial_demographics_missing_core_fields,True,True,True,True,,,Sheohar,Bihar / Sheohar,partial_field_skip,,6,9,manual_research_required
+Bihar,Sitamarhi,BIHAR,SITAMARHI,partial_demographics_missing_core_fields,True,True,True,True,,,Sitamarhi,Bihar / Sitamarhi,partial_field_skip,,6,9,manual_research_required
+Bihar,Siwan,BIHAR,SIWAN,partial_demographics_missing_core_fields,True,True,True,True,,,Siwan,Bihar / Siwan,partial_field_skip,,6,9,manual_research_required
+Bihar,Supaul,BIHAR,SUPAUL,partial_demographics_missing_core_fields,True,True,True,True,,,Supaul,Bihar / Supaul,partial_field_skip,,6,9,manual_research_required
+Bihar,Ujiarpur,BIHAR,UJIARPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Ujiarpur,Bihar / Ujiarpur,partial_field_skip,,6,9,manual_research_required
+Bihar,Vaishali,BIHAR,VAISHALI,partial_demographics_missing_core_fields,True,True,True,True,,,Vaishali,Bihar / Vaishali,partial_field_skip,,6,9,manual_research_required
+Bihar,Valmiki Nagar,BIHAR,VALMIKI NAGAR,partial_demographics_missing_core_fields,True,True,True,True,,,Valmiki Nagar,Bihar / Valmiki Nagar,partial_field_skip,,6,9,manual_research_required
+Chandigarh,Chandigarh,CHANDIGARH,CHANDIGARH,election_only_needs_demographics,True,True,True,False,,,,Chandigarh / Chandigarh,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Chhattisgarh,BASTAR,CHHATTISGARH,BASTAR,partial_demographics_missing_core_fields,True,True,True,True,,,Bastar,Chhattisgarh / BASTAR,partial_field_skip,,6,9,manual_research_required
+Chhattisgarh,BILASPUR,CHHATTISGARH,BILASPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Bilaspur,Chhattisgarh / BILASPUR,partial_field_skip,,6,9,manual_research_required
+Chhattisgarh,DURG,CHHATTISGARH,DURG,partial_demographics_missing_core_fields,True,True,True,True,,,Durg,Chhattisgarh / DURG,partial_field_skip,,6,9,manual_research_required
+Chhattisgarh,JANJGIR-CHAMPA,CHHATTISGARH,JANJGIR CHAMPA,election_only_needs_demographics,True,True,False,False,,,,Chhattisgarh / JANJGIR-CHAMPA,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Chhattisgarh,KANKER,CHHATTISGARH,KANKER,partial_demographics_missing_core_fields,True,True,True,True,,,Kanker,Chhattisgarh / KANKER,partial_field_skip,,6,9,manual_research_required
+Chhattisgarh,KORBA,CHHATTISGARH,KORBA,partial_demographics_missing_core_fields,True,True,True,True,,,Korba,Chhattisgarh / KORBA,partial_field_skip,,6,9,manual_research_required
+Chhattisgarh,MAHASAMUND,CHHATTISGARH,MAHASAMUND,partial_demographics_missing_core_fields,True,True,True,True,,,Mahasamund,Chhattisgarh / MAHASAMUND,partial_field_skip,,6,9,manual_research_required
+Chhattisgarh,RAIGARH,CHHATTISGARH,RAIGARH,partial_demographics_missing_core_fields,True,True,True,True,,,Raigarh,Chhattisgarh / RAIGARH,partial_field_skip,,6,9,manual_research_required
+Chhattisgarh,RAIPUR,CHHATTISGARH,RAIPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Raipur,Chhattisgarh / RAIPUR,partial_field_skip,,6,9,manual_research_required
+Chhattisgarh,RAJNANDGAON,CHHATTISGARH,RAJNANDGAON,partial_demographics_missing_core_fields,True,True,True,True,,,Rajnandgaon,Chhattisgarh / RAJNANDGAON,partial_field_skip,,6,9,manual_research_required
+Chhattisgarh,SURGUJA,CHHATTISGARH,SURGUJA,partial_demographics_missing_core_fields,True,True,True,True,,,Surguja,Chhattisgarh / SURGUJA,partial_field_skip,,6,9,manual_research_required
+Dadra & Nagar Haveli and Daman & Diu,Dadar & Nagar Haveli,DADRA AND NAGAR HAVELI AND DAMAN AND DIU,DADAR NAGAR HAVELI,election_only_needs_demographics,True,True,False,False,,,,Dadra & Nagar Haveli and Daman & Diu / Dadar & Nagar Haveli,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Dadra & Nagar Haveli and Daman & Diu,Daman & Diu,DADRA AND NAGAR HAVELI AND DAMAN AND DIU,DAMAN DIU,election_only_needs_demographics,True,True,False,False,,,,Dadra & Nagar Haveli and Daman & Diu / Daman & Diu,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Goa,South Goa,GOA,SOUTH GOA,partial_demographics_missing_core_fields,True,True,True,True,,,South Goa,Goa / South Goa,partial_field_skip,,6,9,manual_research_required
+Gujarat,Ahmedabad East,GUJARAT,AHMEDABAD EAST,partial_demographics_missing_core_fields,True,True,True,True,,,Ahmedabad East,Gujarat / Ahmedabad East,partial_field_skip,,6,9,manual_research_required
+Gujarat,Ahmedabad West,GUJARAT,AHMEDABAD WEST,election_only_needs_demographics,True,True,True,True,,,Ahmedabad East,Gujarat / Ahmedabad East,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Gujarat,Amreli,GUJARAT,AMRELI,partial_demographics_missing_core_fields,True,True,True,True,,,Amreli,Gujarat / Amreli,partial_field_skip,,6,9,manual_research_required
+Gujarat,Anand,GUJARAT,ANAND,partial_demographics_missing_core_fields,True,True,True,True,,,Anand,Gujarat / Anand,partial_field_skip,,6,9,manual_research_required
+Gujarat,Banaskantha,GUJARAT,BANASKANTHA,partial_demographics_missing_core_fields,True,True,True,True,,,Banaskantha,Gujarat / Banaskantha,partial_field_skip,,6,9,manual_research_required
+Gujarat,Bardoli,GUJARAT,BARDOLI,election_only_needs_demographics,True,True,True,True,,,Bardoli,Gujarat / Bardoli,partial_field_skip,,7,10,manual_research_required
+Gujarat,Bharuch,GUJARAT,BHARUCH,partial_demographics_missing_core_fields,True,True,True,True,,,Bharuch,Gujarat / Bharuch,partial_field_skip,,6,9,manual_research_required
+Gujarat,Bhavnagar,GUJARAT,BHAVNAGAR,partial_demographics_missing_core_fields,True,True,True,True,,,Bhavnagar,Gujarat / Bhavnagar,partial_field_skip,,6,9,manual_research_required
+Gujarat,Chhota Udaipur,GUJARAT,CHHOTA UDAIPUR,election_only_needs_demographics,True,True,True,False,,,,Gujarat / Chhota Udaipur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Gujarat,Dahod,GUJARAT,DAHOD,partial_demographics_missing_core_fields,True,True,True,True,,,Dahod,Gujarat / Dahod,partial_field_skip,,6,9,manual_research_required
+Gujarat,Gandhinagar,GUJARAT,GANDHINAGAR,partial_demographics_missing_core_fields,True,True,True,True,,,Gandhinagar,Gujarat / Gandhinagar,partial_field_skip,,6,9,manual_research_required
+Gujarat,Jamnagar,GUJARAT,JAMNAGAR,partial_demographics_missing_core_fields,True,True,True,True,,,Jamnagar,Gujarat / Jamnagar,partial_field_skip,,6,9,manual_research_required
+Gujarat,Junagadh,GUJARAT,JUNAGADH,partial_demographics_missing_core_fields,True,True,True,True,,,Junagadh,Gujarat / Junagadh,partial_field_skip,,6,9,manual_research_required
+Gujarat,Kachchh,GUJARAT,KACHCHH,partial_demographics_missing_core_fields,True,True,True,True,,,Kachchh,Gujarat / Kachchh,partial_field_skip,,6,9,manual_research_required
+Gujarat,Kheda,GUJARAT,KHEDA,partial_demographics_missing_core_fields,True,True,True,True,,,Kheda,Gujarat / Kheda,partial_field_skip,,6,9,manual_research_required
+Gujarat,Mahesana,GUJARAT,MAHESANA,partial_demographics_missing_core_fields,True,True,True,True,,,Mahesana,Gujarat / Mahesana,partial_field_skip,,6,9,manual_research_required
+Gujarat,Navsari,GUJARAT,NAVSARI,election_only_needs_demographics,True,True,True,True,,,Navsari,Gujarat / Navsari,partial_field_skip,,7,10,manual_research_required
+Gujarat,Panchmahal,GUJARAT,PANCHMAHAL,partial_demographics_missing_core_fields,True,True,True,True,,,Panchmahal,Gujarat / Panchmahal,partial_field_skip,,6,9,manual_research_required
+Gujarat,Patan,GUJARAT,PATAN,partial_demographics_missing_core_fields,True,True,True,True,,,Patan,Gujarat / Patan,partial_field_skip,,6,9,manual_research_required
+Gujarat,Porbandar,GUJARAT,PORBANDAR,partial_demographics_missing_core_fields,True,True,True,True,,,Porbandar,Gujarat / Porbandar,partial_field_skip,,6,9,manual_research_required
+Gujarat,Rajkot,GUJARAT,RAJKOT,partial_demographics_missing_core_fields,True,True,True,True,,,Rajkot,Gujarat / Rajkot,partial_field_skip,,6,9,manual_research_required
+Gujarat,Sabarkantha,GUJARAT,SABARKANTHA,partial_demographics_missing_core_fields,True,True,True,True,,,Sabarkantha,Gujarat / Sabarkantha,partial_field_skip,,6,9,manual_research_required
+Gujarat,Surendranagar,GUJARAT,SURENDRANAGAR,partial_demographics_missing_core_fields,True,True,True,True,,,Surendranagar,Gujarat / Surendranagar,partial_field_skip,,6,9,manual_research_required
+Gujarat,Vadodara,GUJARAT,VADODARA,partial_demographics_missing_core_fields,True,True,True,True,,,Vadodara,Gujarat / Vadodara,partial_field_skip,,6,9,manual_research_required
+Gujarat,Valsad,GUJARAT,VALSAD,partial_demographics_missing_core_fields,True,True,True,True,,,Valsad,Gujarat / Valsad,partial_field_skip,,6,9,manual_research_required
+Haryana,AMBALA,HARYANA,AMBALA,partial_demographics_missing_core_fields,True,True,True,True,,,Ambala,Haryana / AMBALA,partial_field_skip,,6,9,manual_research_required
+Haryana,BHIWANI-MAHENDRAGARH,HARYANA,BHIWANI MAHENDRAGARH,election_only_needs_demographics,True,True,True,True,,,Bhiwani,Haryana / BHIWANI-MAHENDRAGARH,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Haryana,FARIDABAD,HARYANA,FARIDABAD,partial_demographics_missing_core_fields,True,True,True,True,,,Faridabad,Haryana / FARIDABAD,partial_field_skip,,6,9,manual_research_required
+Haryana,SIRSA,HARYANA,SIRSA,partial_demographics_missing_core_fields,True,True,True,True,,,Sirsa,Haryana / SIRSA,partial_field_skip,,6,9,manual_research_required
+Himachal Pradesh,KANGRA,HIMACHAL PRADESH,KANGRA,partial_demographics_missing_core_fields,True,True,True,True,,,Kangra,Himachal Pradesh / KANGRA,partial_field_skip,,6,9,manual_research_required
+Himachal Pradesh,MANDI,HIMACHAL PRADESH,MANDI,partial_demographics_missing_core_fields,True,True,True,True,,,Mandi,Himachal Pradesh / MANDI,partial_field_skip,,6,9,manual_research_required
+Himachal Pradesh,SHIMLA,HIMACHAL PRADESH,SHIMLA,election_only_needs_demographics,True,True,True,False,,,,Himachal Pradesh / SHIMLA,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Jammu and Kashmir,ANANTNAG-RAJOURI,JAMMU AND KASHMIR,ANANTNAG RAJOURI,election_only_needs_demographics,True,True,False,False,,,,Jammu and Kashmir / ANANTNAG-RAJOURI,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Jammu and Kashmir,BARAMULLA,JAMMU AND KASHMIR,BARAMULLA,election_only_needs_demographics,True,True,True,False,,,,Jammu and Kashmir / BARAMULLA,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Jammu and Kashmir,JAMMU,JAMMU AND KASHMIR,JAMMU,election_only_needs_demographics,True,True,True,False,,,,Jammu and Kashmir / JAMMU,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Jammu and Kashmir,SRINAGAR,JAMMU AND KASHMIR,SRINAGAR,election_only_needs_demographics,True,True,True,False,,,,Jammu and Kashmir / SRINAGAR,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Jammu and Kashmir,UDHAMPUR,JAMMU AND KASHMIR,UDHAMPUR,election_only_needs_demographics,True,True,True,False,,,,Jammu and Kashmir / UDHAMPUR,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Jharkhand,Chatra,JHARKHAND,CHATRA,partial_demographics_missing_core_fields,True,True,True,True,,,Chatra,Jharkhand / Chatra,partial_field_skip,,6,9,manual_research_required
+Jharkhand,Dhanbad,JHARKHAND,DHANBAD,partial_demographics_missing_core_fields,True,True,True,True,,,Dhanbad,Jharkhand / Dhanbad,partial_field_skip,,6,9,manual_research_required
+Jharkhand,Dumka,JHARKHAND,DUMKA,partial_demographics_missing_core_fields,True,True,True,True,,,Dumka,Jharkhand / Dumka,partial_field_skip,,6,9,manual_research_required
+Jharkhand,Giridih,JHARKHAND,GIRIDIH,partial_demographics_missing_core_fields,True,True,True,True,,,Giridih,Jharkhand / Giridih,partial_field_skip,,6,9,manual_research_required
+Jharkhand,Godda,JHARKHAND,GODDA,partial_demographics_missing_core_fields,True,True,True,True,,,Godda,Jharkhand / Godda,partial_field_skip,,6,9,manual_research_required
+Jharkhand,Hazaribagh,JHARKHAND,HAZARIBAGH,election_only_needs_demographics,True,True,True,True,,,Hazaribagh,Jharkhand / Hazaribagh,partial_field_skip,,7,10,manual_research_required
+Jharkhand,Jamshedpur,JHARKHAND,JAMSHEDPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Jamshedpur,Jharkhand / Jamshedpur,partial_field_skip,,6,9,manual_research_required
+Jharkhand,Khunti,JHARKHAND,KHUNTI,partial_demographics_missing_core_fields,True,True,True,True,,,Khunti,Jharkhand / Khunti,partial_field_skip,,6,9,manual_research_required
+Jharkhand,Kodarma,JHARKHAND,KODARMA,partial_demographics_missing_core_fields,True,True,True,True,,,Kodarma,Jharkhand / Kodarma,partial_field_skip,,6,9,manual_research_required
+Jharkhand,Lohardaga,JHARKHAND,LOHARDAGA,election_only_needs_demographics,True,True,True,False,,,,Jharkhand / Lohardaga,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Jharkhand,Palamu,JHARKHAND,PALAMU,partial_demographics_missing_core_fields,True,True,True,True,,,Palamu,Jharkhand / Palamu,partial_field_skip,,6,9,manual_research_required
+Jharkhand,Rajmahal,JHARKHAND,RAJMAHAL,partial_demographics_missing_core_fields,True,True,True,True,,,Rajmahal,Jharkhand / Rajmahal,partial_field_skip,,6,9,manual_research_required
+Jharkhand,Ranchi,JHARKHAND,RANCHI,partial_demographics_missing_core_fields,True,True,True,True,,,Ranchi,Jharkhand / Ranchi,partial_field_skip,,6,9,manual_research_required
+Jharkhand,Singhbhum,JHARKHAND,SINGHBHUM,election_only_needs_demographics,True,True,True,False,,,,Jharkhand / Singhbhum,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Karnataka,Bagalkot,KARNATAKA,BAGALKOT,partial_demographics_missing_core_fields,True,True,True,True,,,Bagalkot,Karnataka / Bagalkot,partial_field_skip,,6,9,manual_research_required
+Karnataka,Bangalore North,KARNATAKA,BANGALORE NORTH,partial_demographics_missing_core_fields,True,True,True,True,,,"Bangalore Central 160 Sarvagnanagar, 161 C.V. Raman Nagar (SC)",Karnataka / Bangalore North,partial_field_skip,,6,9,manual_research_required
+Karnataka,Bangalore Rural,KARNATAKA,BANGALORE RURAL,partial_demographics_missing_core_fields,True,True,True,True,,,"Bangalore Central 160 Sarvagnanagar, 161 C.V. Raman Nagar (SC)",Karnataka / Bangalore North,partial_field_skip,,6,9,manual_research_required
+Karnataka,Bangalore South,KARNATAKA,BANGALORE SOUTH,partial_demographics_missing_core_fields,True,True,True,True,,,"Bangalore Central 160 Sarvagnanagar, 161 C.V. Raman Nagar (SC)",Karnataka / Bangalore North,partial_field_skip,,6,9,manual_research_required
+Karnataka,Bangalore central,KARNATAKA,BANGALORE CENTRAL,election_only_needs_demographics,True,True,True,True,,,"Bangalore Central 160 Sarvagnanagar, 161 C.V. Raman Nagar (SC)",Karnataka / Bangalore North,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Karnataka,Belgaum,KARNATAKA,BELGAUM,partial_demographics_missing_core_fields,True,True,False,True,,,Belgaum,Karnataka / Belgaum,partial_field_skip,,6,9,manual_research_required
+Karnataka,Bellary,KARNATAKA,BELLARY,partial_demographics_missing_core_fields,True,True,True,True,,,Bellary,Karnataka / Bellary,partial_field_skip,,6,9,manual_research_required
+Karnataka,Bidar,KARNATAKA,BIDAR,partial_demographics_missing_core_fields,True,True,True,True,,,Bidar,Karnataka / Bidar,partial_field_skip,,6,9,manual_research_required
+Karnataka,Bijapur,KARNATAKA,BIJAPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Bijapur,Karnataka / Bijapur,partial_field_skip,,6,9,manual_research_required
+Karnataka,Chamarajanagar,KARNATAKA,CHAMARAJANAGAR,election_only_needs_demographics,True,True,True,True,,,"Chamarajanagar 213. Heggadadevankote (ST), 214. Nanjangud (SC)",Karnataka / Chamarajanagar,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Karnataka,Chikkballapur,KARNATAKA,CHIKKBALLAPUR,partial_demographics_missing_core_fields,True,True,False,True,,,Chikkballapur,Karnataka / Chikkballapur,partial_field_skip,,6,9,manual_research_required
+Karnataka,Chikkodi,KARNATAKA,CHIKKODI,partial_demographics_missing_core_fields,True,True,False,True,,,Chikkodi,Karnataka / Chikkodi,partial_field_skip,,6,9,manual_research_required
+Karnataka,Chitradurga,KARNATAKA,CHITRADURGA,partial_demographics_missing_core_fields,True,True,True,True,,,Chitradurga,Karnataka / Chitradurga,partial_field_skip,,6,9,manual_research_required
+Karnataka,Dakshina Kannada,KARNATAKA,DAKSHINA KANNADA,election_only_needs_demographics,True,True,True,True,,,"Dakshina Kannada 200. Belthangady, 201. Moodabidri, 202. Mangalore City North",Karnataka / Dakshina Kannada,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Karnataka,Davanagere,KARNATAKA,DAVANAGERE,partial_demographics_missing_core_fields,True,True,False,True,,,Davanagere,Karnataka / Davanagere,partial_field_skip,,6,9,manual_research_required
+Karnataka,Dharwad,KARNATAKA,DHARWAD,partial_demographics_missing_core_fields,True,True,True,True,,,Dharwad,Karnataka / Dharwad,partial_field_skip,,6,9,manual_research_required
+Karnataka,Gulbarga,KARNATAKA,GULBARGA,partial_demographics_missing_core_fields,True,True,True,True,,,Gulbarga,Karnataka / Gulbarga,partial_field_skip,,6,9,manual_research_required
+Karnataka,Hassan,KARNATAKA,HASSAN,partial_demographics_missing_core_fields,True,True,False,True,,,Hassan,Karnataka / Hassan,partial_field_skip,,6,9,manual_research_required
+Karnataka,Haveri,KARNATAKA,HAVERI,partial_demographics_missing_core_fields,True,True,True,True,,,Haveri,Karnataka / Haveri,partial_field_skip,,6,9,manual_research_required
+Karnataka,Kolar,KARNATAKA,KOLAR,partial_demographics_missing_core_fields,True,True,True,True,,,Kolar,Karnataka / Kolar,partial_field_skip,,6,9,manual_research_required
+Karnataka,Koppal,KARNATAKA,KOPPAL,partial_demographics_missing_core_fields,True,True,True,True,,,Koppal,Karnataka / Koppal,partial_field_skip,,6,9,manual_research_required
+Karnataka,Mandya,KARNATAKA,MANDYA,partial_demographics_missing_core_fields,True,True,True,True,,,Mandya,Karnataka / Mandya,partial_field_skip,,6,9,manual_research_required
+Karnataka,Mysore,KARNATAKA,MYSORE,partial_demographics_missing_core_fields,True,True,True,True,,,Mysore,Karnataka / Mysore,partial_field_skip,,6,9,manual_research_required
+Karnataka,Raichur,KARNATAKA,RAICHUR,partial_demographics_missing_core_fields,True,True,True,True,,,Raichur,Karnataka / Raichur,partial_field_skip,,6,9,manual_research_required
+Karnataka,Shimoga,KARNATAKA,SHIMOGA,partial_demographics_missing_core_fields,True,True,True,True,,,Shimoga,Karnataka / Shimoga,partial_field_skip,,6,9,manual_research_required
+Karnataka,Tumkur,KARNATAKA,TUMKUR,partial_demographics_missing_core_fields,True,True,True,True,,,Tumkur,Karnataka / Tumkur,partial_field_skip,,6,9,manual_research_required
+Karnataka,Udupi Chikmagalur,KARNATAKA,UDUPI CHIKMAGALUR,election_only_needs_demographics,True,True,True,True,,,Udupi,Karnataka / Udupi Chikmagalur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Karnataka,Uttara Kannada,KARNATAKA,UTTARA KANNADA,partial_demographics_missing_core_fields,True,True,True,True,,,Uttara Kannada,Karnataka / Uttara Kannada,partial_field_skip,,6,9,manual_research_required
+Kerala,Alappuzha,KERALA,ALAPPUZHA,partial_demographics_missing_core_fields,True,True,True,True,,,Alappuzha,Kerala / Alappuzha,partial_field_skip,,6,9,manual_research_required
+Kerala,Alathur,KERALA,ALATHUR,partial_demographics_missing_core_fields,True,True,True,True,,,Alathur,Kerala / Alathur,partial_field_skip,,6,9,manual_research_required
+Kerala,Attingal,KERALA,ATTINGAL,partial_demographics_missing_core_fields,True,True,True,True,,,Attingal,Kerala / Attingal,partial_field_skip,,6,9,manual_research_required
+Kerala,Chalakudy,KERALA,CHALAKUDY,partial_demographics_missing_core_fields,True,True,True,True,,,Chalakudy,Kerala / Chalakudy,partial_field_skip,,6,9,manual_research_required
+Kerala,Ernakulam,KERALA,ERNAKULAM,partial_demographics_missing_core_fields,True,True,True,True,,,Ernakulam,Kerala / Ernakulam,partial_field_skip,,6,9,manual_research_required
+Kerala,Idukki,KERALA,IDUKKI,partial_demographics_missing_core_fields,True,True,True,True,,,Idukki,Kerala / Idukki,partial_field_skip,,6,9,manual_research_required
+Kerala,Kannur,KERALA,KANNUR,election_only_needs_demographics,True,True,True,False,,,,Kerala / Kannur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Kerala,Kasaragod,KERALA,KASARAGOD,partial_demographics_missing_core_fields,True,True,True,True,,,Kasaragod,Kerala / Kasaragod,partial_field_skip,,6,9,manual_research_required
+Kerala,Kollam,KERALA,KOLLAM,partial_demographics_missing_core_fields,True,True,True,True,,,Kollam,Kerala / Kollam,partial_field_skip,,6,9,manual_research_required
+Kerala,Kottayam,KERALA,KOTTAYAM,partial_demographics_missing_core_fields,True,True,True,True,,,Kottayam,Kerala / Kottayam,partial_field_skip,,6,9,manual_research_required
+Kerala,Kozhikode,KERALA,KOZHIKODE,partial_demographics_missing_core_fields,True,True,True,True,,,Kozhikode,Kerala / Kozhikode,partial_field_skip,,6,9,manual_research_required
+Kerala,Malappuram,KERALA,MALAPPURAM,partial_demographics_missing_core_fields,True,True,True,True,,,Malappuram,Kerala / Malappuram,partial_field_skip,,6,9,manual_research_required
+Kerala,Mavelikkara,KERALA,MAVELIKKARA,partial_demographics_missing_core_fields,True,True,False,True,,,Mavelikkara,Kerala / Mavelikkara,partial_field_skip,,6,9,manual_research_required
+Kerala,Palakkad,KERALA,PALAKKAD,partial_demographics_missing_core_fields,True,True,True,True,,,Palakkad,Kerala / Palakkad,partial_field_skip,,6,9,manual_research_required
+Kerala,Pathanamthitta,KERALA,PATHANAMTHITTA,partial_demographics_missing_core_fields,True,True,True,True,,,Pathanamthitta,Kerala / Pathanamthitta,partial_field_skip,,6,9,manual_research_required
+Kerala,Ponnani,KERALA,PONNANI,partial_demographics_missing_core_fields,True,True,True,True,,,Ponnani,Kerala / Ponnani,partial_field_skip,,6,9,manual_research_required
+Kerala,Thiruvananthapuram,KERALA,THIRUVANANTHAPURAM,election_only_needs_demographics,True,True,True,True,,,"Thiruvanantha puram                    -puram, 135- Nemom, 137- Parassala, 139- Kovalam and",Kerala / Thiruvananthapuram,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Kerala,Thrissur,KERALA,THRISSUR,partial_demographics_missing_core_fields,True,True,True,True,,,Thrissur,Kerala / Thrissur,partial_field_skip,,6,9,manual_research_required
+Kerala,Vadakara,KERALA,VADAKARA,partial_demographics_missing_core_fields,True,True,True,True,,,Vadakara,Kerala / Vadakara,partial_field_skip,,6,9,manual_research_required
+Kerala,Wayanad,KERALA,WAYANAD,election_only_needs_demographics,True,True,True,False,,,,Kerala / Wayanad,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Ladakh,Ladakh,LADAKH,LADAKH,election_only_needs_demographics,True,True,False,False,,,,Ladakh / Ladakh,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Lakshadweep,Lakshadweep,LAKSHADWEEP,LAKSHADWEEP,election_only_needs_demographics,True,True,True,False,,,,Lakshadweep / Lakshadweep,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Madhya Pradesh,BALAGHAT,MADHYA PRADESH,BALAGHAT,partial_demographics_missing_core_fields,True,True,True,True,,,BALAGHAT,Madhya Pradesh / BALAGHAT,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,BETUL,MADHYA PRADESH,BETUL,partial_demographics_missing_core_fields,True,True,True,True,,,BETUL,Madhya Pradesh / BETUL,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,BHIND,MADHYA PRADESH,BHIND,partial_demographics_missing_core_fields,True,True,True,True,,,BHIND,Madhya Pradesh / BHIND,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,BHOPAL,MADHYA PRADESH,BHOPAL,partial_demographics_missing_core_fields,True,True,True,True,,,BHOPAL,Madhya Pradesh / BHOPAL,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,CHHINDWARA,MADHYA PRADESH,CHHINDWARA,partial_demographics_missing_core_fields,True,True,True,True,,,CHHINDWARA,Madhya Pradesh / CHHINDWARA,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,DAMOH,MADHYA PRADESH,DAMOH,partial_demographics_missing_core_fields,True,True,True,True,,,DAMOH,Madhya Pradesh / DAMOH,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,DEWAS,MADHYA PRADESH,DEWAS,partial_demographics_missing_core_fields,True,True,True,True,,,DEWAS,Madhya Pradesh / DEWAS,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,DHAR,MADHYA PRADESH,DHAR,partial_demographics_missing_core_fields,True,True,True,True,,,DHAR,Madhya Pradesh / DHAR,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,GUNA,MADHYA PRADESH,GUNA,partial_demographics_missing_core_fields,True,True,True,True,,,GUNA,Madhya Pradesh / GUNA,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,GWALIOR,MADHYA PRADESH,GWALIOR,partial_demographics_missing_core_fields,True,True,True,True,,,GWALIOR,Madhya Pradesh / GWALIOR,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,HOSHANGABAD,MADHYA PRADESH,HOSHANGABAD,election_only_needs_demographics,True,True,True,False,,,,Madhya Pradesh / HOSHANGABAD,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Madhya Pradesh,INDORE,MADHYA PRADESH,INDORE,partial_demographics_missing_core_fields,True,True,True,True,,,INDORE,Madhya Pradesh / INDORE,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,JABALPUR,MADHYA PRADESH,JABALPUR,partial_demographics_missing_core_fields,True,True,True,True,,,JABALPUR,Madhya Pradesh / JABALPUR,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,KHAJURAHO,MADHYA PRADESH,KHAJURAHO,partial_demographics_missing_core_fields,True,True,True,True,,,KHAJURAHO,Madhya Pradesh / KHAJURAHO,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,KHANDWA,MADHYA PRADESH,KHANDWA,partial_demographics_missing_core_fields,True,True,True,True,,,KHANDWA,Madhya Pradesh / KHANDWA,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,KHARGONE,MADHYA PRADESH,KHARGONE,election_only_needs_demographics,True,True,True,True,,,KHARGONE (ST) 183-Maheshwar (SC),Madhya Pradesh / KHARGONE,partial_field_skip,,7,10,manual_research_required
+Madhya Pradesh,MANDLA,MADHYA PRADESH,MANDLA,partial_demographics_missing_core_fields,True,True,True,True,,,MANDLA,Madhya Pradesh / MANDLA,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,MANDSOUR,MADHYA PRADESH,MANDSOUR,partial_demographics_missing_core_fields,True,True,False,True,,,MANDSOUR,Madhya Pradesh / MANDSOUR,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,MORENA,MADHYA PRADESH,MORENA,partial_demographics_missing_core_fields,True,True,True,True,,,MORENA,Madhya Pradesh / MORENA,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,RAJGARH,MADHYA PRADESH,RAJGARH,partial_demographics_missing_core_fields,True,True,True,True,,,RAJGARH,Madhya Pradesh / RAJGARH,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,RATLAM,MADHYA PRADESH,RATLAM,partial_demographics_missing_core_fields,True,True,True,True,,,RATLAM,Madhya Pradesh / RATLAM,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,REWA,MADHYA PRADESH,REWA,partial_demographics_missing_core_fields,True,True,True,True,,,REWA,Madhya Pradesh / REWA,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,SAGAR,MADHYA PRADESH,SAGAR,partial_demographics_missing_core_fields,True,True,True,True,,,SAGAR,Madhya Pradesh / SAGAR,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,SATNA,MADHYA PRADESH,SATNA,partial_demographics_missing_core_fields,True,True,True,True,,,SATNA,Madhya Pradesh / SATNA,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,SHAHDOL,MADHYA PRADESH,SHAHDOL,partial_demographics_missing_core_fields,True,True,True,True,,,SHAHDOL,Madhya Pradesh / SHAHDOL,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,SIDHI,MADHYA PRADESH,SIDHI,partial_demographics_missing_core_fields,True,True,True,True,,,SIDHI,Madhya Pradesh / SIDHI,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,TIKAMGARH,MADHYA PRADESH,TIKAMGARH,partial_demographics_missing_core_fields,True,True,True,True,,,TIKAMGARH,Madhya Pradesh / TIKAMGARH,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,UJJAIN,MADHYA PRADESH,UJJAIN,partial_demographics_missing_core_fields,True,True,True,True,,,UJJAIN,Madhya Pradesh / UJJAIN,partial_field_skip,,6,9,manual_research_required
+Madhya Pradesh,VIDISHA,MADHYA PRADESH,VIDISHA,partial_demographics_missing_core_fields,True,True,True,True,,,VIDISHA,Madhya Pradesh / VIDISHA,partial_field_skip,,6,9,manual_research_required
+Maharashtra,Ahmednagar,MAHARASHTRA,AHMEDNAGAR,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Ahmednagar,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Akola,MAHARASHTRA,AKOLA,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Akola,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Amravati,MAHARASHTRA,AMRAVATI,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Amravati,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Aurangabad,MAHARASHTRA,AURANGABAD,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Aurangabad,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Baramati,MAHARASHTRA,BARAMATI,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Baramati,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Beed,MAHARASHTRA,BEED,partial_demographics_missing_core_fields,True,True,True,True,,,Beed,Maharashtra / Beed,partial_field_skip,,6,9,manual_research_required
+Maharashtra,Bhandara Gondiya,MAHARASHTRA,BHANDARA GONDIYA,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Bhandara Gondiya,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Bhiwandi,MAHARASHTRA,BHIWANDI,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Bhiwandi,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Buldhana,MAHARASHTRA,BULDHANA,partial_demographics_missing_core_fields,True,True,True,True,,,Buldhana,Maharashtra / Buldhana,partial_field_skip,,6,9,manual_research_required
+Maharashtra,Chandrapur,MAHARASHTRA,CHANDRAPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Chandrapur,Maharashtra / Chandrapur,partial_field_skip,,6,9,manual_research_required
+Maharashtra,Dhule,MAHARASHTRA,DHULE,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Dhule,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Dindori,MAHARASHTRA,DINDORI,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Dindori,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Gadchiroli - Chimur,MAHARASHTRA,GADCHIROLI CHIMUR,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Gadchiroli - Chimur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Hatkanangale,MAHARASHTRA,HATKANANGALE,election_only_needs_demographics,True,True,False,False,,,,Maharashtra / Hatkanangale,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Hingoli,MAHARASHTRA,HINGOLI,partial_demographics_missing_core_fields,True,True,True,True,,,Hingoli,Maharashtra / Hingoli,partial_field_skip,,6,9,manual_research_required
+Maharashtra,Jalgaon,MAHARASHTRA,JALGAON,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Jalgaon,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Jalna,MAHARASHTRA,JALNA,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Jalna,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Kalyan,MAHARASHTRA,KALYAN,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Kalyan,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Kolhapur,MAHARASHTRA,KOLHAPUR,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Kolhapur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Latur,MAHARASHTRA,LATUR,partial_demographics_missing_core_fields,True,True,True,True,,,Latur,Maharashtra / Latur,partial_field_skip,,6,9,manual_research_required
+Maharashtra,Madha,MAHARASHTRA,MADHA,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Madha,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Maval,MAHARASHTRA,MAVAL,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Maval,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Mumbai North,MAHARASHTRA,MUMBAI NORTH,election_only_needs_demographics,True,True,True,True,,,"Mumbai North Central          East, 177. Vandre West and 175. Kalina.",Maharashtra / Mumbai North,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Mumbai North Central,MAHARASHTRA,MUMBAI NORTH CENTRAL,election_only_needs_demographics,True,True,True,True,,,"Mumbai North Central          East, 177. Vandre West and 175. Kalina.",Maharashtra / Mumbai North,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Mumbai North East,MAHARASHTRA,MUMBAI NORTH EAST,election_only_needs_demographics,True,True,True,True,,,"Mumbai North Central          East, 177. Vandre West and 175. Kalina.",Maharashtra / Mumbai North,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Mumbai North West,MAHARASHTRA,MUMBAI NORTH WEST,partial_demographics_missing_core_fields,True,True,True,True,,,"Mumbai North Central          East, 177. Vandre West and 175. Kalina.",Maharashtra / Mumbai North,partial_field_skip,,6,9,manual_research_required
+Maharashtra,Mumbai South,MAHARASHTRA,MUMBAI SOUTH,partial_demographics_missing_core_fields,True,True,True,True,,,"Mumbai North Central          East, 177. Vandre West and 175. Kalina.",Maharashtra / Mumbai North,partial_field_skip,,6,9,manual_research_required
+Maharashtra,Mumbai South Central,MAHARASHTRA,MUMBAI SOUTH CENTRAL,partial_demographics_missing_core_fields,True,True,False,True,,,"Mumbai North Central          East, 177. Vandre West and 175. Kalina.",Maharashtra / Mumbai North,partial_field_skip,,6,9,manual_research_required
+Maharashtra,Nagpur,MAHARASHTRA,NAGPUR,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Nagpur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Nanded,MAHARASHTRA,NANDED,partial_demographics_missing_core_fields,True,True,True,True,,,Nanded,Maharashtra / Nanded,partial_field_skip,,6,9,manual_research_required
+Maharashtra,Nandurbar,MAHARASHTRA,NANDURBAR,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Nandurbar,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Nashik,MAHARASHTRA,NASHIK,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Nashik,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Osmanabad,MAHARASHTRA,OSMANABAD,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Osmanabad,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Palghar,MAHARASHTRA,PALGHAR,partial_demographics_missing_core_fields,True,True,True,True,,,Palghar,Maharashtra / Palghar,partial_field_skip,,6,9,manual_research_required
+Maharashtra,Parbhani,MAHARASHTRA,PARBHANI,partial_demographics_missing_core_fields,True,True,True,True,,,Parbhani,Maharashtra / Parbhani,partial_field_skip,,6,9,manual_research_required
+Maharashtra,Pune,MAHARASHTRA,PUNE,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Pune,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Raigad,MAHARASHTRA,RAIGAD,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Raigad,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Ramtek,MAHARASHTRA,RAMTEK,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Ramtek,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Ratnagiri- Sindhudurg,MAHARASHTRA,RATNAGIRI SINDHUDURG,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Ratnagiri- Sindhudurg,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Raver,MAHARASHTRA,RAVER,partial_demographics_missing_core_fields,True,True,True,True,,,Raver,Maharashtra / Raver,partial_field_skip,,6,9,manual_research_required
+Maharashtra,Sangli,MAHARASHTRA,SANGLI,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Sangli,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Satara,MAHARASHTRA,SATARA,partial_demographics_missing_core_fields,True,True,True,True,,,Satara,Maharashtra / Satara,partial_field_skip,,6,9,manual_research_required
+Maharashtra,Shirdi,MAHARASHTRA,SHIRDI,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Shirdi,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Shirur,MAHARASHTRA,SHIRUR,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Shirur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Solapur,MAHARASHTRA,SOLAPUR,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Solapur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Thane,MAHARASHTRA,THANE,partial_demographics_missing_core_fields,True,True,True,True,,,Thane,Maharashtra / Thane,partial_field_skip,,6,9,manual_research_required
+Maharashtra,Wardha,MAHARASHTRA,WARDHA,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Wardha,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Maharashtra,Yavatmal- Washim,MAHARASHTRA,YAVATMAL WASHIM,election_only_needs_demographics,True,True,True,False,,,,Maharashtra / Yavatmal- Washim,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Manipur,Inner Manipur,MANIPUR,INNER MANIPUR,election_only_needs_demographics,True,True,True,False,,,,Manipur / Inner Manipur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Manipur,Outer Manipur,MANIPUR,OUTER MANIPUR,election_only_needs_demographics,True,True,True,False,,,,Manipur / Outer Manipur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Meghalaya,Shillong,MEGHALAYA,SHILLONG,partial_demographics_missing_core_fields,True,True,True,True,,,SHILLONG,Meghalaya / Shillong,partial_field_skip,,6,9,manual_research_required
+Meghalaya,Tura,MEGHALAYA,TURA,partial_demographics_missing_core_fields,True,True,True,True,,,TURA,Meghalaya / Tura,partial_field_skip,,6,9,manual_research_required
+Mizoram,MIZORAM,MIZORAM,MIZORAM,election_only_needs_demographics,True,True,True,False,,,,Mizoram / MIZORAM,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+NCT OF Delhi,Chandni Chowk,NCT OF DELHI,CHANDNI CHOWK,election_only_needs_demographics,True,True,True,True,,,Chandni Chowk,NCT OF Delhi / Chandni Chowk,no_delimitation_mapping,Delhi,0,10,add_missing_delimitation_mapping
+NCT OF Delhi,East Delhi,NCT OF DELHI,EAST DELHI,election_only_needs_demographics,True,True,True,True,,,East Delhi,NCT OF Delhi / East Delhi,no_delimitation_mapping,Delhi,0,10,add_missing_delimitation_mapping
+NCT OF Delhi,New Delhi,NCT OF DELHI,NEW DELHI,election_only_needs_demographics,True,True,True,True,,,New Delhi,NCT OF Delhi / New Delhi,no_delimitation_mapping,Delhi,0,10,add_missing_delimitation_mapping
+NCT OF Delhi,North-East Delhi,NCT OF DELHI,NORTH EAST DELHI,election_only_needs_demographics,True,True,True,True,,,East Delhi,NCT OF Delhi / East Delhi,no_delimitation_mapping,Delhi,0,10,add_missing_delimitation_mapping
+NCT OF Delhi,North-West Delhi,NCT OF DELHI,NORTH WEST DELHI,election_only_needs_demographics,True,True,True,True,,,North East Delhi,NCT OF Delhi / North-East Delhi,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+NCT OF Delhi,South Delhi,NCT OF DELHI,SOUTH DELHI,election_only_needs_demographics,True,True,True,True,,,South Delhi,NCT OF Delhi / South Delhi,no_delimitation_mapping,Delhi,0,10,add_missing_delimitation_mapping
+NCT OF Delhi,West Delhi,NCT OF DELHI,WEST DELHI,election_only_needs_demographics,True,True,True,True,,,"North West Delhi 1.Nerela, 5.Badli, 6.Rithala, 7.Bawana (SC), 8.Mundka, 9.Kirari",NCT OF Delhi / North-West Delhi,no_delimitation_mapping,Delhi,0,10,add_missing_delimitation_mapping
+Nagaland,Nagaland,NAGALAND,NAGALAND,election_only_needs_demographics,True,True,True,False,,,,Nagaland / Nagaland,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Odisha,Aska,ODISHA,ASKA,election_only_needs_demographics,True,True,True,True,,,ASKA,Odisha / Aska,partial_field_skip,,7,10,likely_duplicate
+Odisha,Balasore,ODISHA,BALASORE,election_only_needs_demographics,True,True,True,True,,,BALASORE,Odisha / Balasore,partial_field_skip,,7,10,likely_duplicate
+Odisha,Bargarh,ODISHA,BARGARH,election_only_needs_demographics,True,True,True,True,,,BARGARH,Odisha / Bargarh,partial_field_skip,,7,10,likely_duplicate
+Odisha,Berhampur,ODISHA,BERHAMPUR,election_only_needs_demographics,True,True,True,True,,,BERHAMPUR,Odisha / Berhampur,partial_field_skip,,7,10,likely_duplicate
+Odisha,Bhadrak,ODISHA,BHADRAK,election_only_needs_demographics,True,True,True,True,,,BHADRAK,Odisha / Bhadrak,partial_field_skip,,7,10,likely_duplicate
+Odisha,Bhubaneswar,ODISHA,BHUBANESWAR,election_only_needs_demographics,True,True,True,True,,,BHUBANESWAR,Odisha / Bhubaneswar,partial_field_skip,,7,10,likely_duplicate
+Odisha,Bolangir,ODISHA,BOLANGIR,election_only_needs_demographics,True,True,True,True,,,BOLANGIR,Odisha / Bolangir,partial_field_skip,,7,10,likely_duplicate
+Odisha,Cuttack,ODISHA,CUTTACK,election_only_needs_demographics,True,True,True,True,,,CUTTACK,Odisha / Cuttack,partial_field_skip,,7,10,likely_duplicate
+Odisha,Dhenkanal,ODISHA,DHENKANAL,election_only_needs_demographics,True,True,True,True,,,DHENKANAL,Odisha / Dhenkanal,partial_field_skip,,7,10,likely_duplicate
+Odisha,Jagatsinghpur,ODISHA,JAGATSINGHPUR,election_only_needs_demographics,True,True,True,True,,,JAGATSINGHPUR,Odisha / Jagatsinghpur,partial_field_skip,,7,10,likely_duplicate
+Odisha,Jajpur,ODISHA,JAJPUR,election_only_needs_demographics,True,True,True,True,,,JAJPUR,Odisha / Jajpur,partial_field_skip,,7,10,likely_duplicate
+Odisha,Kalahandi,ODISHA,KALAHANDI,election_only_needs_demographics,True,True,True,True,,,KALAHANDI,Odisha / Kalahandi,partial_field_skip,,7,10,likely_duplicate
+Odisha,Kandhamal,ODISHA,KANDHAMAL,election_only_needs_demographics,True,True,True,True,,,KANDHAMAL,Odisha / Kandhamal,partial_field_skip,,7,10,likely_duplicate
+Odisha,Kendrapara,ODISHA,KENDRAPARA,election_only_needs_demographics,True,True,True,True,,,KENDRAPARA,Odisha / Kendrapara,partial_field_skip,,7,10,likely_duplicate
+Odisha,Keonjhar,ODISHA,KEONJHAR,election_only_needs_demographics,True,True,True,True,,,KEONJHAR,Odisha / Keonjhar,partial_field_skip,,7,10,likely_duplicate
+Odisha,Koraput,ODISHA,KORAPUT,election_only_needs_demographics,True,True,True,True,,,KORAPUT,Odisha / Koraput,partial_field_skip,,7,10,likely_duplicate
+Odisha,Mayurbhanj,ODISHA,MAYURBHANJ,election_only_needs_demographics,True,True,True,True,,,MAYURBHANJ,Odisha / Mayurbhanj,partial_field_skip,,7,10,likely_duplicate
+Odisha,Nabarangpur,ODISHA,NABARANGPUR,election_only_needs_demographics,True,True,True,True,,,"NABARANGPUR (ST) 73. Umarkote (ST), 74. Jharigam (ST), 75. Nabarangpur (ST)",Odisha / Nabarangpur,no_delimitation_mapping,,0,10,likely_duplicate
+Odisha,Puri,ODISHA,PURI,election_only_needs_demographics,True,True,True,True,,,PURI,Odisha / Puri,partial_field_skip,,7,10,likely_duplicate
+Odisha,Sambalpur,ODISHA,SAMBALPUR,election_only_needs_demographics,True,True,True,True,,,SAMBALPUR,Odisha / Sambalpur,partial_field_skip,,7,10,likely_duplicate
+Odisha,Sundargarh,ODISHA,SUNDARGARH,election_only_needs_demographics,True,True,True,True,,,SUNDARGARH,Odisha / Sundargarh,partial_field_skip,,7,10,likely_duplicate
+Puducherry,PUDUCHERRY,PUDUCHERRY,PUDUCHERRY,election_only_needs_demographics,True,True,True,False,,,,Puducherry / PUDUCHERRY,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Punjab,Amritsar,PUNJAB,AMRITSAR,election_only_needs_demographics,True,True,True,True,,,Amritsar,Punjab / Amritsar,partial_field_skip,,7,10,manual_research_required
+Punjab,Anandpur Sahib,PUNJAB,ANANDPUR SAHIB,partial_demographics_missing_core_fields,True,True,True,True,,,Anandpur Sahib,Punjab / Anandpur Sahib,partial_field_skip,,6,9,manual_research_required
+Punjab,Bathinda,PUNJAB,BATHINDA,partial_demographics_missing_core_fields,True,True,True,True,,,Bathinda,Punjab / Bathinda,partial_field_skip,,6,9,manual_research_required
+Punjab,Faridkot,PUNJAB,FARIDKOT,partial_demographics_missing_core_fields,True,True,True,True,,,Faridkot,Punjab / Faridkot,partial_field_skip,,6,9,manual_research_required
+Punjab,Fatehgarh Sahib,PUNJAB,FATEHGARH SAHIB,partial_demographics_missing_core_fields,True,True,True,True,,,Fatehgarh Sahib,Punjab / Fatehgarh Sahib,partial_field_skip,,6,9,manual_research_required
+Punjab,Firozpur,PUNJAB,FIROZPUR,partial_demographics_missing_core_fields,True,True,False,True,,,Firozpur,Punjab / Firozpur,partial_field_skip,,6,9,manual_research_required
+Punjab,Gurdaspur,PUNJAB,GURDASPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Gurdaspur,Punjab / Gurdaspur,partial_field_skip,,6,9,manual_research_required
+Punjab,Hoshiarpur,PUNJAB,HOSHIARPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Hoshiarpur,Punjab / Hoshiarpur,partial_field_skip,,6,9,manual_research_required
+Punjab,Jalandhar,PUNJAB,JALANDHAR,partial_demographics_missing_core_fields,True,True,True,True,,,Jalandhar,Punjab / Jalandhar,partial_field_skip,,6,9,manual_research_required
+Punjab,Khadoor Sahib,PUNJAB,KHADOOR SAHIB,partial_demographics_missing_core_fields,True,True,True,True,,,Khadoor Sahib,Punjab / Khadoor Sahib,partial_field_skip,,6,9,manual_research_required
+Punjab,Ludhiana,PUNJAB,LUDHIANA,partial_demographics_missing_core_fields,True,True,True,True,,,Ludhiana,Punjab / Ludhiana,partial_field_skip,,6,9,manual_research_required
+Punjab,Patiala,PUNJAB,PATIALA,election_only_needs_demographics,True,True,True,True,,,Patiala,Punjab / Patiala,partial_field_skip,,7,10,manual_research_required
+Punjab,Sangrur,PUNJAB,SANGRUR,partial_demographics_missing_core_fields,True,True,True,True,,,Sangrur,Punjab / Sangrur,partial_field_skip,,6,9,manual_research_required
+Rajasthan,AJMER,RAJASTHAN,AJMER,election_only_needs_demographics,True,True,True,False,,,,Rajasthan / AJMER,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Rajasthan,ALWAR,RAJASTHAN,ALWAR,partial_demographics_missing_core_fields,True,True,True,True,,,Alwar,Rajasthan / ALWAR,partial_field_skip,,6,9,manual_research_required
+Rajasthan,BANSWARA,RAJASTHAN,BANSWARA,partial_demographics_missing_core_fields,True,True,True,True,,,Banswara,Rajasthan / BANSWARA,partial_field_skip,,6,9,manual_research_required
+Rajasthan,BARMER,RAJASTHAN,BARMER,election_only_needs_demographics,True,True,True,False,,,,Rajasthan / BARMER,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Rajasthan,BHARATPUR,RAJASTHAN,BHARATPUR,election_only_needs_demographics,True,True,True,False,,,,Rajasthan / BHARATPUR,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Rajasthan,BHILWARA,RAJASTHAN,BHILWARA,partial_demographics_missing_core_fields,True,True,True,True,,,Bhilwara,Rajasthan / BHILWARA,partial_field_skip,,6,9,manual_research_required
+Rajasthan,BIKANER,RAJASTHAN,BIKANER,partial_demographics_missing_core_fields,True,True,True,True,,,Bikaner,Rajasthan / BIKANER,partial_field_skip,,6,9,manual_research_required
+Rajasthan,CHITTORGARH,RAJASTHAN,CHITTORGARH,partial_demographics_missing_core_fields,True,True,True,True,,,Chittorgarh,Rajasthan / CHITTORGARH,partial_field_skip,,6,9,manual_research_required
+Rajasthan,CHURU,RAJASTHAN,CHURU,partial_demographics_missing_core_fields,True,True,True,True,,,Churu,Rajasthan / CHURU,partial_field_skip,,6,9,manual_research_required
+Rajasthan,DAUSA,RAJASTHAN,DAUSA,election_only_needs_demographics,True,True,True,False,,,,Rajasthan / DAUSA,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Rajasthan,GANGANAGAR,RAJASTHAN,GANGANAGAR,partial_demographics_missing_core_fields,True,True,True,True,,,Ganganagar (SC),Rajasthan / GANGANAGAR,partial_field_skip,,6,9,manual_research_required
+Rajasthan,JAIPUR,RAJASTHAN,JAIPUR,election_only_needs_demographics,True,True,True,False,,,,Rajasthan / JAIPUR,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Rajasthan,JAIPUR RURAL,RAJASTHAN,JAIPUR RURAL,election_only_needs_demographics,True,True,True,False,,,,Rajasthan / JAIPUR,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Rajasthan,JALORE,RAJASTHAN,JALORE,election_only_needs_demographics,True,True,True,False,,,,Rajasthan / JALORE,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Rajasthan,JHALAWAR-BARAN,RAJASTHAN,JHALAWAR BARAN,election_only_needs_demographics,True,True,True,True,,,Jhalawar,Rajasthan / JHALAWAR-BARAN,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Rajasthan,JHUNJHUNU,RAJASTHAN,JHUNJHUNU,election_only_needs_demographics,True,True,True,False,,,,Rajasthan / JHUNJHUNU,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Rajasthan,JODHPUR,RAJASTHAN,JODHPUR,election_only_needs_demographics,True,True,True,False,,,,Rajasthan / JODHPUR,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Rajasthan,KARAULI-DHOLPUR,RAJASTHAN,KARAULI DHOLPUR,election_only_needs_demographics,True,True,True,False,,,,Rajasthan / KARAULI-DHOLPUR,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Rajasthan,KOTA,RAJASTHAN,KOTA,partial_demographics_missing_core_fields,True,True,True,True,,,Kota,Rajasthan / KOTA,partial_field_skip,,6,9,manual_research_required
+Rajasthan,NAGAUR,RAJASTHAN,NAGAUR,election_only_needs_demographics,True,True,True,False,,,,Rajasthan / NAGAUR,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Rajasthan,PALI,RAJASTHAN,PALI,partial_demographics_missing_core_fields,True,True,True,True,,,Pali,Rajasthan / PALI,partial_field_skip,,6,9,manual_research_required
+Rajasthan,RAJSAMAND,RAJASTHAN,RAJSAMAND,partial_demographics_missing_core_fields,True,True,True,True,,,Rajsamand,Rajasthan / RAJSAMAND,partial_field_skip,,6,9,manual_research_required
+Rajasthan,SIKAR,RAJASTHAN,SIKAR,partial_demographics_missing_core_fields,True,True,True,True,,,Sikar,Rajasthan / SIKAR,partial_field_skip,,6,9,manual_research_required
+Rajasthan,TONK-SAWAI MADHOPUR,RAJASTHAN,TONK SAWAI MADHOPUR,election_only_needs_demographics,True,True,True,False,,,,Rajasthan / TONK-SAWAI MADHOPUR,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Rajasthan,UDAIPUR,RAJASTHAN,UDAIPUR,election_only_needs_demographics,True,True,True,False,,,,Rajasthan / UDAIPUR,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Sikkim,Sikkim,SIKKIM,SIKKIM,election_only_needs_demographics,True,True,True,False,,,,Sikkim / Sikkim,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Tamil Nadu,MAYILADUTHURAI,TAMIL NADU,MAYILADUTHURAI,partial_demographics_missing_core_fields,True,True,False,True,,,MAYILADUTHURAI,Tamil Nadu / MAYILADUTHURAI,partial_field_skip,,6,9,manual_research_required
+Tamil Nadu,POLLACHI,TAMIL NADU,POLLACHI,election_only_needs_demographics,True,True,True,True,,,POLLACHI,Tamil Nadu / POLLACHI,partial_field_skip,,7,10,manual_research_required
+Tamil Nadu,RAMANATHAPURAM,TAMIL NADU,RAMANATHAPURAM,partial_demographics_missing_core_fields,True,True,True,True,,,RAMANATHAPURAM,Tamil Nadu / RAMANATHAPURAM,partial_field_skip,,6,9,manual_research_required
+Tamil Nadu,SALEM,TAMIL NADU,SALEM,partial_demographics_missing_core_fields,True,True,True,True,,,SALEM,Tamil Nadu / SALEM,partial_field_skip,,6,9,manual_research_required
+Tamil Nadu,SIVAGANGA,TAMIL NADU,SIVAGANGA,partial_demographics_missing_core_fields,True,True,True,True,,,SIVAGANGA,Tamil Nadu / SIVAGANGA,partial_field_skip,,6,9,manual_research_required
+Tamil Nadu,SRIPERUMBUDUR,TAMIL NADU,SRIPERUMBUDUR,partial_demographics_missing_core_fields,True,True,True,True,,,SRIPERUMBUDUR,Tamil Nadu / SRIPERUMBUDUR,partial_field_skip,,6,9,manual_research_required
+Tamil Nadu,TENKASI,TAMIL NADU,TENKASI,election_only_needs_demographics,True,True,True,True,,,TENKASI,Tamil Nadu / TENKASI,partial_field_skip,,7,10,manual_research_required
+Tamil Nadu,THENI,TAMIL NADU,THENI,election_only_needs_demographics,True,True,True,True,,,THENI,Tamil Nadu / THENI,partial_field_skip,,7,10,manual_research_required
+Tamil Nadu,THOOTHUKKUDI,TAMIL NADU,THOOTHUKKUDI,election_only_needs_demographics,True,True,False,True,,,THOOTHUKKUDI,Tamil Nadu / THOOTHUKKUDI,partial_field_skip,,7,10,manual_research_required
+Tamil Nadu,TIRUCHIRAPPALLI,TAMIL NADU,TIRUCHIRAPPALLI,partial_demographics_missing_core_fields,True,True,True,True,,,TIRUCHIRAPPALLI,Tamil Nadu / TIRUCHIRAPPALLI,partial_field_skip,,6,9,manual_research_required
+Tamil Nadu,TIRUNELVELI,TAMIL NADU,TIRUNELVELI,election_only_needs_demographics,True,True,True,True,,,TIRUNELVELI,Tamil Nadu / TIRUNELVELI,partial_field_skip,,7,10,manual_research_required
+Tamil Nadu,TIRUPPUR,TAMIL NADU,TIRUPPUR,partial_demographics_missing_core_fields,True,True,True,True,,,TIRUPPUR,Tamil Nadu / TIRUPPUR,partial_field_skip,,6,9,manual_research_required
+Tamil Nadu,TIRUVALLUR,TAMIL NADU,TIRUVALLUR,partial_demographics_missing_core_fields,True,True,False,True,,,TIRUVALLUR,Tamil Nadu / TIRUVALLUR,partial_field_skip,,6,9,manual_research_required
+Tamil Nadu,TIRUVANNAMALAI,TAMIL NADU,TIRUVANNAMALAI,partial_demographics_missing_core_fields,True,True,True,True,,,TIRUVALLUR,Tamil Nadu / TIRUVALLUR,partial_field_skip,,6,9,manual_research_required
+Tamil Nadu,VELLORE,TAMIL NADU,VELLORE,partial_demographics_missing_core_fields,True,True,True,True,,,VELLORE,Tamil Nadu / VELLORE,partial_field_skip,,6,9,manual_research_required
+Tamil Nadu,VILUPPURAM,TAMIL NADU,VILUPPURAM,partial_demographics_missing_core_fields,True,True,True,True,,,VILUPPURAM,Tamil Nadu / VILUPPURAM,partial_field_skip,,6,9,manual_research_required
+Tamil Nadu,VIRUDHUNAGAR,TAMIL NADU,VIRUDHUNAGAR,election_only_needs_demographics,True,True,True,True,,,VIRUDHUNAGAR,Tamil Nadu / VIRUDHUNAGAR,partial_field_skip,,7,10,manual_research_required
+Telangana,Adilabad,TELANGANA,ADILABAD,partial_demographics_missing_core_fields,True,True,True,False,,,,Telangana / Adilabad,no_delimitation_mapping,,0,9,add_missing_delimitation_mapping
+Telangana,Bhongir,TELANGANA,BHONGIR,partial_demographics_missing_core_fields,True,True,False,False,,,,Telangana / Bhongir,no_delimitation_mapping,,0,9,likely_duplicate
+Telangana,Chevella,TELANGANA,CHEVELLA,partial_demographics_missing_core_fields,True,True,True,False,,,,Telangana / Chevella,no_delimitation_mapping,,0,9,add_missing_delimitation_mapping
+Telangana,Hyderabad,TELANGANA,HYDERABAD,partial_demographics_missing_core_fields,True,True,True,False,,,,Telangana / Hyderabad,no_delimitation_mapping,,0,9,add_missing_delimitation_mapping
+Telangana,Karimnagar,TELANGANA,KARIMNAGAR,partial_demographics_missing_core_fields,True,True,True,False,,,,Telangana / Karimnagar,no_delimitation_mapping,,0,9,add_missing_delimitation_mapping
+Telangana,Khammam,TELANGANA,KHAMMAM,partial_demographics_missing_core_fields,True,True,True,False,,,,Telangana / Khammam,no_delimitation_mapping,,0,9,add_missing_delimitation_mapping
+Telangana,Mahabubabad,TELANGANA,MAHABUBABAD,partial_demographics_missing_core_fields,True,True,True,False,,,,Telangana / Mahabubabad,no_delimitation_mapping,,0,9,add_missing_delimitation_mapping
+Telangana,Mahbubnagar,TELANGANA,MAHBUBNAGAR,partial_demographics_missing_core_fields,True,True,False,False,,,,Telangana / Mahbubnagar,no_delimitation_mapping,,0,9,add_missing_delimitation_mapping
+Telangana,Malkajgiri,TELANGANA,MALKAJGIRI,partial_demographics_missing_core_fields,True,True,True,False,,,,Telangana / Malkajgiri,no_delimitation_mapping,,0,9,add_missing_delimitation_mapping
+Telangana,Medak,TELANGANA,MEDAK,partial_demographics_missing_core_fields,True,True,True,False,,,,Telangana / Medak,no_delimitation_mapping,,0,9,add_missing_delimitation_mapping
+Telangana,Nagarkurnool,TELANGANA,NAGARKURNOOL,partial_demographics_missing_core_fields,True,True,True,False,,,,Telangana / Nagarkurnool,no_delimitation_mapping,,0,9,add_missing_delimitation_mapping
+Telangana,Nalgonda,TELANGANA,NALGONDA,partial_demographics_missing_core_fields,True,True,True,False,,,,Telangana / Nalgonda,no_delimitation_mapping,,0,9,add_missing_delimitation_mapping
+Telangana,Nizamabad,TELANGANA,NIZAMABAD,partial_demographics_missing_core_fields,True,True,True,False,,,,Telangana / Nizamabad,no_delimitation_mapping,,0,9,add_missing_delimitation_mapping
+Telangana,Peddapalle,TELANGANA,PEDDAPALLE,partial_demographics_missing_core_fields,True,True,False,False,,,,Telangana / Peddapalle,no_delimitation_mapping,,0,9,add_missing_delimitation_mapping
+Telangana,Secunderabad,TELANGANA,SECUNDERABAD,partial_demographics_missing_core_fields,True,True,True,False,,,,Telangana / Secunderabad,no_delimitation_mapping,,0,9,add_missing_delimitation_mapping
+Telangana,Warangal,TELANGANA,WARANGAL,partial_demographics_missing_core_fields,True,True,True,False,,,,Telangana / Warangal,no_delimitation_mapping,,0,9,add_missing_delimitation_mapping
+Telangana,Zahirabad,TELANGANA,ZAHIRABAD,partial_demographics_missing_core_fields,True,True,True,False,,,,Telangana / Zahirabad,no_delimitation_mapping,,0,9,add_missing_delimitation_mapping
+Tripura,Tripura East,TRIPURA,TRIPURA EAST,partial_demographics_missing_core_fields,True,True,True,True,,,Tripura East,Tripura / Tripura East,partial_field_skip,,6,9,manual_research_required
+Tripura,Tripura West,TRIPURA,TRIPURA WEST,partial_demographics_missing_core_fields,True,True,True,True,,,Tripura East,Tripura / Tripura East,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Agra,UTTAR PRADESH,AGRA,partial_demographics_missing_core_fields,True,True,True,True,,,Agra,Uttar Pradesh / Agra,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Akbarpur,UTTAR PRADESH,AKBARPUR,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Akbarpur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Aligarh,UTTAR PRADESH,ALIGARH,partial_demographics_missing_core_fields,True,True,True,True,,,Aligarh,Uttar Pradesh / Aligarh,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Allahabad,UTTAR PRADESH,ALLAHABAD,partial_demographics_missing_core_fields,True,True,True,True,,,Allahabad,Uttar Pradesh / Allahabad,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Ambedkar Nagar,UTTAR PRADESH,AMBEDKAR NAGAR,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Ambedkar Nagar,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Amethi,UTTAR PRADESH,AMETHI,partial_demographics_missing_core_fields,True,True,True,True,,,Amethi,Uttar Pradesh / Amethi,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Amroha,UTTAR PRADESH,AMROHA,partial_demographics_missing_core_fields,True,True,True,True,,,Amroha,Uttar Pradesh / Amroha,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Aonla,UTTAR PRADESH,AONLA,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Aonla,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Azamgarh,UTTAR PRADESH,AZAMGARH,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Azamgarh,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Badaun,UTTAR PRADESH,BADAUN,partial_demographics_missing_core_fields,True,True,True,True,,,Badaun,Uttar Pradesh / Badaun,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Baghpat,UTTAR PRADESH,BAGHPAT,partial_demographics_missing_core_fields,True,True,True,True,,,Baghpat,Uttar Pradesh / Baghpat,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Baharaich,UTTAR PRADESH,BAHARAICH,election_only_needs_demographics,True,True,False,False,,,,Uttar Pradesh / Baharaich,partial_field_skip,,7,10,likely_duplicate
+Uttar Pradesh,Ballia,UTTAR PRADESH,BALLIA,partial_demographics_missing_core_fields,True,True,True,True,,,Ballia,Uttar Pradesh / Ballia,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Banda,UTTAR PRADESH,BANDA,election_only_needs_demographics,True,True,True,True,,,Banda,Uttar Pradesh / Banda,partial_field_skip,,7,10,manual_research_required
+Uttar Pradesh,Bansgaon,UTTAR PRADESH,BANSGAON,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Bansgaon,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Barabanki,UTTAR PRADESH,BARABANKI,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Barabanki,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Bareilly,UTTAR PRADESH,BAREILLY,partial_demographics_missing_core_fields,True,True,True,True,,,Bareilly,Uttar Pradesh / Bareilly,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Basti,UTTAR PRADESH,BASTI,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Basti,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Bhadohi,UTTAR PRADESH,BHADOHI,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Bhadohi,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Bijnor,UTTAR PRADESH,BIJNOR,partial_demographics_missing_core_fields,True,True,True,True,,,Bijnor,Uttar Pradesh / Bijnor,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Chandauli,UTTAR PRADESH,CHANDAULI,election_only_needs_demographics,True,True,True,True,,,Chandauli,Uttar Pradesh / Chandauli,partial_field_skip,,7,10,manual_research_required
+Uttar Pradesh,Deoria,UTTAR PRADESH,DEORIA,partial_demographics_missing_core_fields,True,True,True,True,,,Deoria,Uttar Pradesh / Deoria,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Dhaurahra,UTTAR PRADESH,DHAURAHRA,partial_demographics_missing_core_fields,True,True,True,True,,,Dhaurahra,Uttar Pradesh / Dhaurahra,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Domariyaganj,UTTAR PRADESH,DOMARIYAGANJ,partial_demographics_missing_core_fields,True,True,True,True,,,Domariyaganj,Uttar Pradesh / Domariyaganj,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Etah,UTTAR PRADESH,ETAH,partial_demographics_missing_core_fields,True,True,True,True,,,Etah,Uttar Pradesh / Etah,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Etawah,UTTAR PRADESH,ETAWAH,partial_demographics_missing_core_fields,True,True,True,True,,,Etawah,Uttar Pradesh / Etawah,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Faizabad,UTTAR PRADESH,FAIZABAD,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Faizabad,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Farrukhabad,UTTAR PRADESH,FARRUKHABAD,partial_demographics_missing_core_fields,True,True,True,True,,,Farrukhabad,Uttar Pradesh / Farrukhabad,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Fatehpur,UTTAR PRADESH,FATEHPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Fatehpur,Uttar Pradesh / Fatehpur,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Fatehpur Sikri,UTTAR PRADESH,FATEHPUR SIKRI,partial_demographics_missing_core_fields,True,True,True,True,,,Fatehpur,Uttar Pradesh / Fatehpur,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Firozabad,UTTAR PRADESH,FIROZABAD,partial_demographics_missing_core_fields,True,True,True,True,,,Firozabad,Uttar Pradesh / Firozabad,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Gautam Buddha Nagar,UTTAR PRADESH,GAUTAM BUDDHA NAGAR,election_only_needs_demographics,True,True,True,True,,,Gautam Buddha,Uttar Pradesh / Gautam Buddha Nagar,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Ghaziabad,UTTAR PRADESH,GHAZIABAD,partial_demographics_missing_core_fields,True,True,True,True,,,Ghaziabad,Uttar Pradesh / Ghaziabad,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Ghazipur,UTTAR PRADESH,GHAZIPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Ghazipur,Uttar Pradesh / Ghazipur,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Ghosi,UTTAR PRADESH,GHOSI,partial_demographics_missing_core_fields,True,True,True,True,,,Ghosi,Uttar Pradesh / Ghosi,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Gonda,UTTAR PRADESH,GONDA,partial_demographics_missing_core_fields,True,True,True,True,,,Gonda,Uttar Pradesh / Gonda,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Gorakhpur,UTTAR PRADESH,GORAKHPUR,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Gorakhpur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Hamirpur,UTTAR PRADESH,HAMIRPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Hamirpur,Uttar Pradesh / Hamirpur,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Hardoi,UTTAR PRADESH,HARDOI,partial_demographics_missing_core_fields,True,True,True,True,,,Hardoi,Uttar Pradesh / Hardoi,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Hathras,UTTAR PRADESH,HATHRAS,partial_demographics_missing_core_fields,True,True,True,True,,,Hathras,Uttar Pradesh / Hathras,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Jalaun,UTTAR PRADESH,JALAUN,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Jalaun,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Jaunpur,UTTAR PRADESH,JAUNPUR,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Jaunpur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Jhansi,UTTAR PRADESH,JHANSI,partial_demographics_missing_core_fields,True,True,True,True,,,Jhansi,Uttar Pradesh / Jhansi,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Kairana,UTTAR PRADESH,KAIRANA,partial_demographics_missing_core_fields,True,True,True,True,,,Kairana,Uttar Pradesh / Kairana,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Kaiserganj,UTTAR PRADESH,KAISERGANJ,partial_demographics_missing_core_fields,True,True,True,True,,,Kaiserganj,Uttar Pradesh / Kaiserganj,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Kannauj,UTTAR PRADESH,KANNAUJ,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Kannauj,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Kaushambi,UTTAR PRADESH,KAUSHAMBI,partial_demographics_missing_core_fields,True,True,True,True,,,Kaushambi,Uttar Pradesh / Kaushambi,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Kheri,UTTAR PRADESH,KHERI,partial_demographics_missing_core_fields,True,True,True,True,,,Kheri,Uttar Pradesh / Kheri,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Kushi Nagar,UTTAR PRADESH,KUSHI NAGAR,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Kushi Nagar,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Lalganj,UTTAR PRADESH,LALGANJ,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Lalganj,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Lucknow,UTTAR PRADESH,LUCKNOW,partial_demographics_missing_core_fields,True,True,True,True,,,Lucknow,Uttar Pradesh / Lucknow,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Machhlishahr,UTTAR PRADESH,MACHHLISHAHR,election_only_needs_demographics,True,True,True,True,,,Machhlishahr,Uttar Pradesh / Machhlishahr,partial_field_skip,,7,10,manual_research_required
+Uttar Pradesh,Maharajganj,UTTAR PRADESH,MAHARAJGANJ,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Maharajganj,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Mainpuri,UTTAR PRADESH,MAINPURI,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Mainpuri,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Mathura,UTTAR PRADESH,MATHURA,partial_demographics_missing_core_fields,True,True,True,True,,,Mathura,Uttar Pradesh / Mathura,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Meerut,UTTAR PRADESH,MEERUT,partial_demographics_missing_core_fields,True,True,True,True,,,Meerut,Uttar Pradesh / Meerut,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Mirzapur,UTTAR PRADESH,MIRZAPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Mirzapur,Uttar Pradesh / Mirzapur,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Misrikh,UTTAR PRADESH,MISRIKH,partial_demographics_missing_core_fields,True,True,True,True,,,Misrikh,Uttar Pradesh / Misrikh,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Mohanlalganj,UTTAR PRADESH,MOHANLALGANJ,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Lalganj,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Moradabad,UTTAR PRADESH,MORADABAD,partial_demographics_missing_core_fields,True,True,True,True,,,Moradabad,Uttar Pradesh / Moradabad,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Muzaffarnagar,UTTAR PRADESH,MUZAFFARNAGAR,partial_demographics_missing_core_fields,True,True,True,True,,,Muzaffarnagar,Uttar Pradesh / Muzaffarnagar,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Nagina,UTTAR PRADESH,NAGINA,partial_demographics_missing_core_fields,True,True,True,True,,,Nagina,Uttar Pradesh / Nagina,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Phulpur,UTTAR PRADESH,PHULPUR,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Phulpur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Pilibhit,UTTAR PRADESH,PILIBHIT,partial_demographics_missing_core_fields,True,True,True,True,,,Pilibhit,Uttar Pradesh / Pilibhit,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Pratapgarh,UTTAR PRADESH,PRATAPGARH,partial_demographics_missing_core_fields,True,True,True,True,,,Pratapgarh,Uttar Pradesh / Pratapgarh,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Rae Bareli,UTTAR PRADESH,RAE BARELI,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Rae Bareli,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Rampur,UTTAR PRADESH,RAMPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Rampur,Uttar Pradesh / Rampur,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Robertsganj,UTTAR PRADESH,ROBERTSGANJ,partial_demographics_missing_core_fields,True,True,True,True,,,Robertsganj,Uttar Pradesh / Robertsganj,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Saharanpur,UTTAR PRADESH,SAHARANPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Saharanpur,Uttar Pradesh / Saharanpur,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Salempur,UTTAR PRADESH,SALEMPUR,election_only_needs_demographics,True,True,True,True,,,Salempur,Uttar Pradesh / Salempur,partial_field_skip,,7,10,manual_research_required
+Uttar Pradesh,Sambhal,UTTAR PRADESH,SAMBHAL,partial_demographics_missing_core_fields,True,True,True,True,,,Sambhal,Uttar Pradesh / Sambhal,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Sant Kabir Nagar,UTTAR PRADESH,SANT KABIR NAGAR,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Sant Kabir Nagar,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttar Pradesh,Shahjahanpur,UTTAR PRADESH,SHAHJAHANPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Shahjahanpur,Uttar Pradesh / Shahjahanpur,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Shrawasti,UTTAR PRADESH,SHRAWASTI,partial_demographics_missing_core_fields,True,True,True,True,,,Shrawasti,Uttar Pradesh / Shrawasti,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Sitapur,UTTAR PRADESH,SITAPUR,partial_demographics_missing_core_fields,True,True,True,True,,,Sitapur,Uttar Pradesh / Sitapur,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Unnao,UTTAR PRADESH,UNNAO,partial_demographics_missing_core_fields,True,True,True,True,,,Unnao,Uttar Pradesh / Unnao,partial_field_skip,,6,9,manual_research_required
+Uttar Pradesh,Varanasi,UTTAR PRADESH,VARANASI,election_only_needs_demographics,True,True,True,False,,,,Uttar Pradesh / Varanasi,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttarakhand,Almora,UTTARAKHAND,ALMORA,election_only_needs_demographics,True,True,True,True,,,Almora,Uttarakhand / Almora,partial_field_skip,,7,10,manual_research_required
+Uttarakhand,Garhwal,UTTARAKHAND,GARHWAL,election_only_needs_demographics,True,True,True,True,,,Garhwal,Uttarakhand / Garhwal,partial_field_skip,,7,10,manual_research_required
+Uttarakhand,Haridwar,UTTARAKHAND,HARIDWAR,election_only_needs_demographics,True,True,True,False,,,,Uttarakhand / Haridwar,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttarakhand,Nainital-Udhamsingh Nagar,UTTARAKHAND,NAINITAL UDHAMSINGH NAGAR,election_only_needs_demographics,True,True,True,True,,,"Nainital- Udham singh Nagar         Kaladhungi, 62-Jaspur, 63-Kashipur, 64-Bajpur (SC), 65-Gadarpur, 66-",Uttarakhand / Nainital-Udhamsingh Nagar,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+Uttarakhand,Tehri Garhwal,UTTARAKHAND,TEHRI GARHWAL,election_only_needs_demographics,True,True,True,True,,,Garhwal,Uttarakhand / Garhwal,partial_field_skip,,7,10,manual_research_required
+West Bengal,Alipurduars,WEST BENGAL,ALIPURDUARS,election_only_needs_demographics,True,True,True,True,,,"ALIPURDUARS (ST) 9. TUFANGANJ, 10. KUMARGRAM (ST), 11. KALCHINI (ST), 12",West Bengal / Alipurduars,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+West Bengal,Arambag,WEST BENGAL,ARAMBAG,partial_demographics_missing_core_fields,True,True,False,True,,,ARAMBAG,West Bengal / Arambag,partial_field_skip,,6,9,manual_research_required
+West Bengal,Asansol,WEST BENGAL,ASANSOL,partial_demographics_missing_core_fields,True,True,True,True,,,ASANSOL,West Bengal / Asansol,partial_field_skip,,6,9,manual_research_required
+West Bengal,Baharampur,WEST BENGAL,BAHARAMPUR,partial_demographics_missing_core_fields,True,True,True,True,,,BAHARAMPUR,West Bengal / Baharampur,partial_field_skip,,6,9,manual_research_required
+West Bengal,Balurghat,WEST BENGAL,BALURGHAT,partial_demographics_missing_core_fields,True,True,True,True,,,BALURGHAT,West Bengal / Balurghat,partial_field_skip,,6,9,manual_research_required
+West Bengal,Bangaon,WEST BENGAL,BANGAON,partial_demographics_missing_core_fields,True,True,True,True,,,BANGAON,West Bengal / Bangaon,partial_field_skip,,6,9,manual_research_required
+West Bengal,Bankura,WEST BENGAL,BANKURA,partial_demographics_missing_core_fields,True,True,True,True,,,BANKURA,West Bengal / Bankura,partial_field_skip,,6,9,manual_research_required
+West Bengal,Barasat,WEST BENGAL,BARASAT,partial_demographics_missing_core_fields,True,True,True,True,,,BARASAT,West Bengal / Barasat,partial_field_skip,,6,9,manual_research_required
+West Bengal,Bardhaman Purba,WEST BENGAL,BARDHAMAN PURBA,election_only_needs_demographics,True,True,True,True,,,"BARDHAMAN DURGAPUR              BARDHAMAN UTTAR (SC), 267. BHATAR, 274. GALSI (SC),",West Bengal / Bardhaman Purba,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+West Bengal,Bardhaman-Durgapur,WEST BENGAL,BARDHAMAN DURGAPUR,election_only_needs_demographics,True,True,True,True,,,"BARDHAMAN DURGAPUR              BARDHAMAN UTTAR (SC), 267. BHATAR, 274. GALSI (SC),",West Bengal / Bardhaman Purba,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+West Bengal,Barrackpur,WEST BENGAL,BARRACKPUR,partial_demographics_missing_core_fields,True,True,False,True,,,BARRACKPUR,West Bengal / Barrackpur,partial_field_skip,,6,9,manual_research_required
+West Bengal,Basirhat,WEST BENGAL,BASIRHAT,partial_demographics_missing_core_fields,True,True,True,True,,,BASIRHAT,West Bengal / Basirhat,partial_field_skip,,6,9,manual_research_required
+West Bengal,Birbhum,WEST BENGAL,BIRBHUM,partial_demographics_missing_core_fields,True,True,True,True,,,BIRBHUM,West Bengal / Birbhum,partial_field_skip,,6,9,manual_research_required
+West Bengal,Bishnupur,WEST BENGAL,BISHNUPUR,election_only_needs_demographics,True,True,True,True,,,"BISHNUPUR (SC) 253. BARJORA, 254. ONDA, 255. BISHNUPUR, 256",West Bengal / Bishnupur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+West Bengal,Bolpur,WEST BENGAL,BOLPUR,partial_demographics_missing_core_fields,True,True,True,True,,,BOLPUR,West Bengal / Bolpur,partial_field_skip,,6,9,manual_research_required
+West Bengal,Coochbehar,WEST BENGAL,COOCHBEHAR,partial_demographics_missing_core_fields,True,True,False,True,,,COOCHBEHAR,West Bengal / Coochbehar,partial_field_skip,,6,9,manual_research_required
+West Bengal,Darjeeling,WEST BENGAL,DARJEELING,partial_demographics_missing_core_fields,True,True,True,True,,,DARJEELING,West Bengal / Darjeeling,partial_field_skip,,6,9,manual_research_required
+West Bengal,Diamond harbour,WEST BENGAL,DIAMOND HARBOUR,election_only_needs_demographics,True,True,True,True,,,DIAMOND,West Bengal / Diamond harbour,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+West Bengal,Dum dum,WEST BENGAL,DUM DUM,partial_demographics_missing_core_fields,True,True,True,True,,,DUM DUM,West Bengal / Dum dum,partial_field_skip,,6,9,manual_research_required
+West Bengal,Ghatal,WEST BENGAL,GHATAL,election_only_needs_demographics,True,True,True,True,,,GHATAL,West Bengal / Ghatal,partial_field_skip,,7,10,manual_research_required
+West Bengal,Hooghly,WEST BENGAL,HOOGHLY,partial_demographics_missing_core_fields,True,True,True,True,,,HOOGHLY,West Bengal / Hooghly,partial_field_skip,,6,9,manual_research_required
+West Bengal,Howrah,WEST BENGAL,HOWRAH,partial_demographics_missing_core_fields,True,True,True,True,,,HOWRAH,West Bengal / Howrah,partial_field_skip,,6,9,manual_research_required
+West Bengal,Jadavpur,WEST BENGAL,JADAVPUR,partial_demographics_missing_core_fields,True,True,True,True,,,JADAVPUR,West Bengal / Jadavpur,partial_field_skip,,6,9,manual_research_required
+West Bengal,Jalpaiguri,WEST BENGAL,JALPAIGURI,partial_demographics_missing_core_fields,True,True,True,True,,,JALPAIGURI,West Bengal / Jalpaiguri,partial_field_skip,,6,9,manual_research_required
+West Bengal,Jangipur,WEST BENGAL,JANGIPUR,partial_demographics_missing_core_fields,True,True,True,True,,,JANGIPUR,West Bengal / Jangipur,partial_field_skip,,6,9,manual_research_required
+West Bengal,Jaynagar,WEST BENGAL,JAYNAGAR,partial_demographics_missing_core_fields,True,True,True,True,,,JAYNAGAR,West Bengal / Jaynagar,partial_field_skip,,6,9,manual_research_required
+West Bengal,Jhargram,WEST BENGAL,JHARGRAM,election_only_needs_demographics,True,True,True,True,,,JHARGRAM,West Bengal / Jhargram,partial_field_skip,,7,10,manual_research_required
+West Bengal,Kanthi,WEST BENGAL,KANTHI,election_only_needs_demographics,True,True,True,True,,,KANTHI,West Bengal / Kanthi,partial_field_skip,,7,10,manual_research_required
+West Bengal,Kolkata Dakshin,WEST BENGAL,KOLKATA DAKSHIN,election_only_needs_demographics,True,True,True,True,,,KOLKATA,West Bengal / Kolkata Dakshin,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+West Bengal,Kolkata Uttar,WEST BENGAL,KOLKATA UTTAR,election_only_needs_demographics,True,True,True,True,,,KOLKATA,West Bengal / Kolkata Dakshin,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+West Bengal,Krishnanagar,WEST BENGAL,KRISHNANAGAR,election_only_needs_demographics,True,True,True,True,,,"KRISHNANAGAR 78 TEHATTA, 79 PALASHIPARA, 80. KALIGANJ, 81",West Bengal / Krishnanagar,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+West Bengal,Maldaha Dakshin,WEST BENGAL,MALDAHA DAKSHIN,election_only_needs_demographics,True,True,True,True,,,MALDAHA,West Bengal / Maldaha Dakshin,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+West Bengal,Maldaha Uttar,WEST BENGAL,MALDAHA UTTAR,election_only_needs_demographics,True,True,True,True,,,MALDAHA,West Bengal / Maldaha Dakshin,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+West Bengal,Mathurapur,WEST BENGAL,MATHURAPUR,partial_demographics_missing_core_fields,True,True,True,True,,,MATHURAPUR,West Bengal / Mathurapur,partial_field_skip,,6,9,manual_research_required
+West Bengal,Medinipur,WEST BENGAL,MEDINIPUR,election_only_needs_demographics,True,True,True,True,,,MEDINIPUR KHARAGPUR SADAR,West Bengal / Medinipur,no_delimitation_mapping,,0,10,add_missing_delimitation_mapping
+West Bengal,Murshidabad,WEST BENGAL,MURSHIDABAD,partial_demographics_missing_core_fields,True,True,True,True,,,MURSHIDABAD,West Bengal / Murshidabad,partial_field_skip,,6,9,manual_research_required
+West Bengal,Purulia,WEST BENGAL,PURULIA,partial_demographics_missing_core_fields,True,True,True,True,,,PURULIA,West Bengal / Purulia,partial_field_skip,,6,9,manual_research_required
+West Bengal,Raiganj,WEST BENGAL,RAIGANJ,partial_demographics_missing_core_fields,True,True,True,True,,,RAIGANJ,West Bengal / Raiganj,partial_field_skip,,6,9,manual_research_required
+West Bengal,Ranaghat,WEST BENGAL,RANAGHAT,partial_demographics_missing_core_fields,True,True,True,True,,,RANAGHAT,West Bengal / Ranaghat,partial_field_skip,,6,9,manual_research_required
+West Bengal,Sreerampur,WEST BENGAL,SREERAMPUR,partial_demographics_missing_core_fields,True,True,True,True,,,SREERAMPUR,West Bengal / Sreerampur,partial_field_skip,,6,9,manual_research_required
+West Bengal,Tamluk,WEST BENGAL,TAMLUK,election_only_needs_demographics,True,True,True,True,,,TAMLUK,West Bengal / Tamluk,partial_field_skip,,7,10,manual_research_required
+West Bengal,Uluberia,WEST BENGAL,ULUBERIA,partial_demographics_missing_core_fields,True,True,True,True,,,ULUBERIA,West Bengal / Uluberia,partial_field_skip,,6,9,manual_research_required

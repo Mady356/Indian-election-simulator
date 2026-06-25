@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-20",
+    "generated_at": "2026-06-22",
     "constituency_count": 542,
     "completeness_counts": {
       "full_party_shares": 541,
@@ -77,6 +77,7 @@
       "inc_vote_share_2024": 38.54,
       "margin_2024": 12.05,
       "turnout_2024": 32.44,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 50.58,
@@ -128,6 +129,7 @@
       "inc_vote_share_2024": 1.16,
       "margin_2024": 26.3,
       "turnout_2024": 52.01,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "TDP": 61.25,
@@ -184,6 +186,7 @@
       "inc_vote_share_2024": 1.94,
       "margin_2024": 22.37,
       "turnout_2024": 47.59,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 57.5,
@@ -236,6 +239,7 @@
       "inc_vote_share_2024": 3.0,
       "margin_2024": 13.09,
       "turnout_2024": 43.42,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "TDP": 53.33,
@@ -293,6 +297,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 4.34,
       "turnout_2024": 30.63,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "YSRCP": 40.96,
@@ -345,6 +350,7 @@
       "inc_vote_share_2024": 3.33,
       "margin_2024": 15.99,
       "turnout_2024": 47.48,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "TDP": 55.16,
@@ -399,6 +405,7 @@
       "inc_vote_share_2024": 2.12,
       "margin_2024": 15.54,
       "turnout_2024": 47.34,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "TDP": 54.84,
@@ -449,6 +456,7 @@
       "inc_vote_share_2024": 1.51,
       "margin_2024": 13.16,
       "turnout_2024": 45.56,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "TDP": 54.0,
@@ -503,6 +511,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 24.18,
       "turnout_2024": 48.23,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "TDP": 60.68,
@@ -567,6 +576,7 @@
       "inc_vote_share_2024": 3.89,
       "margin_2024": 9.35,
       "turnout_2024": 43.75,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "TDP": 51.23,
@@ -618,6 +628,7 @@
       "inc_vote_share_2024": 10.67,
       "margin_2024": 4.74,
       "turnout_2024": 36.87,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "YSRCP": 45.78,
@@ -673,6 +684,7 @@
       "inc_vote_share_2024": 1.59,
       "margin_2024": 17.26,
       "turnout_2024": 44.63,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "JNP": 54.87,
@@ -726,6 +738,7 @@
       "inc_vote_share_2024": 5.29,
       "margin_2024": 8.36,
       "turnout_2024": 38.22,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "TDP": 49.51,
@@ -781,6 +794,7 @@
       "inc_vote_share_2024": 2.43,
       "margin_2024": 17.01,
       "turnout_2024": 47.04,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "JNP": 55.22,
@@ -831,6 +845,7 @@
       "inc_vote_share_2024": 4.0,
       "margin_2024": 7.97,
       "turnout_2024": 40.66,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "TDP": 49.92,
@@ -888,6 +903,7 @@
       "inc_vote_share_2024": 2.86,
       "margin_2024": 22.49,
       "turnout_2024": 48.0,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 57.46,
@@ -939,6 +955,7 @@
       "inc_vote_share_2024": 1.2,
       "margin_2024": 10.65,
       "turnout_2024": 46.54,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "TDP": 53.88,
@@ -995,6 +1012,7 @@
       "inc_vote_share_2024": 3.99,
       "margin_2024": 17.88,
       "turnout_2024": 44.73,
+      "nfhs5_coverage_share": 0.1429,
       "data_quality_label": "low",
       "party_vote_shares_2024": {
         "TDP": 55.7,
@@ -1052,6 +1070,7 @@
       "inc_vote_share_2024": 1.88,
       "margin_2024": 3.53,
       "turnout_2024": 43.47,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "TDP": 49.35,
@@ -1105,6 +1124,7 @@
       "inc_vote_share_2024": 2.45,
       "margin_2024": 18.04,
       "turnout_2024": 44.74,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 54.82,
@@ -1156,6 +1176,7 @@
       "inc_vote_share_2024": 4.0,
       "margin_2024": 5.71,
       "turnout_2024": 38.67,
+      "nfhs5_coverage_share": 0.5714,
       "data_quality_label": "medium",
       "party_vote_shares_2024": {
         "YSRCP": 48.38,
@@ -1208,6 +1229,7 @@
       "inc_vote_share_2024": 0.58,
       "margin_2024": 26.54,
       "turnout_2024": 45.81,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "TDP": 61.05,
@@ -1260,6 +1282,7 @@
       "inc_vote_share_2024": 4.74,
       "margin_2024": 1.05,
       "turnout_2024": 36.54,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "YSRCP": 45.73,
@@ -1319,6 +1342,7 @@
       "inc_vote_share_2024": 1.77,
       "margin_2024": 20.67,
       "turnout_2024": 46.59,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "TDP": 58.21,
@@ -1377,6 +1401,7 @@
       "inc_vote_share_2024": 2.18,
       "margin_2024": 36.35,
       "turnout_2024": 46.98,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "TDP": 65.42,
@@ -1439,6 +1464,7 @@
       "inc_vote_share_2024": 0.82,
       "margin_2024": 19.19,
       "turnout_2024": 46.71,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "TDP": 57.2,
@@ -1492,6 +1518,7 @@
       "inc_vote_share_2024": 35.6,
       "margin_2024": 9.41,
       "turnout_2024": 38.48,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 45.01,
@@ -1535,6 +1562,7 @@
       "inc_vote_share_2024": 26.18,
       "margin_2024": 25.2,
       "turnout_2024": 39.5,
+      "nfhs5_coverage_share": 0.9656,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 51.38,
@@ -1578,6 +1606,7 @@
       "inc_vote_share_2024": 37.83,
       "margin_2024": 13.19,
       "turnout_2024": 43.46,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AGP": 51.02,
@@ -1631,6 +1660,7 @@
       "inc_vote_share_2024": 29.78,
       "margin_2024": 18.17,
       "turnout_2024": 39.21,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 47.95,
@@ -1685,6 +1715,7 @@
       "inc_vote_share_2024": 59.99,
       "margin_2024": 41.26,
       "turnout_2024": 55.25,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 59.99,
@@ -1739,6 +1770,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 21.85,
       "turnout_2024": 41.74,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 54.27,
@@ -1776,6 +1808,7 @@
       "inc_vote_share_2024": 18.16,
       "margin_2024": 21.62,
       "turnout_2024": 37.1,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 49.01,
@@ -1824,6 +1857,7 @@
       "inc_vote_share_2024": 40.25,
       "margin_2024": 15.7,
       "turnout_2024": 43.87,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 55.95,
@@ -1874,6 +1908,7 @@
       "inc_vote_share_2024": 54.04,
       "margin_2024": 10.38,
       "turnout_2024": 43.38,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 54.04,
@@ -1917,6 +1952,7 @@
       "inc_vote_share_2024": 45.93,
       "margin_2024": 1.6,
       "turnout_2024": 38.54,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 47.53,
@@ -1967,6 +2003,7 @@
       "inc_vote_share_2024": 39.76,
       "margin_2024": 15.27,
       "turnout_2024": 43.68,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 55.04,
@@ -2017,6 +2054,7 @@
       "inc_vote_share_2024": 9.16,
       "margin_2024": 4.15,
       "turnout_2024": 32.72,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "UPPL": 39.39,
@@ -2066,6 +2104,7 @@
       "inc_vote_share_2024": 38.13,
       "margin_2024": 16.62,
       "turnout_2024": 41.96,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 54.75,
@@ -2116,6 +2155,7 @@
       "inc_vote_share_2024": 50.89,
       "margin_2024": 13.69,
       "turnout_2024": 43.32,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 50.89,
@@ -2167,6 +2207,7 @@
       "inc_vote_share_2024": 35.62,
       "margin_2024": 24.26,
       "turnout_2024": 47.46,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 59.89,
@@ -2217,6 +2258,7 @@
       "inc_vote_share_2024": 32.16,
       "margin_2024": 28.05,
       "turnout_2024": 47.33,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 60.21,
@@ -2268,6 +2310,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 1.6,
       "turnout_2024": 29.71,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 47.91,
@@ -2317,6 +2360,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 5.45,
       "turnout_2024": 24.24,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "CPI(ML)(L)": 48.28,
@@ -2369,6 +2413,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 8.36,
       "turnout_2024": 24.82,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "RJD": 49.22,
@@ -2419,6 +2464,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 10.24,
       "turnout_2024": 27.24,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "JDU": 49.96,
@@ -2470,6 +2516,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 6.29,
       "turnout_2024": 29.51,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 50.15,
@@ -2521,6 +2568,7 @@
       "inc_vote_share_2024": 40.52,
       "margin_2024": 9.86,
       "turnout_2024": 26.96,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "JDU": 50.38,
@@ -2573,6 +2621,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 2.8,
       "turnout_2024": 22.66,
+      "nfhs5_coverage_share": 1.0001,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "RJD": 40.82,
@@ -2622,6 +2671,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 17.39,
       "turnout_2024": 31.78,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 55.33,
@@ -2673,6 +2723,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 10.56,
       "turnout_2024": 27.18,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "HAMS": 51.36,
@@ -2723,6 +2774,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 11.96,
       "turnout_2024": 25.25,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "JDU": 48.15,
@@ -2773,6 +2825,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 14.72,
       "turnout_2024": 31.21,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "LJPRV": 53.29,
@@ -2825,6 +2878,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 15.41,
       "turnout_2024": 26.39,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "RJD": 47.88,
@@ -2879,6 +2933,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 11.49,
       "turnout_2024": 26.64,
+      "nfhs5_coverage_share": 1.0001,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "LJPRV": 51.98,
@@ -2929,6 +2984,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 16.84,
       "turnout_2024": 26.58,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "JDU": 48.73,
@@ -2978,6 +3034,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 10.26,
       "turnout_2024": 20.16,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "CPI(ML)(L)": 36.89,
@@ -3030,6 +3087,7 @@
       "inc_vote_share_2024": 48.41,
       "margin_2024": 4.26,
       "turnout_2024": 30.91,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 48.41,
@@ -3081,6 +3139,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 15.17,
       "turnout_2024": 29.22,
+      "nfhs5_coverage_share": 1.0001,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "LJPRV": 50.73,
@@ -3133,6 +3192,7 @@
       "inc_vote_share_2024": 35.0,
       "margin_2024": 5.19,
       "turnout_2024": 22.01,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 35.0,
@@ -3182,6 +3242,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 14.43,
       "turnout_2024": 30.9,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "JDU": 52.96,
@@ -3233,6 +3294,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 14.78,
       "turnout_2024": 28.57,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 53.85,
@@ -3287,6 +3349,7 @@
       "inc_vote_share_2024": 42.09,
       "margin_2024": 10.12,
       "turnout_2024": 27.26,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 52.22,
@@ -3335,6 +3398,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 7.1,
       "turnout_2024": 26.81,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "JDU": 48.3,
@@ -3384,6 +3448,7 @@
       "inc_vote_share_2024": 34.59,
       "margin_2024": 21.12,
       "turnout_2024": 33.16,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 55.71,
@@ -3441,6 +3506,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 14.78,
       "turnout_2024": 24.39,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "JDU": 48.88,
@@ -3501,6 +3567,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 7.78,
       "turnout_2024": 20.43,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 47.2,
@@ -3551,6 +3618,7 @@
       "inc_vote_share_2024": 40.86,
       "margin_2024": 12.57,
       "turnout_2024": 32.99,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 53.43,
@@ -3599,6 +3667,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 6.92,
       "turnout_2024": 29.48,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "RJD": 49.86,
@@ -3662,6 +3731,7 @@
       "inc_vote_share_2024": 40.39,
       "margin_2024": 14.3,
       "turnout_2024": 25.63,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 54.7,
@@ -3718,6 +3788,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 1.99,
       "turnout_2024": 29.95,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "IND": 48.81,
@@ -3766,6 +3837,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 8.22,
       "turnout_2024": 30.23,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 50.5,
@@ -3815,6 +3887,7 @@
       "inc_vote_share_2024": 35.86,
       "margin_2024": 17.11,
       "turnout_2024": 31.86,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "LJPRV": 52.97,
@@ -3866,6 +3939,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 1.34,
       "turnout_2024": 26.2,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 46.18,
@@ -3918,6 +3992,7 @@
       "inc_vote_share_2024": 46.76,
       "margin_2024": 1.75,
       "turnout_2024": 26.79,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 46.76,
@@ -3971,6 +4046,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 2.76,
       "turnout_2024": 25.98,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "JDU": 45.15,
@@ -4025,6 +4101,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 4.69,
       "turnout_2024": 26.45,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "JDU": 47.14,
@@ -4075,6 +4152,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 9.3,
       "turnout_2024": 20.32,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "JDU": 38.73,
@@ -4123,6 +4201,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 13.79,
       "turnout_2024": 30.85,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "JDU": 48.33,
@@ -4175,6 +4254,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 5.77,
       "turnout_2024": 29.51,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 49.51,
@@ -4227,6 +4307,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 7.65,
       "turnout_2024": 30.29,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "LJPRV": 48.38,
@@ -4281,6 +4362,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 8.96,
       "turnout_2024": 28.62,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "JDU": 47.5,
@@ -4330,6 +4412,7 @@
       "inc_vote_share_2024": 48.22,
       "margin_2024": 0.56,
       "turnout_2024": 32.8,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 48.22,
@@ -4381,6 +4464,7 @@
       "inc_vote_share_2024": 40.02,
       "margin_2024": 5.48,
       "turnout_2024": 31.1,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 45.5,
@@ -4434,6 +4518,7 @@
       "inc_vote_share_2024": 41.16,
       "margin_2024": 12.09,
       "turnout_2024": 34.46,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 53.25,
@@ -4492,6 +4577,7 @@
       "inc_vote_share_2024": 33.59,
       "margin_2024": 28.4,
       "turnout_2024": 45.71,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 62.0,
@@ -4549,6 +4635,7 @@
       "inc_vote_share_2024": 44.4,
       "margin_2024": 4.31,
       "turnout_2024": 32.95,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 48.71,
@@ -4604,6 +4691,7 @@
       "inc_vote_share_2024": 47.08,
       "margin_2024": 0.15,
       "turnout_2024": 36.02,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 47.23,
@@ -4656,6 +4744,7 @@
       "inc_vote_share_2024": 46.53,
       "margin_2024": 3.53,
       "turnout_2024": 35.2,
+      "nfhs5_coverage_share": 0.5715,
       "data_quality_label": "medium",
       "party_vote_shares_2024": {
         "INC": 46.53,
@@ -4709,6 +4798,7 @@
       "inc_vote_share_2024": 42.09,
       "margin_2024": 10.97,
       "turnout_2024": 39.9,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 53.06,
@@ -4762,6 +4852,7 @@
       "inc_vote_share_2024": 39.08,
       "margin_2024": 16.54,
       "turnout_2024": 43.91,
+      "nfhs5_coverage_share": 1.0001,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 55.63,
@@ -4813,6 +4904,7 @@
       "inc_vote_share_2024": 29.94,
       "margin_2024": 36.26,
       "turnout_2024": 44.21,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 66.19,
@@ -4875,6 +4967,7 @@
       "inc_vote_share_2024": 46.19,
       "margin_2024": 3.07,
       "turnout_2024": 38.09,
+      "nfhs5_coverage_share": 0.75,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 49.26,
@@ -4927,6 +5020,7 @@
       "inc_vote_share_2024": 44.55,
       "margin_2024": 4.45,
       "turnout_2024": 39.17,
+      "nfhs5_coverage_share": 0.875,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 49.01,
@@ -4977,6 +5071,7 @@
       "inc_vote_share_2024": 30.88,
       "margin_2024": 28.01,
       "turnout_2024": 42.78,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 58.89,
@@ -5025,6 +5120,7 @@
       "inc_vote_share_2024": 12.18,
       "margin_2024": 6.74,
       "turnout_2024": 31.69,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "IND": 46.9,
@@ -5068,6 +5164,7 @@
       "inc_vote_share_2024": 30.99,
       "margin_2024": 25.45,
       "turnout_2024": 44.39,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 56.44,
@@ -5117,6 +5214,7 @@
       "inc_vote_share_2024": 48.35,
       "margin_2024": 3.0,
       "turnout_2024": 36.37,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 48.35,
@@ -5166,6 +5264,7 @@
       "inc_vote_share_2024": 27.36,
       "margin_2024": 40.92,
       "turnout_2024": 37.76,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 68.28,
@@ -5220,6 +5319,7 @@
       "inc_vote_share_2024": 33.65,
       "margin_2024": 29.63,
       "turnout_2024": 35.41,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 63.28,
@@ -5269,6 +5369,7 @@
       "inc_vote_share_2024": 29.64,
       "margin_2024": 36.63,
       "turnout_2024": 33.51,
+      "nfhs5_coverage_share": 0.8572,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 66.28,
@@ -5317,6 +5418,7 @@
       "inc_vote_share_2024": 44.74,
       "margin_2024": 7.7,
       "turnout_2024": 34.4,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 52.44,
@@ -5366,6 +5468,7 @@
       "inc_vote_share_2024": 48.83,
       "margin_2024": 2.21,
       "turnout_2024": 34.22,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 48.83,
@@ -5416,6 +5519,7 @@
       "inc_vote_share_2024": 39.85,
       "margin_2024": 17.19,
       "turnout_2024": 37.29,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 57.04,
@@ -5454,6 +5558,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 7.15,
       "turnout_2024": 35.28,
+      "nfhs5_coverage_share": 0.1429,
       "data_quality_label": "low",
       "party_vote_shares_2024": {
         "BJP": 50.72,
@@ -5502,6 +5607,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 43.48,
       "turnout_2024": 37.37,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 68.46,
@@ -5553,6 +5659,7 @@
       "inc_vote_share_2024": 31.38,
       "margin_2024": 31.46,
       "turnout_2024": 43.71,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 62.84,
@@ -5602,6 +5709,7 @@
       "inc_vote_share_2024": 31.75,
       "margin_2024": 29.84,
       "turnout_2024": 36.71,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 61.59,
@@ -5651,6 +5759,7 @@
       "inc_vote_share_2024": 20.14,
       "margin_2024": 56.34,
       "turnout_2024": 46.3,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 76.48,
@@ -5701,6 +5810,7 @@
       "inc_vote_share_2024": 36.34,
       "margin_2024": 22.64,
       "turnout_2024": 34.09,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 58.98,
@@ -5750,6 +5860,7 @@
       "inc_vote_share_2024": 41.99,
       "margin_2024": 12.68,
       "turnout_2024": 32.51,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 54.67,
@@ -5799,6 +5910,7 @@
       "inc_vote_share_2024": 35.68,
       "margin_2024": 24.54,
       "turnout_2024": 33.94,
+      "nfhs5_coverage_share": 1.0002,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 60.23,
@@ -5851,6 +5963,7 @@
       "inc_vote_share_2024": 32.88,
       "margin_2024": 30.43,
       "turnout_2024": 37.07,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 63.31,
@@ -5904,6 +6017,7 @@
       "inc_vote_share_2024": 33.28,
       "margin_2024": 30.46,
       "turnout_2024": 38.74,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 63.74,
@@ -5953,6 +6067,7 @@
       "inc_vote_share_2024": 19.24,
       "margin_2024": 57.8,
       "turnout_2024": 46.36,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 77.05,
@@ -6005,6 +6120,7 @@
       "inc_vote_share_2024": 25.21,
       "margin_2024": 45.01,
       "turnout_2024": 41.86,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 70.22,
@@ -6053,6 +6169,7 @@
       "inc_vote_share_2024": 46.94,
       "margin_2024": 2.67,
       "turnout_2024": 29.28,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 49.61,
@@ -6102,6 +6219,7 @@
       "inc_vote_share_2024": 26.88,
       "margin_2024": 41.27,
       "turnout_2024": 35.8,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 68.15,
@@ -6152,6 +6270,7 @@
       "inc_vote_share_2024": 29.35,
       "margin_2024": 38.02,
       "turnout_2024": 40.61,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 67.37,
@@ -6195,6 +6314,7 @@
       "inc_vote_share_2024": 41.09,
       "margin_2024": 12.26,
       "turnout_2024": 34.19,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 53.36,
@@ -6246,6 +6366,7 @@
       "inc_vote_share_2024": 36.07,
       "margin_2024": 23.12,
       "turnout_2024": 32.91,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 59.2,
@@ -6297,6 +6418,7 @@
       "inc_vote_share_2024": 24.01,
       "margin_2024": 48.02,
       "turnout_2024": 44.78,
+      "nfhs5_coverage_share": 0.9999,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 72.04,
@@ -6348,6 +6470,7 @@
       "inc_vote_share_2024": 40.66,
       "margin_2024": 15.48,
       "turnout_2024": 41.08,
+      "nfhs5_coverage_share": 0.1667,
       "data_quality_label": "low",
       "party_vote_shares_2024": {
         "BJP": 56.13,
@@ -6397,6 +6520,7 @@
       "inc_vote_share_2024": 49.28,
       "margin_2024": 3.64,
       "turnout_2024": 33.12,
+      "nfhs5_coverage_share": 0.9999,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 49.28,
@@ -6454,6 +6578,7 @@
       "inc_vote_share_2024": 46.24,
       "margin_2024": 3.51,
       "turnout_2024": 32.31,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 49.74,
@@ -6507,6 +6632,7 @@
       "inc_vote_share_2024": 41.84,
       "margin_2024": 11.75,
       "turnout_2024": 32.36,
+      "nfhs5_coverage_share": 0.125,
       "data_quality_label": "low",
       "party_vote_shares_2024": {
         "BJP": 53.6,
@@ -6568,6 +6694,7 @@
       "inc_vote_share_2024": 45.79,
       "margin_2024": 4.69,
       "turnout_2024": 31.27,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 50.48,
@@ -6626,6 +6753,7 @@
       "inc_vote_share_2024": 48.58,
       "margin_2024": 5.4,
       "turnout_2024": 31.7,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 48.58,
@@ -6680,6 +6808,7 @@
       "inc_vote_share_2024": 37.65,
       "margin_2024": 17.28,
       "turnout_2024": 35.04,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 54.93,
@@ -6734,6 +6863,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 2.41,
       "turnout_2024": 30.12,
+      "nfhs5_coverage_share": 0.9999,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 44.96,
@@ -6792,6 +6922,7 @@
       "inc_vote_share_2024": 62.76,
       "margin_2024": 27.66,
       "turnout_2024": 40.95,
+      "nfhs5_coverage_share": 0.8888,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 62.76,
@@ -6847,6 +6978,7 @@
       "inc_vote_share_2024": 54.17,
       "margin_2024": 19.82,
       "turnout_2024": 37.8,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 54.17,
@@ -6900,6 +7032,7 @@
       "inc_vote_share_2024": 48.82,
       "margin_2024": 1.94,
       "turnout_2024": 30.88,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 48.82,
@@ -6955,6 +7088,7 @@
       "inc_vote_share_2024": 40.55,
       "margin_2024": 17.41,
       "turnout_2024": 41.69,
+      "nfhs5_coverage_share": 1.0001,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 57.97,
@@ -7006,6 +7140,7 @@
       "inc_vote_share_2024": 36.74,
       "margin_2024": 24.29,
       "turnout_2024": 41.52,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 61.03,
@@ -7057,6 +7192,7 @@
       "inc_vote_share_2024": 45.51,
       "margin_2024": 7.36,
       "turnout_2024": 38.99,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 52.87,
@@ -7107,6 +7243,7 @@
       "inc_vote_share_2024": 44.16,
       "margin_2024": 9.43,
       "turnout_2024": 38.37,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 53.58,
@@ -7155,6 +7292,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 27.46,
       "turnout_2024": 28.21,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "JKN": 50.85,
@@ -7207,6 +7345,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 19.74,
       "turnout_2024": 27.08,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "IND": 52.63,
@@ -7257,6 +7396,7 @@
       "inc_vote_share_2024": 42.4,
       "margin_2024": 10.41,
       "turnout_2024": 37.81,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 52.8,
@@ -7311,6 +7451,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 27.9,
       "turnout_2024": 20.41,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "JKN": 52.85,
@@ -7361,6 +7502,7 @@
       "inc_vote_share_2024": 40.11,
       "margin_2024": 11.17,
       "turnout_2024": 34.8,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 51.28,
@@ -7410,6 +7552,7 @@
       "inc_vote_share_2024": 32.55,
       "margin_2024": 20.34,
       "turnout_2024": 33.94,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 52.89,
@@ -7467,6 +7610,7 @@
       "inc_vote_share_2024": 32.04,
       "margin_2024": 23.22,
       "turnout_2024": 34.46,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 55.26,
@@ -7521,6 +7665,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 1.9,
       "turnout_2024": 34.38,
+      "nfhs5_coverage_share": 0.2,
       "data_quality_label": "low",
       "party_vote_shares_2024": {
         "JMM": 46.23,
@@ -7574,6 +7719,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 6.39,
       "turnout_2024": 24.17,
+      "nfhs5_coverage_share": 0.9999,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AJSUP": 35.67,
@@ -7626,6 +7772,7 @@
       "inc_vote_share_2024": 42.29,
       "margin_2024": 7.28,
       "turnout_2024": 34.14,
+      "nfhs5_coverage_share": 0.3333,
       "data_quality_label": "low",
       "party_vote_shares_2024": {
         "BJP": 49.57,
@@ -7683,6 +7830,7 @@
       "inc_vote_share_2024": 29.88,
       "margin_2024": 21.88,
       "turnout_2024": 33.69,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 51.76,
@@ -7738,6 +7886,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 20.33,
       "turnout_2024": 38.8,
+      "nfhs5_coverage_share": 0.909,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 56.84,
@@ -7795,6 +7944,7 @@
       "inc_vote_share_2024": 54.62,
       "margin_2024": 15.98,
       "turnout_2024": 38.49,
+      "nfhs5_coverage_share": 0.5,
       "data_quality_label": "medium",
       "party_vote_shares_2024": {
         "INC": 54.62,
@@ -7844,6 +7994,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 27.52,
       "turnout_2024": 35.86,
+      "nfhs5_coverage_share": 0.8334,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 57.79,
@@ -7894,6 +8045,7 @@
       "inc_vote_share_2024": 49.95,
       "margin_2024": 14.39,
       "turnout_2024": 33.35,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 49.95,
@@ -7945,6 +8097,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 20.77,
       "turnout_2024": 34.27,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 55.39,
@@ -7997,6 +8150,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 14.63,
       "turnout_2024": 35.96,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "JMM": 50.35,
@@ -8051,6 +8205,7 @@
       "inc_vote_share_2024": 37.59,
       "margin_2024": 8.32,
       "turnout_2024": 30.18,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 45.91,
@@ -8113,6 +8268,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 16.71,
       "turnout_2024": 35.89,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "JMM": 51.62,
@@ -8166,6 +8322,7 @@
       "inc_vote_share_2024": 45.74,
       "margin_2024": 5.19,
       "turnout_2024": 37.07,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 50.93,
@@ -8220,6 +8377,7 @@
       "inc_vote_share_2024": 41.46,
       "margin_2024": 14.81,
       "turnout_2024": 30.67,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 56.27,
@@ -8277,6 +8435,7 @@
       "inc_vote_share_2024": 42.16,
       "margin_2024": 14.05,
       "turnout_2024": 38.5,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 56.21,
@@ -8333,6 +8492,7 @@
       "inc_vote_share_2024": 37.92,
       "margin_2024": 22.18,
       "turnout_2024": 32.06,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 60.1,
@@ -8387,6 +8547,7 @@
       "inc_vote_share_2024": 47.57,
       "margin_2024": 2.48,
       "turnout_2024": 27.07,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 50.05,
@@ -8445,6 +8606,7 @@
       "inc_vote_share_2024": 42.17,
       "margin_2024": 12.89,
       "turnout_2024": 39.45,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 55.06,
@@ -8495,6 +8657,7 @@
       "inc_vote_share_2024": 52.58,
       "margin_2024": 7.12,
       "turnout_2024": 38.78,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 52.58,
@@ -8546,6 +8709,7 @@
       "inc_vote_share_2024": 53.63,
       "margin_2024": 10.37,
       "turnout_2024": 35.17,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 53.63,
@@ -8598,6 +8762,7 @@
       "inc_vote_share_2024": 45.95,
       "margin_2024": 5.96,
       "turnout_2024": 34.54,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 51.91,
@@ -8649,6 +8814,7 @@
       "inc_vote_share_2024": 54.87,
       "margin_2024": 13.78,
       "turnout_2024": 42.26,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 54.87,
@@ -8701,6 +8867,7 @@
       "inc_vote_share_2024": 43.06,
       "margin_2024": 10.68,
       "turnout_2024": 41.51,
+      "nfhs5_coverage_share": 1.0001,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 53.74,
@@ -8754,6 +8921,7 @@
       "inc_vote_share_2024": 51.21,
       "margin_2024": 6.52,
       "turnout_2024": 40.3,
+      "nfhs5_coverage_share": 1.0001,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 51.21,
@@ -8804,6 +8972,7 @@
       "inc_vote_share_2024": 46.58,
       "margin_2024": 3.52,
       "turnout_2024": 36.87,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 50.11,
@@ -8856,6 +9025,7 @@
       "inc_vote_share_2024": 43.43,
       "margin_2024": 10.54,
       "turnout_2024": 42.03,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 53.97,
@@ -8906,6 +9076,7 @@
       "inc_vote_share_2024": 47.95,
       "margin_2024": 1.98,
       "turnout_2024": 37.03,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 47.95,
@@ -8962,6 +9133,7 @@
       "inc_vote_share_2024": 45.29,
       "margin_2024": 7.12,
       "turnout_2024": 39.05,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 52.41,
@@ -9017,6 +9189,7 @@
       "inc_vote_share_2024": 49.78,
       "margin_2024": 2.08,
       "turnout_2024": 31.08,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 49.78,
@@ -9069,6 +9242,7 @@
       "inc_vote_share_2024": 49.67,
       "margin_2024": 3.15,
       "turnout_2024": 38.7,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 49.67,
@@ -9120,6 +9294,7 @@
       "inc_vote_share_2024": 47.43,
       "margin_2024": 3.12,
       "turnout_2024": 39.32,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 50.55,
@@ -9173,6 +9348,7 @@
       "inc_vote_share_2024": 45.76,
       "margin_2024": 5.27,
       "turnout_2024": 40.01,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "JD(S)": 51.02,
@@ -9225,6 +9401,7 @@
       "inc_vote_share_2024": 49.93,
       "margin_2024": 3.49,
       "turnout_2024": 35.54,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 49.93,
@@ -9278,6 +9455,7 @@
       "inc_vote_share_2024": 38.85,
       "margin_2024": 19.49,
       "turnout_2024": 47.85,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "JD(S)": 58.34,
@@ -9328,6 +9506,7 @@
       "inc_vote_share_2024": 44.21,
       "margin_2024": 9.38,
       "turnout_2024": 37.98,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 53.59,
@@ -9382,6 +9561,7 @@
       "inc_vote_share_2024": 51.63,
       "margin_2024": 6.14,
       "turnout_2024": 33.37,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 51.63,
@@ -9432,6 +9612,7 @@
       "inc_vote_share_2024": 38.85,
       "margin_2024": 17.7,
       "turnout_2024": 44.41,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 56.54,
@@ -9482,6 +9663,7 @@
       "inc_vote_share_2024": 41.84,
       "margin_2024": 13.47,
       "turnout_2024": 43.38,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 55.31,
@@ -9533,6 +9715,7 @@
       "inc_vote_share_2024": 38.48,
       "margin_2024": 21.08,
       "turnout_2024": 46.18,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 59.56,
@@ -9585,6 +9768,7 @@
       "inc_vote_share_2024": 35.25,
       "margin_2024": 26.72,
       "turnout_2024": 47.55,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 61.97,
@@ -9634,6 +9818,7 @@
       "inc_vote_share_2024": 38.21,
       "margin_2024": 6.0,
       "turnout_2024": 28.76,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 38.21,
@@ -9684,6 +9869,7 @@
       "inc_vote_share_2024": 38.63,
       "margin_2024": 2.03,
       "turnout_2024": 30.1,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "CPIM": 40.66,
@@ -9732,6 +9918,7 @@
       "inc_vote_share_2024": 33.29,
       "margin_2024": 0.07,
       "turnout_2024": 23.41,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 33.29,
@@ -9780,6 +9967,7 @@
       "inc_vote_share_2024": 41.44,
       "margin_2024": 6.7,
       "turnout_2024": 30.06,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 41.44,
@@ -9829,6 +10017,7 @@
       "inc_vote_share_2024": 52.97,
       "margin_2024": 27.5,
       "turnout_2024": 36.41,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 52.97,
@@ -9880,6 +10069,7 @@
       "inc_vote_share_2024": 51.43,
       "margin_2024": 15.91,
       "turnout_2024": 34.56,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 51.43,
@@ -9928,6 +10118,7 @@
       "inc_vote_share_2024": 48.74,
       "margin_2024": 10.24,
       "turnout_2024": 38.04,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 48.74,
@@ -9976,6 +10167,7 @@
       "inc_vote_share_2024": 44.1,
       "margin_2024": 9.05,
       "turnout_2024": 33.71,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 44.1,
@@ -10024,6 +10216,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 16.41,
       "turnout_2024": 33.33,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "RSP": 48.45,
@@ -10076,6 +10269,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 10.44,
       "turnout_2024": 29.03,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "KEC": 43.6,
@@ -10125,6 +10319,7 @@
       "inc_vote_share_2024": 47.74,
       "margin_2024": 13.41,
       "turnout_2024": 36.33,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 47.74,
@@ -10175,6 +10370,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 27.66,
       "turnout_2024": 43.49,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "IUML": 59.35,
@@ -10224,6 +10420,7 @@
       "inc_vote_share_2024": 41.29,
       "margin_2024": 1.21,
       "turnout_2024": 27.59,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 41.29,
@@ -10273,6 +10470,7 @@
       "inc_vote_share_2024": 40.66,
       "margin_2024": 7.27,
       "turnout_2024": 30.06,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 40.66,
@@ -10321,6 +10519,7 @@
       "inc_vote_share_2024": 39.98,
       "margin_2024": 7.19,
       "turnout_2024": 25.64,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 39.98,
@@ -10371,6 +10570,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 22.97,
       "turnout_2024": 38.23,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "IUML": 54.81,
@@ -10419,6 +10619,7 @@
       "inc_vote_share_2024": 37.19,
       "margin_2024": 1.67,
       "turnout_2024": 24.96,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 37.19,
@@ -10468,6 +10669,7 @@
       "inc_vote_share_2024": 30.08,
       "margin_2024": 6.85,
       "turnout_2024": 27.79,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 37.8,
@@ -10517,6 +10719,7 @@
       "inc_vote_share_2024": 49.65,
       "margin_2024": 10.2,
       "turnout_2024": 39.13,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 49.65,
@@ -10560,6 +10763,7 @@
       "inc_vote_share_2024": 59.69,
       "margin_2024": 33.6,
       "turnout_2024": 44.21,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 59.69,
@@ -10608,6 +10812,7 @@
       "inc_vote_share_2024": 27.59,
       "margin_2024": 20.56,
       "turnout_2024": 34.24,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "IND": 48.15,
@@ -10646,6 +10851,7 @@
       "inc_vote_share_2024": 52.29,
       "margin_2024": 5.38,
       "turnout_2024": 44.39,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 52.29,
@@ -10689,6 +10895,7 @@
       "inc_vote_share_2024": 38.93,
       "margin_2024": 12.62,
       "turnout_2024": 37.99,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 51.56,
@@ -10741,6 +10948,7 @@
       "inc_vote_share_2024": 33.56,
       "margin_2024": 27.2,
       "turnout_2024": 44.69,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 60.76,
@@ -10791,6 +10999,7 @@
       "inc_vote_share_2024": 45.02,
       "margin_2024": 6.18,
       "turnout_2024": 28.07,
+      "nfhs5_coverage_share": 1.0001,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 51.2,
@@ -10834,6 +11043,7 @@
       "inc_vote_share_2024": 32.01,
       "margin_2024": 33.47,
       "turnout_2024": 41.94,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 65.48,
@@ -10891,6 +11101,7 @@
       "inc_vote_share_2024": 40.7,
       "margin_2024": 8.71,
       "turnout_2024": 39.44,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 49.41,
@@ -10943,6 +11154,7 @@
       "inc_vote_share_2024": 27.86,
       "margin_2024": 37.32,
       "turnout_2024": 36.85,
+      "nfhs5_coverage_share": 1.0002,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 65.18,
@@ -10993,6 +11205,7 @@
       "inc_vote_share_2024": 34.29,
       "margin_2024": 28.94,
       "turnout_2024": 47.8,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 63.23,
@@ -11043,6 +11256,7 @@
       "inc_vote_share_2024": 40.4,
       "margin_2024": 15.34,
       "turnout_2024": 40.63,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 55.75,
@@ -11092,6 +11306,7 @@
       "inc_vote_share_2024": 27.83,
       "margin_2024": 39.38,
       "turnout_2024": 48.83,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 67.21,
@@ -11144,6 +11359,7 @@
       "inc_vote_share_2024": 44.77,
       "margin_2024": 5.23,
       "turnout_2024": 31.09,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 49.99,
@@ -11198,6 +11414,7 @@
       "inc_vote_share_2024": 30.44,
       "margin_2024": 34.54,
       "turnout_2024": 43.71,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 64.99,
@@ -11247,6 +11464,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 64.54,
       "turnout_2024": 48.53,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 78.54,
@@ -11295,6 +11513,7 @@
       "inc_vote_share_2024": 26.19,
       "margin_2024": 42.01,
       "turnout_2024": 41.63,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 68.2,
@@ -11349,6 +11568,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 47.45,
       "turnout_2024": 38.67,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 67.75,
@@ -11402,6 +11622,7 @@
       "inc_vote_share_2024": 39.19,
       "margin_2024": 17.85,
       "turnout_2024": 40.83,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 57.04,
@@ -11453,6 +11674,7 @@
       "inc_vote_share_2024": 43.93,
       "margin_2024": 8.66,
       "turnout_2024": 40.06,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 52.6,
@@ -11501,6 +11723,7 @@
       "inc_vote_share_2024": 42.17,
       "margin_2024": 6.76,
       "turnout_2024": 35.72,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 48.93,
@@ -11552,6 +11775,7 @@
       "inc_vote_share_2024": 31.05,
       "margin_2024": 34.93,
       "turnout_2024": 49.76,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 65.98,
@@ -11595,6 +11819,7 @@
       "inc_vote_share_2024": 38.99,
       "margin_2024": 4.42,
       "turnout_2024": 25.57,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 43.41,
@@ -11643,6 +11868,7 @@
       "inc_vote_share_2024": 42.87,
       "margin_2024": 10.22,
       "turnout_2024": 40.43,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 53.1,
@@ -11696,6 +11922,7 @@
       "inc_vote_share_2024": 38.41,
       "margin_2024": 13.52,
       "turnout_2024": 37.99,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 51.93,
@@ -11747,6 +11974,7 @@
       "inc_vote_share_2024": 30.94,
       "margin_2024": 21.06,
       "turnout_2024": 25.68,
+      "nfhs5_coverage_share": 1.0001,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 52.0,
@@ -11798,6 +12026,7 @@
       "inc_vote_share_2024": 27.53,
       "margin_2024": 40.96,
       "turnout_2024": 45.11,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 68.49,
@@ -11850,6 +12079,7 @@
       "inc_vote_share_2024": 35.39,
       "margin_2024": 8.02,
       "turnout_2024": 26.9,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 43.41,
@@ -11904,6 +12134,7 @@
       "inc_vote_share_2024": 27.24,
       "margin_2024": 34.49,
       "turnout_2024": 39.99,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 61.73,
@@ -11956,6 +12187,7 @@
       "inc_vote_share_2024": 32.87,
       "margin_2024": 17.99,
       "turnout_2024": 28.75,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 50.87,
@@ -12010,6 +12242,7 @@
       "inc_vote_share_2024": 28.38,
       "margin_2024": 36.72,
       "turnout_2024": 39.12,
+      "nfhs5_coverage_share": 1.0001,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 65.1,
@@ -12059,6 +12292,7 @@
       "inc_vote_share_2024": 34.64,
       "margin_2024": 28.29,
       "turnout_2024": 46.44,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 62.93,
@@ -12107,6 +12341,7 @@
       "inc_vote_share_2024": 20.27,
       "margin_2024": 56.43,
       "turnout_2024": 57.35,
+      "nfhs5_coverage_share": 1.0001,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 76.7,
@@ -12160,6 +12395,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 2.18,
       "turnout_2024": 31.41,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "NCPSP": 47.14,
@@ -12216,6 +12452,7 @@
       "inc_vote_share_2024": 35.5,
       "margin_2024": 3.46,
       "turnout_2024": 24.12,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 38.96,
@@ -12269,6 +12506,7 @@
       "inc_vote_share_2024": 44.84,
       "margin_2024": 1.68,
       "turnout_2024": 28.62,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 44.84,
@@ -12326,6 +12564,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 10.34,
       "turnout_2024": 23.1,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SHS": 36.56,
@@ -12386,6 +12625,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 11.21,
       "turnout_2024": 30.84,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "NCPSP": 51.85,
@@ -12442,6 +12682,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 0.43,
       "turnout_2024": 31.86,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "NCPSP": 44.93,
@@ -12497,6 +12738,7 @@
       "inc_vote_share_2024": 47.56,
       "margin_2024": 3.03,
       "turnout_2024": 32.09,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 47.56,
@@ -12548,6 +12790,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 5.28,
       "turnout_2024": 23.93,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "NCPSP": 39.85,
@@ -12601,6 +12844,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 2.66,
       "turnout_2024": 19.58,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SHS": 31.53,
@@ -12656,6 +12900,7 @@
       "inc_vote_share_2024": 57.88,
       "margin_2024": 20.98,
       "turnout_2024": 39.05,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 57.88,
@@ -12712,6 +12957,7 @@
       "inc_vote_share_2024": 47.89,
       "margin_2024": 0.31,
       "turnout_2024": 28.83,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 47.89,
@@ -12763,6 +13009,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 9.12,
       "turnout_2024": 31.07,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "NCPSP": 46.53,
@@ -12813,6 +13060,7 @@
       "inc_vote_share_2024": 52.97,
       "margin_2024": 12.15,
       "turnout_2024": 38.17,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 52.97,
@@ -12864,6 +13112,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 1.04,
       "turnout_2024": 28.61,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SHS": 40.14,
@@ -12920,6 +13169,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 9.37,
       "turnout_2024": 27.08,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SHSUBT": 42.49,
@@ -12978,6 +13228,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 21.51,
       "turnout_2024": 33.71,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 57.67,
@@ -13027,6 +13278,7 @@
       "inc_vote_share_2024": 44.59,
       "margin_2024": 8.06,
       "turnout_2024": 30.86,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 44.59,
@@ -13081,6 +13333,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 20.0,
       "turnout_2024": 28.31,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SHS": 56.38,
@@ -13138,6 +13391,7 @@
       "inc_vote_share_2024": 54.15,
       "margin_2024": 11.12,
       "turnout_2024": 38.84,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 54.15,
@@ -13191,6 +13445,7 @@
       "inc_vote_share_2024": 49.15,
       "margin_2024": 4.99,
       "turnout_2024": 30.75,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 49.15,
@@ -13250,6 +13505,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 9.49,
       "turnout_2024": 31.17,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "NCPSP": 48.86,
@@ -13302,6 +13558,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 6.81,
       "turnout_2024": 26.79,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SHS": 48.81,
@@ -13360,6 +13617,7 @@
       "inc_vote_share_2024": 31.15,
       "margin_2024": 34.54,
       "turnout_2024": 37.53,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 65.68,
@@ -13416,6 +13674,7 @@
       "inc_vote_share_2024": 48.93,
       "margin_2024": 1.81,
       "turnout_2024": 25.54,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 48.93,
@@ -13472,6 +13731,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 3.22,
       "turnout_2024": 27.54,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SHSUBT": 48.67,
@@ -13529,6 +13789,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 0.01,
       "turnout_2024": 26.08,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SHS": 47.4,
@@ -13584,6 +13845,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 6.81,
       "turnout_2024": 25.75,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SHSUBT": 51.18,
@@ -13635,6 +13897,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 6.72,
       "turnout_2024": 26.8,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SHSUBT": 49.73,
@@ -13690,6 +13953,7 @@
       "inc_vote_share_2024": 42.72,
       "margin_2024": 11.36,
       "turnout_2024": 29.45,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 54.08,
@@ -13749,6 +14013,7 @@
       "inc_vote_share_2024": 46.88,
       "margin_2024": 5.27,
       "turnout_2024": 28.53,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 46.88,
@@ -13803,6 +14068,7 @@
       "inc_vote_share_2024": 53.53,
       "margin_2024": 11.42,
       "turnout_2024": 37.84,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 53.53,
@@ -13853,6 +14119,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 13.09,
       "turnout_2024": 30.33,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SHSUBT": 49.85,
@@ -13911,6 +14178,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 25.75,
       "turnout_2024": 37.5,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SHSUBT": 58.45,
@@ -13967,6 +14235,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 13.32,
       "turnout_2024": 27.98,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 43.69,
@@ -14018,6 +14287,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 10.07,
       "turnout_2024": 28.31,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SHSUBT": 45.17,
@@ -14074,6 +14344,7 @@
       "inc_vote_share_2024": 41.8,
       "margin_2024": 11.14,
       "turnout_2024": 28.35,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 52.94,
@@ -14131,6 +14402,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 8.17,
       "turnout_2024": 30.45,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "NCP": 50.17,
@@ -14178,6 +14450,7 @@
       "inc_vote_share_2024": 48.94,
       "margin_2024": 6.13,
       "turnout_2024": 29.89,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 48.94,
@@ -14238,6 +14511,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 5.24,
       "turnout_2024": 30.88,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 49.07,
@@ -14288,6 +14562,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 23.23,
       "turnout_2024": 34.59,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 53.84,
@@ -14338,6 +14613,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 8.56,
       "turnout_2024": 30.5,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "IND": 51.91,
@@ -14389,6 +14665,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 2.74,
       "turnout_2024": 30.07,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 47.67,
@@ -14438,6 +14715,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 4.77,
       "turnout_2024": 28.39,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SHSUBT": 45.0,
@@ -14489,6 +14767,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 10.25,
       "turnout_2024": 27.49,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "NCPSP": 50.83,
@@ -14545,6 +14824,7 @@
       "inc_vote_share_2024": 51.49,
       "margin_2024": 6.16,
       "turnout_2024": 30.52,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 51.49,
@@ -14595,6 +14875,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 16.58,
       "turnout_2024": 29.27,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SHS": 56.09,
@@ -14650,6 +14931,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 7.46,
       "turnout_2024": 31.65,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "NCPSP": 48.68,
@@ -14706,6 +14988,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 7.71,
       "turnout_2024": 30.62,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SHSUBT": 48.53,
@@ -14757,6 +15040,7 @@
       "inc_vote_share_2024": 46.93,
       "margin_2024": 13.78,
       "turnout_2024": 37.36,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 46.93,
@@ -14800,6 +15084,7 @@
       "inc_vote_share_2024": 48.32,
       "margin_2024": 10.72,
       "turnout_2024": 36.65,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 48.32,
@@ -14837,6 +15122,7 @@
       "inc_vote_share_2024": 19.19,
       "margin_2024": 35.83,
       "turnout_2024": 40.71,
+      "nfhs5_coverage_share": 0.9678,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "VOTPP": 55.02,
@@ -14884,6 +15170,7 @@
       "inc_vote_share_2024": 56.96,
       "margin_2024": 23.03,
       "turnout_2024": 46.39,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 56.96,
@@ -14926,6 +15213,7 @@
       "inc_vote_share_2024": 20.07,
       "margin_2024": 13.9,
       "turnout_2024": 24.21,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "ZPM": 42.45,
@@ -14975,6 +15263,7 @@
       "inc_vote_share_2024": 44.22,
       "margin_2024": 9.25,
       "turnout_2024": 31.37,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 53.46,
@@ -15040,6 +15329,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 7.41,
       "turnout_2024": 31.34,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 52.59,
@@ -15095,6 +15385,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 9.25,
       "turnout_2024": 29.68,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 53.48,
@@ -15151,6 +15442,7 @@
       "inc_vote_share_2024": 44.16,
       "margin_2024": 8.94,
       "turnout_2024": 33.45,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 53.1,
@@ -15214,6 +15506,7 @@
       "inc_vote_share_2024": 38.71,
       "margin_2024": 19.56,
       "turnout_2024": 33.72,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 58.26,
@@ -15276,6 +15569,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 9.59,
       "turnout_2024": 30.21,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 53.46,
@@ -15332,6 +15626,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 13.05,
       "turnout_2024": 32.5,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 55.27,
@@ -15392,6 +15687,7 @@
       "inc_vote_share_2024": 52.83,
       "margin_2024": 6.7,
       "turnout_2024": 30.33,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 52.83,
@@ -15429,6 +15725,7 @@
       "inc_vote_share_2024": 7.39,
       "margin_2024": 9.82,
       "turnout_2024": 30.44,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 48.55,
@@ -15479,6 +15776,7 @@
       "inc_vote_share_2024": 19.12,
       "margin_2024": 11.88,
       "turnout_2024": 35.0,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 45.49,
@@ -15529,6 +15827,7 @@
       "inc_vote_share_2024": 7.14,
       "margin_2024": 19.21,
       "turnout_2024": 43.84,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 54.69,
@@ -15578,6 +15877,7 @@
       "inc_vote_share_2024": 12.44,
       "margin_2024": 15.87,
       "turnout_2024": 32.16,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 49.2,
@@ -15630,6 +15930,7 @@
       "inc_vote_share_2024": 17.1,
       "margin_2024": 7.06,
       "turnout_2024": 32.32,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 44.19,
@@ -15680,6 +15981,7 @@
       "inc_vote_share_2024": 6.13,
       "margin_2024": 3.25,
       "turnout_2024": 30.6,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 47.36,
@@ -15732,6 +16034,7 @@
       "inc_vote_share_2024": 16.49,
       "margin_2024": 9.47,
       "turnout_2024": 34.25,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 44.12,
@@ -15784,6 +16087,7 @@
       "inc_vote_share_2024": 7.48,
       "margin_2024": 5.09,
       "turnout_2024": 33.75,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 47.43,
@@ -15835,6 +16139,7 @@
       "inc_vote_share_2024": 2.91,
       "margin_2024": 6.43,
       "turnout_2024": 39.04,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 50.24,
@@ -15885,6 +16190,7 @@
       "inc_vote_share_2024": 9.61,
       "margin_2024": 3.16,
       "turnout_2024": 34.58,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 45.8,
@@ -15938,6 +16244,7 @@
       "inc_vote_share_2024": 4.58,
       "margin_2024": 0.14,
       "turnout_2024": 34.5,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 46.01,
@@ -15991,6 +16298,7 @@
       "inc_vote_share_2024": 22.72,
       "margin_2024": 10.03,
       "turnout_2024": 31.98,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 40.79,
@@ -16041,6 +16349,7 @@
       "inc_vote_share_2024": 14.49,
       "margin_2024": 2.15,
       "turnout_2024": 31.06,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 41.8,
@@ -16092,6 +16401,7 @@
       "inc_vote_share_2024": 7.43,
       "margin_2024": 5.21,
       "turnout_2024": 34.29,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 48.21,
@@ -16143,6 +16453,7 @@
       "inc_vote_share_2024": 8.38,
       "margin_2024": 7.72,
       "turnout_2024": 36.1,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 45.67,
@@ -16194,6 +16505,7 @@
       "inc_vote_share_2024": 41.05,
       "margin_2024": 12.87,
       "turnout_2024": 31.79,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 41.05,
@@ -16246,6 +16558,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 18.68,
       "turnout_2024": 37.9,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 49.91,
@@ -16298,6 +16611,7 @@
       "inc_vote_share_2024": 24.42,
       "margin_2024": 7.05,
       "turnout_2024": 31.78,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 38.74,
@@ -16341,6 +16655,7 @@
       "inc_vote_share_2024": 2.03,
       "margin_2024": 8.75,
       "turnout_2024": 39.59,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 52.58,
@@ -16390,6 +16705,7 @@
       "inc_vote_share_2024": 7.45,
       "margin_2024": 10.01,
       "turnout_2024": 39.44,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 49.48,
@@ -16444,6 +16760,7 @@
       "inc_vote_share_2024": 22.67,
       "margin_2024": 12.01,
       "turnout_2024": 31.3,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 42.77,
@@ -16495,6 +16812,7 @@
       "inc_vote_share_2024": 52.73,
       "margin_2024": 16.9,
       "turnout_2024": 41.6,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 52.73,
@@ -16546,6 +16864,7 @@
       "inc_vote_share_2024": 28.18,
       "margin_2024": 4.45,
       "turnout_2024": 15.78,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 28.18,
@@ -16602,6 +16921,7 @@
       "inc_vote_share_2024": 28.07,
       "margin_2024": 1.01,
       "turnout_2024": 17.99,
+      "nfhs5_coverage_share": 0.5,
       "data_quality_label": "medium",
       "party_vote_shares_2024": {
         "AAAP": 29.08,
@@ -16661,6 +16981,7 @@
       "inc_vote_share_2024": 17.55,
       "margin_2024": 4.31,
       "turnout_2024": 22.7,
+      "nfhs5_coverage_share": 0.75,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SAD": 32.71,
@@ -16715,6 +17036,7 @@
       "inc_vote_share_2024": 15.81,
       "margin_2024": 6.91,
       "turnout_2024": 18.63,
+      "nfhs5_coverage_share": 0.9999,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "IND": 31.71,
@@ -16775,6 +17097,7 @@
       "inc_vote_share_2024": 34.14,
       "margin_2024": 3.51,
       "turnout_2024": 21.36,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 34.14,
@@ -16826,6 +17149,7 @@
       "inc_vote_share_2024": 23.7,
       "margin_2024": 0.29,
       "turnout_2024": 15.92,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 23.7,
@@ -16882,6 +17206,7 @@
       "inc_vote_share_2024": 33.78,
       "margin_2024": 7.69,
       "turnout_2024": 22.37,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 33.78,
@@ -16938,6 +17263,7 @@
       "inc_vote_share_2024": 27.39,
       "margin_2024": 4.65,
       "turnout_2024": 18.78,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AAAP": 32.04,
@@ -16994,6 +17320,7 @@
       "inc_vote_share_2024": 39.43,
       "margin_2024": 17.79,
       "turnout_2024": 23.56,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 39.43,
@@ -17051,6 +17378,7 @@
       "inc_vote_share_2024": 19.8,
       "margin_2024": 18.82,
       "turnout_2024": 24.07,
+      "nfhs5_coverage_share": 0.3333,
       "data_quality_label": "low",
       "party_vote_shares_2024": {
         "IND": 43.06,
@@ -17104,6 +17432,7 @@
       "inc_vote_share_2024": 30.42,
       "margin_2024": 1.98,
       "turnout_2024": 18.3,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 30.42,
@@ -17165,6 +17494,7 @@
       "inc_vote_share_2024": 26.54,
       "margin_2024": 1.29,
       "turnout_2024": 16.87,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 26.54,
@@ -17220,6 +17550,7 @@
       "inc_vote_share_2024": 18.97,
       "margin_2024": 17.09,
       "turnout_2024": 23.28,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AAAP": 36.06,
@@ -17278,6 +17609,7 @@
       "inc_vote_share_2024": 34.76,
       "margin_2024": 27.47,
       "turnout_2024": 37.38,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 62.23,
@@ -17329,6 +17661,7 @@
       "inc_vote_share_2024": 46.57,
       "margin_2024": 3.85,
       "turnout_2024": 30.46,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 50.42,
@@ -17378,6 +17711,7 @@
       "inc_vote_share_2024": 3.74,
       "margin_2024": 15.09,
       "turnout_2024": 37.3,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BHRTADVSIP": 50.15,
@@ -17427,6 +17761,7 @@
       "inc_vote_share_2024": 41.74,
       "margin_2024": 7.0,
       "turnout_2024": 31.91,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 41.74,
@@ -17475,6 +17810,7 @@
       "inc_vote_share_2024": 51.18,
       "margin_2024": 4.59,
       "turnout_2024": 27.29,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 51.18,
@@ -17518,6 +17854,7 @@
       "inc_vote_share_2024": 34.73,
       "margin_2024": 27.19,
       "turnout_2024": 37.59,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 61.92,
@@ -17568,6 +17905,7 @@
       "inc_vote_share_2024": 45.7,
       "margin_2024": 4.98,
       "turnout_2024": 27.64,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 50.68,
@@ -17611,6 +17949,7 @@
       "inc_vote_share_2024": 33.25,
       "margin_2024": 26.01,
       "turnout_2024": 40.92,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 59.26,
@@ -17664,6 +18003,7 @@
       "inc_vote_share_2024": 51.12,
       "margin_2024": 5.11,
       "turnout_2024": 32.77,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 51.12,
@@ -17714,6 +18054,7 @@
       "inc_vote_share_2024": 60.24,
       "margin_2024": 22.12,
       "turnout_2024": 33.95,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 60.24,
@@ -17757,6 +18098,7 @@
       "inc_vote_share_2024": 51.4,
       "margin_2024": 6.24,
       "turnout_2024": 34.53,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 51.4,
@@ -17807,6 +18149,7 @@
       "inc_vote_share_2024": 37.93,
       "margin_2024": 22.67,
       "turnout_2024": 38.75,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 60.61,
@@ -17860,6 +18203,7 @@
       "inc_vote_share_2024": 48.83,
       "margin_2024": 0.13,
       "turnout_2024": 28.16,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 48.96,
@@ -17912,6 +18256,7 @@
       "inc_vote_share_2024": 41.02,
       "margin_2024": 13.89,
       "turnout_2024": 34.68,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 54.91,
@@ -17962,6 +18307,7 @@
       "inc_vote_share_2024": 34.78,
       "margin_2024": 26.1,
       "turnout_2024": 42.61,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 60.88,
@@ -18010,6 +18356,7 @@
       "inc_vote_share_2024": 49.44,
       "margin_2024": 1.63,
       "turnout_2024": 26.37,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 49.44,
@@ -18060,6 +18407,7 @@
       "inc_vote_share_2024": 44.4,
       "margin_2024": 8.36,
       "turnout_2024": 34.14,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 52.76,
@@ -18113,6 +18461,7 @@
       "inc_vote_share_2024": 53.64,
       "margin_2024": 10.01,
       "turnout_2024": 26.77,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 53.64,
@@ -18156,6 +18505,7 @@
       "inc_vote_share_2024": 47.23,
       "margin_2024": 2.8,
       "turnout_2024": 35.93,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 50.03,
@@ -18206,6 +18556,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 3.41,
       "turnout_2024": 27.69,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "RLTP": 48.2,
@@ -18254,6 +18605,7 @@
       "inc_vote_share_2024": 37.82,
       "margin_2024": 18.12,
       "turnout_2024": 32.25,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 55.94,
@@ -18303,6 +18655,7 @@
       "inc_vote_share_2024": 32.06,
       "margin_2024": 32.33,
       "turnout_2024": 37.84,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 64.4,
@@ -18352,6 +18705,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 5.6,
       "turnout_2024": 29.53,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "CPIM": 50.68,
@@ -18404,6 +18758,7 @@
       "inc_vote_share_2024": 50.85,
       "margin_2024": 5.3,
       "turnout_2024": 29.0,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 50.85,
@@ -18456,6 +18811,7 @@
       "inc_vote_share_2024": 31.81,
       "margin_2024": 17.46,
       "turnout_2024": 33.09,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 49.27,
@@ -18505,6 +18861,7 @@
       "inc_vote_share_2024": 0.58,
       "margin_2024": 21.0,
       "turnout_2024": 35.23,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SKM": 42.71,
@@ -18555,6 +18912,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 26.34,
       "turnout_2024": 35.92,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "DMK": 48.39,
@@ -18608,6 +18966,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 18.31,
       "turnout_2024": 33.35,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "DMK": 43.86,
@@ -18661,6 +19020,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 33.49,
       "turnout_2024": 30.65,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "DMK": 56.65,
@@ -18717,6 +19077,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 37.59,
       "turnout_2024": 33.23,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "DMK": 55.11,
@@ -18770,6 +19131,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 20.55,
       "turnout_2024": 25.53,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "DMK": 47.0,
@@ -18829,6 +19191,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 8.87,
       "turnout_2024": 33.21,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "VCK": 43.28,
@@ -18879,6 +19242,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 8.6,
       "turnout_2024": 26.97,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "DMK": 41.39,
@@ -18934,6 +19298,7 @@
       "inc_vote_share_2024": 44.11,
       "margin_2024": 18.02,
       "turnout_2024": 32.2,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 44.11,
@@ -18985,6 +19350,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 1.71,
       "turnout_2024": 28.34,
+      "nfhs5_coverage_share": 0.1667,
       "data_quality_label": "low",
       "party_vote_shares_2024": {
         "DMK": 34.67,
@@ -19036,6 +19402,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 38.61,
       "turnout_2024": 41.66,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "CPIM": 58.29,
@@ -19085,6 +19452,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 21.64,
       "turnout_2024": 36.54,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "DMK": 51.43,
@@ -19140,6 +19508,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 4.3,
       "turnout_2024": 35.79,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "DMK": 44.94,
@@ -19191,6 +19560,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 17.58,
       "turnout_2024": 33.5,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "DMK": 46.53,
@@ -19239,6 +19609,7 @@
       "inc_vote_share_2024": 53.08,
       "margin_2024": 17.48,
       "turnout_2024": 34.88,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 53.08,
@@ -19292,6 +19663,7 @@
       "inc_vote_share_2024": 47.25,
       "margin_2024": 14.74,
       "turnout_2024": 37.39,
+      "nfhs5_coverage_share": 1.0001,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 47.25,
@@ -19344,6 +19716,7 @@
       "inc_vote_share_2024": 42.27,
       "margin_2024": 16.51,
       "turnout_2024": 30.28,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 42.27,
@@ -19400,6 +19773,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 21.22,
       "turnout_2024": 27.18,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "CPIM": 43.6,
@@ -19453,6 +19827,7 @@
       "inc_vote_share_2024": 47.67,
       "margin_2024": 24.93,
       "turnout_2024": 33.53,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 47.67,
@@ -19504,6 +19879,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 21.48,
       "turnout_2024": 34.56,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "CPI": 47.79,
@@ -19554,6 +19930,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 2.54,
       "turnout_2024": 31.8,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "DMK": 40.31,
@@ -19609,6 +19986,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 23.61,
       "turnout_2024": 33.12,
+      "nfhs5_coverage_share": 0.8,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "DMK": 46.44,
@@ -19661,6 +20039,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 34.46,
       "turnout_2024": 41.68,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "DMK": 53.42,
@@ -19711,6 +20090,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 22.38,
       "turnout_2024": 33.38,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "DMK": 47.37,
@@ -19761,6 +20141,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 15.03,
       "turnout_2024": 31.47,
+      "nfhs5_coverage_share": 0.1667,
       "data_quality_label": "low",
       "party_vote_shares_2024": {
         "IUML": 45.92,
@@ -19812,6 +20193,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 5.39,
       "turnout_2024": 34.12,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "DMK": 43.38,
@@ -19864,6 +20246,7 @@
       "inc_vote_share_2024": 40.6,
       "margin_2024": 19.52,
       "turnout_2024": 26.15,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 40.6,
@@ -19914,6 +20297,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 33.8,
       "turnout_2024": 31.84,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "DMK": 52.65,
@@ -19971,6 +20355,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 18.88,
       "turnout_2024": 27.84,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "DMK": 40.97,
@@ -20023,6 +20408,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 31.07,
       "turnout_2024": 33.44,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "DMK": 48.82,
@@ -20072,6 +20458,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 24.43,
       "turnout_2024": 35.05,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "DMK": 50.08,
@@ -20122,6 +20509,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 40.14,
       "turnout_2024": 37.01,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "DMK": 55.26,
@@ -20174,6 +20562,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 29.65,
       "turnout_2024": 34.88,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "MDMK": 51.35,
@@ -20226,6 +20615,7 @@
       "inc_vote_share_2024": 47.06,
       "margin_2024": 15.52,
       "turnout_2024": 30.33,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 47.06,
@@ -20281,6 +20671,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 11.02,
       "turnout_2024": 29.39,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "CPI": 41.38,
@@ -20332,6 +20723,7 @@
       "inc_vote_share_2024": 56.21,
       "margin_2024": 40.35,
       "turnout_2024": 38.19,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 56.21,
@@ -20384,6 +20776,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 20.41,
       "turnout_2024": 35.61,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "DMK": 47.75,
@@ -20439,6 +20832,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 19.1,
       "turnout_2024": 37.06,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "DMK": 50.35,
@@ -20492,6 +20886,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 6.13,
       "turnout_2024": 31.72,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "VCK": 41.39,
@@ -20541,6 +20936,7 @@
       "inc_vote_share_2024": 36.28,
       "margin_2024": 0.41,
       "turnout_2024": 25.58,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 36.28,
@@ -20595,6 +20991,7 @@
       "inc_vote_share_2024": 38.65,
       "margin_2024": 7.34,
       "turnout_2024": 34.38,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 45.98,
@@ -20649,6 +21046,7 @@
       "inc_vote_share_2024": 44.89,
       "margin_2024": 15.85,
       "turnout_2024": 34.77,
+      "nfhs5_coverage_share": 1.0001,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 44.89,
@@ -20714,6 +21112,7 @@
       "inc_vote_share_2024": 38.02,
       "margin_2024": 10.32,
       "turnout_2024": 27.56,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 48.34,
@@ -20780,6 +21179,7 @@
       "inc_vote_share_2024": 5.83,
       "margin_2024": 31.29,
       "turnout_2024": 29.86,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AIMIM": 61.28,
@@ -20847,6 +21247,7 @@
       "inc_vote_share_2024": 27.41,
       "margin_2024": 17.15,
       "turnout_2024": 32.54,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 44.57,
@@ -20904,6 +21305,7 @@
       "inc_vote_share_2024": 61.29,
       "margin_2024": 37.39,
       "turnout_2024": 46.99,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 61.29,
@@ -20959,6 +21361,7 @@
       "inc_vote_share_2024": 55.27,
       "margin_2024": 31.49,
       "turnout_2024": 39.95,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 55.27,
@@ -21015,6 +21418,7 @@
       "inc_vote_share_2024": 41.29,
       "margin_2024": 0.37,
       "turnout_2024": 30.33,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 41.66,
@@ -21070,6 +21474,7 @@
       "inc_vote_share_2024": 31.0,
       "margin_2024": 20.24,
       "turnout_2024": 26.21,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 51.25,
@@ -21125,6 +21530,7 @@
       "inc_vote_share_2024": 31.17,
       "margin_2024": 2.82,
       "turnout_2024": 25.77,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 33.99,
@@ -21184,6 +21590,7 @@
       "inc_vote_share_2024": 38.14,
       "margin_2024": 7.74,
       "turnout_2024": 26.74,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 38.14,
@@ -21239,6 +21646,7 @@
       "inc_vote_share_2024": 60.5,
       "margin_2024": 43.19,
       "turnout_2024": 45.44,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 60.5,
@@ -21291,6 +21699,7 @@
       "inc_vote_share_2024": 39.16,
       "margin_2024": 8.86,
       "turnout_2024": 34.73,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 48.02,
@@ -21348,6 +21757,7 @@
       "inc_vote_share_2024": 43.42,
       "margin_2024": 11.99,
       "turnout_2024": 29.76,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 43.42,
@@ -21408,6 +21818,7 @@
       "inc_vote_share_2024": 40.38,
       "margin_2024": 4.77,
       "turnout_2024": 22.31,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 45.15,
@@ -21470,6 +21881,7 @@
       "inc_vote_share_2024": 45.85,
       "margin_2024": 17.38,
       "turnout_2024": 31.84,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 45.85,
@@ -21529,6 +21941,7 @@
       "inc_vote_share_2024": 42.73,
       "margin_2024": 3.74,
       "turnout_2024": 32.17,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 42.73,
@@ -21582,6 +21995,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 42.92,
       "turnout_2024": 55.47,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 68.54,
@@ -21620,6 +22034,7 @@
       "inc_vote_share_2024": 22.3,
       "margin_2024": 50.55,
       "turnout_2024": 59.98,
+      "nfhs5_coverage_share": 1.0001,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 72.85,
@@ -21668,6 +22083,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 24.14,
       "turnout_2024": 28.88,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 53.34,
@@ -21720,6 +22136,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 4.08,
       "turnout_2024": 27.58,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 47.6,
@@ -21771,6 +22188,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 1.38,
       "turnout_2024": 25.06,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 44.28,
@@ -21823,6 +22241,7 @@
       "inc_vote_share_2024": 48.8,
       "margin_2024": 6.21,
       "turnout_2024": 25.28,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 48.8,
@@ -21877,6 +22296,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 11.66,
       "turnout_2024": 28.48,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SP": 46.3,
@@ -21928,6 +22348,7 @@
       "inc_vote_share_2024": 54.99,
       "margin_2024": 17.05,
       "turnout_2024": 29.98,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 54.99,
@@ -21980,6 +22401,7 @@
       "inc_vote_share_2024": 40.32,
       "margin_2024": 2.58,
       "turnout_2024": 27.69,
+      "nfhs5_coverage_share": 0.8,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 42.9,
@@ -22028,6 +22450,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 1.47,
       "turnout_2024": 26.01,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SP": 45.23,
@@ -22080,6 +22503,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 15.27,
       "turnout_2024": 27.15,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SP": 48.2,
@@ -22130,6 +22554,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 3.2,
       "turnout_2024": 24.96,
+      "nfhs5_coverage_share": 0.9999,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 45.97,
@@ -22180,6 +22605,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 17.08,
       "turnout_2024": 29.36,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "RLD": 52.36,
@@ -22229,6 +22655,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 6.08,
       "turnout_2024": 28.21,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 49.1,
@@ -22279,6 +22706,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 4.31,
       "turnout_2024": 24.11,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 46.37,
@@ -22329,6 +22757,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 6.82,
       "turnout_2024": 23.25,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SP": 38.94,
@@ -22384,6 +22813,7 @@
       "inc_vote_share_2024": 45.04,
       "margin_2024": 0.33,
       "turnout_2024": 23.48,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 45.38,
@@ -22427,6 +22857,7 @@
       "inc_vote_share_2024": 55.78,
       "margin_2024": 16.71,
       "turnout_2024": 37.51,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 55.78,
@@ -22479,6 +22910,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 3.11,
       "turnout_2024": 29.44,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 50.66,
@@ -22531,6 +22963,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 9.33,
       "turnout_2024": 27.67,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SP": 48.67,
@@ -22582,6 +23015,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 4.06,
       "turnout_2024": 22.55,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 42.39,
@@ -22634,6 +23068,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 3.66,
       "turnout_2024": 23.2,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "RLD": 39.48,
@@ -22684,6 +23119,7 @@
       "inc_vote_share_2024": 30.56,
       "margin_2024": 26.09,
       "turnout_2024": 31.98,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 56.65,
@@ -22732,6 +23168,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 1.93,
       "turnout_2024": 25.64,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SP": 42.5,
@@ -22785,6 +23222,7 @@
       "inc_vote_share_2024": 45.02,
       "margin_2024": 3.34,
       "turnout_2024": 26.88,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 48.36,
@@ -22834,6 +23272,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 0.4,
       "turnout_2024": 25.8,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 39.91,
@@ -22887,6 +23326,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 4.19,
       "turnout_2024": 23.61,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 45.47,
@@ -22936,6 +23376,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 2.78,
       "turnout_2024": 27.92,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 47.09,
@@ -22986,6 +23427,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 5.65,
       "turnout_2024": 26.75,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 47.47,
@@ -23035,6 +23477,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 4.78,
       "turnout_2024": 28.73,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SP": 48.59,
@@ -23087,6 +23530,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 0.26,
       "turnout_2024": 27.85,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 47.2,
@@ -23138,6 +23582,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 3.0,
       "turnout_2024": 25.76,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 45.2,
@@ -23193,6 +23638,7 @@
       "inc_vote_share_2024": 38.9,
       "margin_2024": 4.2,
       "turnout_2024": 24.66,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 43.09,
@@ -23244,6 +23690,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 8.07,
       "turnout_2024": 28.64,
+      "nfhs5_coverage_share": 0.8,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 49.04,
@@ -23294,6 +23741,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 38.93,
       "turnout_2024": 31.99,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 59.69,
@@ -23349,6 +23797,7 @@
       "inc_vote_share_2024": 35.17,
       "margin_2024": 22.92,
       "turnout_2024": 28.97,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 58.09,
@@ -23401,6 +23850,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 10.83,
       "turnout_2024": 25.85,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 46.82,
@@ -23452,6 +23902,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 14.16,
       "turnout_2024": 24.07,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 43.73,
@@ -23514,6 +23965,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 4.85,
       "turnout_2024": 25.72,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 49.77,
@@ -23563,6 +24015,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 8.97,
       "turnout_2024": 27.87,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 50.75,
@@ -23616,6 +24069,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 0.24,
       "turnout_2024": 26.64,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 44.0,
@@ -23668,6 +24122,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 2.53,
       "turnout_2024": 25.46,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 44.25,
@@ -23720,6 +24175,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 22.84,
       "turnout_2024": 28.5,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 51.24,
@@ -23769,6 +24225,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 4.77,
       "turnout_2024": 26.37,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SP": 46.96,
@@ -23817,6 +24274,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 9.02,
       "turnout_2024": 25.73,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SP": 46.21,
@@ -23871,6 +24329,7 @@
       "inc_vote_share_2024": 42.57,
       "margin_2024": 7.43,
       "turnout_2024": 31.92,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 50.0,
@@ -23920,6 +24379,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 6.4,
       "turnout_2024": 30.56,
+      "nfhs5_coverage_share": 0.8,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 48.9,
@@ -23972,6 +24432,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 14.01,
       "turnout_2024": 29.97,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 53.79,
@@ -24015,6 +24476,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 14.03,
       "turnout_2024": 32.22,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SP": 52.74,
@@ -24067,6 +24529,7 @@
       "inc_vote_share_2024": 47.56,
       "margin_2024": 2.36,
       "turnout_2024": 26.61,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 49.93,
@@ -24118,6 +24581,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 10.3,
       "turnout_2024": 26.66,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 50.51,
@@ -24168,6 +24632,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 2.83,
       "turnout_2024": 29.79,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 45.94,
@@ -24221,6 +24686,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 7.57,
       "turnout_2024": 27.51,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 47.79,
@@ -24272,6 +24738,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 11.46,
       "turnout_2024": 23.9,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SP": 43.85,
@@ -24321,6 +24788,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 11.89,
       "turnout_2024": 28.18,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 53.89,
@@ -24373,6 +24841,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 3.38,
       "turnout_2024": 23.22,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SP": 42.57,
@@ -24426,6 +24895,7 @@
       "inc_vote_share_2024": 45.92,
       "margin_2024": 2.93,
       "turnout_2024": 29.46,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 48.85,
@@ -24475,6 +24945,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 21.03,
       "turnout_2024": 33.29,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SP": 56.79,
@@ -24525,6 +24996,7 @@
       "inc_vote_share_2024": 22.64,
       "margin_2024": 30.66,
       "turnout_2024": 26.3,
+      "nfhs5_coverage_share": 0.75,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 53.3,
@@ -24574,6 +25046,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 0.9,
       "turnout_2024": 27.25,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 46.21,
@@ -24625,6 +25098,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 3.42,
       "turnout_2024": 24.7,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "ADAL": 42.67,
@@ -24676,6 +25150,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 3.18,
       "turnout_2024": 25.27,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 45.15,
@@ -24726,6 +25201,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 5.1,
       "turnout_2024": 30.5,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SP": 48.49,
@@ -24777,6 +25253,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 8.24,
       "turnout_2024": 30.9,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 49.67,
@@ -24829,6 +25306,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 2.29,
       "turnout_2024": 25.81,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 43.64,
@@ -24879,6 +25357,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 15.13,
       "turnout_2024": 31.11,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "ASPKR": 51.19,
@@ -24927,6 +25406,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 0.43,
       "turnout_2024": 21.85,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 44.6,
@@ -24983,6 +25463,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 14.21,
       "turnout_2024": 33.11,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 52.3,
@@ -25032,6 +25513,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 6.99,
       "turnout_2024": 24.06,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 46.65,
@@ -25092,6 +25574,7 @@
       "inc_vote_share_2024": 66.17,
       "margin_2024": 37.53,
       "turnout_2024": 38.44,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 66.17,
@@ -25143,6 +25626,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 9.03,
       "turnout_2024": 27.78,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 49.74,
@@ -25191,6 +25675,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 12.8,
       "turnout_2024": 26.16,
+      "nfhs5_coverage_share": 0.5,
       "data_quality_label": "medium",
       "party_vote_shares_2024": {
         "SP": 46.14,
@@ -25244,6 +25729,7 @@
       "inc_vote_share_2024": 44.57,
       "margin_2024": 5.25,
       "turnout_2024": 29.5,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 44.57,
@@ -25292,6 +25778,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 0.39,
       "turnout_2024": 22.72,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SP": 44.2,
@@ -25342,6 +25829,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 10.17,
       "turnout_2024": 30.07,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 47.8,
@@ -25393,6 +25881,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 8.45,
       "turnout_2024": 24.02,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "SP": 45.7,
@@ -25444,6 +25933,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 4.44,
       "turnout_2024": 25.4,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 47.5,
@@ -25494,6 +25984,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 7.33,
       "turnout_2024": 25.8,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 48.83,
@@ -25546,6 +26037,7 @@
       "inc_vote_share_2024": 48.2,
       "margin_2024": 8.13,
       "turnout_2024": 30.17,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "INC": 48.2,
@@ -25597,6 +26089,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 4.18,
       "turnout_2024": 23.95,
+      "nfhs5_coverage_share": 0.9999,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "SP": 43.0,
@@ -25648,6 +26141,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 2.75,
       "turnout_2024": 26.28,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 47.31,
@@ -25697,6 +26191,7 @@
       "inc_vote_share_2024": 40.74,
       "margin_2024": 13.5,
       "turnout_2024": 30.65,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 54.24,
@@ -25746,6 +26241,7 @@
       "inc_vote_share_2024": 29.18,
       "margin_2024": 35.02,
       "turnout_2024": 31.36,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 64.2,
@@ -25796,6 +26292,7 @@
       "inc_vote_share_2024": 36.43,
       "margin_2024": 22.17,
       "turnout_2024": 30.78,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 58.6,
@@ -25850,6 +26347,7 @@
       "inc_vote_share_2024": 37.6,
       "margin_2024": 12.59,
       "turnout_2024": 32.03,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 50.19,
@@ -25901,6 +26399,7 @@
       "inc_vote_share_2024": 34.61,
       "margin_2024": 26.43,
       "turnout_2024": 38.13,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 61.03,
@@ -25953,6 +26452,7 @@
       "inc_vote_share_2024": 22.05,
       "margin_2024": 31.61,
       "turnout_2024": 29.08,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 53.66,
@@ -26003,6 +26503,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 5.31,
       "turnout_2024": 39.1,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 48.92,
@@ -26056,6 +26557,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 0.41,
       "turnout_2024": 37.8,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 45.71,
@@ -26105,6 +26607,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 4.58,
       "turnout_2024": 34.18,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 46.53,
@@ -26154,6 +26657,7 @@
       "inc_vote_share_2024": 31.74,
       "margin_2024": 6.14,
       "turnout_2024": 29.31,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 37.88,
@@ -26207,6 +26711,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 0.84,
       "turnout_2024": 36.77,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 46.47,
@@ -26260,6 +26765,7 @@
       "inc_vote_share_2024": 4.37,
       "margin_2024": 4.94,
       "turnout_2024": 39.08,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 48.19,
@@ -26312,6 +26818,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 2.26,
       "turnout_2024": 35.95,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 44.33,
@@ -26363,6 +26870,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 7.45,
       "turnout_2024": 36.28,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 45.15,
@@ -26415,6 +26923,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 10.72,
       "turnout_2024": 39.94,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "AITC": 48.11,
@@ -26465,6 +26974,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 9.19,
       "turnout_2024": 38.88,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "AITC": 47.99,
@@ -26515,6 +27025,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 5.64,
       "turnout_2024": 34.4,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 45.56,
@@ -26566,6 +27077,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 21.89,
       "turnout_2024": 44.51,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 52.76,
@@ -26618,6 +27130,7 @@
       "inc_vote_share_2024": 14.81,
       "margin_2024": 12.94,
       "turnout_2024": 38.61,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 47.0,
@@ -26671,6 +27184,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 0.37,
       "turnout_2024": 38.68,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 44.93,
@@ -26720,6 +27234,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 21.41,
       "turnout_2024": 46.45,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 55.98,
@@ -26771,6 +27286,7 @@
       "inc_vote_share_2024": 0.66,
       "margin_2024": 2.42,
       "turnout_2024": 40.0,
+      "nfhs5_coverage_share": 0.8334,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 48.57,
@@ -26822,6 +27338,7 @@
       "inc_vote_share_2024": 6.28,
       "margin_2024": 13.45,
       "turnout_2024": 38.23,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 51.18,
@@ -26875,6 +27392,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 46.44,
       "turnout_2024": 55.71,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "AITC": 68.48,
@@ -26926,6 +27444,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 5.61,
       "turnout_2024": 31.08,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 41.95,
@@ -26979,6 +27498,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 11.43,
       "turnout_2024": 43.14,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "AITC": 52.36,
@@ -27028,6 +27548,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 5.06,
       "turnout_2024": 37.78,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 46.31,
@@ -27079,6 +27600,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 13.32,
       "turnout_2024": 35.4,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 49.26,
@@ -27130,6 +27652,7 @@
       "inc_vote_share_2024": null,
       "margin_2024": 16.48,
       "turnout_2024": 35.29,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 45.83,
@@ -27181,6 +27704,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 5.49,
       "turnout_2024": 40.56,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 48.57,
@@ -27232,6 +27756,7 @@
       "inc_vote_share_2024": 31.23,
       "margin_2024": 8.52,
       "turnout_2024": 30.12,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 39.75,
@@ -27285,6 +27810,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 31.72,
       "turnout_2024": 48.46,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 60.32,
@@ -27336,6 +27862,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 11.67,
       "turnout_2024": 41.71,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "AITC": 49.87,
@@ -27388,6 +27915,7 @@
       "inc_vote_share_2024": 2.03,
       "margin_2024": 3.12,
       "turnout_2024": 42.45,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 49.85,
@@ -27437,6 +27965,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 15.06,
       "turnout_2024": 33.26,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "AITC": 49.48,
@@ -27489,6 +28018,7 @@
       "inc_vote_share_2024": 12.0,
       "margin_2024": 9.66,
       "turnout_2024": 30.2,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "AITC": 47.44,
@@ -27541,6 +28071,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 3.98,
       "turnout_2024": 35.67,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "AITC": 44.1,
@@ -27591,6 +28122,7 @@
       "inc_vote_share_2024": 41.79,
       "margin_2024": 9.37,
       "turnout_2024": 32.08,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "INC": 41.79,
@@ -27647,6 +28179,7 @@
       "inc_vote_share_2024": 27.14,
       "margin_2024": 5.48,
       "turnout_2024": 28.27,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 37.18,
@@ -27701,6 +28234,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 13.44,
       "turnout_2024": 41.57,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 50.52,
@@ -27753,6 +28287,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 1.84,
       "turnout_2024": 38.73,
+      "nfhs5_coverage_share": null,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "AITC": 47.4,
@@ -27802,6 +28337,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 10.65,
       "turnout_2024": 36.1,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 44.27,
@@ -27853,6 +28389,7 @@
       "inc_vote_share_2024": 9.01,
       "margin_2024": 1.19,
       "turnout_2024": 31.69,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 40.34,
@@ -27904,6 +28441,7 @@
       "inc_vote_share_2024": 19.24,
       "margin_2024": 4.98,
       "turnout_2024": 31.31,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 40.99,
@@ -27958,6 +28496,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 12.13,
       "turnout_2024": 41.67,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "BJP": 50.78,
@@ -28007,6 +28546,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 11.84,
       "turnout_2024": 34.95,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 45.65,
@@ -28058,6 +28598,7 @@
       "inc_vote_share_2024": 0.0,
       "margin_2024": 4.93,
       "turnout_2024": 41.31,
+      "nfhs5_coverage_share": 0.0,
       "data_quality_label": "election_only",
       "party_vote_shares_2024": {
         "BJP": 48.54,
@@ -28108,6 +28649,7 @@
       "inc_vote_share_2024": 5.65,
       "margin_2024": 15.72,
       "turnout_2024": 41.59,
+      "nfhs5_coverage_share": 1.0,
       "data_quality_label": "high",
       "party_vote_shares_2024": {
         "AITC": 52.1,

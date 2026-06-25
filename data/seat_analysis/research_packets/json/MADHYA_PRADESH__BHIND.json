@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Madhya Pradesh",
+    "constituency": "BHIND",
+    "state_key": "MADHYA PRADESH",
+    "constituency_key": "BHIND"
+  },
+  "election_facts": {
+    "winner_2019": "SANDHYA RAY",
+    "winner_2024": "SANDHYA RAY",
+    "winner_party_2019": "BJP",
+    "winner_party_2024": "BJP",
+    "winner_changed": false,
+    "bjp_vote_share_2019": 54.9288,
+    "bjp_vote_share_2024": 51.1975,
+    "inc_vote_share_2019": 34.1224,
+    "inc_vote_share_2024": 45.0164,
+    "bjp_swing_2019_2024": -3.7314,
+    "inc_swing_2019_2024": 10.894,
+    "margin_2019": 20.8065,
+    "margin_2024": 6.1811,
+    "margin_change": -14.6254,
+    "turnout_2019": 29.892,
+    "turnout_2024": 28.07,
+    "turnout_change": -1.822
+  },
+  "state_context": {
+    "state_total_seats": 29,
+    "bjp_seats_2019": 28,
+    "bjp_seats_2024": 29,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 0,
+    "state_average_bjp_swing": 1.11,
+    "state_average_inc_swing": -2.03,
+    "state_demographic_coverage_pct": 93.1
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": false,
+    "is_close_2024": false,
+    "is_large_bjp_gain": false,
+    "is_large_bjp_loss": false,
+    "is_large_inc_gain": true,
+    "is_large_inc_loss": false,
+    "is_priority_seat": false,
+    "priority_reason": null,
+    "priority_rank": null
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": 49.2842,
+      "improved_sanitation_pct_nfhs5": 39.5011,
+      "lpg_pct_nfhs5": 24.4289,
+      "mobile_phone_pct_nfhs5": 24.4304,
+      "bank_account_pct_nfhs5": 40.2576,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": -61499.4787,
+      "urban_pct_nfhs5": 29.7443
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": -6.4861,
+      "improved_sanitation_pct_change": 22.0729,
+      "lpg_pct_change": 14.1764,
+      "mobile_phone_pct_change": 20.1924,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": 7.7392
+    },
+    "nfhs5_coverage_share": 1.0001,
+    "change_coverage_share": 1.0001,
+    "change_quality_flag": "medium",
+    "data_quality_label": "high",
+    "districts_used": "SEONI\u2192Seoni; BALAGHAT\u2192Balaghat (NFHS-4 proxy); BHIND\u2192Bhind; DATIA\u2192Datia; JHABUA\u2192Jhabua",
+    "districts_missing": null,
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": true,
+      "has_change_any": true,
+      "missing_features_count": 10,
+      "available_features_count": 12
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "SANDHYA RAY",
+    "winner_party_2024": "BJP",
+    "data_quality_label": "high",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "BHIND was retained by BJP in 2024. BJP vote share changed by -3.7 points and INC vote share changed by +10.9 points compared with 2019. The 2024 margin was 6.2%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates BHIND was retained by BJP in 2024. BJP vote share changed by -3.7 percentage points versus 2019. INC vote share changed by +10.9 percentage points versus 2019. The winning margin moved from 20.8% in 2019 to 6.2% in 2024. Turnout changed by -1.8 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "large_inc_gain;rural_profile;high_demographic_coverage",
+    "generated_demographic_context": "Available NFHS-linked indicators may suggest a relatively rural-linked profile (urban share about 29.7%). Electricity/Lpg/Mobile Phone/Bank Account access indicators are available for this seat. Available data indicates relatively high district-linked demographic coverage for this seat.",
+    "generated_district_context": "District mapping uses: SEONI\u2192Seoni; BALAGHAT\u2192Balaghat (NFHS-4 proxy); BHIND\u2192Bhind; DATIA\u2192Datia; JHABUA\u2192Jhabua. NFHS-5 coverage share is about 100.0%. Change-indicator coverage share is about 100.0%. Change quality flag: medium.",
+    "generated_what_to_watch": "Large major-party vote-share movement may warrant closer review of local competition patterns.",
+    "final_summary": "BHIND was retained by BJP in 2024. BJP vote share changed by -3.7 points and INC vote share changed by +10.9 points compared with 2019. The 2024 margin was 6.2%. This is a descriptive election profile, not a causal explanation.",
+    "final_electoral_movement": "Available data indicates BHIND was retained by BJP in 2024. BJP vote share changed by -3.7 percentage points versus 2019. INC vote share changed by +10.9 percentage points versus 2019. The winning margin moved from 20.8% in 2019 to 6.2% in 2024. Turnout changed by -1.8 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "final_local_context": null,
+    "final_what_to_watch": "Large major-party vote-share movement may warrant closer review of local competition patterns.",
+    "analysis_source": "generated",
+    "manual_confidence": "high",
+    "has_manual_markdown": false
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for BHIND, Madhya Pradesh using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why BHIND may be analytically useful using priority reason (none), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

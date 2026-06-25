@@ -18,6 +18,8 @@ COVERAGE_DIR = ANALYSIS_DIR / "coverage"
 FRONTEND_DATA_DIR = ROOT / "frontend" / "public" / "data"
 
 MASTER_PATH = ANALYSIS_DIR / "constituency_election_demographic_master.csv"
+MASTER_WITH_MANUAL_PATH = ANALYSIS_DIR / "constituency_election_demographic_master_with_manual.csv"
+MANUAL_SOURCES_JSON_PATH = FRONTEND_DATA_DIR / "manual_demographic_sources.json"
 CORRELATIONS_PATH = ANALYSIS_DIR / "vote_share_driver_correlations.csv"
 TOP_SWING_PATH = ANALYSIS_DIR / "top_swing_constituencies.csv"
 STATE_COVERAGE_PATH = COVERAGE_DIR / "state_coverage.csv"
@@ -52,6 +54,43 @@ DEMOGRAPHIC_CHANGE_COLS = [
     "wealth_index_mean_change",
     "urban_pct_change",
 ]
+
+MANUAL_DEMOGRAPHIC_VARIABLES = [
+    "urban_pct",
+    "literacy_rate",
+    "female_literacy_pct",
+    "male_literacy_pct",
+    "sc_pct",
+    "st_pct",
+    "religion_hindu_pct",
+    "religion_muslim_pct",
+    "religion_christian_pct",
+    "religion_sikh_pct",
+    "population_density",
+    "sex_ratio",
+    "electricity_pct",
+    "lpg_pct",
+    "improved_sanitation_pct",
+    "mobile_phone_pct",
+    "bank_account_pct",
+    "wealth_index_mean",
+    "fertility_rate",
+]
+
+VARIABLE_TO_NFHS5 = {
+    "urban_pct": "urban_pct_nfhs5",
+    "female_literacy_pct": "female_literacy_pct_nfhs5",
+    "male_literacy_pct": "male_literacy_pct_nfhs5",
+    "electricity_pct": "electricity_pct_nfhs5",
+    "lpg_pct": "lpg_pct_nfhs5",
+    "improved_sanitation_pct": "improved_sanitation_pct_nfhs5",
+    "mobile_phone_pct": "mobile_phone_pct_nfhs5",
+    "bank_account_pct": "bank_account_pct_nfhs5",
+    "wealth_index_mean": "wealth_index_mean_nfhs5",
+    "fertility_rate": "fertility_rate_nfhs5",
+}
+
+MANUAL_ONLY_VARIABLES = set(MANUAL_DEMOGRAPHIC_VARIABLES) - set(VARIABLE_TO_NFHS5.keys())
 
 
 def _nan_to_none(value: object) -> object | None:
@@ -100,7 +139,44 @@ def data_quality_label(nfhs5_coverage_share: float | None, has_demographics: boo
 
 def _has_demographics(row: pd.Series) -> bool:
     cols = DEMOGRAPHIC_NFHS5_COLS + DEMOGRAPHIC_CHANGE_COLS
-    return any(_nan_to_none(row.get(col)) is not None for col in cols)
+    if any(_nan_to_none(row.get(col)) is not None for col in cols):
+        return True
+    for variable in MANUAL_ONLY_VARIABLES:
+        if _nan_to_none(row.get(variable)) is not None:
+            return True
+    origin_col = f"{MANUAL_DEMOGRAPHIC_VARIABLES[0]}_origin"
+    if origin_col in row.index and _nan_to_none(row.get(origin_col)) is not None:
+        return True
+    source_type = _nan_to_none(row.get("demographic_source_type"))
+    return source_type in {"manual", "mixed", "generated"}
+
+
+def _manual_field_sources(row: pd.Series) -> dict[str, dict[str, object]]:
+    sources: dict[str, dict[str, object]] = {}
+    for variable in MANUAL_DEMOGRAPHIC_VARIABLES:
+        source_name = _nan_to_none(row.get(f"{variable}_source"))
+        if source_name is None:
+            continue
+        sources[variable] = {
+            "source_name": str(source_name),
+            "source_year": _nan_to_none(row.get(f"{variable}_source_year")),
+            "method": _nan_to_none(row.get(f"{variable}_method")),
+            "confidence": _nan_to_none(row.get(f"{variable}_confidence")),
+            "value_origin": _nan_to_none(row.get(f"{variable}_origin")) or "manual",
+            "manual_reference_value": _round_num(row.get(f"manual_{variable}")),
+        }
+    return sources
+
+
+def _manual_demographics(row: pd.Series) -> dict[str, float | None]:
+    manual: dict[str, float | None] = {}
+    for variable in MANUAL_ONLY_VARIABLES:
+        manual[variable] = _round_num(row.get(variable))
+    for variable in MANUAL_DEMOGRAPHIC_VARIABLES:
+        origin = _nan_to_none(row.get(f"{variable}_origin"))
+        if origin == "manual_reference":
+            manual[variable] = _round_num(row.get(f"manual_{variable}"))
+    return {key: value for key, value in manual.items() if value is not None}
 
 
 def build_constituency_record(row: pd.Series) -> dict[str, object]:
@@ -116,6 +192,12 @@ def build_constituency_record(row: pd.Series) -> dict[str, object]:
         col.replace("_change", "_change"): _round_num(row.get(col))
         for col in DEMOGRAPHIC_CHANGE_COLS
     }
+    demographic_field_sources = _manual_field_sources(row)
+    demographics_manual = _manual_demographics(row)
+    demographic_source_type = _nan_to_none(row.get("demographic_source_type")) or (
+        "generated" if has_demo else "election_only"
+    )
+    manual_fields_count = int(row.get("manual_demographic_fields_count", 0) or 0)
 
     districts_used = _nan_to_none(row.get("districts_used"))
     districts_missing = _nan_to_none(row.get("districts_missing"))
@@ -142,6 +224,11 @@ def build_constituency_record(row: pd.Series) -> dict[str, object]:
         "turnout_2024": _round_num(row.get("turnout_2024")),
         "demographics_nfhs5": demographics_nfhs5,
         "demographics_change": demographics_change,
+        "demographics_manual": demographics_manual,
+        "demographic_field_sources": demographic_field_sources,
+        "demographic_source_type": demographic_source_type,
+        "manual_demographic_fields_count": manual_fields_count,
+        "manual_demographic_source_count": int(row.get("manual_demographic_source_count", 0) or 0),
         "nfhs5_coverage_share": nfhs5_share,
         "change_coverage_share": change_share,
         "change_quality_flag": _nan_to_none(row.get("change_quality_flag")),
@@ -387,8 +474,75 @@ def write_json(path: Path, payload: object) -> None:
         json.dump(payload, handle, ensure_ascii=False, indent=2)
 
 
+def build_manual_sources_catalog(constituencies: list[dict[str, object]]) -> dict[str, object]:
+    seats_with_manual: list[dict[str, object]] = []
+    source_catalog: dict[str, dict[str, object]] = {}
+
+    for record in constituencies:
+        source_type = record.get("demographic_source_type")
+        if source_type not in {"manual", "mixed"}:
+            continue
+
+        field_sources = record.get("demographic_field_sources") or {}
+        if not field_sources:
+            continue
+
+        seats_with_manual.append(
+            {
+                "state": record["state"],
+                "constituency": record["constituency"],
+                "state_key": record["state_key"],
+                "constituency_key": record["constituency_key"],
+                "demographic_source_type": source_type,
+                "manual_demographic_fields_count": record.get("manual_demographic_fields_count", 0),
+                "fields": list(field_sources.keys()),
+            }
+        )
+
+        for variable, meta in field_sources.items():
+            source_name = str(meta.get("source_name", "")).strip()
+            if not source_name:
+                continue
+            catalog_key = source_name.lower()
+            if catalog_key not in source_catalog:
+                source_catalog[catalog_key] = {
+                    "source_name": source_name,
+                    "source_years": sorted(
+                        {
+                            str(meta.get("source_year"))
+                            for meta in field_sources.values()
+                            if meta.get("source_name") == source_name and meta.get("source_year")
+                        }
+                    ),
+                    "variables": [],
+                    "constituency_count": 0,
+                }
+            if variable not in source_catalog[catalog_key]["variables"]:
+                source_catalog[catalog_key]["variables"].append(variable)
+
+    for entry in source_catalog.values():
+        entry["variables"] = sorted(entry["variables"])
+
+    constituency_keys = {
+        f"{item['state_key']}::{item['constituency_key']}" for item in seats_with_manual
+    }
+    for entry in source_catalog.values():
+        entry["constituency_count"] = len(constituency_keys)
+
+    return {
+        "disclaimer": (
+            "Some demographic values for listed constituencies were manually sourced from "
+            "public documents. Manual values supplement — but do not silently replace — "
+            "generated NFHS/Census-linked pipeline data unless explicitly overridden."
+        ),
+        "seats_with_manual_demographics": seats_with_manual,
+        "sources": sorted(source_catalog.values(), key=lambda item: str(item["source_name"])),
+    }
+
+
 def build_bundle() -> dict[str, int]:
-    master = pd.read_csv(MASTER_PATH)
+    master_path = MASTER_WITH_MANUAL_PATH if MASTER_WITH_MANUAL_PATH.exists() else MASTER_PATH
+    master = pd.read_csv(master_path)
     correlations = pd.read_csv(CORRELATIONS_PATH)
     top_swing = pd.read_csv(TOP_SWING_PATH)
     state_coverage = pd.read_csv(STATE_COVERAGE_PATH)
@@ -401,6 +555,7 @@ def build_bundle() -> dict[str, int]:
     coverage_summary = build_coverage_summary(master, state_coverage, variable_coverage, missing_reasons)
     top_swing_json = build_top_swing(top_swing)
     variable_cov_json = build_variable_coverage(variable_coverage)
+    manual_sources_json = build_manual_sources_catalog(constituencies)
 
     write_json(FRONTEND_DATA_DIR / "constituencies.json", constituencies)
     write_json(FRONTEND_DATA_DIR / "states.json", states)
@@ -408,12 +563,14 @@ def build_bundle() -> dict[str, int]:
     write_json(FRONTEND_DATA_DIR / "coverage_summary.json", coverage_summary)
     write_json(FRONTEND_DATA_DIR / "top_swing_constituencies.json", top_swing_json)
     write_json(FRONTEND_DATA_DIR / "variable_coverage.json", variable_cov_json)
+    write_json(MANUAL_SOURCES_JSON_PATH, manual_sources_json)
 
     return {
         "constituencies": len(constituencies),
         "states": len(states),
         "top_swing_sections": len(top_swing_json),
         "variables": len(variable_cov_json),
+        "manual_demographic_seats": len(manual_sources_json.get("seats_with_manual_demographics", [])),
     }
 
 
@@ -424,6 +581,7 @@ def main() -> None:
     print(f"  States: {counts['states']}")
     print(f"  Top swing sections: {counts['top_swing_sections']}")
     print(f"  Variables tracked: {counts['variables']}")
+    print(f"  Manual demographic seats: {counts['manual_demographic_seats']}")
     print(f"  Output: {FRONTEND_DATA_DIR}")
 
 

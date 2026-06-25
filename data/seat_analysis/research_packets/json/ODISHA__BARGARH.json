@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Odisha",
+    "constituency": "Bargarh",
+    "state_key": "ODISHA",
+    "constituency_key": "BARGARH"
+  },
+  "election_facts": {
+    "winner_2019": "Suresh Pujari",
+    "winner_2024": "PRADEEP PUROHIT",
+    "winner_party_2019": "BJP",
+    "winner_party_2024": "BJP",
+    "winner_changed": false,
+    "bjp_vote_share_2019": 46.5774,
+    "bjp_vote_share_2024": 54.6896,
+    "inc_vote_share_2019": 8.768,
+    "inc_vote_share_2024": 7.142,
+    "bjp_swing_2019_2024": 8.1122,
+    "inc_swing_2019_2024": -1.626,
+    "margin_2019": 5.1237,
+    "margin_2024": 19.2132,
+    "margin_change": 14.0895,
+    "turnout_2019": 36.4122,
+    "turnout_2024": 43.84,
+    "turnout_change": 7.4278
+  },
+  "state_context": {
+    "state_total_seats": 21,
+    "bjp_seats_2019": 8,
+    "bjp_seats_2024": 20,
+    "inc_seats_2019": 1,
+    "inc_seats_2024": 1,
+    "state_average_bjp_swing": 7.06,
+    "state_average_inc_swing": -1.25,
+    "state_demographic_coverage_pct": 0.0
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": false,
+    "is_close_2024": false,
+    "is_large_bjp_gain": false,
+    "is_large_bjp_loss": false,
+    "is_large_inc_gain": false,
+    "is_large_inc_loss": false,
+    "is_priority_seat": false,
+    "priority_reason": null,
+    "priority_rank": null
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": null,
+      "improved_sanitation_pct_nfhs5": null,
+      "lpg_pct_nfhs5": null,
+      "mobile_phone_pct_nfhs5": null,
+      "bank_account_pct_nfhs5": null,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": null,
+      "urban_pct_nfhs5": null
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": null,
+      "improved_sanitation_pct_change": null,
+      "lpg_pct_change": null,
+      "mobile_phone_pct_change": null,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": null
+    },
+    "nfhs5_coverage_share": null,
+    "change_coverage_share": null,
+    "change_quality_flag": null,
+    "data_quality_label": "election_only",
+    "districts_used": null,
+    "districts_missing": null,
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": false,
+      "has_change_any": false,
+      "missing_features_count": 22,
+      "available_features_count": 0
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "PRADEEP PUROHIT",
+    "winner_party_2024": "BJP",
+    "data_quality_label": "election_only",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "Bargarh was retained by BJP in 2024. BJP vote share changed by +8.1 points and INC vote share changed by -1.6 points compared with 2019. The 2024 margin was 19.2%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates Bargarh was retained by BJP in 2024. BJP vote share changed by +8.1 percentage points versus 2019. INC vote share changed by -1.6 percentage points versus 2019. The winning margin moved from 5.1% in 2019 to 19.2% in 2024. Turnout changed by +7.4 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "high_turnout_change;election_only_profile",
+    "generated_demographic_context": "Demographic indicators are currently unavailable for this constituency; the profile is election-only.",
+    "generated_district_context": "District-linked demographic mapping details are not available for this seat.",
+    "generated_what_to_watch": "Turnout shifted materially between 2019 and 2024 and may be worth tracking. Demographic context may remain limited until district-linked coverage improves.",
+    "final_summary": "Bargarh was retained by BJP in 2024. BJP vote share changed by +8.1 points and INC vote share changed by -1.6 points compared with 2019. The 2024 margin was 19.2%. This is a descriptive election profile, not a causal explanation.",
+    "final_electoral_movement": "Available data indicates Bargarh was retained by BJP in 2024. BJP vote share changed by +8.1 percentage points versus 2019. INC vote share changed by -1.6 percentage points versus 2019. The winning margin moved from 5.1% in 2019 to 19.2% in 2024. Turnout changed by +7.4 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "final_local_context": null,
+    "final_what_to_watch": "Turnout shifted materially between 2019 and 2024 and may be worth tracking. Demographic context may remain limited until district-linked coverage improves.",
+    "analysis_source": "generated",
+    "manual_confidence": "medium",
+    "has_manual_markdown": false
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for Bargarh, Odisha using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why Bargarh may be analytically useful using priority reason (none), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

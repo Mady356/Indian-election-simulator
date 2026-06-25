@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Kerala",
+    "constituency": "Wayanad",
+    "state_key": "KERALA",
+    "constituency_key": "WAYANAD"
+  },
+  "election_facts": {
+    "winner_2019": "Rahul Gandhi",
+    "winner_2024": "RAHUL GANDHI",
+    "winner_party_2019": "INC",
+    "winner_party_2024": "INC",
+    "winner_changed": false,
+    "bjp_vote_share_2019": 0.0,
+    "bjp_vote_share_2024": 13.0037,
+    "inc_vote_share_2019": 64.674,
+    "inc_vote_share_2024": 59.6914,
+    "bjp_swing_2019_2024": 13.0037,
+    "inc_swing_2019_2024": -4.9825,
+    "margin_2019": 39.5322,
+    "margin_2024": 33.598,
+    "margin_change": -5.9342,
+    "turnout_2019": 51.951,
+    "turnout_2024": 44.21,
+    "turnout_change": -7.741
+  },
+  "state_context": {
+    "state_total_seats": 20,
+    "bjp_seats_2019": 0,
+    "bjp_seats_2024": 1,
+    "inc_seats_2019": 15,
+    "inc_seats_2024": 14,
+    "state_average_bjp_swing": 4.14,
+    "state_average_inc_swing": -2.74,
+    "state_demographic_coverage_pct": 85.0
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": false,
+    "is_close_2024": false,
+    "is_large_bjp_gain": true,
+    "is_large_bjp_loss": false,
+    "is_large_inc_gain": false,
+    "is_large_inc_loss": false,
+    "is_priority_seat": true,
+    "priority_reason": "major_constituency",
+    "priority_rank": 279
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": null,
+      "improved_sanitation_pct_nfhs5": null,
+      "lpg_pct_nfhs5": null,
+      "mobile_phone_pct_nfhs5": null,
+      "bank_account_pct_nfhs5": null,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": null,
+      "urban_pct_nfhs5": null
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": null,
+      "improved_sanitation_pct_change": null,
+      "lpg_pct_change": null,
+      "mobile_phone_pct_change": null,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": null
+    },
+    "nfhs5_coverage_share": null,
+    "change_coverage_share": null,
+    "change_quality_flag": null,
+    "data_quality_label": "election_only",
+    "districts_used": null,
+    "districts_missing": null,
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": false,
+      "has_change_any": false,
+      "missing_features_count": 22,
+      "available_features_count": 0
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "RAHUL GANDHI",
+    "winner_party_2024": "INC",
+    "data_quality_label": "election_only",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "Wayanad was retained by INC in 2024. BJP vote share changed by +13.0 points and INC vote share changed by -5.0 points compared with 2019. The 2024 margin was 33.6%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates Wayanad was retained by INC in 2024. BJP vote share changed by +13.0 percentage points versus 2019. INC vote share changed by -5.0 percentage points versus 2019. The winning margin moved from 39.5% in 2019 to 33.6% in 2024. Turnout changed by -7.7 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "large_bjp_gain;high_turnout_change;election_only_profile",
+    "generated_demographic_context": "Demographic indicators are currently unavailable for this constituency; the profile is election-only.",
+    "generated_district_context": "District-linked demographic mapping details are not available for this seat.",
+    "generated_what_to_watch": "Large major-party vote-share movement may warrant closer review of local competition patterns. Turnout shifted materially between 2019 and 2024 and may be worth tracking. Demographic context may remain limited until district-linked coverage improves.",
+    "final_summary": "Wayanad is Congress's southern safe harbour and a Gandhi-family reserve seat. Rahul Gandhi won here in 2024 before retaining Rae Bareli and vacating the seat for Priyanka Gandhi Vadra's parliamentary entry.",
+    "final_electoral_movement": "Wayanad remained a Congress stronghold. Rahul Gandhi won the seat in the 2024 general election and later retained Rae Bareli, vacating Wayanad; the seat then became the site of Priyanka Gandhi Vadra's parliamentary entry.",
+    "final_local_context": "Why it mattered: Wayanad functions as Congress's southern safe harbour. It reflects the party's resilience in Kerala and its dependence on seats where minority, anti-BJP, and Congress-aligned voters remain strongly consolidated. Factors that may have mattered: The seat's political profile is shaped by Congress's local alliance structure, Kerala's anti-BJP electoral pattern, and the Gandhi family's national visibility. It should not be read as a competitive BJP expansion seat.",
+    "final_what_to_watch": "Whether Wayanad remains a Gandhi-family reserve seat or becomes a deeper test of Congress's ability to convert symbolic leadership into durable organisation.",
+    "analysis_source": "mixed",
+    "manual_confidence": "medium",
+    "has_manual_markdown": false,
+    "manual_csv_note": {
+      "summary": "Wayanad is Congress's southern safe harbour and a Gandhi-family reserve seat. Rahul Gandhi won here in 2024 before retaining Rae Bareli and vacating the seat for Priyanka Gandhi Vadra's parliamentary entry.",
+      "electoral_movement": "Wayanad remained a Congress stronghold. Rahul Gandhi won the seat in the 2024 general election and later retained Rae Bareli, vacating Wayanad; the seat then became the site of Priyanka Gandhi Vadra's parliamentary entry.",
+      "key_factors": "candidate profile;alliance arithmetic;local context;state mood;Congress local alliance structure;Kerala anti-BJP pattern;Gandhi family national visibility",
+      "local_context": "Why it mattered: Wayanad functions as Congress's southern safe harbour. It reflects the party's resilience in Kerala and its dependence on seats where minority, anti-BJP, and Congress-aligned voters remain strongly consolidated. Factors that may have mattered: The seat's political profile is shaped by Congress's local alliance structure, Kerala's anti-BJP electoral pattern, and the Gandhi family's national visibility. It should not be read as a competitive BJP expansion seat.",
+      "what_to_watch": "Whether Wayanad remains a Gandhi-family reserve seat or becomes a deeper test of Congress's ability to convert symbolic leadership into durable organisation.",
+      "confidence": "medium"
+    }
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for Wayanad, Kerala using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why Wayanad may be analytically useful using priority reason (major_constituency), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "West Bengal",
+    "constituency": "Kolkata Dakshin",
+    "state_key": "WEST BENGAL",
+    "constituency_key": "KOLKATA DAKSHIN"
+  },
+  "election_facts": {
+    "winner_2019": "Mala Roy",
+    "winner_2024": "MALA ROY",
+    "winner_party_2019": "AITC",
+    "winner_party_2024": "AITC",
+    "winner_changed": false,
+    "bjp_vote_share_2019": 34.6355,
+    "bjp_vote_share_2024": 34.4231,
+    "inc_vote_share_2019": 3.5319,
+    "inc_vote_share_2024": 0.0,
+    "bjp_swing_2019_2024": -0.2124,
+    "inc_swing_2019_2024": -3.5319,
+    "margin_2019": 12.8614,
+    "margin_2024": 15.0571,
+    "margin_change": 2.1956,
+    "turnout_2019": 33.1503,
+    "turnout_2024": 33.26,
+    "turnout_change": 0.1097
+  },
+  "state_context": {
+    "state_total_seats": 42,
+    "bjp_seats_2019": 18,
+    "bjp_seats_2024": 12,
+    "inc_seats_2019": 2,
+    "inc_seats_2024": 1,
+    "state_average_bjp_swing": -1.48,
+    "state_average_inc_swing": -0.85,
+    "state_demographic_coverage_pct": 64.29
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": false,
+    "is_close_2024": false,
+    "is_large_bjp_gain": false,
+    "is_large_bjp_loss": false,
+    "is_large_inc_gain": false,
+    "is_large_inc_loss": false,
+    "is_priority_seat": false,
+    "priority_reason": null,
+    "priority_rank": null
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": null,
+      "improved_sanitation_pct_nfhs5": null,
+      "lpg_pct_nfhs5": null,
+      "mobile_phone_pct_nfhs5": null,
+      "bank_account_pct_nfhs5": null,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": null,
+      "urban_pct_nfhs5": null
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": null,
+      "improved_sanitation_pct_change": null,
+      "lpg_pct_change": null,
+      "mobile_phone_pct_change": null,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": null
+    },
+    "nfhs5_coverage_share": null,
+    "change_coverage_share": null,
+    "change_quality_flag": null,
+    "data_quality_label": "election_only",
+    "districts_used": null,
+    "districts_missing": null,
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": false,
+      "has_change_any": false,
+      "missing_features_count": 22,
+      "available_features_count": 0
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "MALA ROY",
+    "winner_party_2024": "AITC",
+    "data_quality_label": "election_only",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "Kolkata Dakshin was retained by AITC in 2024. BJP vote share changed by -0.2 points and INC vote share changed by -3.5 points compared with 2019. The 2024 margin was 15.1%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates Kolkata Dakshin was retained by AITC in 2024. BJP vote share changed by -0.2 percentage points versus 2019. INC vote share changed by -3.5 percentage points versus 2019. The winning margin moved from 12.9% in 2019 to 15.1% in 2024. Turnout changed by +0.1 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "election_only_profile",
+    "generated_demographic_context": "Demographic indicators are currently unavailable for this constituency; the profile is election-only.",
+    "generated_district_context": "District-linked demographic mapping details are not available for this seat.",
+    "generated_what_to_watch": "Demographic context may remain limited until district-linked coverage improves.",
+    "final_summary": "It reflects the TMC's hold over Kolkata's political imagination and the difficulty BJP faces in breaking into the city's core constituencies.",
+    "final_electoral_movement": "Available data indicates Kolkata Dakshin was retained by AITC in 2024. BJP vote share changed by -0.2 percentage points versus 2019. INC vote share changed by -3.5 percentage points versus 2019. The winning margin moved from 12.9% in 2019 to 15.1% in 2024. Turnout changed by +0.1 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "final_local_context": "It reflects the TMC's hold over Kolkata's political imagination and the difficulty BJP faces in breaking into the city's core constituencies.",
+    "final_what_to_watch": "Whether BJP's Bengal strategy can penetrate Kolkata proper, or whether its future growth remains outside the city core.",
+    "analysis_source": "manual",
+    "manual_confidence": "medium",
+    "manual_note": {
+      "path": "/Users/maadhavangupta/Downloads/CS/Projects/Election-simulator/data/seat_analysis/manual/notes/WEST_BENGAL__KOLKATA_DAKSHIN.md",
+      "why_it_mattered": "It reflects the TMC's hold over Kolkata's political imagination and the difficulty BJP faces in breaking into the city's core constituencies.",
+      "factors": "Urban Bengali identity, TMC welfare networks, candidate familiarity, and anti-BJP consolidation.",
+      "what_to_watch": "Whether BJP's Bengal strategy can penetrate Kolkata proper, or whether its future growth remains outside the city core.",
+      "notes_caveats": "This note is interpretive. Language such as \u201cmay have mattered\u201d and \u201ccould reflect\u201d is intentional. Patterns in The 543 data are not causal claims. Local context requires later source review.",
+      "analyst_name": "Maadhavan Gupta",
+      "manual_confidence": "medium",
+      "source_notes": "Based on The 543 election data and analyst-written local context; requires later source review."
+    },
+    "has_manual_markdown": true,
+    "manual_csv_note": {
+      "summary": "It reflects the TMC's hold over Kolkata's political imagination and the difficulty BJP faces in breaking into the city's core constituencies.",
+      "electoral_movement": "Available data indicates Kolkata Dakshin was retained by AITC in 2024. BJP vote share changed by -0.2 percentage points versus 2019. INC vote share changed by -3.5 percentage points versus 2019. The winning margin moved from 12.9% in 2019 to 15.1% in 2024. Turnout changed by +0.1 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+      "key_factors": "candidate profile;alliance arithmetic;turnout;local context;state mood",
+      "demographic_context": "Demographic indicators are currently unavailable for this constituency; the profile is election-only.\n\nDistrict-linked demographic mapping details are not available for this seat.",
+      "local_context": "It reflects the TMC's hold over Kolkata's political imagination and the difficulty BJP faces in breaking into the city's core constituencies.",
+      "what_to_watch": "Whether BJP's Bengal strategy can penetrate Kolkata proper, or whether its future growth remains outside the city core.",
+      "confidence": "medium"
+    }
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for Kolkata Dakshin, West Bengal using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why Kolkata Dakshin may be analytically useful using priority reason (none), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

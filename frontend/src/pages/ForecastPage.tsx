@@ -12,6 +12,7 @@ import {
   formatProbability,
   formatSwingLabel,
   loadMonteCarloBase,
+  percentile,
   runMonteCarloElection,
   type MonteCarloInputs,
   type MonteCarloResult,
@@ -143,14 +144,14 @@ export function ForecastPage() {
   return (
     <div className="mx-auto max-w-6xl space-y-6">
       <section className="rounded-xl border border-border bg-gradient-to-br from-card via-card to-primary/5 p-5 md:p-6">
-        <h1 className="text-2xl font-semibold tracking-tight md:text-3xl">Forecast / Monte Carlo Simulator</h1>
+        <h1 className="text-2xl font-semibold tracking-tight md:text-3xl">Forecast Lab</h1>
         <p className="mt-2 text-sm text-muted md:text-base">
-          Run thousands of what-if elections using constituency-level 2024 results and uncertainty assumptions.
+          Run Monte Carlo simulations of India&apos;s Lok Sabha map.
         </p>
         <p className="mt-3 rounded-lg border border-warning/30 bg-warning/10 px-4 py-3 text-sm leading-relaxed text-muted">
-          This is an experimental scenario simulator, not a prediction. It starts from 2024 constituency
-          results, applies user-selected swing and uncertainty assumptions, and runs repeated simulated
-          elections. Polling and CSDS-Lokniti calibration will be added later.
+          This is an experimental simulator, not a prediction. It starts from 2024 constituency
+          results and applies user-controlled uncertainty assumptions. Polling and CSDS-Lokniti
+          calibration will be added later.
         </p>
       </section>
 
@@ -181,8 +182,8 @@ export function ForecastPage() {
             </div>
 
             <div className="mt-4 space-y-2">
-              <SwingSlider label="NDA swing" value={inputs.ndaSwing} onChange={(v) => setInputs((p) => ({ ...p, ndaSwing: v }))} min={-10} max={10} />
-              <SwingSlider label="INDIA swing" value={inputs.indiaSwing} onChange={(v) => setInputs((p) => ({ ...p, indiaSwing: v }))} min={-10} max={10} />
+              <SwingSlider label="NDA/BJP swing" value={inputs.ndaSwing} onChange={(v) => setInputs((p) => ({ ...p, ndaSwing: v }))} min={-10} max={10} />
+              <SwingSlider label="INDIA/INC swing" value={inputs.indiaSwing} onChange={(v) => setInputs((p) => ({ ...p, indiaSwing: v }))} min={-10} max={10} />
               <SwingSlider label="Others swing" value={inputs.othersSwing} onChange={(v) => setInputs((p) => ({ ...p, othersSwing: v }))} min={-10} max={10} />
             </div>
 
@@ -274,21 +275,21 @@ export function ForecastPage() {
           ) : (
             <>
               <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-3">
-                <MetricCard label="NDA plurality probability" value={formatProbability(summary.nda_plurality_probability)} accent="accent" />
-                <MetricCard label="INDIA plurality probability" value={formatProbability(summary.india_plurality_probability)} accent="primary" />
-                <MetricCard label="Others plurality probability" value={formatProbability(summary.others_plurality_probability)} />
-                <MetricCard label="Median NDA seats" value={summary.median_nda_seats} hint={`80% range ${summary.nda_seat_p10}–${summary.nda_seat_p90}`} />
-                <MetricCard label="Median INDIA seats" value={summary.median_india_seats} hint={`80% range ${summary.india_seat_p10}–${summary.india_seat_p90}`} />
+                <MetricCard label="NDA/BJP plurality probability" value={formatProbability(summary.nda_plurality_probability)} accent="accent" />
+                <MetricCard label="INDIA/INC plurality probability" value={formatProbability(summary.india_plurality_probability)} accent="primary" />
+                <MetricCard label="Others/regional plurality probability" value={formatProbability(summary.others_plurality_probability)} />
+                <MetricCard label="NDA/BJP majority probability" value={formatProbability(summary.nda_majority_probability)} accent="accent" hint="≥272 seats" />
+                <MetricCard label="INDIA/INC majority probability" value={formatProbability(summary.india_majority_probability)} accent="primary" hint="≥272 seats" />
+                <MetricCard label="Hung parliament probability" value={formatProbability(summary.hung_parliament_probability)} accent="warning" />
+                <MetricCard label="Median NDA/BJP seats" value={summary.median_nda_seats} hint={`80% range ${summary.nda_seat_p10}–${summary.nda_seat_p90}`} />
+                <MetricCard label="Median INDIA/INC seats" value={summary.median_india_seats} hint={`80% range ${summary.india_seat_p10}–${summary.india_seat_p90}`} />
                 <MetricCard label="Median Others seats" value={summary.median_others_seats} />
-                <MetricCard label="NDA majority (≥272)" value={formatProbability(summary.nda_majority_probability)} accent="accent" />
-                <MetricCard label="INDIA majority (≥272)" value={formatProbability(summary.india_majority_probability)} accent="primary" />
-                <MetricCard label="Hung parliament" value={formatProbability(summary.hung_parliament_probability)} accent="warning" />
                 <MetricCard label="Volatile seats" value={summary.volatile_seat_count} hint={`${formatNumber(summary.simulations_run)} simulations run`} accent="danger" />
               </div>
 
               <div className="grid gap-4 lg:grid-cols-3">
                 <MonteCarloHistogram
-                  title="NDA seat distribution"
+                  title="NDA/BJP seat distribution"
                   data={result.nda_seat_distribution}
                   median={summary.median_nda_seats}
                   p10={summary.nda_seat_p10}
@@ -296,7 +297,7 @@ export function ForecastPage() {
                   color={ALLIANCE_COLORS.NDA}
                 />
                 <MonteCarloHistogram
-                  title="INDIA seat distribution"
+                  title="INDIA/INC seat distribution"
                   data={result.india_seat_distribution}
                   median={summary.median_india_seats}
                   p10={summary.india_seat_p10}
@@ -307,8 +308,8 @@ export function ForecastPage() {
                   title="Others seat distribution"
                   data={result.others_seat_distribution}
                   median={summary.median_others_seats}
-                  p10={percentileFromDistribution(result.others_seat_distribution, 0.1)}
-                  p90={percentileFromDistribution(result.others_seat_distribution, 0.9)}
+                  p10={percentileFromHistogram(result.others_seat_distribution, 0.1)}
+                  p90={percentileFromHistogram(result.others_seat_distribution, 0.9)}
                   color={COLORS.muted}
                 />
               </div>
@@ -333,14 +334,13 @@ export function ForecastPage() {
           <div className="flex items-start gap-3">
             <Info className="mt-0.5 h-4 w-4 shrink-0 text-primary" />
             <div>
-              <h2 className="font-medium">How the simulator works</h2>
+              <h2 className="font-medium">How this works</h2>
               <ul className="mt-3 list-disc space-y-2 pl-5 text-sm leading-relaxed text-muted">
                 <li>Starts from 2024 constituency results in the Monte Carlo base dataset.</li>
-                <li>Applies user-selected NDA, INDIA, and Others swing assumptions.</li>
-                <li>Adds correlated national, state-level, and seat-level random errors each simulation.</li>
-                <li>Runs many simulated elections and counts resulting alliance seat totals.</li>
-                <li>Uncertainty sliders are user-controlled and not calibrated to current polls.</li>
-                <li>This is not a causal model and does not use live polling inputs yet.</li>
+                <li>Applies national, state-level, and seat-level uncertainty each simulation.</li>
+                <li>Runs many possible elections and counts resulting alliance seat totals.</li>
+                <li>Uncertainty sliders are user-controlled and not calibrated to current polling.</li>
+                <li>Not calibrated to current polling yet and not a causal model.</li>
               </ul>
             </div>
           </div>
@@ -353,7 +353,7 @@ export function ForecastPage() {
             <li>Pre-poll vs post-poll polling error</li>
             <li>State-level polling inputs</li>
             <li>Candidate/incumbency adjustments</li>
-            <li>Probabilistic forecast model</li>
+            <li>Probabilistic model calibration</li>
           </ul>
         </div>
       </section>
@@ -361,7 +361,7 @@ export function ForecastPage() {
   );
 }
 
-function percentileFromDistribution(
+function percentileFromHistogram(
   data: Array<{ seats: number; count: number }>,
   p: number,
 ): number {
@@ -369,8 +369,5 @@ function percentileFromDistribution(
   for (const row of data) {
     for (let i = 0; i < row.count; i += 1) expanded.push(row.seats);
   }
-  expanded.sort((a, b) => a - b);
-  if (!expanded.length) return 0;
-  const idx = Math.floor(p * (expanded.length - 1));
-  return expanded[idx];
+  return percentile([...expanded].sort((a, b) => a - b), p);
 }

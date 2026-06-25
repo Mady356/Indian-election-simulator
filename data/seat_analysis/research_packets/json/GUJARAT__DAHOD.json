@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Gujarat",
+    "constituency": "Dahod",
+    "state_key": "GUJARAT",
+    "constituency_key": "DAHOD"
+  },
+  "election_facts": {
+    "winner_2019": "JASHVANTSINH SUMANBHAI BHABHOR",
+    "winner_2024": "JASWANTSINH SUMANBHAI BHABHOR",
+    "winner_party_2019": "BJP",
+    "winner_party_2024": "BJP",
+    "winner_changed": false,
+    "bjp_vote_share_2019": 52.8361,
+    "bjp_vote_share_2024": 61.5862,
+    "inc_vote_share_2019": 40.8351,
+    "inc_vote_share_2024": 31.7482,
+    "bjp_swing_2019_2024": 8.7501,
+    "inc_swing_2019_2024": -9.0869,
+    "margin_2019": 12.001,
+    "margin_2024": 29.838,
+    "margin_change": 17.837,
+    "turnout_2019": 35.1333,
+    "turnout_2024": 36.71,
+    "turnout_change": 1.5767
+  },
+  "state_context": {
+    "state_total_seats": 25,
+    "bjp_seats_2019": 25,
+    "bjp_seats_2024": 24,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 1,
+    "state_average_bjp_swing": 0.36,
+    "state_average_inc_swing": -1.54,
+    "state_demographic_coverage_pct": 84.0
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": false,
+    "is_close_2024": false,
+    "is_large_bjp_gain": false,
+    "is_large_bjp_loss": false,
+    "is_large_inc_gain": false,
+    "is_large_inc_loss": false,
+    "is_priority_seat": false,
+    "priority_reason": null,
+    "priority_rank": null
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": 80.4859,
+      "improved_sanitation_pct_nfhs5": 36.3951,
+      "lpg_pct_nfhs5": 24.4519,
+      "mobile_phone_pct_nfhs5": 7.3843,
+      "bank_account_pct_nfhs5": null,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": null,
+      "urban_pct_nfhs5": 34.1551
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": 0.0,
+      "improved_sanitation_pct_change": 0.0,
+      "lpg_pct_change": 0.0,
+      "mobile_phone_pct_change": 0.0,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": 0.0
+    },
+    "nfhs5_coverage_share": 1.0,
+    "change_coverage_share": 1.0,
+    "change_quality_flag": "medium",
+    "data_quality_label": "high",
+    "districts_used": "DAHOD\u2192Dohad (NFHS-4 proxy); PANCHMAHALS\u2192Panch Mahals (NFHS-4 proxy)",
+    "districts_missing": null,
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": false,
+      "has_change_any": false,
+      "missing_features_count": 22,
+      "available_features_count": 0
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "JASWANTSINH SUMANBHAI BHABHOR",
+    "winner_party_2024": "BJP",
+    "data_quality_label": "high",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "Dahod was retained by BJP in 2024. BJP vote share changed by +8.8 points and INC vote share changed by -9.1 points compared with 2019. The 2024 margin was 29.8%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates Dahod was retained by BJP in 2024. BJP vote share changed by +8.8 percentage points versus 2019. INC vote share changed by -9.1 percentage points versus 2019. The winning margin moved from 12.0% in 2019 to 29.8% in 2024. Turnout changed by +1.6 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "high_demographic_coverage",
+    "generated_demographic_context": "Electricity/Lpg/Mobile Phone access indicators are available for this seat. Available data indicates relatively high district-linked demographic coverage for this seat.",
+    "generated_district_context": "District mapping uses: DAHOD\u2192Dohad (NFHS-4 proxy); PANCHMAHALS\u2192Panch Mahals (NFHS-4 proxy). NFHS-5 coverage share is about 100.0%. Change-indicator coverage share is about 100.0%. Change quality flag: medium.",
+    "generated_what_to_watch": "Track future election results and any improvements in district-linked demographic coverage.",
+    "final_summary": "Dahod was retained by BJP in 2024. BJP vote share changed by +8.8 points and INC vote share changed by -9.1 points compared with 2019. The 2024 margin was 29.8%. This is a descriptive election profile, not a causal explanation.",
+    "final_electoral_movement": "Available data indicates Dahod was retained by BJP in 2024. BJP vote share changed by +8.8 percentage points versus 2019. INC vote share changed by -9.1 percentage points versus 2019. The winning margin moved from 12.0% in 2019 to 29.8% in 2024. Turnout changed by +1.6 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "final_local_context": null,
+    "final_what_to_watch": "Track future election results and any improvements in district-linked demographic coverage.",
+    "analysis_source": "generated",
+    "manual_confidence": "high",
+    "has_manual_markdown": false
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for Dahod, Gujarat using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why Dahod may be analytically useful using priority reason (none), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}

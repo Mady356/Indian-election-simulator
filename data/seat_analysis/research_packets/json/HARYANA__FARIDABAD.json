@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22",
+    "packet_version": "1"
+  },
+  "identity": {
+    "state": "Haryana",
+    "constituency": "FARIDABAD",
+    "state_key": "HARYANA",
+    "constituency_key": "FARIDABAD"
+  },
+  "election_facts": {
+    "winner_2019": "KRISHAN PAL",
+    "winner_2024": "KRISHAN PAL",
+    "winner_party_2019": "BJP",
+    "winner_party_2024": "BJP",
+    "winner_changed": false,
+    "bjp_vote_share_2019": 68.8032,
+    "bjp_vote_share_2024": 53.5959,
+    "inc_vote_share_2019": 20.7175,
+    "inc_vote_share_2024": 41.8437,
+    "bjp_swing_2019_2024": -15.2073,
+    "inc_swing_2019_2024": 21.1261,
+    "margin_2019": 48.0857,
+    "margin_2024": 11.7523,
+    "margin_change": -36.3334,
+    "turnout_2019": 44.0783,
+    "turnout_2024": 32.36,
+    "turnout_change": -11.7183
+  },
+  "state_context": {
+    "state_total_seats": 10,
+    "bjp_seats_2019": 10,
+    "bjp_seats_2024": 5,
+    "inc_seats_2019": 0,
+    "inc_seats_2024": 5,
+    "state_average_bjp_swing": -11.94,
+    "state_average_inc_swing": 15.1,
+    "state_demographic_coverage_pct": 80.0
+  },
+  "rank_context_flags": {
+    "is_flipped_seat": false,
+    "is_close_2024": false,
+    "is_large_bjp_gain": false,
+    "is_large_bjp_loss": true,
+    "is_large_inc_gain": true,
+    "is_large_inc_loss": false,
+    "is_priority_seat": true,
+    "priority_reason": "top_bjp_loss",
+    "priority_rank": 93
+  },
+  "demographic_context": {
+    "nfhs5_indicators": {
+      "fertility_rate_nfhs5": null,
+      "electricity_pct_nfhs5": 100.0,
+      "improved_sanitation_pct_nfhs5": 33.3333,
+      "lpg_pct_nfhs5": 33.3333,
+      "mobile_phone_pct_nfhs5": 0.0,
+      "bank_account_pct_nfhs5": 0.0,
+      "women_secondary_edu_pct_nfhs5": null,
+      "female_literacy_pct_nfhs5": null,
+      "male_literacy_pct_nfhs5": null,
+      "wealth_index_mean_nfhs5": -47361.0,
+      "urban_pct_nfhs5": 0.0
+    },
+    "change_indicators": {
+      "fertility_rate_change": null,
+      "electricity_pct_change": 5.8092,
+      "improved_sanitation_pct_change": -11.0695,
+      "lpg_pct_change": -1.844,
+      "mobile_phone_pct_change": -18.9821,
+      "bank_account_pct_change": null,
+      "women_secondary_edu_pct_change": null,
+      "female_literacy_pct_change": null,
+      "male_literacy_pct_change": null,
+      "wealth_index_mean_change": null,
+      "urban_pct_change": -40.7331
+    },
+    "nfhs5_coverage_share": 0.125,
+    "change_coverage_share": 0.125,
+    "change_quality_flag": "low",
+    "data_quality_label": "low",
+    "districts_used": "KAITHAL\u2192Kaithal",
+    "districts_missing": "FARIDABAD",
+    "coverage_diagnostics": {
+      "has_election_data": true,
+      "has_nfhs5_any": false,
+      "has_change_any": false,
+      "missing_features_count": 22,
+      "available_features_count": 0
+    }
+  },
+  "simulation_context": {
+    "simulation_completeness": "full_party_shares",
+    "winner_2024": "KRISHAN PAL",
+    "winner_party_2024": "BJP",
+    "data_quality_label": "low",
+    "projection_confidence_hint": "high"
+  },
+  "existing_analysis": {
+    "generated_baseline_summary": "FARIDABAD was retained by BJP in 2024. BJP vote share changed by -15.2 points and INC vote share changed by +21.1 points compared with 2019. The 2024 margin was 11.8%. This is a descriptive election profile, not a causal explanation.",
+    "generated_electoral_movement": "Available data indicates FARIDABAD was retained by BJP in 2024. BJP vote share changed by -15.2 percentage points versus 2019. INC vote share changed by +21.1 percentage points versus 2019. The winning margin moved from 48.1% in 2019 to 11.8% in 2024. Turnout changed by -11.7 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "generated_key_factors": "large_bjp_loss;large_inc_gain;high_turnout_change;rural_profile;low_demographic_coverage;district_coverage_gap",
+    "generated_demographic_context": "Available NFHS-linked indicators may suggest a relatively rural-linked profile (urban share about 0.0%). Electricity/Lpg/Mobile Phone/Bank Account access indicators are available for this seat. Demographic interpretation should be cautious because district-linked coverage is partial.",
+    "generated_district_context": "District mapping uses: KAITHAL\u2192Kaithal. Some districts are not mapped: FARIDABAD. NFHS-5 coverage share is about 12.5%. Change-indicator coverage share is about 12.5%. Change quality flag: low.",
+    "generated_what_to_watch": "Large major-party vote-share movement may warrant closer review of local competition patterns. Turnout shifted materially between 2019 and 2024 and may be worth tracking. Incomplete district mapping may limit future demographic interpretation for this seat.",
+    "final_summary": "FARIDABAD was retained by BJP in 2024. BJP vote share changed by -15.2 points and INC vote share changed by +21.1 points compared with 2019. The 2024 margin was 11.8%. This is a descriptive election profile, not a causal explanation.",
+    "final_electoral_movement": "Available data indicates FARIDABAD was retained by BJP in 2024. BJP vote share changed by -15.2 percentage points versus 2019. INC vote share changed by +21.1 percentage points versus 2019. The winning margin moved from 48.1% in 2019 to 11.8% in 2024. Turnout changed by -11.7 percentage points between 2019 and 2024. This section describes observed election movement only and is not a causal explanation.",
+    "final_local_context": null,
+    "final_what_to_watch": "Large major-party vote-share movement may warrant closer review of local competition patterns. Turnout shifted materially between 2019 and 2024 and may be worth tracking. Incomplete district mapping may limit future demographic interpretation for this seat.",
+    "analysis_source": "generated",
+    "manual_confidence": "medium",
+    "has_manual_markdown": false
+  },
+  "writing_prompts": {
+    "what_happened_prompt": "Describe observed 2019\u21922024 election movement for FARIDABAD, Haryana using winner, vote-share, margin, and turnout fields only.",
+    "why_it_mattered_prompt": "Explain why FARIDABAD may be analytically useful using priority reason (top_bjp_loss), contest closeness, swings, and state context.",
+    "factors_prompt": "List only cautious factors such as candidate profile, alliance arithmetic, state-level swing, turnout movement, or limited demographic coverage.",
+    "demographic_prompt": "Summarise available NFHS-linked indicators and district mapping. If unavailable, state that the profile remains election-only.",
+    "what_to_watch_prompt": "Use forward-looking but non-predictive language about seat stability, swing consolidation, and coverage improvements.",
+    "caveat_prompt": "State that local causal explanations require further source review."
+  }
+}
